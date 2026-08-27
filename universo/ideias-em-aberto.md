@@ -13,7 +13,43 @@
 
 ---
 
-## Propostas de conceito-base do universo (2026-08-27)
+## Decisão registrada (2026-08-27)
+> As 4 propostas abaixo foram descartadas como estavam — feedback do
+> autor: "ficou fraquinho", muito conceitual/tabela, sem imagem
+> concreta. Foram revisadas em duas rodadas seguintes (ver conversa) até
+> chegar no princípio final, hoje canônico em `sistema-de-poderes.md`:
+> **sem catálogo de categorias dentro da história** — cada personagem tem
+> técnica única e nomeada, inspirada num eixo psicológico real
+> (esquizofrenia, depressão, bipolaridade, TDAH, ansiedade), sem nunca
+> "traduzir" isso no texto pro leitor (referência: Expansões de Domínio em
+> *Jujutsu Kaisen*).
+>
+> **Protagonista aprovada:** Íris, técnica "Sala de Espera" (eixo:
+> esquizofrenia) — ficha completa em `personagens.md`. Os outros quatro
+> eixos (depressão "Domingo", bipolaridade "Dois Verões", TDAH "Enxame",
+> ansiedade "Antes de Cair o Copo") ficam reservados para personagens
+> futuros do elenco, ainda não atribuídos a ninguém — ideia registrada
+> aqui para não se perder:
+>
+> - **Depressão — "Domingo":** área ao redor fica mais pesada/lenta/sem
+>   cor; anestesia dor própria e alheia nesse raio; não consegue completar
+>   sozinho(a) a ação decisiva sem um empurrão externo.
+> - **Bipolaridade — "Dois Verões":** oscila entre um pico (dano/
+>   velocidade muito acima do normal, reckless, gasta tudo rápido) e um
+>   vale (quase incapaz de agir); a virada não é controlada por quem
+>   carrega a técnica.
+> - **TDAH — "Enxame":** fragmenta atenção em várias ações simultâneas de
+>   baixa intensidade; hiperfoco dá pico devastador seguido de crash.
+> - **Ansiedade/TAG — "Antes de Cair o Copo":** lampejos de futuro
+>   próximo com ameaça (quase precognição), maioria falso alarme; excesso
+>   de lampejos pode travar a pessoa no pior momento.
+>
+> **Status:** aprovado — Íris e "Sala de Espera" já estão em
+> `personagens.md`, `sistema-de-poderes.md`, `glossario-tematico.md` e
+> `linha-do-tempo.md`. Os outros quatro seguem "não avaliados" até
+> ganharem personagem.
+
+## Propostas de conceito-base do universo (2026-08-27) — histórico, superseded
 > Quatro pacotes fechados de premissa. Cada um combina referências
 > diferentes (ver `/universo/referencias.md`) e serve como alicerce único
 > para depois preencher sistema de poderes, personagens, geografia e

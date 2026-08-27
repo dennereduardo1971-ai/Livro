@@ -17,7 +17,7 @@
 ## Tabela de correspondências
 | Elemento de fantasia | O que representa | Cuidados de retrato |
 |---|---|---|
-| | | |
+| Sala de Espera (técnica de Íris) | Esquizofrenia (percepção de presenças/vozes) | Nunca nomear isso como "loucura" ou usar como sinal de perigo/vilania; as presenças têm ambiguidade real (nem sempre mentem, nem sempre ajudam) e Íris mantém julgamento e agência próprios — ela decide o que fazer com o que ouve, a voz nunca decide por ela (essa é a linha vermelha dela). Evitar o clichê "ouve vozes = assassino em série". |
 
 ## Ideias descartadas (e por quê)
 > Registrar aqui ideias que pareciam boas mas foram vetadas por reduzirem o
