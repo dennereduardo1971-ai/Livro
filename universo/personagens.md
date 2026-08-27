@@ -57,3 +57,68 @@
   momento que importa de verdade — porque a única vez que "deixou a voz
   decidir", quando criança, está diretamente ligada a como o primo
   morreu, e ela nunca teve certeza se a voz ajudou ou condenou ele.
+- **Presenças recorrentes (apelidos dela, não nomes oficiais):** "a
+  Mansa" (calma, consola), "a Rápida" (prática, é quem ela mais consulta
+  a trabalho), "o Frio" (cruel, raramente fala — ligado à memória do
+  primo).
+
+---
+
+## Mara Sobral
+- **Papel na história:** cliente de Íris no Capítulo 1 — contrata a
+  busca pelo filho.
+- **Poder e eixo psicológico:** nenhum poder; personagem sem Sala de
+  Espera nem técnica equivalente.
+- **Arco emocional pretendido:** entra desesperada e contida ao mesmo
+  tempo; não tem arco extenso previsto ainda (personagem de apoio),
+  reavaliar se voltar em capítulos futuros.
+- **Relações-chave:** mãe de Doro Sobral.
+- **Contradições internas que sustentam o personagem:** paga Íris com o
+  dinheiro que devia usar pra negociar com Ferrugem — prioriza o filho
+  vivo sobre a dívida, mesmo sabendo que isso pode piorar a dívida.
+- **Linha vermelha:** nunca desistiria de procurar Doro, mesmo que isso
+  a colocasse em dívida ainda maior com Ferrugem.
+
+## Doro Sobral
+- **Papel na história:** filho de Mara; foragido no Poço, encontrado por
+  Íris no Capítulo 1.
+- **Poder e eixo psicológico:** nenhum poder (ainda) — mas é
+  especificamente vulnerável a desenvolver um, por estar em desespero
+  profundo dentro do Poço (ver regra em `geografia-e-faccoes.md`).
+- **Arco emocional pretendido:** começa disposto a se entregar a
+  Ferrugem como forma de "resolver" a dívida da família (indenturar-se);
+  o encontro com Íris interrompe isso, mas não resolve a dívida em si —
+  gancho pra capítulos futuros.
+- **Relações-chave:** filho de Mara Sobral; devedor de Ferrugem.
+- **Contradições internas que sustentam o personagem:** quer proteger a
+  mãe da dívida dele, mas a forma que escolhe pra "proteger" é desaparecer
+  e se entregar sem avisar — o gesto que devia ser cuidado é, na prática,
+  abandono.
+- **Linha vermelha:** nunca contaria pra mãe o que realmente pretendia
+  fazer no Poço, mesmo depois de resgatado — vergonha maior que alívio.
+
+## Ferrugem
+- **Papel na história:** figura de ameaça sistêmica na Fileira; não
+  aparece pessoalmente no Capítulo 1, só por meio de Junco e da dívida de
+  Doro.
+- **Poder e eixo psicológico:** nenhum poder; ameaça inteiramente humana.
+- **Arco emocional pretendido:** nenhum ainda — personagem-função por
+  enquanto (o sistema que a Fileira não consegue evitar); podemos
+  aprofundar se ele voltar a aparecer diretamente.
+- **Relações-chave:** comanda os Cobradores; Doro lhe deve dinheiro.
+- **Contradições internas que sustentam o personagem:** (a definir se
+  ganhar página própria futuramente).
+- **Linha vermelha:** nunca perdoa uma dívida sem cobrar alguma coisa em
+  troca — é a única regra fixa dele até agora.
+
+## Junco
+- **Papel na história:** cobrador de Ferrugem; encontra Íris no Poço
+  também procurando Doro.
+- **Poder e eixo psicológico:** nenhum poder.
+- **Arco emocional pretendido:** nenhum — personagem de uma cena.
+- **Relações-chave:** trabalha para Ferrugem.
+- **Contradições internas que sustentam o personagem:** age duro mas não
+  quer de fato machucar Doro — só cumprir a tarefa e sair do Poço rápido,
+  porque o lugar o assusta tanto quanto assusta qualquer um.
+- **Linha vermelha:** não entraria fundo no Poço sozinho por dinheiro
+  nenhum — é por isso que ainda não achou Doro antes de Íris.

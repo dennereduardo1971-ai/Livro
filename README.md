@@ -26,11 +26,14 @@ pelo agente de lógica do universo (consistência) e pelo agente revisor
 (qualidade). Ideias soltas ficam em `/universo/ideias-em-aberto.md` até
 serem aprovadas.
 
-## Guia de estilo (preencher/ajustar com o tempo)
-- Ponto de vista: (ex: 3ª pessoa limitada, um POV por capítulo)
-- Tempo verbal: (ex: passado)
-- Nível de explicitação do sistema de magia: (ex: mostrar, não explicar de
-  uma vez — regras reveladas aos poucos pela narrativa)
+## Guia de estilo
+- Ponto de vista: 3ª pessoa limitada, um POV por capítulo (Livro 1 é o
+  POV de Íris, salvo indicação em contrário).
+- Tempo verbal: passado.
+- Nível de explicitação do sistema de magia: mostrar, nunca explicar —
+  nenhuma frase do tipo "seu poder representava X"; o eco psicológico
+  tem que ser sentido pela cena, não traduzido pro leitor (ver regra de
+  ouro em `universo/sistema-de-poderes.md`).
 - Como tratar o tema de saúde mental: nunca como metáfora fácil ou "vilão é
   louco" — sempre com camada de interioridade real, evitando romantização
   ou estigmatização.
