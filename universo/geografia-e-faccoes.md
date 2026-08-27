@@ -65,3 +65,7 @@
 - **Postura em relação aos protagonistas:** neutra-hostil — não têm
   motivo pra perseguir Íris especificamente, mas não hesitam em
   atrapalhar quem interfere numa cobrança em andamento.
+- **Marca de cobrança:** os Cobradores riscam um X baixo, perto do chão,
+  nas portas das casas que já visitaram e pretendem visitar de novo — um
+  sinal silencioso que qualquer morador da Fileira reconhece e teme,
+  mesmo sem nunca ser mencionado em voz alta.
