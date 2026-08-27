@@ -195,11 +195,11 @@ beira que pode ou não aguentar o próprio peso.
 
 — Se eu ficar aqui o bastante, ela some — Caio estava dizendo, pra
 ninguém, pra tudo. — É só isso que preciso fazer. Ficar até a dívida
-somar de vez, e sumir com ela.
+quitar de vez, e sumir com ela.
 
-*Ele acha que a dívida é dele que vai desaparecer*, disse a Rápida, e
+*Ele acha que a dívida dele que vai desaparecer*, disse a Rápida, e
 pela primeira vez naquela manhã sua voz tremia também. *Não é a dívida
-que soma aqui embaixo.*
+que "quita" aqui embaixo.*
 
 Íris deu mais um passo, e alguma coisa no fundo da sala de espera cheia —
 fria, antiga, com o peso específico de vinte anos de gente que tinha
