@@ -56,7 +56,7 @@ cada um vira personagem e técnica específicos, não uma "classe".
 ## Catálogo de poderes
 | Nome | Personagem/facção | Eixo psicológico (uso interno) | Mecânica resumida | Status |
 |---|---|---|---|---|
-| Sala de Espera | Íris | Esquizofrenia | Percebe presenças extras num raio ao redor; pode "consultar" ou, no limite, deixar uma agir fisicamente por um instante — nem sempre dizem a verdade | aprovado |
+| Sala de Espera | Íris | Esquizofrenia | Percebe presenças extras num raio ao redor; pode "consultar" ou, no limite, deixar uma agir fisicamente por um instante — nem sempre dizem a verdade. Sob pressão/estresse (ex: uso profissional da técnica, ameaça real), o número de presenças presentes ao mesmo tempo pode aumentar muito acima do normal ("sala de espera cheia") — isso é custo, não vantagem: mais vozes disputando espaço tornam mais difícil (não impossível) discernir qual consultar, e o esforço de filtrar é fisicamente/mentalmente exaustivo para Íris. Mesmo sobrecarregada, ela continua escolhendo a quem ouvir — nunca perde a decisão para a presença (ver linha vermelha em `personagens.md`) | aprovado |
 
 ## Ideias em aberto (não canônicas)
 > O agente de ideias escreve aqui. O agente de lógica do universo só move

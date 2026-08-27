@@ -149,6 +149,35 @@ internalizado a "gramática" da Sala de Espera através da ação.
 
 - **Status:** não avaliada
 
+## Validação da estrutura de abertura do Capítulo 1 (2026-08-27)
+> Ideia avaliada pelo agente de lógica do universo: capítulo 1 abre com
+> "o trabalho" (direção 2 acima) seguido de uma cena de "sala de espera
+> cheia" — versão sobrecarregada/mais caótica da técnica, com mais
+> presenças ativas ao mesmo tempo do que o padrão visto até agora. Resto
+> do capítulo em aberto.
+>
+> **Resultado: Aprovado com ajustes** (já incorporados em
+> `sistema-de-poderes.md`, `personagens.md` e `linha-do-tempo.md`):
+> 1. A sobrecarga foi documentada explicitamente como **custo**, não
+>    vantagem — mais vozes competindo dificulta o discernimento e gera
+>    exaustão física/mental, nunca "mais poder de graça" (exigido por
+>    `sistema-de-poderes.md`: "todo poder tem que doer de algum jeito").
+> 2. Mesmo sob sobrecarga, Íris continua escolhendo a quem ouvir — a
+>    cena não pode retratá-la sendo "tomada" pelas vozes, sob risco de
+>    violar a linha vermelha dela (`personagens.md`) e o princípio do
+>    glossário de manter agência e evitar o clichê "ouve vozes = perigo/
+>    descontrole" (`glossario-tematico.md`).
+> 3. "O trabalho" (ofício de Íris ligado à técnica) e qualquer
+>    contratante/cliente que apareça na cena ainda não têm ficha —
+>    aceitável para rascunho, mas qualquer personagem novo nomeado no
+>    capítulo precisa ganhar ficha mínima em `personagens.md` antes do
+>    capítulo ser fechado como canônico.
+> 4. Sem contradição com origem, geografia ou linha do tempo — nenhum
+>    evento anterior é violado; evento adicionado como entrada
+>    preliminar em `linha-do-tempo.md`.
+>
+> **Status:** aprovada com ajustes
+
 ## Decisão registrada (2026-08-27)
 > As 4 propostas abaixo foram descartadas como estavam — feedback do
 > autor: "ficou fraquinho", muito conceitual/tabela, sem imagem

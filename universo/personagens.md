@@ -43,6 +43,16 @@
   depende das presenças em combate, mais tática ela ganha — e mais se
   afasta de gente de verdade; ela quer companhia, mas a forma de poder
   que tem é, ela mesma, o que a isola.
+- **Uso profissional da técnica ("o trabalho"):** Íris usa a Sala de
+  Espera de forma prática (rastrear, proteger, negociar informação —
+  detalhe exato do ofício e de eventual contratante a definir quando o
+  capítulo for escrito). Sob pressão de tempo/ameaça real, o número de
+  presenças ativas ao mesmo tempo pode disparar bem acima do normal —
+  "sala de espera cheia" — o que não é um poder novo nem um "up", é
+  sobrecarga: mais vozes competindo torna mais difícil (nunca impossível)
+  saber em qual confiar, e custa exaustão física/mental real. Mesmo
+  sobrecarregada, a escolha de a quem ouvir continua sendo dela — ver
+  linha vermelha abaixo.
 - **Linha vermelha:** nunca deixar uma presença decidir por ela num
   momento que importa de verdade — porque a única vez que "deixou a voz
   decidir", quando criança, está diretamente ligada a como o primo
