@@ -22,20 +22,20 @@ mantida no clímax).
    conceitual — risco de didatismo. **Resolvido** — substituídos por
    beats físicos (mãos tremendo, unha cravada no polegar) em vez de
    pensamento articulado.
-3. Sistema de poderes: custo físico da sobrecarga aparecia em Doro mas
+3. Sistema de poderes: custo físico da sobrecarga aparecia em Caio mas
    quase ausente em Íris. **Resolvido** — adicionado o tremor nas mãos
    como custo concreto e persistente ("levou mais dois quarteirões pra
    passar").
-4. Consistência: divergência entre `personagens.md` ("Doro disposto a se
-   entregar a Ferrugem/indenturar-se") e `linha-do-tempo.md` ("Doro à
+4. Consistência: divergência entre `personagens.md` ("Caio disposto a se
+   entregar a Ferrugem/indenturar-se") e `linha-do-tempo.md` ("Caio à
    beira de deixar a dívida consumir ele"). **Resolvido** — `personagens.md`
    alinhado à versão que o capítulo de fato usa (autoapagamento no Poço,
    não entrega física a Ferrugem).
 5. Glossário: tema de desespero/autoapagamento ligado ao Poço e à dívida
-   de Doro não tinha entrada de cuidados de retrato. **Resolvido** —
+   de Caio não tinha entrada de cuidados de retrato. **Resolvido** —
    adicionada entrada em `glossario-tematico.md` vetando romantização do
-   "desaparecer" e exigindo que Doro mantenha agência mesmo no momento de
+   "desaparecer" e exigindo que Caio mantenha agência mesmo no momento de
    menor resistência.
 
-**Voz dos personagens:** Íris, Junco e Doro consistentes com as fichas;
+**Voz dos personagens:** Íris, Junco e Caio consistentes com as fichas;
 Mara aparece só em flashback, compatível mas com pouco material.

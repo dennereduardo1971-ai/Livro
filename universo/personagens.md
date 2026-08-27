@@ -72,14 +72,14 @@
 - **Arco emocional pretendido:** entra desesperada e contida ao mesmo
   tempo; não tem arco extenso previsto ainda (personagem de apoio),
   reavaliar se voltar em capítulos futuros.
-- **Relações-chave:** mãe de Doro Sobral.
+- **Relações-chave:** mãe de Caio Sobral.
 - **Contradições internas que sustentam o personagem:** paga Íris com o
   dinheiro que devia usar pra negociar com Ferrugem — prioriza o filho
   vivo sobre a dívida, mesmo sabendo que isso pode piorar a dívida.
-- **Linha vermelha:** nunca desistiria de procurar Doro, mesmo que isso
+- **Linha vermelha:** nunca desistiria de procurar Caio, mesmo que isso
   a colocasse em dívida ainda maior com Ferrugem.
 
-## Doro Sobral
+## Caio Sobral
 - **Papel na história:** filho de Mara; foragido no Poço, encontrado por
   Íris no Capítulo 1.
 - **Poder e eixo psicológico:** nenhum poder (ainda) — mas é
@@ -101,12 +101,12 @@
 ## Ferrugem
 - **Papel na história:** figura de ameaça sistêmica na Fileira; não
   aparece pessoalmente no Capítulo 1, só por meio de Junco e da dívida de
-  Doro.
+  Caio.
 - **Poder e eixo psicológico:** nenhum poder; ameaça inteiramente humana.
 - **Arco emocional pretendido:** nenhum ainda — personagem-função por
   enquanto (o sistema que a Fileira não consegue evitar); podemos
   aprofundar se ele voltar a aparecer diretamente.
-- **Relações-chave:** comanda os Cobradores; Doro lhe deve dinheiro.
+- **Relações-chave:** comanda os Cobradores; Caio lhe deve dinheiro.
 - **Contradições internas que sustentam o personagem:** (a definir se
   ganhar página própria futuramente).
 - **Linha vermelha:** nunca perdoa uma dívida sem cobrar alguma coisa em
@@ -114,12 +114,12 @@
 
 ## Junco
 - **Papel na história:** cobrador de Ferrugem; encontra Íris no Poço
-  também procurando Doro.
+  também procurando Caio.
 - **Poder e eixo psicológico:** nenhum poder.
 - **Arco emocional pretendido:** nenhum — personagem de uma cena.
 - **Relações-chave:** trabalha para Ferrugem.
 - **Contradições internas que sustentam o personagem:** age duro mas não
-  quer de fato machucar Doro — só cumprir a tarefa e sair do Poço rápido,
+  quer de fato machucar Caio — só cumprir a tarefa e sair do Poço rápido,
   porque o lugar o assusta tanto quanto assusta qualquer um.
 - **Linha vermelha:** não entraria fundo no Poço sozinho por dinheiro
-  nenhum — é por isso que ainda não achou Doro antes de Íris.
+  nenhum — é por isso que ainda não achou Caio antes de Íris.
