@@ -18,6 +18,7 @@
 | Elemento de fantasia | O que representa | Cuidados de retrato |
 |---|---|---|
 | Sala de Espera (técnica de Íris) | Esquizofrenia (percepção de presenças/vozes) | Nunca nomear isso como "loucura" ou usar como sinal de perigo/vilania; as presenças têm ambiguidade real (nem sempre mentem, nem sempre ajudam) e Íris mantém julgamento e agência próprios — ela decide o que fazer com o que ouve, a voz nunca decide por ela (essa é a linha vermelha dela). Evitar o clichê "ouve vozes = assassino em série". |
+| O Poço / a dívida de Doro | Desespero movido por dívida e escassez, com risco de autoapagamento (ideação suicida sem nomear o termo clinicamente) | Nunca tratar o "desaparecer" de Doro como alívio poético ou solução elegante — o texto precisa deixar claro que é uma armadilha, não uma saída digna. Doro mantém agência mesmo no momento de menor resistência (é ele quem decide se levantar, não Íris que o arrasta); a voz antiga que sugere "deixa ele, ele escolheu" tem que soar como manipulação/tentação, nunca como sabedoria neutra do universo. Evitar romantizar o Poço como lugar "bonito na tristeza". |
 
 ## Ideias descartadas (e por quê)
 > Registrar aqui ideias que pareciam boas mas foram vetadas por reduzirem o

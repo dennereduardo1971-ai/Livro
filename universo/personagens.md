@@ -85,10 +85,11 @@
 - **Poder e eixo psicológico:** nenhum poder (ainda) — mas é
   especificamente vulnerável a desenvolver um, por estar em desespero
   profundo dentro do Poço (ver regra em `geografia-e-faccoes.md`).
-- **Arco emocional pretendido:** começa disposto a se entregar a
-  Ferrugem como forma de "resolver" a dívida da família (indenturar-se);
-  o encontro com Íris interrompe isso, mas não resolve a dívida em si —
-  gancho pra capítulos futuros.
+- **Arco emocional pretendido:** começa no Poço disposto a deixar a
+  densidade psíquica do lugar "consumir" ele — não uma entrega física a
+  Ferrugem, e sim uma forma de desaparecer, convencido de que se
+  apagando resolve a dívida da família; o encontro com Íris interrompe
+  isso, mas não resolve a dívida em si — gancho pra capítulos futuros.
 - **Relações-chave:** filho de Mara Sobral; devedor de Ferrugem.
 - **Contradições internas que sustentam o personagem:** quer proteger a
   mãe da dívida dele, mas a forma que escolhe pra "proteger" é desaparecer

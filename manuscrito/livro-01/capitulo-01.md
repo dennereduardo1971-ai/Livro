@@ -50,8 +50,8 @@ prestar atenção.
 
 O beco descia. As casas de penhor davam lugar a barracos de madeira podre
 e depois a nada — só as fundações de um prédio que ninguém tinha coragem
-de reconstruir, cercadas por um mato ralo que crescia torto, como se
-soubesse de algo que as pessoas fingiam não saber.
+de reconstruir, cercadas por um mato ralo que crescia torto, do jeito de
+quem sabe de algo que os outros fingem não saber.
 
 *É aqui*, disse a Rápida, e pela primeira vez naquela manhã havia alguma
 coisa na voz dela que não era pressa. Era cautela.
@@ -76,14 +76,14 @@ a outro tão depressa que Íris não conseguia mais separar o que era a
 Mansa do que era estranho, do que talvez nunca tivesse sido dela pra
 começar. Alguma coisa dizia *desça*, e alguma coisa dizia *volte*, e mais
 uma coisa, mais funda que as outras, só repetia um número — uma dívida,
-talvez, ou uma contagem de dias, ela não conseguia saber, e essa era
-exatamente a sensação que a apavorava mais que qualquer ameaça física:
-não *quantas* vozes, mas a possibilidade concreta de que, no meio de
-tantas, uma decidisse por ela sem que ela percebesse a hora exata em que
-isso tinha acontecido.
+talvez, ou uma contagem de dias, ela não conseguia saber. O que apavorava
+não era a quantidade. Era não conseguir apontar o instante exato em que
+uma delas passaria a falar por ela, em vez de com ela.
 
-*Não é a mesma coisa de sempre*, ela pensou, com o pouco de si que ainda
-pensava em frases inteiras. *Filtra. Escolhe. Você sempre escolhe.*
+As mãos começaram a tremer antes que ela percebesse — um tremor fino,
+igual ao de quem carrega peso demais por tempo demais e ainda não soltou
+nada no chão. Íris cravou a unha no polegar, uma vez, com força. Continuou
+descendo.
 
 Encontrou Junco antes de encontrar Doro — um homem largo, parado a meio
 caminho da escada, com uma tocha que tremia mais do que o vento explicava.
@@ -118,10 +118,11 @@ tentado exatamente aquilo antes de Doro — sussurrou pra ela uma sugestão
 tão razoável que por um segundo Íris quase obedeceu sem perceber que era
 sugestão: *deixa ele. Ele escolheu. Não é sua linha vermelha, é a dele.*
 
-Não era a voz do Frio. Era mais velha que o Frio. E soube, com uma clareza
-que doeu mais que a exaustão nos ombros, que se ficasse mais um minuto
-ali sem responder, a linha entre escutar e obedecer ia deixar de existir
-do jeito que ela sempre soube que podia deixar.
+Não era a voz do Frio. Era mais velha que o Frio. Íris sentiu o próprio
+queixo balançar que nem sim antes de decidir alguma coisa — e foi esse
+gesto pequeno, ainda não terminado, que a fez parar. Fechou a mão com
+mais força. A dor no polegar era real, era dela, e era a única coisa
+naquele porão que não tinha voz nenhuma.
 
 — Doro — ela disse, em voz alta, pela primeira vez desde que descera. —
 Sua mãe pagou pra eu te achar. Não pra te deixar aqui decidindo por conta
@@ -135,15 +136,16 @@ Ele virou. O rosto era o do retrato amassado, só que mais cinza.
 mais do que precisava. — Levanta.
 
 Não foi uma ordem que veio de fora dela decidindo por ele. Foi só uma
-mão. Doro olhou pra ela, depois pro escuro ao redor, como se pedisse
-licença pra alguma coisa que só ele ouvia, e então — devagar, os joelhos
-travados de ficar tempo demais na mesma posição — se levantou.
+mão. Doro olhou pra ela, depois pro escuro ao redor — pediu licença, sem
+palavras, pra alguma coisa que só ele ouvia — e então, devagar, os joelhos
+travados de ficar tempo demais na mesma posição, se levantou.
 
-A sala de espera não esvaziou no caminho de volta pra escada. Íris sentiu
-isso com a nitidez de quem sente um convidado que entrou pela porta e
-decidiu não ir embora quando a festa acabou: algumas das vozes de baixo
-subiram junto com ela, mais quietas que antes, mas presentes de um jeito
-novo, um jeito que ela ainda não tinha vocabulário pra nomear.
+A sala de espera não esvaziou no caminho de volta pra escada. Algumas das
+vozes de baixo subiram junto com Íris, como quem fica sentado na sala
+muito depois do horário de atendimento ter fechado — mais quietas que
+antes, mas presentes de um jeito novo, um jeito que ela ainda não tinha
+vocabulário pra nomear. O tremor nas mãos levou mais dois quarteirões pra
+passar de vez.
 
 Lá fora, Junco já tinha ido embora. O sol da manhã parecia ofensivamente
 comum depois do Poço — gente na fila da casa de penhores, o cheiro de
