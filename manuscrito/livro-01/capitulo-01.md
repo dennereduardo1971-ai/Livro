@@ -32,7 +32,7 @@ suficiente pra que a dívida tivesse deixado de ser sobre dinheiro e
 passado a ser sobre prazo, que era a moeda que interessava de verdade
 pros cobradores dele.
 
-— Ele não é ruim — Mara disse, como se alguém tivesse perguntado. — Só
+— Ele não é ruim — Mara disse, sem que ninguém tivesse perguntado. — Só
 fez besteira por mim.
 
 Íris não perguntou que besteira. Não era da conta dela; da conta dela era
@@ -54,18 +54,18 @@ visto por gente que ainda falava com os vivos.
 informar. *Silêncio não quer dizer o pior.*
 
 Íris não respondeu a essa. Guardava respostas pra quando precisava mesmo,
-e o corpo dela — quinze anos de prática — sabia caminhar reto enquanto
-ouvia três conversas de uma vez sem que o rosto traísse nada. Era o
-trabalho: rastrear gente que a cidade preferia esquecer, usando a única
+e o corpo dela, de tanta prática, sabia caminhar reto enquanto ouvia três
+conversas de uma vez sem que o rosto traísse nada. Era o trabalho:
+rastrear gente que a cidade preferia esquecer, usando a única
 vantagem que tinha, que era nunca estar sozinha o bastante pra deixar de
 prestar atenção.
 
-Entrou no beco. Numa das portas, baixo, quase à altura do joelho, alguém
-tinha riscado um X que já ia embranquecendo com o tempo — a marca que os
-homens de Ferrugem deixavam nas casas que já tinham visitado e ainda
-esperavam voltar. Íris contou três só naquele trecho de rua, e em nenhuma
-delas havia sinal de vida lá dentro àquela hora da manhã, só o silêncio
-espesso de quem prendeu a respiração até o barulho de passos passar.
+Entrou no beco. Numa das portas, rente ao chão, alguém tinha riscado um X
+que já ia embranquecendo com o tempo. Íris conhecia o desenho de cor —
+atravessou a rua sem precisar pensar, e contou mais dois iguais antes do
+fim do quarteirão. Em nenhuma das casas marcadas havia sinal de vida
+àquela hora da manhã, só o silêncio espesso de quem prendeu a respiração
+até o barulho de passos passar.
 
 O beco descia. As casas de penhor davam lugar a barracos de madeira podre
 e depois a nada — só as fundações de um prédio que ninguém tinha coragem
@@ -110,10 +110,10 @@ não conseguia saber. Por um instante que durou menos que um piscar de
 olhos e mais que uma vida inteira, foi como estar em pé no meio de uma
 multidão gritando o próprio nome dela ao mesmo tempo, cada um exigindo
 ser ouvido primeiro, cada um convencido de que sua urgência era a única
-urgência real. O que apavorava não era a quantidade. Era não conseguir
+urgência real. O que apavorava não era a quantidade — era não conseguir
 apontar o instante exato em que uma delas passaria a falar por ela, em
-vez de com ela — porque esse instante, ela sabia com o corpo todo, não
-vinha com aviso. Vinha como um degrau igual aos outros, até o pé
+vez de com ela. O corpo todo se retesou, esperando por esse instante sem
+saber de onde ele viria; vinha como um degrau igual aos outros, até o pé
 descobrir que não era.
 
 Não tinha tempo pra ficar parada sentindo isso. Cada segundo ali era um
@@ -139,8 +139,8 @@ velha demais pra pertencer a alguém que ainda respirava.
 As mãos começaram a tremer antes que ela percebesse: um tremor fino,
 igual ao de quem carrega peso demais por tempo demais e ainda não soltou
 nada no chão. Os ombros doíam de um jeito sem relação nenhuma com esforço
-físico, uma dor funda, quase óssea, como se cada voz nova empilhasse mais
-uma pedra em cima da anterior sem escolher onde cair. Precisando sentir
+físico, uma dor funda, quase óssea: cada voz nova empilhava mais uma
+pedra em cima da anterior, sem escolher onde cair. Precisando sentir
 alguma coisa que fosse só dela, Íris cravou a unha no polegar, uma vez,
 com força, e o pequeno choque atravessou o antebraço até o cotovelo,
 ofuscando por um instante o coro. Continuou descendo. A escada rangeu sob
@@ -150,7 +150,7 @@ meio de tudo que não era.
 Encontrou Junco antes de encontrar Caio: um homem largo, parado a meio
 caminho da escada, segurando com as duas mãos uma tocha que tremia mais
 do que o vento explicava. O círculo de luz ao redor dele era menor do que
-qualquer tocha deveria fazer, como se o próprio ar ali embaixo comesse um
+qualquer tocha deveria fazer — o próprio ar ali embaixo parecia comer um
 pouco da claridade antes que ela chegasse ao chão. Suava pelo pescoço
 mesmo no frio, e os olhos, quando encontraram os de Íris, tinham o brilho
 de quem calcula, minuto a minuto, quanto tempo ainda consegue aguentar
@@ -178,9 +178,8 @@ quebrada. Íris entendeu, com um arrepio que começou na nuca e desceu pela
 espinha inteira, que nem todas aquelas vozes tinham vindo por causa dela.
 Algumas já estavam ali; ela só tinha aberto a porta que as deixava mais
 altas. E se Caio estava perto, o tempo que ela tinha pra alcançá-lo antes
-que alguma coisa decidisse por ele já estava se esgotando — sentiu isso
-como uma urgência nova apertando o peito, distinta de tudo o mais que
-sentia ali.
+que alguma coisa decidisse por ele já estava se esgotando — sentiu uma
+urgência nova apertar o peito, distinta de tudo o mais que sentia ali.
 
 Lá embaixo, entre mesas de escritório viradas e papéis que tinham parado
 de ser papéis fazia muito tempo, Caio estava sentado de costas pra
@@ -229,8 +228,8 @@ um número.
 
 Ele virou. O rosto era o do retrato amassado, só que mais cinza, os olhos
 fundos de quem não dormia havia dias e não comia direito havia mais tempo
-ainda, e por um instante olhou pra Íris como quem encara uma interrupção
-indevida de um processo que já tinha começado.
+ainda, e por um instante pareceu não reconhecer nela uma pessoa — só a
+interrupção de um processo que já tinha começado.
 
 — Você não entende o tanto que ela já deu.
 
@@ -242,7 +241,7 @@ Não foi uma ordem que veio de fora dela decidindo por ele. Foi só uma
 mão. Caio olhou pra ela, depois pro escuro ao redor, pediu licença sem
 palavras pra alguma coisa que só ele ouvia, e então, devagar, os joelhos
 travados de ficar tempo demais na mesma posição, se levantou — um corpo
-lembrando devagar como se faz uma coisa tão simples quanto ficar de pé.
+relembrando, devagar, como ficar de pé podia doer.
 Íris sentiu, sem saber dizer se era dela ou se tinha vindo de fora, um
 alívio tão grande que quase doeu mais que o medo de antes.
 
@@ -252,8 +251,8 @@ presentes de um jeito novo, um jeito que ainda não tinha vocabulário pra
 nomear — como quem fica sentado na sala muito depois do horário de
 atendimento ter fechado. Cada degrau subido pesava menos que o anterior,
 não porque o coro sumisse, mas porque o ar ia ficando mais leve, mais
-próximo do dia lá fora, e o corpo dela foi voltando a ser um corpo só,
-devagar, como um músculo que solta depois de segurar tensão tempo demais.
+próximo do dia lá fora, e o corpo dela foi relaxando aos poucos, o
+músculo enfim soltando a tensão que vinha segurando fazia tempo demais.
 O tremor nas mãos levou mais dois quarteirões pra passar de vez, e deixou
 pra trás uma fraqueza fina nos dedos que ela sabia, por experiência, que
 ia voltar naquela mesma noite em forma de sono pesado demais.

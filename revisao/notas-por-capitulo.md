@@ -78,3 +78,41 @@ numa rodada anterior.
 **Voz dos personagens:** aprovada, sem divergências da ficha. Destaque
 para a Rápida tremendo pela primeira vez — mostra que nem toda presença
 "confiável" de Íris é imune à densidade do Poço.
+
+## Capítulo 1 — reescrita completa da prosa + desenvolvimento de Ferrugem (Livro 1)
+**Data da revisão:** 2026-08-27
+
+**Contexto:** autor apontou dois problemas: (1) Ferrugem citado na Parte I
+sem nada que mostrasse concretamente sua natureza de cobrador; (2) prosa
+"robotizada", com frases soltas/fragmentadas e redundância. Capítulo
+reescrito por completo; nova entrada "Marca de cobrança" adicionada a
+`geografia-e-faccoes.md`.
+
+**Resumo:** Os dois problemas foram resolvidos. Ferrugem ganha
+concretude via dois detalhes (o jeito de Mara contar moedas, a marca em X
+nas portas de devedores) sem nomear "agiota". A prosa da Parte I ficou
+bem mais conectada (uso de "e"/"porque"/ponto e vírgula em vez de
+fragmentos soltos).
+
+**Pontos de atenção e resolução:**
+1. A altura da marca no texto ("quase à altura do joelho") divergia
+   ligeiramente de "baixo, perto do chão" na bíblia. **Resolvido** —
+   texto ajustado pra "rente ao chão".
+2. A frase que explicava o significado do X ("a marca que os homens de
+   Ferrugem deixavam...") era o trecho mais próximo de "explicar" no
+   capítulo. **Resolvido** — reescrita pra emergir do reconhecimento
+   prático de Íris ("Íris conhecia o desenho de cor"), sem cláusula
+   definidora.
+3. O tique de comparação ("como se/como quem/do jeito que") tinha voltado
+   a crescer na Parte II (16 ocorrências). **Resolvido** — cortadas 7,
+   mantendo as mais fortes/temáticas (o degrau que engana o pé, a queda
+   de guarda na tentação da voz antiga, a "sala de espera" como callback
+   do título).
+4. Trecho sobre "não conseguir apontar o instante exato" ainda soava
+   levemente conceitual. **Resolvido** — ancorado num gesto físico
+   simultâneo (o corpo se retesando) em vez de reflexão isolada.
+5. "Quinze anos de prática" fixava uma idade implícita pra Íris não
+   registrada em nenhum outro documento. **Resolvido** — trecho
+   generalizado ("de tanta prática"), sem fixar número.
+
+**Voz dos personagens:** sem divergências novas da ficha.
