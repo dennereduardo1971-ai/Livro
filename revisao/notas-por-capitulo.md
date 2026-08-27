@@ -39,3 +39,42 @@ mantida no clímax).
 
 **Voz dos personagens:** Íris, Junco e Caio consistentes com as fichas;
 Mara aparece só em flashback, compatível mas com pouco material.
+
+## Capítulo 1 — revisão da Parte II reescrita, "Sala de Espera Cheia" (Livro 1)
+**Data da revisão:** 2026-08-27
+
+**Contexto:** Parte II reescrita, muito mais longa/sensorial a pedido do
+autor; personagem Doro renomeado para Caio (checado — nenhum resíduo do
+nome antigo no repositório).
+
+**Resumo:** A reescrita aprofunda bem a cena de maior peso temático do
+capítulo (agência de Íris no momento de maior sobrecarga), mas reintroduz,
+de forma mais explícita que antes, o problema de didatismo já corrigido
+numa rodada anterior.
+
+**Pontos de atenção e resolução:**
+1. Prosa: tique estrutural — 21 ocorrências de "como se/como quem/do jeito
+   que/o tipo de" concentradas na Parte II, criando cadência previsível.
+   **Resolvido** — cortada/reescrita cerca de metade das ocorrências,
+   trocando comparação por afirmação direta em vários pontos.
+2. Prosa: desproporção entre a urgência estabelecida na Parte I e ~50
+   linhas de interioridade antes de Íris encontrar Junco. **Resolvido** —
+   adicionados dois lembretes físicos de urgência durante a descida.
+3. Tema/sistema: a entidade dizia literalmente "Não é sua linha vermelha,
+   é a dele" (l.189), citando o termo de bastidor de `personagens.md` —
+   quebra direta da regra de ouro do README. **Resolvido** — reescrita
+   sem o rótulo ("Essa decisão não é sua pra carregar").
+4. Tema (menor): "a dor no polegar era... a única coisa... que não tinha
+   voz nenhuma" verbalizava a função da dor como âncora de forma
+   explicativa. **Resolvido** — cláusula cortada, mantendo só o gesto.
+5. Prosa (apontado à parte): ambiguidade de sujeito em "some... Ficar até
+   somar" na fala de Caio. **Resolvido** — reescrita explicitando que é a
+   dívida que "some" e ele pretende sumir junto.
+6. Consistência: positiva — regra de sobrecarga bate com
+   `sistema-de-poderes.md` e `geografia-e-faccoes.md`; gancho final
+   (voz que "parece estar ali pra ficar") paga a consequência em aberto
+   de `linha-do-tempo.md`. Nenhuma contradição factual encontrada.
+
+**Voz dos personagens:** aprovada, sem divergências da ficha. Destaque
+para a Rápida tremendo pela primeira vez — mostra que nem toda presença
+"confiável" de Íris é imune à densidade do Poço.

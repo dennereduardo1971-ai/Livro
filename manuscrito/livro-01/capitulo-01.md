@@ -80,23 +80,27 @@ que ainda não tinha decidido falar.
 
 Ela deu o primeiro passo escada abaixo e a Sala de Espera lotou.
 
-Não foi como abrir uma porta. Foi mais como se a porta nunca tivesse
-existido pra começar, e o que a separava daquilo cedesse de uma vez,
-inteiro. Não foram duas vozes, nem três. Foram dúzias — um murmúrio se
-sobrepondo a outro tão depressa que Íris não conseguia mais separar o que
-era a Mansa do que era estranho, do que talvez nunca tivesse sido dela pra
-começar. Alguma coisa dizia *desça*, e alguma coisa dizia *volte*, e mais
-uma coisa, mais funda que as outras, só repetia um número — uma dívida,
-talvez, ou uma contagem de dias, ela não conseguia saber. Sentiu, por um
-instante que durou menos que um piscar de olhos e mais que uma vida
-inteira, o que devia ser estar em pé no meio de uma multidão de gente
-gritando o próprio nome dela ao mesmo tempo, cada um exigindo ser ouvido
-primeiro, cada um convencido de que sua urgência era a única urgência
-real. O que apavorava não era a quantidade. Era não conseguir apontar o
-instante exato em que uma delas passaria a falar por ela, em vez de com
-ela — porque ela sabia, com o corpo todo sabia, que esse instante não vinha
-com aviso. Vinha como um degrau que parecia igual aos outros até o pé
-descobrir que não era.
+Não foi como abrir uma porta. A porta simplesmente não existia mais, e o
+que a separava daquilo cedeu de uma vez, inteiro. Não foram duas vozes,
+nem três. Foram dúzias — um murmúrio se sobrepondo a outro tão depressa
+que Íris não conseguia mais separar o que era a Mansa do que era
+estranho, do que talvez nunca tivesse sido dela pra começar. Alguma coisa
+dizia *desça*, e alguma coisa dizia *volte*, e mais uma coisa, mais funda
+que as outras, só repetia um número — uma dívida, talvez, ou uma
+contagem de dias, ela não conseguia saber. Sentiu, por um instante que
+durou menos que um piscar de olhos e mais que uma vida inteira, o que
+devia ser estar em pé no meio de uma multidão de gente gritando o próprio
+nome dela ao mesmo tempo, cada um exigindo ser ouvido primeiro, cada um
+convencido de que sua urgência era a única urgência real. O que apavorava
+não era a quantidade. Era não conseguir apontar o instante exato em que
+uma delas passaria a falar por ela, em vez de com ela — porque ela sabia,
+com o corpo todo sabia, que esse instante não vinha com aviso. Vinha como
+um degrau que parecia igual aos outros até o pé descobrir que não era.
+
+Não tinha tempo pra ficar parada sentindo isso. Cada segundo ali era um
+segundo que Caio continuava sozinho lá embaixo, cercado por coisas que
+ela ainda não sabia nomear. Íris obrigou o próprio pé a descer mais um
+degrau.
 
 O segundo degrau foi pior que o primeiro. O terceiro, pior que o segundo.
 Íris contava os passos porque contar era uma coisa que fazia sozinha —
@@ -106,39 +110,36 @@ isso, um fio fino de si mesma atravessando o barulho, uma corda que podia
 segurar com as duas mãos enquanto tudo ao redor virava água. Onze. Doze.
 O ar mudava de temperatura conforme descia, mais frio do que o dia lá fora
 explicava, um frio que não vinha de lugar nenhum e por isso mesmo entrava
-mais fundo, atravessando o tecido fino da blusa como se ela estivesse
-descendo pelada. Um cheiro de terra molhada e metal velho subiu ao encontro
-dela, e junto dele — só por um segundo, rápido demais pra confirmar —
-alguma coisa que lembrava grãos armazenados, poeira dourada boiando num
-raio de luz que não existia mais. Treze. Ela empurrou essa lembrança pra
-trás dos dentes antes que pudesse virar outra coisa. Alguma coisa, bem no
-fundo do coro, riu — não uma risada cruel, nem gentil, só uma risada que
-soava velha demais pra pertencer a alguém que ainda respirava, o tipo de
-risada que um corpo faz quando esqueceu há muito tempo o motivo de rir.
+mais fundo, atravessando o tecido fino da blusa direto até a pele. Um
+cheiro de terra molhada e metal velho subiu ao encontro dela, e junto dele
+— só por um segundo, rápido demais pra confirmar — alguma coisa que
+lembrava grãos armazenados, poeira dourada boiando num raio de luz que
+não existia mais. Treze. Ela empurrou essa lembrança pra trás dos dentes
+antes que pudesse virar outra coisa. Alguma coisa, bem no fundo do coro,
+riu — não uma risada cruel, nem gentil, só uma risada velha demais pra
+pertencer a alguém que ainda respirava.
 
 As mãos começaram a tremer antes que ela percebesse — um tremor fino,
 igual ao de quem carrega peso demais por tempo demais e ainda não soltou
 nada no chão. Os ombros doíam de um jeito que não tinha relação nenhuma
-com esforço físico, uma dor funda, quase óssea, como se cada voz nova
-pesasse fisicamente sobre ela, uma pedra colocada às cegas em cima da
-anterior. Íris cravou a unha no polegar, uma vez, com força — precisava
-sentir alguma coisa que fosse só dela, só dor comum, só corpo — e o
-pequeno choque atravessou o antebraço até o cotovelo, ofuscando por um
-instante o coro. Continuou descendo. A escada rangeu sob o peso dela do
-jeito que madeira velha range, um som comum, quase reconfortante por ser
-tão comum, no meio de tudo que não era.
+com esforço físico, uma dor funda, quase óssea: cada voz nova parecia
+empilhar mais uma pedra em cima da anterior, sem escolher onde cair.
+Íris cravou a unha no polegar, uma vez, com força — precisava sentir
+alguma coisa que fosse só dela, só dor comum, só corpo — e o pequeno
+choque atravessou o antebraço até o cotovelo, ofuscando por um instante o
+coro. Continuou descendo. A escada rangeu sob o peso dela — um som
+comum, quase reconfortante por ser tão comum, no meio de tudo que não
+era.
 
 Encontrou Junco antes de encontrar Caio — um homem largo, parado a meio
 caminho da escada, com uma tocha que tremia mais do que o vento explicava.
-Ele segurava a tocha com as duas mãos, como se uma só não desse conta, e o
-círculo de luz ao redor dele parecia menor do que qualquer tocha deveria
-fazer, como se o próprio ar ali embaixo comesse um pouco da claridade
-antes que ela chegasse ao chão. O suor escorria pelo pescoço dele mesmo no
-frio, e os olhos, quando encontraram os de Íris, tinham o brilho
-específico de quem está calculando, minuto a minuto, quanto tempo ainda
-consegue aguentar antes de sair correndo sem vergonha nenhuma. Ele olhou
-pra ela como quem via um fantasma comum depois de passar a manhã inteira
-com medo dos incomuns.
+Segurava a tocha com as duas mãos, como se uma só não desse conta, e o
+círculo de luz ao redor dele era menor do que qualquer tocha deveria
+fazer — o ar ali embaixo parecia comer um pouco da claridade antes que
+ela chegasse ao chão. O suor escorria pelo pescoço dele mesmo no frio, e
+os olhos, quando encontraram os de Íris, tinham o brilho específico de
+quem está calculando, minuto a minuto, quanto tempo ainda consegue
+aguentar antes de sair correndo sem vergonha nenhuma.
 
 — Não desço mais fundo — disse ele, sem que ninguém tivesse perguntado. —
 Ferrugem que se vire.
@@ -160,7 +161,10 @@ discutiam entre si sobre coisas que não diziam respeito a ela — uma
 disputa antiga, arrastada, sobre um nome, sobre uma promessa quebrada —
 e Íris entendeu, com um arrepio que começou na nuca e desceu pela espinha
 inteira, que nem todas aquelas vozes tinham vindo por causa dela. Algumas
-já estavam ali. Ela só tinha aberto a porta que as deixava mais altas.
+já estavam ali. Ela só tinha aberto a porta que as deixava mais altas. Se
+Caio estava perto, o tempo que ela tinha pra alcançá-lo antes que alguma
+coisa decidisse por ele já estava se esgotando — sentiu isso na urgência
+nova que apertou o peito, distinta de tudo o mais que sentia ali.
 
 Lá embaixo, entre o que restava de mesas de escritório viradas e papéis
 que tinham parado de ser papéis fazia muito tempo, Caio estava sentado de
@@ -169,14 +173,14 @@ que qualquer outra pessoa teria visto. Íris via mais que isso. Via, ao
 redor dele, uma densidade de presenças que não eram as dela, uma
 concentração tão pesada que doía atravessar, como andar contra uma
 correnteza que empurrava não o corpo, mas a certeza de quem se é. Cada
-passo em direção a ele custava um pouco mais do que o anterior, como se o
-ar ficasse mais espesso perto do centro, e Íris sentiu, pela primeira vez
-naquela manhã, o impulso puro e físico de recuar — não por medo dele, mas
-por medo do que estava grudado nele, do jeito que se tem medo de chegar
-perto demais de uma beira que pode ou não aguentar o próprio peso.
+passo em direção a ele custava mais que o anterior — o ar ficava mais
+espesso perto do centro — e Íris sentiu, pela primeira vez naquela manhã,
+o impulso puro e físico de recuar, não por medo dele, mas por medo do que
+estava grudado nele, a beira que pode ou não aguentar o próprio peso.
 
-— Se eu ficar — Caio estava dizendo, pra ninguém, pra tudo —, some. É só
-isso que preciso fazer. Ficar até somar.
+— Se eu ficar aqui o bastante, ela some — Caio estava dizendo, pra
+ninguém, pra tudo. — É só isso que preciso fazer. Ficar até a dívida
+somar de vez, e sumir com ela.
 
 *Ele acha que a dívida é dele que vai desaparecer*, disse a Rápida, e
 pela primeira vez naquela manhã sua voz tremia também. *Não é a dívida
@@ -186,25 +190,23 @@ que soma aqui embaixo.*
 fria, antiga, com o peso específico de vinte anos de gente que tinha
 tentado exatamente aquilo antes de Caio — sussurrou pra ela uma sugestão
 tão razoável que por um segundo Íris quase obedeceu sem perceber que era
-sugestão: *deixa ele. Ele escolheu. Não é sua linha vermelha, é a dele.*
-A voz não gritava. Isso era o pior. Vinha baixa, quase gentil, do jeito
-que as coisas mais perigosas costumam vir, embrulhada num bom argumento,
-num respeito fingido pela vontade alheia — e por um segundo, um segundo
+sugestão: *deixa ele. Ele escolheu. Essa decisão não é sua pra carregar.*
+A voz não gritava. Isso era o pior. Vinha baixa, quase gentil — as coisas
+mais perigosas costumam vir assim, embrulhadas num bom argumento, num
+respeito fingido pela vontade alheia — e por um segundo, um segundo
 inteiro e longo demais, Íris sentiu o próprio corpo relaxar em direção a
 ela, os músculos das pernas afrouxando como se já tivessem decidido virar
 as costas antes que o resto dela concordasse.
 
 Não era a voz do Frio. Era mais velha que o Frio. Íris sentiu o próprio
 queixo balançar que nem sim antes de decidir alguma coisa — e foi esse
-gesto pequeno, ainda não terminado, esse consentimento que o corpo quase
-deu sem perguntar, que a fez parar de vez. Fechou a mão com mais força. A
-dor no polegar era real, era dela, e era a única coisa naquele porão que
-não tinha voz nenhuma — e foi nela que Íris se agarrou, como quem segura
-a beirada de uma mesa antes de cair. O coração batia tão forte que ela
-sentia o pulso na garganta. Respirou uma vez, fundo, contando o ar que
-entrava do jeito que tinha contado os degraus, e deixou que aquele único
-gesto — respirar, só respirar, sem pedir licença a ninguém pra fazer isso
-— fosse a resposta.
+gesto pequeno, ainda não terminado, que a fez parar de vez. Fechou a mão
+com mais força, cravando a unha de novo. A dor era real, era dela, sem
+voz nenhuma dentro — e Íris se agarrou a ela como quem segura a beirada de
+uma mesa antes de cair. O coração batia tão forte que sentia o pulso na
+garganta. Respirou uma vez, fundo, contando o ar que entrava do jeito que
+tinha contado os degraus, e deixou que aquele único gesto — respirar, só
+respirar — fosse a resposta.
 
 — Caio — ela disse, em voz alta, pela primeira vez desde que descera. —
 Sua mãe pagou pra eu te achar. Não pra te deixar aqui decidindo por conta
