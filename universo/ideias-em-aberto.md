@@ -13,6 +13,142 @@
 
 ---
 
+## Propostas de abertura do Livro 1 (2026-08-27)
+> Cinco direções distintas para o primeiro capítulo/cena real do
+> manuscrito (ainda não existe nenhum capítulo escrito além do
+> placeholder). Geradas pelo agente de ideias a partir da bíblia atual.
+> Nenhuma foi validada pelo agente de lógica do universo.
+
+### 1. "Sala de Espera Cheia" — cold open contemplativo, sem batalha
+- **Ideia:** capítulo de abertura mostra um dia comum de Íris anos depois
+  do porão — algo pequeno e doméstico (fazer comida, negociar preço numa
+  feira, cuidar de um ferimento antigo) — e as presenças comentam a cena
+  inteira como se fossem a única companhia de verdade que ela tem. Nenhum
+  perigo externo; o "conflito" é ela decidir se responde em voz alta a
+  uma presença na frente de alguém real, e o que isso custa socialmente.
+- **Âncora psicológica:** o peso cotidiano (não dramático) de conviver com
+  percepção alterada — como isso interfere em tarefas banais, isolamento
+  social por medo de ser vista como "estranha".
+- **Por que é interessante nesse ponto:** define o tom Mushishi/Frieren
+  antes de qualquer ação; deixa o leitor sentir a mecânica do poder sem
+  nenhuma explicação — a cena é a explicação. Também estabelece,
+  organicamente, a linha vermelha dela (nunca deixar a voz decidir) antes
+  de precisarmos mostrá-la em risco real.
+- **Personagens/elementos:** Íris, as presenças (ainda sem nomes fixos —
+  oportunidade de nomear 2 ou 3 delas aqui pela primeira vez), um local
+  ainda não definido em `geografia-e-faccoes.md` (poderia nascer aqui).
+- **Riscos/cuidados:** pode ser "fraquinho" como abertura se não tiver
+  uma imagem concreta forte (aprendizado já registrado em decisões
+  anteriores deste arquivo: evitar tom conceitual/explicativo); precisa
+  de um gancho de enredo no final da cena para não ficar só atmosfera.
+
+### 2. "O Trabalho" — Íris em ação, mecânica revelada por uma tarefa
+- **Ideia:** Íris tem algum tipo de ofício ligado à sua técnica (rastrear,
+  proteger, negociar, "limpar" algo) e o capítulo a mostra em pleno
+  trabalho: uma presença avisa de um perigo, outra discorda, ela precisa
+  decidir a quem ouvir sob pressão de tempo. O trabalho dá errado de um
+  jeito que expõe o custo da técnica, não só sua utilidade.
+- **Âncora psicológica:** a tensão entre usar a percepção alterada como
+  vantagem tática e a erosão que isso causa na confiança em julgamento
+  próprio — cada "consulta" é uma pequena cessão de controle.
+- **Por que é interessante nesse ponto:** estabelece regras de combate/
+  tática exigidas pelo sistema de poderes ("contrapartida tática clara,
+  fraqueza explorável") através de ação, sem exposição; cria stakes
+  imediatos para prender o leitor logo no capítulo 1.
+- **Personagens/elementos:** Íris, presenças, possivelmente um cliente/
+  contratante (personagem novo, oportunidade de plantar semente de
+  facção — quem contrata gente com "rachaduras" e por quê).
+- **Riscos/cuidados:** cuidado para a cena de ação não virar só
+  coreografia — precisa reservar espaço de respiro/reflexão no meio ou
+  logo depois, conforme a regra de tom contemplativo mesmo em batalha.
+
+### 3. "A Pessoa Real" — introdução de um segundo protagonista/aliado
+- **Ideia:** capítulo centrado no encontro de Íris com alguém que insiste
+  em ficar por perto apesar dela manter distância — um candidato natural
+  a carregar um dos eixos reservados (ex.: TDAH "Enxame", que contrasta
+  bem com o ritmo interno de Íris: ele fragmenta atenção pra fora,
+  ela tem atenção fragmentada por vozes internas). A cena dramatiza a
+  competição entre presença (sempre disponível, nunca julga) e pessoa
+  real (imprevisível, pode julgar, mas é tátil, presente).
+- **Âncora psicológica:** o mecanismo de defesa de preencher a solidão
+  com algo que nunca vai embora e nunca exige nada — e o desconforto de
+  deixar entrar alguém que pode.
+- **Por que é interessante nesse ponto:** ataca diretamente o arco
+  emocional pretendido de Íris (aprendida em `personagens.md`) já no
+  capítulo 1, plantando a "relação-chave" que a ficha dela deixa em
+  aberto; dá ao livro um segundo eixo psicológico a acompanhar cedo.
+- **Personagens/elementos:** Íris, presenças, personagem novo (candidato
+  a eixo TDAH "Enxame" ou outro dos quatro reservados) — precisaria de
+  ficha nova em `personagens.md` se aprovado.
+- **Riscos/cuidados:** risco de introduzir personagem e poder novo rápido
+  demais, antes do leitor se firmar na voz de Íris; melhor func. se vier
+  como capítulo 2 ou 3, não necessariamente o primeiro.
+
+### 4. "Quem Vigia as Rachaduras" — primeira aparição de uma instituição
+- **Ideia:** Íris cruza (ou quase cruza) com agentes de alguma
+  organização que rastreia/controla pessoas que sobreviveram a
+  Manifestações e desenvolveram técnicas — sem ainda revelar se essa
+  instituição é hostil, protetora, ou ambígua. A cena é mais sobre
+  vigilância e o medo de ser catalogada do que sobre confronto direto.
+- **Âncora psicológica:** o medo do diagnóstico/rotulação como algo que
+  tira agência — ecoa diretamente o "princípio não negociável" do
+  glossário (nenhum transtorno como vilania) ao inverter a câmera: o
+  perigo não é a mente de Íris, é quem quer catalogá-la.
+- **Por que é interessante nesse ponto:** começa a preencher
+  `geografia-e-faccoes.md`, que está vazio; cria tensão social de fundo
+  (parecida com o "estado vigia orogenes" de Broken Earth citado em
+  `referencias.md`) sem precisar resolver nada ainda; dá ao livro um
+  antagonista sistêmico, não pessoal, coerente com o tom contemplativo.
+- **Personagens/elementos:** Íris, presenças, 1-2 agentes da instituição
+  (novos, sem nome ainda), local a definir.
+- **Riscos/cuidados:** é a proposta com mais peso de worldbuilding —
+  precisa que o agente de lógica do universo valide a existência dessa
+  facção antes de aprofundar (evitar contradição futura com o que a
+  linha do tempo ainda vai estabelecer); risco de a cena virar exposição
+  de lore em vez de cena vivida.
+
+### 5. "O Que Ficou no Silo" — capítulo-ponte entre passado e presente
+- **Ideia:** estrutura intercalada (não flashback simples): a cena
+  presente de Íris é interrompida/ecoada por fragmentos do porão aos 9
+  anos, ativados por um gatilho sensorial pequeno e concreto (som, cheiro,
+  qualidade da luz) — sem nomear "trauma" ou "flashback" no texto, só
+  deixando a prosa colapsar as duas linhas temporais.
+- **Âncora psicológica:** intrusão de memória traumática disparada por
+  gatilho sensorial — e como isso se mistura com as presenças (uma delas
+  pode ser, ambiguamente, ligada à voz que ela "deixou decidir" quando o
+  primo morreu).
+- **Por que é interessante nesse ponto:** é a forma mais direta de
+  dramatizar a linha vermelha de Íris logo de cara, sem expô-la
+  explicitamente — o leitor sente o peso da dúvida dela (a voz ajudou ou
+  condenou o primo?) antes de qualquer personagem dizer isso em voz alta;
+  tecnicamente ambicioso, o tipo de capítulo que fica na memória do
+  leitor.
+- **Personagens/elementos:** Íris, o primo morto (aparece pela primeira
+  vez como personagem, mesmo que só em memória — vale ficha mínima em
+  `personagens.md`), as presenças, o silo/porão (precisa virar local
+  registrado em `geografia-e-faccoes.md`).
+- **Riscos/cuidados:** maior risco de ritmo — estrutura intercalada pode
+  confundir se for o capítulo 1 (leitor ainda não tem chão nenhum do
+  presente); e há risco temático real de banalizar o trauma se a cena
+  não tratar a morte do primo com peso suficiente — pedir atenção
+  redobrada do agente de lógica do universo aqui.
+
+**Recomendação do agente de ideias:** direção **2 ("O Trabalho")**
+combinada com uma pitada de **1** no fechamento — abrir com Íris em ação,
+usando a técnica de forma prática (isso ensina a mecânica ao leitor sem
+explicar nada, cumprindo a regra de ouro do sistema de poderes), deixar o
+trabalho dar errado o suficiente para expor o custo real da técnica, e
+fechar a cena com um respiro contemplativo (não uma resolução limpa) que
+já sussurre a linha vermelha dela sem entregá-la. É a direção que mais
+serve ao gancho comercial de "sistema de batalha instigante" pedido pelo
+projeto e, ao mesmo tempo, já planta a pergunta central do arco de Íris —
+até onde ela confia no que não é real — sem precisar de exposição nem de
+um segundo personagem ainda não fichado. As direções 3, 4 e 5 são fortes
+mas funcionam melhor como capítulo 2 ou 3, depois que o leitor já tiver
+internalizado a "gramática" da Sala de Espera através da ação.
+
+- **Status:** não avaliada
+
 ## Decisão registrada (2026-08-27)
 > As 4 propostas abaixo foram descartadas como estavam — feedback do
 > autor: "ficou fraquinho", muito conceitual/tabela, sem imagem
