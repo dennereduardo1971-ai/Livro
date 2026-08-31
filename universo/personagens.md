@@ -264,3 +264,40 @@
    só em ato prático e em quanto silêncio elas conseguem dividir.
 4. Nenhuma das duas "cura" ou "completa" a outra. Alice não silencia as
    presenças; Íris não organiza o Enxame.
+
+## Alice
+- **Pronúncia:** com o A forte e tônico à frente — *Álice*. Ela corrige
+  todo mundo, sempre, e sabe que parece implicância. É a primeira coisa
+  que ela defende sobre si mesma.
+- **Papel na história:** contramestre e faz-tudo da barca *Boa Hora*;
+  entra no elenco fixo a partir do Capítulo 5, quando decide subir com
+  Íris e Bento. **Par romântico de Íris** — construção lenta e sutil ao
+  longo dos livros. A paixão **não** nasce do salvamento no rio; nasce da
+  convivência, e o primeiro elo real é a noite da vigia, quando ela
+  pergunta "quantos?" e trata a resposta como informação comum.
+- **Técnica:** **Enxame** (eixo interno: TDAH — nunca nomeado em texto).
+  Ver `sistema-de-poderes.md`.
+- **Motivação própria:** a irmã mora em Vau Queimado; cinco semanas sem
+  notícia. Ela conta isso enfiado no meio de um assunto banal, que é o
+  jeito dela de dizer coisa grande sem receber pena.
+- **Marcas recorrentes:** a trança de corda pela metade; objetos
+  largados no meio do convés; conserto adiado desde maio; conversa em
+  galhos, que sempre volta ao tronco depois; ofende cabras.
+- **Arco emocional pretendido:** começa achando que não tem meio-termo
+  ("mil coisas por dia sem terminar nenhuma, e um dia oito segundos
+  perfeitos e três dias no chão") e tratando o crash como defeito moral;
+  caminho é parar de medir o próprio valor pelo pico. Sem cura.
+- **Relação com Íris:** o barulho externo dela é a primeira coisa que já
+  fez o barulho interno de Íris ficar menor — e isso incomoda Íris antes
+  de agradar. Alice não faz cerimônia com a Sala de Espera: pergunta,
+  registra e segue.
+- **Linha vermelha:** nunca finge que o hiperfoco é controlável nem
+  promete repetir o que fez no rio. E nunca trata a técnica de outra
+  pessoa como espetáculo.
+
+## Mestre Nestor
+- **Papel:** mestre da *Boa Hora*. Bom homem, péssimo pagador. Sobe até o
+  Vau Queimado, encosta, olha e volta — não passa disso, e avisa antes.
+  Aceitou levar a mulher de lenço e mais três na descida sem chamar
+  aquilo de acordo.
+- **Poder:** nenhum.

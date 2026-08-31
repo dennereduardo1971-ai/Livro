@@ -327,3 +327,32 @@ internalizado a "gramática" da Sala de Espera através da ação.
   Queimado, esses são de mais acima"* (Cap. 4), *"Ainda não é medo. Ainda
   é costume"* (Cap. 5). Uma por capítulo, sempre certeira, nunca
   explicada. Manter o padrão.
+
+## Notas de direção — romance Íris/Alice (2026-08-31)
+Decisão do autor, canônica: Alice é o par romântico de Íris, e a paixão
+**não** nasce do resgate no rio. Regras de escrita daqui pra frente:
+- O salvamento gera **dívida**, não atração: Íris fica arisca, agradece
+  mal e tarde, e chega a preferir não dever. Alice responde "tá" e não
+  transforma em momento — e é essa recusa de fazer disso um momento que
+  desarma Íris.
+- O elo real é de **convivência**: Alice pergunta "quantos?" e trata a
+  resposta como informação comum. Nenhum personagem deve, em nenhum
+  capítulo, tratar a Sala de Espera como prova de perigo ou como
+  espetáculo.
+- Progressão pretendida: utilidade → costume → confiança → ciúme do
+  espaço que as presenças ocupam → só então algo declarado. Cada
+  capítulo pode avançar um fio de cada vez; nada de salto.
+- O contraste a preservar: o barulho de Alice é externo e não exige nada;
+  as presenças são internas e estão sempre disponíveis. A tensão do arco
+  de Íris é escolher a companhia que pode ir embora.
+
+## Perguntas plantadas até o Capítulo 5 (2026-08-31)
+- **O que esvaziou os povoados acima do Vau?** Ninguém morreu, ninguém
+  viu nada. Evitar decidir a natureza disso antes de escrever a chegada
+  ao Vau Queimado. Se for Manifestação, o eixo "Domingo" (depressão) está
+  reservado e nunca deve ser explicado no texto.
+- **Por que passaram por fora do Vau Queimado "por vontade"?**
+- **O buraco de memória de Bento nas Águas Paradas aos 11 anos.** Ele
+  não lembra de nada da viagem; o pai dizia que ele dormiu o trajeto
+  inteiro. Não confirmar nada ainda.
+- **A irmã de Alice**, em Vau Queimado, cinco semanas sem notícia.

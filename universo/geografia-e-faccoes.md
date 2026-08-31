@@ -92,6 +92,28 @@
   soterramento / de trabalhar embaixo de peso que pode ceder).
 - **Status:** não visitada ainda; mancha de breu escorrida no mapa.
 
+### O porto de lenha (saída das Águas Paradas)
+- Trapiche, barracão sem parede, pilhas de lenha e uma balança, na saída
+  do pântano — parada obrigatória de quem sobe. Sempre teve gente;
+  no Capítulo 4 está tomado por dez retirantes vindos de muito acima do
+  Vau Queimado, com as redes dos lenhadores ainda armadas e ninguém para
+  desarmá-las.
+- **Resíduo:** atravessar as Águas Paradas afeta a Sala de Espera de Íris
+  em grau mínimo — cadeiras a mais no fundo do cômodo, murmúrio abaixo do
+  limiar da fala. Vinte anos depois da Vizinha, e ainda ali. Nada
+  próximo da densidade do Poço.
+
+### Os povoados acima do Vau (sem nome ainda)
+- Três povoados espalhados depois da curva do Vau Queimado, na direção da
+  Cabeceira. Esvaziados; a primeira leva desceu há dezoito dias.
+- **O que os retirantes dizem:** não viram bicho nenhum, ninguém morreu,
+  não houve ataque. "Foi ficando difícil ficar" — primeiro um homem
+  largou a roça e ficou sentado, depois a mãe dele, depois metade da rua.
+  Riram disso na primeira semana.
+- Desceram **passando por fora do Vau Queimado de propósito**, e o homem
+  que conta isso não sabe dizer por quê: "deu vontade de passar por
+  fora".
+
 ### Vau Queimado
 - **Descrição física:** vila de travessia, único ponto em muitas léguas
   onde o Vagaroso fica raso o bastante pra passar gado.

@@ -57,6 +57,7 @@ cada um vira personagem e técnica específicos, não uma "classe".
 | Nome | Personagem/facção | Eixo psicológico (uso interno) | Mecânica resumida | Status |
 |---|---|---|---|---|
 | Enxame | Alice | TDAH | Fragmenta a atenção em muitas ações simultâneas de baixa intensidade — no cotidiano, seis tarefas começadas e nenhuma fechada (a trança de corda que fica pela metade, a tábua solta desde maio). Sob ameaça real as ações deixam de ser fragmentos e viram um bloco só: em oito segundos ela faz o que uma equipe faria em um minuto, **sem ordem interna** — ela não sequencia, ela sabe tudo o que precisa ser feito de uma vez e faz. Não guarda memória da ordem, e as testemunhas nunca concordam sobre ela. Custo: crash total e imediato — tremor nas mãos, incapaz de tarefa simples, catorze horas de sono, e vergonha do próprio apagão, que dura mais que o cansaço | aprovado |
+| Enxame | Alice | TDAH | Atenção fragmentada em muitas ações simultâneas de baixa intensidade, executadas bem e quase nunca terminadas (a trança de corda pela metade é o símbolo recorrente dela). Sob ameaça real e imediata, entra em hiperfoco: uma sequência de ações certeiras e encadeadas em poucos segundos, cuja **ordem ela própria não consegue reconstruir depois** — e nenhuma testemunha conta na mesma ordem. Custo: o crash. Depois do pico ela fica de dois a três dias sem conseguir sustentar tarefa nenhuma, sem força fina nas mãos, respondendo por sílabas. O hiperfoco não é acionável por vontade e não pode ser repetido a pedido | aprovado |
 | Antes de Cair o Copo | Bento | Ansiedade / TAG | Lampejos involuntários de futuro imediato com ameaça — "vê o copo cair antes de o copo cair", duração menor que um piscar. A esmagadora maioria é falso alarme; o custo real não é o lampejo, é social e cumulativo: quem avisa doze vezes por dia não é ouvido na décima terceira, e a hesitação de meio segundo entre saber e falar é o que tira a decisão da mão dele. Tentar suprimir piora (mais lampejos, mais ruído, ameaça nenhuma virando ameaça); parar de tentar diminui um pouco, nunca elimina. Custo físico visível: insônia, lábio mordido, náusea e tremor prolongado depois de um acerto | aprovado |
 | Sala de Espera | Íris | Esquizofrenia | Percebe presenças extras num raio ao redor; pode "consultar" ou, no limite, deixar uma agir fisicamente por um instante — nem sempre dizem a verdade. Sob pressão/estresse (ex: uso profissional da técnica, ameaça real), o número de presenças presentes ao mesmo tempo pode aumentar muito acima do normal ("sala de espera cheia") — isso é custo, não vantagem: mais vozes disputando espaço tornam mais difícil (não impossível) discernir qual consultar, e o esforço de filtrar é fisicamente/mentalmente exaustivo para Íris. Mesmo sobrecarregada, ela continua escolhendo a quem ouvir — nunca perde a decisão para a presença (ver linha vermelha em `personagens.md`) | aprovado |
 
@@ -90,6 +91,33 @@ O que Íris faz todo dia, e que nunca é explicado no texto — só praticado:
   perigo do Frio nunca é persuasão, é *gravidade* — o corpo de Íris pende
   antes de ela concordar. Ela quebra isso com dor própria e contagem,
   nunca com força de vontade declarada.
+
+## Sala de Espera — manejo cotidiano (canônico a partir do Cap. 4)
+
+Regras que Íris construiu sozinha ao longo dos anos, nunca ensinadas por
+ninguém e nunca explicadas em voz alta a ninguém vivo:
+1. **Não durante a comida.** Acordo feito aos 14 anos; o prato é dela.
+   É a regra que ela nunca quebra.
+2. **Turnos e serviço.** Sem nada pra decidir, a Rápida inventa perigo.
+   O manejo é dar tarefa real e chata — contar sacos, curvas do rio,
+   quantas vezes o foguista põe lenha. Discutir alimenta; ignorar por
+   completo também.
+3. **Postura social.** Mover os lábios de menos, respirar no lugar da
+   palavra, e sempre sentar de frente pro maior espaço possível: quem
+   fala sozinho de costas pra multidão vira assunto; de frente, é só
+   alguém distraído.
+4. **Timbres estáveis.** A Mansa cantarola sem letra em viagem (Íris só
+   nota quando para). A Rápida conta. O Frio quase nunca fala, e quando
+   fala diz coisas verdadeiras — é por isso que ela tem medo dele. A
+   terceira presença não faz nada: ocupa lugar.
+
+**Sob afogamento/confinamento (Cap. 5):** o gatilho de escuro fechado +
+peso em cima + ar acabando reproduz o silo e satura a Sala de Espera com
+presenças *dela mesma*, não externas (diferente do Poço). Sob saturação,
+as direções que elas indicam se contradizem e **podem estar erradas** —
+três apontaram lados diferentes debaixo do casco. A informação da técnica
+nunca é garantia; é mais uma fonte, e Íris continua sendo quem decide o
+que testar.
 
 ## Como o mundo lida com isso (versão diegética da regra de ouro)
 
