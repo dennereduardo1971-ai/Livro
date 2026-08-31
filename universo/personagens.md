@@ -171,3 +171,53 @@
   sobreviveu chama de "o que passou", e repete a expressão quando
   perguntado de novo. **Manter sem nome** — a ausência de nome é a
   caracterização, e vale como reserva narrativa para o passado de Íris.
+
+## Bento
+- **Papel na história:** segundo portador apresentado no manuscrito;
+  sobe o rio com Íris a mando da Junta a partir do Capítulo 3. Primeiro
+  candidato firme a "pessoa real" no arco de Íris (ver ficha dela).
+- **Idade:** cerca de 21 anos — nasceu **durante a Folga**, o que torna
+  a existência da técnica dele uma anomalia (ver `sistema-de-poderes.md`).
+- **Técnica:** **Antes de Cair o Copo** (eixo interno: ansiedade/TAG —
+  nunca nomeado em texto). Ele mesmo batizou aos 19 anos, "porque a coisa
+  precisava de nome pra eu poder falar dela sem dar um jeito na frase
+  inteira".
+- **Origem:** afirma nunca ter passado por uma Manifestação, e acredita
+  nisso. Saiu de Cindra uma única vez, aos 11 anos, até as Águas
+  Paradas, com o pai, levando carga. Em aberto.
+- **Arco emocional pretendido:** começa tratando a própria percepção
+  como defeito que precisa ser abafado — abafar piora, e ele já sabe
+  disso e continua tentando, porque o custo social de avisar é maior que
+  o de calar; caminho pretendido é parar de precisar estar certo pra ter
+  direito de falar. Sem cura em nenhum ponto do arco.
+- **Marcas físicas:** lábio inferior descascado de mordida, olheiras
+  fundas, come pouco, tremor prolongado e náusea depois de um acerto.
+  Confere informação prática de três a cinco vezes e anuncia a
+  contagem.
+- **Contradições internas que sustentam o personagem:** o que ele mais
+  teme é estar errado, e o que mais o machuca é estar certo; pede
+  desculpa antes de qualquer coisa acontecer e pede desculpa de novo
+  depois de acertar.
+- **Linha vermelha:** nunca deixa de avisar por completo — mesmo depois
+  de doze falsos alarmes num dia, ele fala. A hesitação de meio segundo
+  antes de falar é dele; o silêncio total nunca é.
+
+## Vitorino Cerqueira
+- **Papel na história:** agente da Junta de Resguardo (ver
+  `geografia-e-faccoes.md`); contratante de Íris e chefe imediato de
+  Bento.
+- **Poder e eixo psicológico:** nenhum.
+- **Descrição:** meia-idade, roupa boa e botas baratas recém-compradas —
+  do tipo que se compra depressa quando se descobre que o destino tem
+  lama. Pasta de couro, caderno de três linhas, lápis molhado na língua.
+- **Contradições internas que sustentam o personagem:** é honesto e
+  cumpre a palavra (escreveu "não informou" quando Íris recusou, sem
+  retaliar), e ao mesmo tempo anota o número de crises de um rapaz de 21
+  anos enquanto ele passa mal, sem constrangimento nenhum — "eu não sei
+  ler o rapaz, eu sei ler a linha". Não é frieza performática: é o modo
+  como a instituição inteira pensa, e ele é bom no trabalho.
+- **Linha vermelha:** não falsifica registro e não força ninguém a se
+  declarar — o formulário aceita "não informou", e para ele isso basta.
+- **Em aberto:** mandou um homem da Junta ao Vau Queimado há nove dias,
+  sem retorno; e sabe mais do que disse sobre por que a linha de Bento
+  está subindo junto com o silêncio do rio.

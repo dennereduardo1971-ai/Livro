@@ -159,3 +159,26 @@
   nas portas das casas que já visitaram e pretendem visitar de novo — um
   sinal silencioso que qualquer morador da Fileira reconhece e teme,
   mesmo sem nunca ser mencionado em voz alta.
+
+### A Junta de Resguardo ("a Junta")
+- **Objetivo:** órgão sediado em Boca Grande que cobra a taxa de
+  resguardo das vilas do Vagaroso e mantém registro de quem carrega
+  técnica. Reduziu a própria taxa por "falta de necessidade comprovada"
+  durante a Folga (ver `linha-do-tempo.md`) e agora, discretamente,
+  contrata gente de fora da folha pra subir o rio.
+- **Como se relaciona com o tema central:** é a instituição que mede sem
+  entender — lê a linha, não a pessoa. Vitorino anota o número de
+  lampejos de Bento por dia enquanto o rapaz vomita no cais, e não sente
+  vergonha nenhuma, porque a linha subindo é informação e a pessoa não
+  é. A crítica embutida é a instrumentalização do sintoma como
+  instrumento de medição. Importante: a Junta **não é vilã declarada** —
+  Vitorino tem razão sobre a linha e, em parte, sobre a urgência.
+- **Método de registro:** formulário de três linhas (nome da pessoa,
+  nome que a pessoa dá pra coisa, observações). Ver
+  `sistema-de-poderes.md` — a tentativa histórica de tabela foi
+  abandonada por inútil.
+- **Postura em relação aos protagonistas:** contratante. Pagou
+  adiantado, em moeda de Boca Grande, o dobro do preço de mercado, e não
+  exigiu que Íris se declarasse quando ela recusou.
+- **Em aberto:** já mandou um homem próprio ao Vau Queimado há nove
+  dias; ele não voltou.

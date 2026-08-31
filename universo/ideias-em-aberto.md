@@ -293,3 +293,18 @@ internalizado a "gramática" da Sala de Espera através da ação.
   "aquilo que todo mundo mais teme" sem reduzir a metáfora — o monstro é
   concreto, mas nasce de algo social real.
 - **Status:** não avaliada
+
+## Perguntas plantadas até o Capítulo 3 (2026-08-31) — não resolver cedo
+- **Como Bento abriu a rachadura durante a Folga?** Hipóteses em jogo,
+  nenhuma canônica: (a) resíduo antigo, do jeito do Poço — ele esteve nas
+  Águas Paradas aos 11 anos; (b) a via rara já prevista em
+  `sistema-de-poderes.md` (trauma pessoal intenso sem Manifestação
+  envolvida); (c) alguma coisa nova começou antes de aparecer, e ele é o
+  primeiro sinal, não a exceção. A terceira presença de Íris vota em (c)
+  e não explica.
+- **O que é a terceira presença?** Subiu do Poço no Cap. 1, ficou muda
+  três dias, e desde então fala uma frase curta por capítulo, sempre
+  certeira e sempre sem contexto. Nunca confirmar origem nem natureza.
+- **O homem da Junta que subiu há nove dias.** Nome e destino em aberto.
+- **O que aconteceu com o Vau Queimado.** Em aberto — evitar decidir
+  antes de escrever a chegada.
