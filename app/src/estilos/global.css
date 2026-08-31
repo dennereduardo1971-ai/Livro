@@ -1,0 +1,146 @@
+/* ---------------------------------------------------------------
+   Três materiais, três comportamentos, nunca misturados:
+   reboco (o mundo permanente) · breu (o que terminou) · luz (o presente)
+   --------------------------------------------------------------- */
+:root {
+  --reboco: #c9bca4;
+  --reboco-sombra: #a8987d;
+  --reboco-linha: #6d6047;
+  --breu: #16120e;
+  --luz: #ffcf7a;
+  --luz-fria: #9fc7e8;
+  --luz-alta: #ff9d5c;
+
+  --fundo: #efe9dd;
+  --fundo-alto: #f7f3ea;
+  --tinta: #241f19;
+  --tinta-fraca: #6b6153;
+  --borda: #d6cdba;
+  --realce: #8a5a2b;
+
+  --serifa: 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  --sem-serifa: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  --tamanho-leitura: 1.125rem;
+  --altura-leitura: 1.75;
+  --largura-leitura: 34rem;
+
+  --lento: 620ms;
+  --respiro: cubic-bezier(0.32, 0.08, 0.24, 1);
+  color-scheme: light;
+}
+
+[data-tema='escuro'] {
+  --fundo: #14120f;
+  --fundo-alto: #1c1916;
+  --tinta: #e3dccd;
+  --tinta-fraca: #948b7c;
+  --borda: #2e2a24;
+  --realce: #d9a25e;
+  --reboco: #6d6352;
+  --reboco-sombra: #4b4437;
+  --reboco-linha: #b9ab8f;
+  color-scheme: dark;
+}
+
+[data-tema='vela'] {
+  --fundo: #1a1310;
+  --fundo-alto: #221a15;
+  --tinta: #f0d9b4;
+  --tinta-fraca: #a68a68;
+  --borda: #33251c;
+  --realce: #e8a95c;
+  --reboco: #7a6647;
+  --reboco-sombra: #503f28;
+  --reboco-linha: #d3b98c;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--fundo);
+  color: var(--tinta);
+  font-family: var(--sem-serifa);
+  overflow-x: hidden;
+}
+
+a { color: inherit; }
+
+.envoltorio {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* barra superior --------------------------------------------------- */
+.barra {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.7rem 1rem;
+  background: color-mix(in srgb, var(--fundo) 88%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--borda);
+}
+.barra a, .barra button {
+  font: inherit;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  color: var(--tinta-fraca);
+  background: none;
+  border: 0;
+  padding: 0.3rem 0.1rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+.barra a:hover, .barra button:hover, .barra a[aria-current='page'] { color: var(--tinta); }
+.barra .marca {
+  font-family: var(--serifa);
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  color: var(--tinta);
+  margin-right: auto;
+}
+
+h1, h2, h3 { font-family: var(--serifa); font-weight: 500; letter-spacing: 0.01em; }
+
+.subtitulo { color: var(--tinta-fraca); font-size: 0.9rem; }
+
+/* cartões ---------------------------------------------------------- */
+.cartao {
+  border: 1px solid var(--borda);
+  background: var(--fundo-alto);
+  border-radius: 3px;
+  padding: 1rem 1.1rem;
+}
+.trancado { opacity: 0.34; }
+.trancado .conteudo-trancado { filter: blur(4px); user-select: none; }
+
+.selo {
+  display: inline-block;
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--tinta-fraca);
+  border: 1px solid var(--borda);
+  border-radius: 999px;
+  padding: 0.12rem 0.5rem;
+}
+
+/* âncoras de cena: invisíveis, mas com altura zero e alvo real ------ */
+.ancora-cena { display: block; height: 0; overflow: hidden; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

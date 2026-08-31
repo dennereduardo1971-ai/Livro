@@ -1,0 +1,57 @@
+---
+import '../estilos/global.css';
+interface Props { titulo: string; descricao?: string; barra?: boolean }
+const { titulo, descricao = 'Leitura semanal no mapa da Casa do Cais.', barra = true } = Astro.props;
+const rota = Astro.url.pathname;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content={descricao} />
+    <meta name="theme-color" content="#14120f" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/icone.svg" type="image/svg+xml" />
+    <title>{titulo}</title>
+    <script is:inline>
+      /* tema antes da primeira pintura, pra não piscar branco na cara de ninguém */
+      try {
+        document.documentElement.dataset.tema = localStorage.getItem('cais:tema') || 'claro';
+        var f = localStorage.getItem('cais:fonte');
+        if (f) document.documentElement.style.setProperty('--tamanho-leitura', f + 'px');
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    {barra && (
+      <nav class="barra">
+        <a class="marca" href="/">A Casa do Cais</a>
+        <a href="/capitulos" aria-current={rota.startsWith('/capitulo') ? 'page' : undefined}>capítulos</a>
+        <a href="/linha-do-tempo" aria-current={rota === '/linha-do-tempo' ? 'page' : undefined}>tempo</a>
+        <a href="/glossario" aria-current={rota === '/glossario' ? 'page' : undefined}>glossário</a>
+        <a href="/estado" aria-current={rota === '/estado' ? 'page' : undefined}>estado</a>
+      </nav>
+    )}
+    <slot />
+    <script is:inline>
+      if ('serviceWorker' in navigator && location.protocol === 'https:') {
+        addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(() => {}));
+      }
+    </script>
+    <footer>
+      <p>O mapa só sabe anotar o que já terminou de acontecer.</p>
+    </footer>
+    <style is:global>
+      footer {
+        margin: 4rem auto 2.5rem;
+        max-width: 46rem;
+        padding: 1.4rem 1.25rem 0;
+        border-top: 1px solid var(--borda);
+        color: var(--tinta-fraca);
+        font-size: 0.78rem;
+        font-style: italic;
+      }
+    </style>
+  </body>
+</html>

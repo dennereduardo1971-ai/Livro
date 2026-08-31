@@ -1,0 +1,110 @@
+---
+import Base from '../layouts/Base.astro';
+import { listarCapitulos } from '../dados/capitulos';
+import { estadoDoCapitulo, notasPorCapitulo, ultimaAtualizacao, ultimosCommits } from '../dados/repositorio';
+import { LUGARES } from '../dados/lugares';
+
+const capitulos = await listarCapitulos();
+const notas = notasPorCapitulo();
+const estados = capitulos.map((c) => ({ ...c, ...estadoDoCapitulo(c.numero, notas.get(c.numero) ?? 0) }));
+const atualizado = ultimaAtualizacao();
+const commits = ultimosCommits();
+const palavras = capitulos.reduce((s, c) => s + c.palavras, 0);
+const ultimo = capitulos.at(-1)?.numero ?? 0;
+/** o que mudou no mapa no capítulo mais recente */
+const novidadesDoMapa = LUGARES.filter((l) => l.revelaEm === ultimo || l.breu?.revelaEm === ultimo ||
+  l.passado.some((p) => p.revelaEm === ultimo) || l.estado?.revelaEm === ultimo);
+---
+<Base titulo="Estado do livro · A Casa do Cais">
+  <main class="envoltorio">
+    <h1>Estado do livro</h1>
+    <p class="subtitulo">Última atualização: {atualizado} · {capitulos.length} capítulos · {palavras.toLocaleString('pt-BR')} palavras</p>
+
+    <section class="boletim cartao">
+      <h2>O que mudou no mapa</h2>
+      <p class="subtitulo">com o Capítulo {ultimo}</p>
+      <ul>
+        {novidadesDoMapa.map((l) => (
+          <li><strong>{l.nome}</strong> — {l.estado?.revelaEm === ultimo ? l.estado.texto : l.passado.filter((p) => p.revelaEm === ultimo).map((p) => p.texto).join(' ') || 'apareceu na parede.'}</li>
+        ))}
+      </ul>
+      <p class="onde-parou" hidden></p>
+    </section>
+
+    <h2 class="titulo-secao">Capítulos</h2>
+    <table>
+      <thead><tr><th>capítulo</th><th>status</th><th>último commit</th></tr></thead>
+      <tbody>
+        {estados.map((e) => (
+          <tr>
+            <td>{e.titulo}</td>
+            <td><span class={`selo st-${e.status.replace(' ', '-')}`}>{e.status}</span></td>
+            <td class="subtitulo">{e.ultimoCommit || '—'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+
+    <h2 class="titulo-secao">Últimos movimentos</h2>
+    <ul class="commits">
+      {commits.map((c) => (<li><span class="subtitulo">{c.data}</span> {c.assunto}</li>))}
+    </ul>
+
+    <h2 class="titulo-secao">Sua leitura</h2>
+    <p id="sua-leitura" class="subtitulo" data-total={ultimo}></p>
+    <div class="ajuste">
+      <button id="menos">−</button>
+      <span>marcar como lido até o capítulo <strong id="valor">0</strong></span>
+      <button id="mais">+</button>
+      <button id="zerar">esquecer tudo</button>
+    </div>
+  </main>
+
+  <script>
+    import { progresso, visita } from '../scripts/progresso';
+    {
+      const valor = document.getElementById('valor')!;
+      const texto = document.getElementById('sua-leitura')!;
+      const total = Number(texto.dataset.total ?? 0);
+      const pintar = () => {
+        const p = progresso.ler();
+        valor.textContent = String(p);
+        texto.textContent = p === 0
+          ? 'Você ainda não concluiu nenhum capítulo — o mapa está quase todo apagado.'
+          : `Você leu até o Capítulo ${p}. Faltam ${Math.max(0, total - p)} publicados.`;
+        const desde = visita.ler();
+        const caixa = document.querySelector<HTMLElement>('.onde-parou')!;
+        if (desde && p < total) {
+          caixa.hidden = false;
+          caixa.textContent = `Acumularam ${total - p} capítulos desde onde você parou.`;
+        }
+      };
+      document.getElementById('mais')!.onclick = () => { progresso.definir(progresso.ler() + 1); pintar(); };
+      document.getElementById('menos')!.onclick = () => { progresso.definir(progresso.ler() - 1); pintar(); };
+      document.getElementById('zerar')!.onclick = () => { progresso.esquecer(); pintar(); };
+      pintar();
+    }
+  </script>
+
+  <style>
+    main { padding-block: 1.5rem 3rem; }
+    .titulo-secao { margin: 2.4rem 0 0.8rem; font-size: 1rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--tinta-fraca); }
+    .boletim { margin-top: 1.5rem; }
+    .boletim h2 { margin: 0; font-size: 1.15rem; }
+    .boletim .subtitulo { margin: 0.1rem 0 0.7rem; font-size: 0.78rem; }
+    .boletim ul { margin: 0; padding-left: 1.1rem; font-size: 0.9rem; line-height: 1.6; }
+    .onde-parou { margin: 0.9rem 0 0; font-size: 0.85rem; color: var(--realce); }
+    table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+    th { text-align: left; font-weight: 500; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--tinta-fraca); padding-bottom: 0.4rem; }
+    td { padding: 0.5rem 0; border-top: 1px solid var(--borda); }
+    .st-publicado { color: var(--realce); border-color: var(--realce); }
+    .commits { list-style: none; padding: 0; margin: 0; font-size: 0.86rem; line-height: 1.7; }
+    .commits .subtitulo { font-variant-numeric: tabular-nums; margin-right: 0.5rem; }
+    .ajuste { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; margin-top: 0.6rem; font-size: 0.86rem; }
+    .ajuste button {
+      font: inherit; cursor: pointer; background: none; color: var(--tinta);
+      border: 1px solid var(--borda); border-radius: 999px; padding: 0.2rem 0.7rem;
+    }
+    .ajuste button:hover { border-color: var(--realce); }
+  </style>
+</Base>

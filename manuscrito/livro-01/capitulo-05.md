@@ -2,6 +2,8 @@
 
 ## I. O Que Eles Queriam
 
+::cena lugar="porto-de-lenha" tensao="media"
+
 Não gritaram, e foi isso que assustou os passageiros mais do que
 qualquer grito. Pararam a três passos do trapiche, num arco desigual, e o
 mais velho deles — um homem de barba branca curta, com um facão baixo na
@@ -78,6 +80,8 @@ Ele já tinha puxado.
 
 ## II. Debaixo
 
+::cena lugar="porto-de-lenha" tensao="alta"
+
 A *Boa Hora* deu um tranco de ré com a proa ainda amarrada ao trapiche
 por um cabo de proa e um cabo de popa, e uma barca de casco chato
 amarrada dos dois lados que anda pra trás não anda pra trás: ela gira.
@@ -101,6 +105,8 @@ Escuro. Frio. Sem espaço.
 
 A Sala de Espera abriu inteira.
 
+::cena lugar="sete-palhas" tensao="alta" tempo="antes-da-folga"
+
 Não foram dúzias, como no Poço; foram poucas, e foi pior, porque eram as
 dela. Vieram todas de uma vez e vieram falando ao mesmo tempo, e a
 primeira coisa que Íris entendeu, com uma clareza que não ajudava em
@@ -117,6 +123,8 @@ voltas.*
 *Sobe*, disse a Mansa. *Sobe, sobe, sobe.*
 
 Não dava pra subir. Havia um casco em cima dela.
+
+::cena lugar="porto-de-lenha" tensao="alta"
 
 E então, do lugar mais fundo da sala, de onde quase nunca vinha nada,
 veio uma voz que Íris não ouvia havia quase dois anos. Não gritava.
@@ -157,6 +165,8 @@ de lado, pro claro, pro azul, pro verde, pro ar.
 O ar entrou e doeu mais que a água.
 
 ## III. Oito Segundos
+
+::cena lugar="porto-de-lenha" tensao="alta"
 
 Íris ficou de bruços nas tábuas do trapiche por um tempo que não soube
 medir, vomitando água do pântano, com as mãos de alguém segurando a
@@ -218,6 +228,8 @@ tem três dias de rio.
 
 ## IV. A Tábua
 
+::cena lugar="porto-de-lenha" tensao="baixa"
+
 O que ninguém sabia, e o que Íris não contou pra ninguém, é que ela ficou
 com raiva.
 
@@ -248,6 +260,8 @@ bombordo. Levou vinte minutos. Ficou torta, mas parou de bater.
 Não disse nada pra ninguém sobre isso.
 
 ## V. A Segunda Vigília
+
+::cena lugar="porto-de-lenha" tensao="baixa" revela="o-frio"
 
 Alice descobriu na noite seguinte, pisou na tábua duas vezes pra
 confirmar, olhou em volta procurando um culpado, não encontrou nenhum,

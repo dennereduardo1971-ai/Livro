@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+import { LINHA_DO_TEMPO } from '../dados/linha-do-tempo';
+import { POR_ID } from '../dados/lugares';
+---
+<Base titulo="Linha do tempo · A Casa do Cais">
+  <main class="envoltorio">
+    <h1>Linha do tempo</h1>
+    <p class="subtitulo">O rio corre pra um lado só. Notícia, doença e medo sobem por ele.</p>
+    <ol>
+      {LINHA_DO_TEMPO.map((e) => (
+        <li class="evento" data-revela={e.revelaEm}>
+          <span class="marcador" aria-hidden="true"></span>
+          <p class="quando">{e.quando}</p>
+          <h2>{e.titulo}</h2>
+          <p class="texto conteudo-trancado">{e.texto}</p>
+          {e.lugar && <p class="lugar subtitulo">{POR_ID.get(e.lugar)?.nome}</p>}
+          <p class="cadeado subtitulo" hidden>ainda não lido</p>
+        </li>
+      ))}
+    </ol>
+  </main>
+  <script>
+    import { progresso } from '../scripts/progresso';
+    const lido = progresso.ler();
+    document.querySelectorAll<HTMLElement>('.evento').forEach((li) => {
+      if (Number(li.dataset.revela) > lido) {
+        li.classList.add('trancado');
+        li.querySelector<HTMLElement>('h2')!.textContent = '— — —';
+        li.querySelector<HTMLElement>('.cadeado')!.hidden = false;
+      }
+    });
+  </script>
+  <style>
+    main { padding-block: 1.5rem 3rem; }
+    ol { list-style: none; margin: 2rem 0 0; padding: 0 0 0 1.4rem; border-left: 1px solid var(--borda); }
+    .evento { position: relative; padding-bottom: 2rem; }
+    .marcador {
+      position: absolute; left: -1.78rem; top: 0.5rem;
+      width: 9px; height: 9px; border-radius: 50%;
+      background: var(--fundo); border: 1px solid var(--reboco-linha);
+    }
+    .evento:not(.trancado) .marcador { background: var(--realce); border-color: var(--realce); }
+    .quando { margin: 0; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--tinta-fraca); }
+    h2 { margin: 0.3rem 0 0.4rem; font-size: 1.1rem; }
+    .texto { margin: 0; font-size: 0.92rem; line-height: 1.6; }
+    .lugar { margin: 0.5rem 0 0; font-size: 0.78rem; font-style: italic; }
+    .cadeado { margin: 0.4rem 0 0; font-size: 0.72rem; }
+  </style>
+</Base>

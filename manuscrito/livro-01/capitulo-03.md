@@ -2,6 +2,8 @@
 
 ## I. Quatro da Tarde
 
+::cena lugar="cindra" tensao="media" revela="junta-de-resguardo,vitorino"
+
 Íris chegou ao píer novo uma hora antes do combinado, porque era o que
 sempre fazia, e passou essa hora encostada na parede de um depósito de
 sal fingindo esperar outra coisa.
@@ -120,6 +122,8 @@ O rapaz, ouvindo o próprio pronome, virou pela metade.
 — Bento — disse Vitorino. — Vai subir com você.
 
 ## II. O Copo
+
+::cena lugar="cindra" tensao="alta" revela="antes-de-cair-o-copo,bento"
 
 Bento apertou a mão dela do jeito de quem aprendeu a apertar mão lendo
 sobre isso.
@@ -248,6 +252,8 @@ mandei um homem pro Vau Queimado. Faz três semanas que não desce barca.
 E faz três semanas que o número dele sobe todo dia.
 
 ## III. O Preço da Passagem
+
+::cena lugar="cindra" tensao="baixa"
 
 Ficaram os dois sentados na beirada do píer velho depois, com as pernas
 penduradas sobre a água, enquanto o cais atrás se ocupava do sal

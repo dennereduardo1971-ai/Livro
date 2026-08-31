@@ -2,6 +2,8 @@
 
 ## I. Regras de Bordo
 
+::cena lugar="cindra" tensao="baixa" revela="boa-hora"
+
 A *Boa Hora* saiu de Cindra às cinco e dez, e Bento passou os primeiros
 vinte minutos de viagem explicando que tinha sido às cinco e dez e não às
 cinco, e que ele tinha avisado.
@@ -79,6 +81,8 @@ quieto por uns bons quinze minutos, o que Íris entendeu, corretamente,
 como o maior elogio que ele sabia fazer.
 
 ## II. Álice
+
+::cena lugar="aguas-paradas" tensao="baixa" revela="alice,enxame"
 
 Ela reparou na mulher antes de saber que ia reparar.
 
@@ -162,6 +166,8 @@ devagar por cima do mastro, com as mãos cruzadas na barriga.
 
 ## III. O Porto de Lenha
 
+::cena lugar="aguas-paradas" tensao="media"
+
 No terceiro dia a *Boa Hora* entrou na boca das Águas Paradas, e a água
 mudou de cor e de cheiro.
 
@@ -205,6 +211,8 @@ outro andar. Vinte anos depois. Ainda ali.
 prático.
 
 Íris fez o que a Mansa disse.
+
+::cena lugar="porto-de-lenha" tensao="media"
 
 O porto de lenha ficava na saída do pântano, três horas depois: um
 trapiche de tábuas, um barracão sem parede, pilhas de madeira cortada e
