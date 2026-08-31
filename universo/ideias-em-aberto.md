@@ -329,6 +329,11 @@ internalizado a "gramática" da Sala de Espera através da ação.
   explicada. Manter o padrão.
 
 ## Notas de direção — romance Íris/Alice (2026-08-31)
+> **Substituído e ampliado por `arco-romance.md` (2026-08-31).** Decisão
+> do autor: o romance é fio estruturante do livro inteiro, com dois
+> toques por capítulo e a escada de sete degraus. Consultar aquele
+> arquivo antes de escrever qualquer capítulo; o que segue aqui é o
+> registro da decisão original.
 Decisão do autor, canônica: Alice é o par romântico de Íris, e a paixão
 **não** nasce do resgate no rio. Regras de escrita daqui pra frente:
 - O salvamento gera **dívida**, não atração: Íris fica arisca, agradece

@@ -224,76 +224,67 @@
 
 ## Alice
 > **Pronúncia:** sílaba tônica na primeira — *Álice*. Ela corrige todo
-> mundo, sempre, sabe que parece implicância e corrige mesmo assim.
-> Usar a correção como caracterização recorrente.
+> mundo, sempre, sabe que parece implicância e corrige mesmo assim. É a
+> primeira coisa que ela defende sobre si mesma; usar como caracterização
+> recorrente.
 
 - **Papel na história:** contramestre e faz-tudo da barca *Boa Hora*;
   conhecida de todo o rio entre Cindra e o Vau Queimado. Conhece Íris no
-  Capítulo 4. **Par romântico de Íris** (ver regra de construção abaixo).
+  Capítulo 4 e entra no elenco fixo no Capítulo 5, quando decide subir
+  com Íris e Bento. **Par romântico de Íris** — arco completo e cadência
+  capítulo a capítulo em `arco-romance.md`, que manda sobre este item.
 - **Técnica:** **Enxame** (eixo interno: TDAH — nunca nomeado em texto).
   Nomeada por ela mesma aos ~15 anos. Ver `sistema-de-poderes.md`.
 - **Origem:** ainda não estabelecida — não perguntada em cena, não
   inventar até precisar.
+- **Motivação própria:** a irmã mora em Vau Queimado; cinco semanas sem
+  notícia. Ela conta isso enfiado no meio de um assunto banal, que é o
+  jeito dela de dizer coisa grande sem receber pena.
 - **Como se apresenta:** sem ritmo. Começa seis coisas em três minutos e
   fecha nenhuma; conserta o que não ia consertar e deixa pendente o que
   prometeu; fala em galhos, sai do assunto e volta ao assunto muito
   depois, e no meio de um galho solta a informação mais importante da
   cena sem marcar que é importante — **usar isso sempre: as revelações
   de trama chegam pela boca dela, escondidas em digressão**.
-- **Arco emocional pretendido:** começa administrando a própria vergonha
-  do crash com humor preventivo (ri de si antes que riam dela); caminho é
-  deixar de precisar compensar. Sem cura.
+- **Marcas recorrentes:** a trança de corda pela metade; objetos
+  largados no meio do convés; conserto adiado desde maio; a bota
+  esquerda; ofende cabras.
+- **Arco emocional pretendido:** começa achando que não tem meio-termo
+  ("mil coisas por dia sem terminar nenhuma, e um dia oito segundos
+  perfeitos e três dias no chão"), tratando o crash como defeito moral e
+  rindo de si antes que riam dela; caminho é parar de medir o próprio
+  valor pelo pico. Sem cura.
 - **Contradições internas:** é a pessoa mais competente da barca e a que
   mais pede desculpa; salva a vida de alguém e no dia seguinte se
   desculpa por não servir pra nada.
-- **Linha vermelha:** nunca finge lembrar a ordem do que fez. Prefere
-  dizer "não teve ordem" e ficar sem crédito a inventar uma sequência
-  heroica.
-
-### Regra de construção do romance Íris × Alice (não quebrar)
-1. **A paixão não nasce do salvamento.** O resgate no Cap. 5 gera, em
-   Íris, *raiva* difusa e vergonha por ter sido vista mal — não gratidão
-   romântica. Ela evita Alice por um dia e meio.
-2. O vínculo real nasce de três coisas pequenas e não declaradas: o
-   barulho de Alice ser o primeiro ruído externo que não compete com o
-   interno de Íris; Íris consertar a tábua sem contar a ninguém; e Alice
-   perguntar **"quantos são?"** — a primeira pessoa na vida de Íris a
-   fazer uma pergunta prática em vez de recuar.
-3. Construção **lenta e por acúmulo**: nenhuma declaração, nenhum quase-
-   beijo, nenhum ciúme de terceiros por muitos capítulos. O afeto aparece
-   só em ato prático e em quanto silêncio elas conseguem dividir.
-4. Nenhuma das duas "cura" ou "completa" a outra. Alice não silencia as
-   presenças; Íris não organiza o Enxame.
-
-## Alice
-- **Pronúncia:** com o A forte e tônico à frente — *Álice*. Ela corrige
-  todo mundo, sempre, e sabe que parece implicância. É a primeira coisa
-  que ela defende sobre si mesma.
-- **Papel na história:** contramestre e faz-tudo da barca *Boa Hora*;
-  entra no elenco fixo a partir do Capítulo 5, quando decide subir com
-  Íris e Bento. **Par romântico de Íris** — construção lenta e sutil ao
-  longo dos livros. A paixão **não** nasce do salvamento no rio; nasce da
-  convivência, e o primeiro elo real é a noite da vigia, quando ela
-  pergunta "quantos?" e trata a resposta como informação comum.
-- **Técnica:** **Enxame** (eixo interno: TDAH — nunca nomeado em texto).
-  Ver `sistema-de-poderes.md`.
-- **Motivação própria:** a irmã mora em Vau Queimado; cinco semanas sem
-  notícia. Ela conta isso enfiado no meio de um assunto banal, que é o
-  jeito dela de dizer coisa grande sem receber pena.
-- **Marcas recorrentes:** a trança de corda pela metade; objetos
-  largados no meio do convés; conserto adiado desde maio; conversa em
-  galhos, que sempre volta ao tronco depois; ofende cabras.
-- **Arco emocional pretendido:** começa achando que não tem meio-termo
-  ("mil coisas por dia sem terminar nenhuma, e um dia oito segundos
-  perfeitos e três dias no chão") e tratando o crash como defeito moral;
-  caminho é parar de medir o próprio valor pelo pico. Sem cura.
 - **Relação com Íris:** o barulho externo dela é a primeira coisa que já
   fez o barulho interno de Íris ficar menor — e isso incomoda Íris antes
   de agradar. Alice não faz cerimônia com a Sala de Espera: pergunta,
-  registra e segue.
-- **Linha vermelha:** nunca finge que o hiperfoco é controlável nem
-  promete repetir o que fez no rio. E nunca trata a técnica de outra
-  pessoa como espetáculo.
+  registra e segue. Também não cobra o que percebe (viu quem pregou a
+  tábua e só comentou que a tábua não pula mais).
+- **Linha vermelha:** nunca finge lembrar a ordem do que fez, nunca
+  finge que o hiperfoco é controlável, nunca promete repetir o que fez no
+  rio, e nunca trata a técnica de outra pessoa como espetáculo.
+
+### Regra de construção do romance Íris × Alice (resumo — a régua é `arco-romance.md`)
+1. **A paixão não nasce do salvamento.** O resgate no Cap. 5 gera, em
+   Íris, dívida e raiva difusa — não gratidão romântica. Ela evita Alice
+   por um dia e meio.
+2. O vínculo real nasce de coisas pequenas e não declaradas: o barulho
+   de Alice ser o primeiro ruído externo que não compete com o interno
+   de Íris; Alice ler a terceira regra de Íris como profissão e não como
+   doença; Íris consertar a tábua sem contar a ninguém; e Alice
+   perguntar **"quantos são?"** — a primeira pessoa na vida de Íris a
+   fazer uma pergunta prática em vez de recuar.
+3. Construção **lenta e por acúmulo**, mas presente em **todo capítulo**:
+   dois toques por capítulo, um agido e um dito (ver `arco-romance.md`,
+   seção 4). Nenhuma declaração, nenhum quase-beijo, nenhum ciúme de
+   terceiros por muitos capítulos.
+4. Nenhuma das duas "cura" ou "completa" a outra. Alice não silencia as
+   presenças; Íris não organiza o Enxame.
+5. O conflito do casal é interno e não precisa de vilão: Íris tem quatro
+   companhias que nunca vão embora; Alice nunca terminou nada na vida e
+   quer terminar essa.
 
 ## Mestre Nestor
 - **Papel:** mestre da *Boa Hora*. Bom homem, péssimo pagador. Sobe até o

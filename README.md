@@ -13,8 +13,13 @@ reflexão. Batalhas não são só coreografia — são metáforas em movimento.
 ## Como este repositório funciona
 - `/universo/` — a "bíblia" do mundo. Fonte da verdade. Se não está aqui,
   não é canônico ainda.
+- `/universo/arco-romance.md` — a régua do arco Íris × Alice: escada de
+  sete degraus, objetos recorrentes e os dois toques obrigatórios por
+  capítulo. Consultar antes de escrever qualquer capítulo.
 - `/manuscrito/` — os capítulos de verdade, em markdown, um arquivo por
   capítulo.
+- `/app/` — o site de leitura (Astro), publicado no GitHub Pages a cada
+  push pela ação em `.github/workflows/pages.yml`.
 - `/revisao/` — histórico de notas de revisão por capítulo.
 - `.claude/agents/` — os três subagentes (ideias, lógica do universo,
   revisor). Ver seção abaixo.

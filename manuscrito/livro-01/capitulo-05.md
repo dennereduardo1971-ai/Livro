@@ -230,6 +230,28 @@ preferia ter se afogado a ficar devendo.
 
 *Fala obrigada*, disse a Mansa.
 
+Íris não falou. Passou um dia e meio sem falar, e o que ela fez nesse
+dia e meio foi evitar um pedaço de convés de sete metros por três com a
+competência de quem já evitou lugares muito piores. Descia quando Alice
+subia. Comia depois. Descobriu que tinha decorado o ritmo de uma pessoa
+que não tinha ritmo nenhum, e que estava usando esse ritmo pra não
+esbarrar nela, e a Rápida achou aquilo tudo muito interessante e disse
+isso mais vezes do que era necessário.
+
+Na segunda noite, com a barca dormindo e o rapaz da caldeira cochilando
+em pé, Íris pegou emprestado o martelo do barracão de ferramenta e
+pregou a tábua solta.
+
+Fez feio. Estava escuro, os pregos eram curtos demais, e ela entortou
+dois, que teve de arrancar e jogar na água pra não deixar prova. Levou
+quarenta minutos numa coisa que Alice teria resolvido em quatro, e
+resolvido pior, e não teria terminado. No fim ela pisou em cima pra
+testar e a tábua não deu pulo nenhum.
+
+Não contou pra ninguém. Não era por modéstia. Era porque dizer em voz
+alta transformaria aquilo numa resposta, e uma resposta admitiria que
+tinha havido uma pergunta.
+
 Ela falou obrigada no dia seguinte, tarde demais e mal, do jeito de quem
 paga uma conta.
 
@@ -285,9 +307,17 @@ Era a mesma corda. A trança continuava pela metade.
 — Você não devia estar de pé — disse Íris.
 
 — Eu não tô de pé. Tô sentada. — Alice deu tapinha na tábua ao lado. —
-Senta. Aqui não tem tábua solta. A solta é aquela lá, eu já falei.
+Senta.
 
 Íris sentou.
+
+— A de lá alguém pregou — disse Alice, olhando o rio. — Torto. Com prego
+de caixote, que é o que a gente tem, e vai soltar de novo na primeira
+água grande. — Puxou a corda pro colo. — Mas não pula mais.
+
+Íris não disse nada, e ficou com o rosto virado pro rio de propósito, e
+teve a impressão exata e desconfortável de que aquilo também tinha sido
+percebido e também não ia ser dito.
 
 O rio de noite era outra coisa: preto, largo, com a lua se quebrando em
 pedaços na esteira da barca, e o mato das duas margens fazendo aquele
@@ -389,3 +419,14 @@ provavelmente já estava pensando na próxima coisa, respondeu:
 — Ninguém disse nada.
 
 — Pois é — disse Íris.
+
+Ficaram ali até o turno virar. Em algum momento Alice adormeceu sentada,
+no meio de uma frase sobre farinha, com a corda pela metade no colo, e
+Íris ficou acordada a vigia inteira do jeito que sempre ficou.
+
+Só que dessa vez ela reparou numa coisa e não gostou de ter reparado:
+havia quatro presenças na Sala de Espera dela, e nenhuma das quatro
+tinha dito uma palavra na última meia hora, e o motivo não era que elas
+tinham ido embora.
+
+Era que ela estava ocupada olhando a pessoa dormir.

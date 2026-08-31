@@ -141,12 +141,41 @@ achava aquilo tudo muito estranho, e voltou pra prima de Boca Grande.
 
 Íris não disse quase nada. Não precisou.
 
+No meio disso tudo Alice parou de falar por um segundo, olhou pra
+posição em que Íris estava sentada — de costas pra amurada, de frente
+pro convés inteiro — e disse:
+
+— Você é de vigia.
+
+— Como?
+
+— Senta de frente pro barulho. Quem é de vigia senta assim. Meu pai
+sentava assim, e ele não era de vigia coisa nenhuma, era vigia mesmo,
+trinta e um anos de porto. — E voltou pra prima de Boca Grande.
+
+Íris ficou com aquilo. Vinte anos disfarçando aquela terceira regra, e
+ninguém nunca tinha reparado; a primeira pessoa que reparou não achou
+que fosse doença, achou que fosse profissão, e devolveu pra ela uma
+explicação inteira, de graça, sem cobrar nada em troca e sem saber que
+tinha dado nada.
+
 E em algum momento daquela tarde aconteceu uma coisa que ela só foi
 entender à noite: por três horas seguidas, não tinha ouvido a Rápida.
 
 Não porque a Rápida tivesse ido embora. Porque, pela primeira vez em
 muitos anos, o barulho de fora estava ganhando do barulho de dentro, e
 não era um barulho ruim.
+
+À noite, na hora da comida, Alice sentou do lado dela com a lata de
+peixe e falou o tempo todo, de boca cheia, sobre a diferença entre um
+nó que segura e um nó que só parece que segura.
+
+A regra mais antiga de Íris era não durante a comida, e a regra tinha
+um preço que ela pagava havia dezessete anos: comer em silêncio, num
+canto, com a atenção toda voltada pra dentro pra manter a porta
+fechada. Naquela noite a porta ficou fechada sozinha. Ela comeu o prato
+inteiro ouvindo falar de nó, e só percebeu no fim que tinha comido
+olhando pra pessoa e não pro prato.
 
 Isso incomodou Íris de um jeito que ela não soube nomear, e ela pensou
 nisso deitada no convés naquela noite, olhando as estrelas passarem
