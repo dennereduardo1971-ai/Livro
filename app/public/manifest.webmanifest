@@ -1,0 +1,13 @@
+{
+  "name": "A Casa do Cais",
+  "short_name": "Casa do Cais",
+  "description": "Leitura semanal no mapa da Casa do Cais.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14120f",
+  "theme_color": "#14120f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

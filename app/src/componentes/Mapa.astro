@@ -1,0 +1,409 @@
+---
+import { LUGARES, RIO } from '../dados/lugares';
+
+interface Props {
+  /** 'pagina' = mapa inteiro; 'flutuante' = painel de leitura */
+  modo?: 'pagina' | 'flutuante';
+}
+const { modo = 'pagina' } = Astro.props;
+
+/** as sete espigas de Sete Palhas — três cobertas de breu */
+const espigas = Array.from({ length: 7 }, (_, i) => ({
+  x: 418 + (i % 4) * 24,
+  y: 332 + Math.floor(i / 4) * 26,
+  caida: i < 3,
+}));
+---
+
+<div class="mapa" data-modo={modo}>
+  <svg
+    viewBox="0 0 620 980"
+    role="img"
+    aria-label="Mapa da Casa do Cais: o rio Vagaroso, da Cabeceira a Boca Grande"
+    class="parede"
+  >
+    <defs>
+      <filter id="grao-reboco" x="-10%" y="-10%" width="120%" height="120%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" seed="7" result="n" />
+        <feColorMatrix in="n" type="saturate" values="0" result="c" />
+        <feComponentTransfer in="c" result="g">
+          <feFuncA type="linear" slope="0.34" />
+        </feComponentTransfer>
+        <feBlend in="SourceGraphic" in2="g" mode="multiply" />
+      </filter>
+      <filter id="borda-breu" x="-40%" y="-40%" width="180%" height="200%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" seed="3" result="t" />
+        <feDisplacementMap in="SourceGraphic" in2="t" scale="6" xChannelSelector="R" yChannelSelector="G" />
+      </filter>
+      <radialGradient id="halo-luz">
+        <stop offset="0%" stop-color="var(--luz)" stop-opacity="0.95" />
+        <stop offset="35%" stop-color="var(--luz)" stop-opacity="0.4" />
+        <stop offset="100%" stop-color="var(--luz)" stop-opacity="0" />
+      </radialGradient>
+      <linearGradient id="lampiao" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#fff" stop-opacity="0.16" />
+        <stop offset="55%" stop-color="#fff" stop-opacity="0" />
+      </linearGradient>
+    </defs>
+
+    <g id="camera">
+      <!-- 1. reboco: o mundo permanente ----------------------------- -->
+      <rect width="620" height="980" fill="var(--reboco)" />
+      <rect width="620" height="980" fill="var(--reboco)" filter="url(#grao-reboco)" opacity="0.85" />
+      <rect id="deriva-lampiao" width="620" height="980" fill="url(#lampiao)" />
+
+      <!-- 2. camadas antigas: escrivães de antes --------------------- -->
+      <g class="camadas-antigas" stroke="var(--reboco-linha)" fill="none" opacity="0.12">
+        <path d="M 90 210 C 160 250, 150 330, 96 372" stroke-width="1.5" />
+        <path d="M 470 560 C 520 600, 528 660, 486 704" stroke-width="1.5" />
+        <path d="M 120 640 h 66 M 120 660 h 40 M 120 680 h 54" stroke-width="1.2" />
+        <text x="86" y="196" font-size="11" fill="var(--reboco-linha)" font-style="italic">estrada velha</text>
+        <text x="462" y="546" font-size="11" fill="var(--reboco-linha)" font-style="italic">medida antiga</text>
+      </g>
+
+      <!-- 5. faixa de reboco cru: nunca preenchida ------------------- -->
+      <g class="reboco-cru">
+        <rect x="0" y="0" width="620" height="88" fill="var(--reboco)" />
+        <path d="M 0 88 H 620" stroke="var(--reboco-linha)" stroke-width="1" stroke-dasharray="2 9" opacity="0.5" />
+        <text x="310" y="48" text-anchor="middle" font-size="12" fill="var(--reboco-linha)" opacity="0.35"
+          letter-spacing="3">— — —</text>
+      </g>
+
+      <!-- 3. o rio Vagaroso: corrente que nunca para ------------------ -->
+      <path id="rio" d={RIO} fill="none" stroke="var(--reboco-sombra)" stroke-width="9" stroke-linecap="round" opacity="0.55" />
+      <path id="corrente" d={RIO} fill="none" stroke="var(--reboco-linha)" stroke-width="2"
+        stroke-linecap="round" stroke-dasharray="14 26" opacity="0.5" />
+
+      <!-- 4. lugares -------------------------------------------------- -->
+      <g id="lugares">
+        {LUGARES.filter((l) => !l.mudo).map((l) => (
+          <g class="lugar" data-id={l.id} data-revela={l.revelaEm} tabindex="0" role="button"
+             aria-label={l.nome} transform={`translate(${l.x} ${l.y})`}>
+            <circle class="alvo" r="26" fill="transparent" />
+            {l.id === 'sete-palhas' ? (
+              <g transform="translate(-452 -350)">
+                {espigas.map((e) => (
+                  <path class={e.caida ? 'espiga caida' : 'espiga'}
+                        d={`M ${e.x} ${e.y} l 0 -14 M ${e.x} ${e.y - 12} l -5 -4 M ${e.x} ${e.y - 12} l 5 -4 M ${e.x} ${e.y - 6} l -5 -4 M ${e.x} ${e.y - 6} l 5 -4`}
+                        stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" />
+                ))}
+              </g>
+            ) : l.id === 'cindra' || l.id === 'boca-grande' ? (
+              <g class="glifo">
+                <path d="M -13 6 h 26 M -9 6 v -9 M 0 6 v -14 M 9 6 v -9" stroke="var(--reboco-linha)"
+                      stroke-width="1.8" fill="none" stroke-linecap="round" />
+              </g>
+            ) : (
+              <g class="glifo">
+                <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" />
+                <circle r="1.6" fill="var(--reboco-linha)" />
+              </g>
+            )}
+          </g>
+        ))}
+      </g>
+
+      <!-- 6. breu: só cresce ----------------------------------------- -->
+      <g id="breu" filter="url(#borda-breu)">
+        <g class="marca-breu" data-lugar="cabeceira">
+          <ellipse cx="296" cy="134" rx="21" ry="15" />
+          <path d="M 288 150 q 3 26 -1 40 q -6 -16 -3 -40 Z" />
+          <path d="M 306 150 q 5 18 2 28 q -7 -12 -6 -28 Z" />
+        </g>
+        <g class="marca-breu" data-lugar="aguas-paradas">
+          <ellipse cx="176" cy="488" rx="23" ry="16" />
+          <path d="M 168 506 q 4 30 0 44 q -7 -18 -4 -44 Z" />
+        </g>
+        <g class="marca-breu" data-lugar="a-fileira">
+          <ellipse cx="390" cy="703" rx="19" ry="13" />
+          <path d="M 388 718 q 3 22 0 32 q -6 -14 -4 -32 Z" />
+        </g>
+        <g class="marca-breu" data-lugar="sete-palhas">
+          {espigas.filter((e) => e.caida).map((e) => (
+            <ellipse cx={e.x} cy={e.y - 7} rx="9" ry="9" />
+          ))}
+          <path d="M 420 344 q 3 20 0 30 q -6 -14 -4 -30 Z" />
+        </g>
+      </g>
+
+      <!-- rótulos: pintados por cima do breu, pra continuarem legíveis -->
+      <g id="rotulos">
+        {LUGARES.filter((l) => !l.mudo).map((l) => (
+          <text class="rotulo" data-id={l.id} x={(l.id === 'casa-do-cais' ? -14 : 0) + l.x}
+                y={l.y + (['o-poco', 'a-fileira', 'casa-do-cais'].includes(l.id) ? 30 : l.id === 'sete-palhas' ? -34 : -18)}
+                text-anchor="middle" font-size="13">{l.nome}</text>
+        ))}
+      </g>
+
+      <!-- 7. luz: o presente do leitor, de outra matéria -------------- -->
+      <g id="luz" class="oculta" aria-hidden="true">
+        <circle class="halo" r="54" fill="url(#halo-luz)" />
+        <circle class="nucleo" r="7" fill="var(--luz)" />
+      </g>
+    </g>
+  </svg>
+
+  <div class="ficha" hidden>
+    <button class="fechar" type="button" aria-label="Fechar">✕</button>
+    <h3 class="ficha-nome"></h3>
+    <p class="ficha-descricao"></p>
+    <p class="ficha-representa"></p>
+    <div class="ficha-passado"></div>
+    <p class="ficha-estado"></p>
+  </div>
+</div>
+
+<script>
+  import { LUGARES, POR_ID } from '../dados/lugares';
+  import { progresso } from '../scripts/progresso';
+
+  const REDUZIR = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  document.querySelectorAll<HTMLElement>('.mapa').forEach((mapa) => {
+    if (mapa.dataset.pronto) return;
+    mapa.dataset.pronto = '1';
+
+    const svg = mapa.querySelector('svg')!;
+    const camera = svg.querySelector<SVGGElement>('#camera')!;
+    const rio = svg.querySelector<SVGPathElement>('#rio')!;
+    const luz = svg.querySelector<SVGGElement>('#luz')!;
+    const ficha = mapa.querySelector<HTMLElement>('.ficha')!;
+    const lido = progresso.ler();
+
+    /* --- proteção de spoiler: o mapa só mostra o que já foi lido --- */
+    for (const g of svg.querySelectorAll<SVGGElement>('.lugar')) {
+      const revela = Number(g.dataset.revela ?? 1);
+      g.classList.toggle('apagado', revela > lido);
+      svg.querySelector(`#rotulos .rotulo[data-id="${g.dataset.id}"]`)?.classList.toggle('apagado', revela > lido);
+    }
+    for (const marca of svg.querySelectorAll<SVGGElement>('.marca-breu')) {
+      const lugar = POR_ID.get(marca.dataset.lugar!);
+      const quando = lugar?.breu?.revelaEm ?? 99;
+      marca.classList.toggle('escondida', quando > lido);
+      if (quando === lido) marca.classList.add('escorrendo');
+    }
+
+    /* --- ficha do lugar, com zoom cinematográfico ------------------ */
+    let aberta: string | null = null;
+
+    function abrirFicha(id: string) {
+      const l = POR_ID.get(id);
+      if (!l || l.mudo) return;
+      const bloqueado = l.revelaEm > lido;
+      aberta = id;
+
+      ficha.querySelector('.ficha-nome')!.textContent = bloqueado ? 'Ainda não' : l.nome;
+      ficha.querySelector('.ficha-descricao')!.textContent = bloqueado
+        ? 'Você ainda não leu o suficiente para que este lugar tenha nome.'
+        : l.descricao;
+      (ficha.querySelector('.ficha-representa') as HTMLElement).textContent = bloqueado ? '' : l.representa;
+
+      const passado = l.passado.filter((p) => p.revelaEm <= lido);
+      ficha.querySelector('.ficha-passado')!.innerHTML = bloqueado
+        ? ''
+        : passado.length
+          ? `<h4>o que passou</h4><ul>${passado.map((p) => `<li>${p.texto}</li>`).join('')}</ul>`
+          : '';
+
+      const estado = ficha.querySelector('.ficha-estado') as HTMLElement;
+      const temEstado = !bloqueado && l.estado && l.estado.revelaEm <= lido;
+      estado.textContent = temEstado ? l.estado!.texto : '';
+      estado.hidden = !temEstado;
+
+      ficha.hidden = false;
+      requestAnimationFrame(() => ficha.classList.add('visivel'));
+      mapa.classList.add('com-ficha');
+      if (!REDUZIR) {
+        const escala = 1.7;
+        camera.style.transform = `translate(${310 - l.x * escala}px, ${
+          300 - l.y * escala
+        }px) scale(${escala})`;
+      }
+    }
+
+    function fecharFicha() {
+      aberta = null;
+      ficha.classList.remove('visivel');
+      mapa.classList.remove('com-ficha');
+      camera.style.transform = '';
+      setTimeout(() => { if (!aberta) ficha.hidden = true; }, 400);
+    }
+
+    for (const g of svg.querySelectorAll<SVGGElement>('.lugar')) {
+      const id = g.dataset.id!;
+      g.addEventListener('click', () => (aberta === id ? fecharFicha() : abrirFicha(id)));
+      g.addEventListener('keydown', (e) => {
+        if ((e as KeyboardEvent).key === 'Enter' || (e as KeyboardEvent).key === ' ') {
+          e.preventDefault();
+          abrirFicha(id);
+        }
+      });
+    }
+    ficha.querySelector('.fechar')!.addEventListener('click', fecharFicha);
+    svg.addEventListener('click', (e) => {
+      if (!(e.target as Element).closest('.lugar')) fecharFicha();
+    });
+
+    /* --- o brilho: luz do aplicativo, nunca tinta na parede -------- */
+    const comprimento = rio.getTotalLength();
+    const pontoNoRio = (t: number) => rio.getPointAtLength(Math.max(0, Math.min(1, t)) * comprimento);
+
+    let atual: { x: number; y: number; t: number } | null = null;
+    let animacao: Animation | null = null;
+
+    function mover(id: string, tensao: string, tempo: string) {
+      const destino = POR_ID.get(id);
+      if (!destino || destino.mudo || destino.revelaEm > lido) return;
+
+      luz.classList.remove('oculta');
+      luz.dataset.tensao = tensao;
+      luz.dataset.tempo = tempo;
+
+      const alvo = { x: destino.x, y: destino.y, t: destino.t };
+      if (!atual || REDUZIR) {
+        atual = alvo;
+        luz.style.transform = `translate(${alvo.x}px, ${alvo.y}px)`;
+        return;
+      }
+      if (atual.x === alvo.x && atual.y === alvo.y) return;
+
+      /* percorre o rio em vez de saltar — o mapa vende a geografia */
+      const passos: string[] = [`translate(${atual.x}px, ${atual.y}px)`];
+      const a = pontoNoRio(atual.t);
+      passos.push(`translate(${a.x}px, ${a.y}px)`);
+      const n = Math.max(2, Math.round(Math.abs(alvo.t - atual.t) * 26));
+      for (let i = 1; i <= n; i++) {
+        const p = pontoNoRio(atual.t + ((alvo.t - atual.t) * i) / n);
+        passos.push(`translate(${p.x}px, ${p.y}px)`);
+      }
+      passos.push(`translate(${alvo.x}px, ${alvo.y}px)`);
+
+      animacao?.cancel();
+      animacao = luz.animate(
+        passos.map((transform) => ({ transform })),
+        { duration: 700 + Math.abs(alvo.t - atual.t) * 1400, easing: 'cubic-bezier(.4,0,.2,1)', fill: 'forwards' },
+      );
+      atual = alvo;
+    }
+
+    (mapa as any).irPara = mover;
+    window.addEventListener('cena', (e) => {
+      const d = (e as CustomEvent).detail;
+      mover(d.lugar, d.tensao, d.tempo);
+    });
+  });
+</script>
+
+<style>
+  .mapa { position: relative; }
+  .parede {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.28);
+  }
+  #camera { transition: transform 620ms cubic-bezier(0.32, 0.08, 0.24, 1); transform-origin: 0 0; }
+  .com-ficha .parede { filter: saturate(0.85) brightness(0.82); }
+
+  #corrente { animation: correr 9s linear infinite; }
+  @keyframes correr { to { stroke-dashoffset: -40; } }
+
+  #deriva-lampiao { animation: lampiao 47s ease-in-out infinite alternate; opacity: 0.5; }
+  @keyframes lampiao {
+    from { transform: translate(-4%, -2%); opacity: 0.35; }
+    to { transform: translate(5%, 3%); opacity: 0.6; }
+  }
+
+  .lugar { cursor: pointer; }
+  .rotulo {
+    pointer-events: none;
+    font-family: var(--serifa);
+    fill: var(--reboco-linha);
+    letter-spacing: 0.04em;
+    paint-order: stroke;
+    stroke: var(--reboco);
+    stroke-width: 3px;
+  }
+  .lugar.apagado { opacity: 0.28; }
+  .rotulo.apagado { fill: var(--reboco-sombra); opacity: 0.4; }
+  .lugar:hover .glifo, .lugar:focus-visible .glifo { transform: scale(1.25); }
+  .glifo { transition: transform 400ms var(--respiro); }
+  .lugar:focus-visible { outline: none; }
+  .lugar:focus-visible ~ #rotulos .rotulo { fill: var(--reboco-linha); }
+
+  .marca-breu { fill: var(--breu); opacity: 0.9; }
+  .marca-breu.escondida { display: none; }
+  .marca-breu.escorrendo { animation: escorrer 3s var(--respiro) both; transform-origin: center top; }
+  @keyframes escorrer {
+    from { transform: scaleY(0.05); opacity: 0; }
+    40% { opacity: 0.9; }
+    to { transform: scaleY(1); opacity: 0.9; }
+  }
+
+  .espiga.caida { opacity: 0.25; }
+
+  /* a luz nunca pertence ao reboco */
+  #luz {
+    mix-blend-mode: screen;
+    pointer-events: none;
+    transition: opacity 700ms var(--respiro);
+  }
+  #luz.oculta { opacity: 0; }
+  #luz .halo { animation: respirar 4s ease-in-out infinite; }
+  #luz .nucleo { animation: respirar-nucleo 4s ease-in-out infinite; }
+  @keyframes respirar {
+    0%, 100% { transform: scale(0.86); opacity: 0.55; }
+    50% { transform: scale(1.12); opacity: 0.9; }
+  }
+  @keyframes respirar-nucleo {
+    0%, 100% { opacity: 0.75; }
+    50% { opacity: 1; }
+  }
+  #luz[data-tensao='baixa'] .halo { animation-duration: 5.5s; }
+  #luz[data-tensao='alta'] .halo,
+  #luz[data-tensao='alta'] .nucleo { animation-duration: 1.9s; }
+  #luz[data-tensao='alta'] .nucleo, #luz[data-tensao='alta'] .halo { fill: var(--luz-alta); }
+  #luz[data-tensao='alta'] { filter: url(#borda-breu) saturate(1.2); }
+  /* memória, não presente: luz fria e sem pulso */
+  #luz[data-tempo='antes-da-folga'] .nucleo,
+  #luz[data-tempo='comeco-da-folga'] .nucleo { fill: var(--luz-fria); }
+  #luz[data-tempo='antes-da-folga'] .halo,
+  #luz[data-tempo='comeco-da-folga'] .halo { fill: var(--luz-fria); animation: none; opacity: 0.4; }
+  #luz[data-tempo='antes-da-folga'] .nucleo,
+  #luz[data-tempo='comeco-da-folga'] .nucleo { animation: none; opacity: 0.7; }
+
+  /* ficha do lugar */
+  .ficha {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    background: var(--fundo-alto);
+    border-top: 1px solid var(--borda);
+    border-radius: 10px 10px 2px 2px;
+    padding: 1.1rem 1.2rem 1.4rem;
+    transform: translateY(102%);
+    transition: transform 520ms var(--respiro);
+    box-shadow: 0 -14px 40px rgba(0, 0, 0, 0.25);
+    max-height: 68%;
+    overflow-y: auto;
+  }
+  .ficha.visivel { transform: translateY(0); }
+  .ficha h3 { margin: 0 0 0.4rem; font-size: 1.25rem; }
+  .ficha h4 {
+    margin: 1rem 0 0.3rem;
+    font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--tinta-fraca); font-family: var(--sem-serifa); font-weight: 600;
+  }
+  .ficha p { margin: 0.35rem 0; font-size: 0.92rem; line-height: 1.6; }
+  .ficha .ficha-representa { color: var(--tinta-fraca); font-style: italic; }
+  .ficha ul { margin: 0; padding-left: 1.1rem; font-size: 0.9rem; line-height: 1.55; }
+  .ficha li { margin-bottom: 0.3rem; }
+  .ficha .ficha-estado {
+    margin-top: 0.9rem; padding-top: 0.7rem; border-top: 1px solid var(--borda);
+    font-size: 0.86rem; color: var(--realce);
+  }
+  .fechar {
+    position: absolute; top: 0.6rem; right: 0.7rem;
+    background: none; border: 0; color: var(--tinta-fraca); font-size: 1rem; cursor: pointer;
+  }
+</style>

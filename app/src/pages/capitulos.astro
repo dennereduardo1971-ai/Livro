@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import { listarCapitulos } from '../dados/capitulos';
+const capitulos = await listarCapitulos();
+---
+<Base titulo="Capítulos · A Casa do Cais">
+  <main class="envoltorio">
+    <h1>Capítulos</h1>
+    <p class="subtitulo">Publicação semanal. O mapa acompanha o que você já leu.</p>
+    <ul class="lista">
+      {capitulos.map((c) => (
+        <li class="cartao" data-numero={c.numero}>
+          <a href={`/${c.slug}`}>
+            <h2>{c.titulo}</h2>
+            <p class="partes">{c.partes.join(' · ')}</p>
+          </a>
+          <p class="meta">
+            <span class="selo estado-leitura">não lido</span>
+            <span class="subtitulo">{Math.max(1, Math.round(c.palavras / 220))} min</span>
+          </p>
+        </li>
+      ))}
+    </ul>
+  </main>
+  <script>
+    import { progresso, marcador } from '../scripts/progresso';
+    const lido = progresso.ler();
+    document.querySelectorAll<HTMLElement>('.lista li').forEach((li) => {
+      const n = Number(li.dataset.numero);
+      const selo = li.querySelector('.estado-leitura')!;
+      const m = marcador.ler(`capitulo-${n}`);
+      if (n <= lido) { selo.textContent = 'lido'; li.classList.add('lido'); }
+      else if (m > 0.02) { selo.textContent = `${Math.round(m * 100)}%`; }
+      else if (n === lido + 1) { selo.textContent = 'novo'; selo.classList.add('novo'); }
+    });
+  </script>
+  <style>
+    main { padding-block: 1.5rem 3rem; }
+    h1 { margin-bottom: 0.2rem; }
+    .lista { list-style: none; padding: 0; margin: 1.5rem 0 0; display: grid; gap: 0.7rem; }
+    .lista a { text-decoration: none; display: block; }
+    .lista h2 { margin: 0 0 0.25rem; font-size: 1.15rem; }
+    .partes { margin: 0; color: var(--tinta-fraca); font-size: 0.86rem; }
+    .meta { display: flex; align-items: center; gap: 0.6rem; margin: 0.7rem 0 0; }
+    .selo.novo { color: var(--realce); border-color: var(--realce); }
+    li.lido h2 { color: var(--tinta-fraca); }
+  </style>
+</Base>

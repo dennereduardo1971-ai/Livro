@@ -2,6 +2,8 @@
 
 ## I. O Pagamento
 
+::cena lugar="a-fileira" tensao="media"
+
 Íris dormiu quase dois dias inteiros e acordou com a sensação de ter
 sido devolvida ao próprio corpo por alguém que não teve cuidado nenhum
 ao guardar as peças. Os dedos ainda tinham aquela fraqueza fina que
@@ -89,6 +91,8 @@ passagem, sem prestar atenção de propósito:
 Reclama com o rio.
 
 ## II. A Casa do Cais
+
+::cena lugar="casa-do-cais" tensao="baixa" revela="a-folga,breu,almanaque,taxa-de-resguardo"
 
 Cindra era uma cidade empilhada. Quem chegava pela água via primeiro os
 terraços — cinco degraus largos de pedra e barro escavados na
@@ -269,6 +273,8 @@ pântano, pelas espigas, pelo Vau Queimado, pela Cabeceira, e ia morrer
 lá em cima, no reboco cru onde ninguém tinha pintado nada.
 
 ## III. O Alto
+
+::cena lugar="cindra" tensao="media" revela="a-terceira"
 
 Ela subiu os cinco terraços a pé no fim da tarde, o que não precisava
 fazer, e fez porque o corpo pedia um cansaço escolhido pra substituir o

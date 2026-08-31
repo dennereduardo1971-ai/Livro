@@ -2,6 +2,8 @@
 
 ## I. O Trabalho
 
+::cena lugar="a-fileira" tensao="media" revela="sala-de-espera,a-rapida,a-mansa,ferrugem"
+
 A fila da casa de penhores dobrava a esquina antes do sol nascer de
 verdade, e Íris contou onze pessoas na frente dela antes de parar,
 encostada no muro oposto, só olhando. Não estava ali pra penhorar nada.
@@ -78,6 +80,8 @@ coisa na voz dela que não era pressa, e sim cautela.
 O Poço.
 
 ## II. Sala de Espera Cheia
+
+::cena lugar="o-poco" tensao="alta" revela="o-poco,o-credor,manifestacao,portador"
 
 Íris parou na beirada.
 

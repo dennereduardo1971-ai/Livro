@@ -293,3 +293,37 @@ internalizado a "gramática" da Sala de Espera através da ação.
   "aquilo que todo mundo mais teme" sem reduzir a metáfora — o monstro é
   concreto, mas nasce de algo social real.
 - **Status:** não avaliada
+
+## Perguntas plantadas até o Capítulo 3 (2026-08-31) — não resolver cedo
+- **Como Bento abriu a rachadura durante a Folga?** Hipóteses em jogo,
+  nenhuma canônica: (a) resíduo antigo, do jeito do Poço — ele esteve nas
+  Águas Paradas aos 11 anos; (b) a via rara já prevista em
+  `sistema-de-poderes.md` (trauma pessoal intenso sem Manifestação
+  envolvida); (c) alguma coisa nova começou antes de aparecer, e ele é o
+  primeiro sinal, não a exceção. A terceira presença de Íris vota em (c)
+  e não explica.
+- **O que é a terceira presença?** Subiu do Poço no Cap. 1, ficou muda
+  três dias, e desde então fala uma frase curta por capítulo, sempre
+  certeira e sempre sem contexto. Nunca confirmar origem nem natureza.
+- **O homem da Junta que subiu há nove dias.** Nome e destino em aberto.
+- **O que aconteceu com o Vau Queimado.** Em aberto — evitar decidir
+  antes de escrever a chegada.
+
+## Perguntas plantadas nos Capítulos 4–5 (2026-08-31) — não resolver cedo
+- **Por que o povo do Vau Queimado subiu o rio em vez de descer?** Fugir
+  rio acima é andar pro lado errado. Nenhuma explicação dada; é o fio
+  principal da chegada.
+- **A lacuna de memória de Bento** na viagem às Águas Paradas aos 11
+  anos. Ele lembra de sair de Cindra e de voltar a Cindra, e de mais
+  nada; o pai dizia que ele dormiu a viagem toda. Ligar (ou não) à
+  anomalia da técnica nascida durante a Folga.
+- **Quem repinta as estacas brancas do canal do pântano todo ano.**
+  Ninguém sabe. Alice tem uma teoria longa que ainda não foi contada ao
+  leitor — reserva de cena.
+- **Origem da técnica de Alice.** Não perguntada em cena, não
+  estabelecida. Não inventar antes de precisar.
+- **Frases da terceira presença até aqui:** *"Ele vai precisar de tinta
+  nova"* (Cap. 2), *"Ele é o primeiro"* (Cap. 3), *"Esses não são de Vau
+  Queimado, esses são de mais acima"* (Cap. 4), *"Ainda não é medo. Ainda
+  é costume"* (Cap. 5). Uma por capítulo, sempre certeira, nunca
+  explicada. Manter o padrão.

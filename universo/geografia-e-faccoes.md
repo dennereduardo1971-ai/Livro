@@ -112,12 +112,30 @@
   passou", e repetem a expressão quando perguntados de novo. Manter sem
   nome — a falta de nome é a caracterização.
 
+### Porto de lenha (saída das Águas Paradas)
+- Trapiche de tábuas, barracão sem parede, pilhas de lenha cortada e uma
+  balança. Ponto de reabastecimento obrigatório de quem sobe o rio.
+- **Estado no presente (Cap. 4–5):** abandonado às pressas — lenha
+  recém-cortada com serragem clara, prato da balança caído, três redes
+  ainda armadas. Ocupado por refugiados vindos de acima do Vau Queimado.
+
+### A *Boa Hora* (barca)
+- Casco chato, caldeira pequena, 26 anos e três cascos diferentes. Sobe
+  o rio com paciência e desce com pressa. Mestre: **Nestor**;
+  contramestre: **Alice**. Tábua solta em bombordo — consertada por Íris
+  no Cap. 5, torta, mas parou de bater.
+
 ### Águas Paradas
 - **Descrição física:** pântano lateral onde o rio se distrai por
   algumas semanas antes de lembrar pra onde ia. Região historicamente de
   febre.
 - **Manifestação registrada:** **a Vizinha** (medo coletivo de contágio
   e de denúncia — o medo de quem está do lado).
+- **Resíduo (Cap. 4):** vinte anos depois da Vizinha, o pântano ainda
+  produz um grau mínimo de ruído psíquico — nada perto do Poço, mas
+  perceptível por quem carrega técnica: cadeiras a mais no fundo do
+  cômodo, conversa em outro andar. Bento atravessa mal e não tem memória
+  nenhuma da viagem que fez ali aos 11 anos.
 - **Detalhe do presente:** no ano passado alguém construiu casa nova na
   beira do pântano, em terreno que ninguém ocupava havia duas décadas.
   Comentaram por uma semana e pararam.
@@ -159,3 +177,26 @@
   nas portas das casas que já visitaram e pretendem visitar de novo — um
   sinal silencioso que qualquer morador da Fileira reconhece e teme,
   mesmo sem nunca ser mencionado em voz alta.
+
+### A Junta de Resguardo ("a Junta")
+- **Objetivo:** órgão sediado em Boca Grande que cobra a taxa de
+  resguardo das vilas do Vagaroso e mantém registro de quem carrega
+  técnica. Reduziu a própria taxa por "falta de necessidade comprovada"
+  durante a Folga (ver `linha-do-tempo.md`) e agora, discretamente,
+  contrata gente de fora da folha pra subir o rio.
+- **Como se relaciona com o tema central:** é a instituição que mede sem
+  entender — lê a linha, não a pessoa. Vitorino anota o número de
+  lampejos de Bento por dia enquanto o rapaz vomita no cais, e não sente
+  vergonha nenhuma, porque a linha subindo é informação e a pessoa não
+  é. A crítica embutida é a instrumentalização do sintoma como
+  instrumento de medição. Importante: a Junta **não é vilã declarada** —
+  Vitorino tem razão sobre a linha e, em parte, sobre a urgência.
+- **Método de registro:** formulário de três linhas (nome da pessoa,
+  nome que a pessoa dá pra coisa, observações). Ver
+  `sistema-de-poderes.md` — a tentativa histórica de tabela foi
+  abandonada por inútil.
+- **Postura em relação aos protagonistas:** contratante. Pagou
+  adiantado, em moeda de Boca Grande, o dobro do preço de mercado, e não
+  exigiu que Íris se declarasse quando ela recusou.
+- **Em aberto:** já mandou um homem próprio ao Vau Queimado há nove
+  dias; ele não voltou.

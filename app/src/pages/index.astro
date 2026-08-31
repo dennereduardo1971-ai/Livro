@@ -1,0 +1,127 @@
+---
+import Base from '../layouts/Base.astro';
+import Mapa from '../componentes/Mapa.astro';
+import { listarCapitulos } from '../dados/capitulos';
+
+const capitulos = await listarCapitulos();
+const ultimo = capitulos.at(-1);
+---
+<Base titulo="A Casa do Cais" barra={false}>
+  <div id="abertura">
+    <p class="linha um">Não existe marca para <em>não sei</em>.</p>
+    <p class="linha dois">A Casa do Cais</p>
+    <p class="linha tres">o mapa da parede, uma vez por semana</p>
+  </div>
+
+  <main id="mundo" class="apagado">
+    <nav class="barra">
+      <span class="marca">A Casa do Cais</span>
+      <a href="/capitulos">capítulos</a>
+      <a href="/linha-do-tempo">tempo</a>
+      <a href="/glossario">glossário</a>
+      <a href="/estado">estado</a>
+    </nav>
+
+    <div class="envoltorio">
+      <div class="continuar cartao" hidden>
+        <p class="rotulo-continuar"></p>
+        <a class="botao" href="/capitulos">continuar</a>
+      </div>
+      <Mapa modo="pagina" />
+      <p class="dica subtitulo">Toque num lugar da parede. O que estiver apagado, você ainda não leu.</p>
+      <p class="subtitulo ultimo-cap">
+        Último capítulo no ar: <strong>{ultimo?.titulo ?? '—'}</strong> · {capitulos.length} capítulos publicados
+      </p>
+    </div>
+  </main>
+
+  <script>
+    import { progresso, marcador, visita } from '../scripts/progresso';
+    import { LUGARES, POR_ID } from '../dados/lugares';
+    import { LINHA_DO_TEMPO } from '../dados/linha-do-tempo';
+
+    const REDUZIR = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const abertura = document.getElementById('abertura')!;
+    const mundo = document.getElementById('mundo')!;
+
+    const entrar = () => {
+      abertura.classList.add('saindo');
+      mundo.classList.remove('apagado');
+      setTimeout(() => abertura.remove(), 900);
+      /* a luz acende no lugar mais recente que o leitor já leu */
+      const lido = progresso.ler();
+      const ultimoEvento = LINHA_DO_TEMPO.filter((e) => e.lugar && e.revelaEm <= lido).at(-1);
+      const alvo =
+        (ultimoEvento && POR_ID.get(ultimoEvento.lugar!)) ??
+        LUGARES.filter((l) => !l.mudo && l.revelaEm <= lido).at(-1) ??
+        POR_ID.get('cindra')!;
+      setTimeout(() => {
+        (document.querySelector('.mapa') as any)?.irPara?.(alvo.id, 'baixa', 'agora');
+      }, 700);
+    };
+
+    if (REDUZIR) entrar();
+    else setTimeout(entrar, 3600);
+    abertura.addEventListener('click', entrar);
+
+    /* de onde você parou */
+    const parou = marcador.ultimo();
+    const desde = visita.ler();
+    if (parou) {
+      const caixa = document.querySelector<HTMLElement>('.continuar')!;
+      const n = parou.slug.split('-')[1];
+      caixa.querySelector('.rotulo-continuar')!.textContent =
+        `Você parou no Capítulo ${n}, a ${Math.round(parou.fracao * 100)}% dele.`;
+      caixa.querySelector('a')!.setAttribute('href', `/${parou.slug}`);
+      caixa.hidden = false;
+    }
+    if (desde) {
+      const dias = Math.floor((Date.now() - desde) / 86400000);
+      if (dias >= 5) document.querySelector('.ultimo-cap')?.classList.add('destaque');
+    }
+    visita.registrar();
+  </script>
+
+  <style>
+    #abertura {
+      position: fixed;
+      inset: 0;
+      z-index: 60;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.4rem;
+      background: #14120f;
+      color: #e8dcc4;
+      text-align: center;
+      padding: 2rem;
+      transition: opacity 800ms var(--respiro);
+      cursor: pointer;
+    }
+    #abertura.saindo { opacity: 0; pointer-events: none; }
+    .linha { margin: 0; opacity: 0; font-family: var(--serifa); }
+    .um { font-size: 0.95rem; color: #9c8f74; animation: surgir 1.6s var(--respiro) 0.4s both; }
+    .dois { font-size: 2.1rem; letter-spacing: 0.02em; animation: surgir 1.8s var(--respiro) 1.5s both; }
+    .tres { font-size: 0.82rem; color: #9c8f74; animation: surgir 1.6s var(--respiro) 2.4s both; }
+    @keyframes surgir { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+    #mundo { transition: opacity 900ms var(--respiro); }
+    #mundo.apagado { opacity: 0; }
+
+    .envoltorio { padding-top: 1rem; padding-bottom: 2rem; }
+    .continuar {
+      display: flex; align-items: center; gap: 1rem; justify-content: space-between;
+      margin-bottom: 1.2rem;
+    }
+    .continuar p { margin: 0; font-size: 0.9rem; }
+    .botao {
+      text-decoration: none; border: 1px solid var(--borda); border-radius: 999px;
+      padding: 0.35rem 0.9rem; font-size: 0.8rem; white-space: nowrap;
+    }
+    .botao:hover { border-color: var(--realce); color: var(--realce); }
+    .dica { margin: 0.9rem 0 0.2rem; font-size: 0.82rem; }
+    .ultimo-cap { font-size: 0.82rem; }
+    .ultimo-cap.destaque strong { color: var(--realce); }
+  </style>
+</Base>
