@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { listarCapitulos } from '../dados/capitulos';
+import { u } from '../dados/rota';
 const capitulos = await listarCapitulos();
 ---
 <Base titulo="Capítulos · A Casa do Cais">
@@ -10,7 +11,7 @@ const capitulos = await listarCapitulos();
     <ul class="lista">
       {capitulos.map((c) => (
         <li class="cartao" data-numero={c.numero}>
-          <a href={`/${c.slug}`}>
+          <a href={u(c.slug)}>
             <h2>{c.titulo}</h2>
             <p class="partes">{c.partes.join(' · ')}</p>
           </a>

@@ -1,6 +1,10 @@
-/* Offline dos capítulos já visitados. Nada de fantasia: cache simples. */
-const CACHE = 'cais-v1';
-const ESSENCIAL = ['/', '/capitulos', '/manifest.webmanifest', '/icone.svg'];
+/* Offline dos capítulos já visitados. Nada de fantasia: cache simples.
+   O prefixo vem do escopo do próprio worker, então funciona igual em
+   qualquer endereço (raiz do domínio ou subpasta do GitHub Pages). */
+const CACHE = 'cais-v2';
+const BASE = new URL(self.registration.scope).pathname;
+const RAIZ = BASE;
+const ESSENCIAL = [RAIZ, BASE + 'capitulos', BASE + 'manifest.webmanifest', BASE + 'icone.svg'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ESSENCIAL)).then(() => self.skipWaiting()));
@@ -24,6 +28,6 @@ self.addEventListener('fetch', (e) => {
         caches.open(CACHE).then((c) => c.put(req, copia));
         return res;
       })
-      .catch(() => caches.match(req).then((r) => r || caches.match('/'))),
+      .catch(() => caches.match(req).then((r) => r || caches.match(RAIZ))),
   );
 });

@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Mapa from '../componentes/Mapa.astro';
 import { listarCapitulos } from '../dados/capitulos';
+import { u } from '../dados/rota';
 
 const capitulos = await listarCapitulos();
 const ultimo = capitulos.at(-1);
@@ -16,16 +17,16 @@ const ultimo = capitulos.at(-1);
   <main id="mundo" class="apagado">
     <nav class="barra">
       <span class="marca">A Casa do Cais</span>
-      <a href="/capitulos">capítulos</a>
-      <a href="/linha-do-tempo">tempo</a>
-      <a href="/glossario">glossário</a>
-      <a href="/estado">estado</a>
+      <a href={u("/capitulos")}>capítulos</a>
+      <a href={u("/linha-do-tempo")}>tempo</a>
+      <a href={u("/glossario")}>glossário</a>
+      <a href={u("/estado")}>estado</a>
     </nav>
 
     <div class="envoltorio">
       <div class="continuar cartao" hidden>
         <p class="rotulo-continuar"></p>
-        <a class="botao" href="/capitulos">continuar</a>
+        <a class="botao" href={u("/capitulos")}>continuar</a>
       </div>
       <Mapa modo="pagina" />
       <p class="dica subtitulo">Toque num lugar da parede. O que estiver apagado, você ainda não leu.</p>
@@ -37,6 +38,7 @@ const ultimo = capitulos.at(-1);
 
   <script>
     import { progresso, marcador, visita } from '../scripts/progresso';
+    import { u } from '../dados/rota';
     import { LUGARES, POR_ID } from '../dados/lugares';
     import { LINHA_DO_TEMPO } from '../dados/linha-do-tempo';
 
@@ -72,7 +74,7 @@ const ultimo = capitulos.at(-1);
       const n = parou.slug.split('-')[1];
       caixa.querySelector('.rotulo-continuar')!.textContent =
         `Você parou no Capítulo ${n}, a ${Math.round(parou.fracao * 100)}% dele.`;
-      caixa.querySelector('a')!.setAttribute('href', `/${parou.slug}`);
+      caixa.querySelector('a')!.setAttribute('href', u(parou.slug));
       caixa.hidden = false;
     }
     if (desde) {

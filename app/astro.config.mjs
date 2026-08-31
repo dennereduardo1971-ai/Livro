@@ -4,7 +4,8 @@ import { remarkGlossario } from './src/plugins/glossario.mjs';
 import { GLOSSARIO } from './src/dados/glossario';
 
 export default defineConfig({
-  site: 'https://casa-do-cais.netlify.app',
+  site: 'https://dennereduardo1971-ai.github.io',
+  base: '/Livro',
   markdown: {
     remarkPlugins: [remarkCena, [remarkGlossario, GLOSSARIO]],
     smartypants: false,

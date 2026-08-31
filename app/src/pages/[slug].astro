@@ -3,6 +3,7 @@ import { render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Mapa from '../componentes/Mapa.astro';
 import { listarCapitulos } from '../dados/capitulos';
+import { u } from '../dados/rota';
 
 export async function getStaticPaths() {
   const capitulos = await listarCapitulos();
@@ -19,7 +20,7 @@ const { Content } = await render(capitulo.entrada);
   <div class="progresso"><div class="preenchimento"></div></div>
 
   <nav class="barra">
-    <a class="marca" href="/capitulos">‹ capítulos</a>
+    <a class="marca" href={u("/capitulos")}>‹ capítulos</a>
     <button id="tipografia" aria-label="Tipografia e tema">Aa</button>
   </nav>
 
@@ -50,9 +51,9 @@ const { Content } = await render(capitulo.entrada);
     <article><Content /></article>
 
     <nav class="fim">
-      {anterior && <a href={`/${anterior.slug}`}>‹ {anterior.titulo}</a>}
+      {anterior && <a href={u(anterior.slug)}>‹ {anterior.titulo}</a>}
       {proximo
-        ? <a class="proximo" href={`/${proximo.slug}`}>{proximo.titulo} ›</a>
+        ? <a class="proximo" href={u(proximo.slug)}>{proximo.titulo} ›</a>
         : <span class="subtitulo">Fim do que está publicado. O próximo desce o rio na semana que vem.</span>}
     </nav>
   </main>
@@ -60,7 +61,7 @@ const { Content } = await render(capitulo.entrada);
   <div id="verbete" role="dialog" aria-label="Verbete do glossário" hidden>
     <p class="termo-titulo"></p>
     <p class="termo-definicao"></p>
-    <a class="termo-ir" href="/glossario">ver no glossário ›</a>
+    <a class="termo-ir" href={u("/glossario")}>ver no glossário ›</a>
   </div>
 
   <button id="abrir-mapa" aria-label="Ver o mapa" title="Ver o mapa">
@@ -77,6 +78,7 @@ const { Content } = await render(capitulo.entrada);
 
   <script>
     import { progresso, marcador, tema, fonte } from '../scripts/progresso';
+    import { u } from '../dados/rota';
     import { GLOSSARIO } from '../dados/glossario';
 
     const main = document.querySelector<HTMLElement>('.leitura')!;
@@ -178,7 +180,7 @@ const { Content } = await render(capitulo.entrada);
 
       titulo.textContent = termo.termo;
       definicao.textContent = termo.definicao;
-      ir.href = `/glossario#${termo.id}`;
+      ir.href = `${u('/glossario')}#${termo.id}`;
 
       verbete.hidden = false;
       /* medir só depois de visível, para caber na tela em qualquer largura */

@@ -1,8 +1,9 @@
 ---
 import '../estilos/global.css';
+import { u, semBase } from '../dados/rota';
 interface Props { titulo: string; descricao?: string; barra?: boolean }
 const { titulo, descricao = 'Leitura semanal no mapa da Casa do Cais.', barra = true } = Astro.props;
-const rota = Astro.url.pathname;
+const rota = semBase(Astro.url.pathname);
 ---
 <!doctype html>
 <html lang="pt-BR">
@@ -11,8 +12,8 @@ const rota = Astro.url.pathname;
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="description" content={descricao} />
     <meta name="theme-color" content="#14120f" />
-    <link rel="manifest" href="/manifest.webmanifest" />
-    <link rel="icon" href="/icone.svg" type="image/svg+xml" />
+    <link rel="manifest" href={u("/manifest.webmanifest")} />
+    <link rel="icon" href={u("/icone.svg")} type="image/svg+xml" />
     <title>{titulo}</title>
     <script is:inline>
       /* tema antes da primeira pintura, pra não piscar branco na cara de ninguém */
@@ -26,17 +27,17 @@ const rota = Astro.url.pathname;
   <body>
     {barra && (
       <nav class="barra">
-        <a class="marca" href="/">A Casa do Cais</a>
-        <a href="/capitulos" aria-current={rota.startsWith('/capitulo') ? 'page' : undefined}>capítulos</a>
-        <a href="/linha-do-tempo" aria-current={rota === '/linha-do-tempo' ? 'page' : undefined}>tempo</a>
-        <a href="/glossario" aria-current={rota === '/glossario' ? 'page' : undefined}>glossário</a>
-        <a href="/estado" aria-current={rota === '/estado' ? 'page' : undefined}>estado</a>
+        <a class="marca" href={u("/")}>A Casa do Cais</a>
+        <a href={u("/capitulos")} aria-current={rota.startsWith('/capitulo') ? 'page' : undefined}>capítulos</a>
+        <a href={u("/linha-do-tempo")} aria-current={rota === '/linha-do-tempo' ? 'page' : undefined}>tempo</a>
+        <a href={u("/glossario")} aria-current={rota === '/glossario' ? 'page' : undefined}>glossário</a>
+        <a href={u("/estado")} aria-current={rota === '/estado' ? 'page' : undefined}>estado</a>
       </nav>
     )}
     <slot />
-    <script is:inline>
+    <script is:inline define:vars={{ SW: u('/sw.js') }}>
       if ('serviceWorker' in navigator && location.protocol === 'https:') {
-        addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(() => {}));
+        addEventListener('load', () => navigator.serviceWorker.register(SW).catch(() => {}));
       }
     </script>
     <footer>

@@ -67,7 +67,7 @@ Três materiais, três comportamentos, nunca misturados:
 | Acessibilidade v1 | Reduzir movimento, contraste/fonte, aviso de conteúdo |
 | Publicação | Escrever `.md` → push → site atualiza sozinho |
 | Marcação de cena | Diretiva no início da cena |
-| Hospedagem | Netlify |
+| Hospedagem | GitHub Pages |
 | Backend | v2 (v1 guarda progresso no aparelho) |
 
 ---
@@ -87,7 +87,9 @@ Três materiais, três comportamentos, nunca misturados:
   elementos independentes, endereçáveis e animáveis por código.
 - **IntersectionObserver** — o que move o brilho conforme a rolagem.
 - **`@vite-pwa/astro`** — instalação no celular, offline e push.
-- **Netlify** — publicação automática a cada push no GitHub.
+- **GitHub Pages** — publicação automática a cada push no GitHub,
+  pela ação em `.github/workflows/pages.yml`. O site vive em
+  `https://dennereduardo1971-ai.github.io/Livro/`.
 - **Supabase** (v2) — login, progresso sincronizado, lista de e-mails.
 
 ### Por que não outra coisa
@@ -239,7 +241,7 @@ Alimentado automaticamente pelo repositório, sem trabalho manual:
 ### Fase 0 — Fundação (você não vê nada ainda)
 Projeto Astro dentro de `/app`, leitura dos capítulos de
 `/manuscrito/`, plugin da diretiva `::cena`, `lugares.ts` com as
-coordenadas, publicação automática no Netlify funcionando.
+coordenadas, publicação automática no GitHub Pages funcionando.
 **Entregável:** um site feio no ar, com os dois capítulos legíveis.
 
 ### Fase 1 — O leitor
@@ -281,8 +283,8 @@ e-mails, notificação push, domínio próprio.
 Nada agora — a Fase 0 e 1 não dependem de você. Quando chegarmos lá:
 
 **Antes da Fase 0 terminar (publicação):**
-- Autorizar a conexão do Netlify com o repositório. Eu preparo tudo e te
-  digo o botão exato para apertar.
+- Nada a autorizar: a publicação é a própria ação do GitHub Pages,
+  que se liga sozinha no primeiro push.
 
 **Durante a Fase 2 (o mapa):**
 - Decidir a paleta: as cores do reboco, do breu e da luz. Vou te mostrar

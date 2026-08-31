@@ -11,7 +11,7 @@ npm run build    # gera dist/
 
 ## O que já está de pé
 
-- **Fase 0** — projeto, leitura do manuscrito, plugin da diretiva `::cena`, `netlify.toml`.
+- **Fase 0** — projeto, leitura do manuscrito, plugin da diretiva `::cena`, publicação.
 - **Fase 1** — leitor: rolagem contínua, progresso, marcador, corpo de texto ajustável, claro/escuro/vela, aviso de conteúdo.
 - **Fase 2** — o mapa: reboco, camadas antigas, rio correndo, lugares, faixa de reboco cru, quatro marcas de breu, zoom e ficha.
 - **Fase 3** — o brilho: segue a rolagem, percorre o rio, pulsa em 4s, esquenta com a tensão, esfria em cena de passado, botão flutuante, `prefers-reduced-motion`.
