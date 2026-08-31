@@ -1,0 +1,1817 @@
+<title>A Casa do Cais</title>
+<style>
+.mapa[data-astro-cid-d7qwffjd]{position:relative}.parede[data-astro-cid-d7qwffjd]{display:block;width:100%;height:auto;border-radius:2px;box-shadow:inset 0 0 60px #00000047}#camera[data-astro-cid-d7qwffjd]{transition:transform .62s cubic-bezier(.32,.08,.24,1);transform-origin:0 0}.com-ficha[data-astro-cid-d7qwffjd] .parede[data-astro-cid-d7qwffjd]{filter:saturate(.85) brightness(.82)}#corrente[data-astro-cid-d7qwffjd]{animation:correr 9s linear infinite}@keyframes correr{to{stroke-dashoffset:-40}}#deriva-lampiao[data-astro-cid-d7qwffjd]{animation:lampiao 47s ease-in-out infinite alternate;opacity:.5}@keyframes lampiao{0%{transform:translate(-4%,-2%);opacity:.35}to{transform:translate(5%,3%);opacity:.6}}.lugar[data-astro-cid-d7qwffjd]{cursor:pointer}.rotulo[data-astro-cid-d7qwffjd]{pointer-events:none;font-family:var(--serifa);fill:var(--reboco-linha);letter-spacing:.04em;paint-order:stroke;stroke:var(--reboco);stroke-width:3px}.lugar[data-astro-cid-d7qwffjd].apagado{opacity:.28}.rotulo[data-astro-cid-d7qwffjd].apagado{fill:var(--reboco-sombra);opacity:.4}.lugar[data-astro-cid-d7qwffjd]:hover .glifo[data-astro-cid-d7qwffjd],.lugar[data-astro-cid-d7qwffjd]:focus-visible .glifo[data-astro-cid-d7qwffjd]{transform:scale(1.25)}.glifo[data-astro-cid-d7qwffjd]{transition:transform .4s var(--respiro)}.lugar[data-astro-cid-d7qwffjd]:focus-visible{outline:none}.lugar[data-astro-cid-d7qwffjd]:focus-visible~#rotulos[data-astro-cid-d7qwffjd] .rotulo[data-astro-cid-d7qwffjd]{fill:var(--reboco-linha)}.marca-breu[data-astro-cid-d7qwffjd]{fill:var(--breu);opacity:.9}.marca-breu[data-astro-cid-d7qwffjd].escondida{display:none}.marca-breu[data-astro-cid-d7qwffjd].escorrendo{animation:escorrer 3s var(--respiro) both;transform-origin:center top}@keyframes escorrer{0%{transform:scaleY(.05);opacity:0}40%{opacity:.9}to{transform:scaleY(1);opacity:.9}}.espiga[data-astro-cid-d7qwffjd].caida{opacity:.25}#luz[data-astro-cid-d7qwffjd]{mix-blend-mode:screen;pointer-events:none;transition:opacity .7s var(--respiro)}#luz[data-astro-cid-d7qwffjd].oculta{opacity:0}#luz[data-astro-cid-d7qwffjd] .halo[data-astro-cid-d7qwffjd]{animation:respirar 4s ease-in-out infinite}#luz[data-astro-cid-d7qwffjd] .nucleo[data-astro-cid-d7qwffjd]{animation:respirar-nucleo 4s ease-in-out infinite}@keyframes respirar{0%,to{transform:scale(.86);opacity:.55}50%{transform:scale(1.12);opacity:.9}}@keyframes respirar-nucleo{0%,to{opacity:.75}50%{opacity:1}}#luz[data-astro-cid-d7qwffjd][data-tensao=baixa] .halo[data-astro-cid-d7qwffjd]{animation-duration:5.5s}#luz[data-astro-cid-d7qwffjd][data-tensao=alta] .halo[data-astro-cid-d7qwffjd],#luz[data-astro-cid-d7qwffjd][data-tensao=alta] .nucleo[data-astro-cid-d7qwffjd]{animation-duration:1.9s}#luz[data-astro-cid-d7qwffjd][data-tensao=alta] .nucleo[data-astro-cid-d7qwffjd],#luz[data-astro-cid-d7qwffjd][data-tensao=alta] .halo[data-astro-cid-d7qwffjd]{fill:var(--luz-alta)}#luz[data-astro-cid-d7qwffjd][data-tensao=alta]{filter:url(#borda-breu) saturate(1.2)}#luz[data-astro-cid-d7qwffjd][data-tempo=antes-da-folga] .nucleo[data-astro-cid-d7qwffjd],#luz[data-astro-cid-d7qwffjd][data-tempo=comeco-da-folga] .nucleo[data-astro-cid-d7qwffjd]{fill:var(--luz-fria)}#luz[data-astro-cid-d7qwffjd][data-tempo=antes-da-folga] .halo[data-astro-cid-d7qwffjd],#luz[data-astro-cid-d7qwffjd][data-tempo=comeco-da-folga] .halo[data-astro-cid-d7qwffjd]{fill:var(--luz-fria);animation:none;opacity:.4}#luz[data-astro-cid-d7qwffjd][data-tempo=antes-da-folga] .nucleo[data-astro-cid-d7qwffjd],#luz[data-astro-cid-d7qwffjd][data-tempo=comeco-da-folga] .nucleo[data-astro-cid-d7qwffjd]{animation:none;opacity:.7}.ficha[data-astro-cid-d7qwffjd]{position:absolute;left:0;right:0;bottom:0;background:var(--fundo-alto);border-top:1px solid var(--borda);border-radius:10px 10px 2px 2px;padding:1.1rem 1.2rem 1.4rem;transform:translateY(102%);transition:transform .52s var(--respiro);box-shadow:0 -14px 40px #00000040;max-height:68%;overflow-y:auto}.ficha[data-astro-cid-d7qwffjd].visivel{transform:translateY(0)}.ficha[data-astro-cid-d7qwffjd] h3[data-astro-cid-d7qwffjd]{margin:0 0 .4rem;font-size:1.25rem}.ficha[data-astro-cid-d7qwffjd] h4[data-astro-cid-d7qwffjd]{margin:1rem 0 .3rem;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:var(--tinta-fraca);font-family:var(--sem-serifa);font-weight:600}.ficha[data-astro-cid-d7qwffjd] p[data-astro-cid-d7qwffjd]{margin:.35rem 0;font-size:.92rem;line-height:1.6}.ficha[data-astro-cid-d7qwffjd] .ficha-representa[data-astro-cid-d7qwffjd]{color:var(--tinta-fraca);font-style:italic}.ficha[data-astro-cid-d7qwffjd] ul[data-astro-cid-d7qwffjd]{margin:0;padding-left:1.1rem;font-size:.9rem;line-height:1.55}.ficha[data-astro-cid-d7qwffjd] li[data-astro-cid-d7qwffjd]{margin-bottom:.3rem}.ficha[data-astro-cid-d7qwffjd] .ficha-estado[data-astro-cid-d7qwffjd]{margin-top:.9rem;padding-top:.7rem;border-top:1px solid var(--borda);font-size:.86rem;color:var(--realce)}.fechar[data-astro-cid-d7qwffjd]{position:absolute;top:.6rem;right:.7rem;background:none;border:0;color:var(--tinta-fraca);font-size:1rem;cursor:pointer}
+
+:root{--reboco: #c9bca4;--reboco-sombra: #a8987d;--reboco-linha: #6d6047;--breu: #16120e;--luz: #ffcf7a;--luz-fria: #9fc7e8;--luz-alta: #ff9d5c;--fundo: #efe9dd;--fundo-alto: #f7f3ea;--tinta: #241f19;--tinta-fraca: #6b6153;--borda: #d6cdba;--realce: #8a5a2b;--serifa: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;--sem-serifa: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;--tamanho-leitura: 1.125rem;--altura-leitura: 1.75;--largura-leitura: 34rem;--lento: .62s;--respiro: cubic-bezier(.32, .08, .24, 1);color-scheme:light}[data-tema=escuro]{--fundo: #14120f;--fundo-alto: #1c1916;--tinta: #e3dccd;--tinta-fraca: #948b7c;--borda: #2e2a24;--realce: #d9a25e;--reboco: #6d6352;--reboco-sombra: #4b4437;--reboco-linha: #b9ab8f;color-scheme:dark}[data-tema=vela]{--fundo: #1a1310;--fundo-alto: #221a15;--tinta: #f0d9b4;--tinta-fraca: #a68a68;--borda: #33251c;--realce: #e8a95c;--reboco: #7a6647;--reboco-sombra: #503f28;--reboco-linha: #d3b98c;color-scheme:dark}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--fundo);color:var(--tinta);font-family:var(--sem-serifa);overflow-x:hidden}a{color:inherit}.envoltorio{max-width:46rem;margin:0 auto;padding:0 1.25rem}.barra{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:.75rem;padding:.7rem 1rem;background:color-mix(in srgb,var(--fundo) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--borda)}.barra a,.barra button{font:inherit;font-size:.8rem;letter-spacing:.04em;color:var(--tinta-fraca);background:none;border:0;padding:.3rem .1rem;text-decoration:none;cursor:pointer}.barra a:hover,.barra button:hover,.barra a[aria-current=page]{color:var(--tinta)}.barra .marca{font-family:var(--serifa);font-size:.95rem;letter-spacing:.02em;color:var(--tinta);margin-right:auto}h1,h2,h3{font-family:var(--serifa);font-weight:500;letter-spacing:.01em}.subtitulo{color:var(--tinta-fraca);font-size:.9rem}.cartao{border:1px solid var(--borda);background:var(--fundo-alto);border-radius:3px;padding:1rem 1.1rem}.trancado{opacity:.34}.trancado .conteudo-trancado{filter:blur(4px);user-select:none}.selo{display:inline-block;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca);border:1px solid var(--borda);border-radius:999px;padding:.12rem .5rem}.ancora-cena{display:block;height:0;overflow:hidden}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}footer{margin:4rem auto 2.5rem;max-width:46rem;padding:1.4rem 1.25rem 0;border-top:1px solid var(--borda);color:var(--tinta-fraca);font-size:.78rem;font-style:italic}
+
+#abertura[data-astro-cid-j7pv25f6]{position:fixed;inset:0;z-index:60;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.4rem;background:#14120f;color:#e8dcc4;text-align:center;padding:2rem;transition:opacity .8s var(--respiro);cursor:pointer}#abertura[data-astro-cid-j7pv25f6].saindo{opacity:0;pointer-events:none}.linha[data-astro-cid-j7pv25f6]{margin:0;opacity:0;font-family:var(--serifa)}.um[data-astro-cid-j7pv25f6]{font-size:.95rem;color:#9c8f74;animation:surgir 1.6s var(--respiro) .4s both}.dois[data-astro-cid-j7pv25f6]{font-size:2.1rem;letter-spacing:.02em;animation:surgir 1.8s var(--respiro) 1.5s both}.tres[data-astro-cid-j7pv25f6]{font-size:.82rem;color:#9c8f74;animation:surgir 1.6s var(--respiro) 2.4s both}@keyframes surgir{0%{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}#mundo[data-astro-cid-j7pv25f6]{transition:opacity .9s var(--respiro)}#mundo[data-astro-cid-j7pv25f6].apagado{opacity:0}.envoltorio[data-astro-cid-j7pv25f6]{padding-top:1rem;padding-bottom:2rem}.continuar[data-astro-cid-j7pv25f6]{display:flex;align-items:center;gap:1rem;justify-content:space-between;margin-bottom:1.2rem}.continuar[data-astro-cid-j7pv25f6] p[data-astro-cid-j7pv25f6]{margin:0;font-size:.9rem}.botao[data-astro-cid-j7pv25f6]{text-decoration:none;border:1px solid var(--borda);border-radius:999px;padding:.35rem .9rem;font-size:.8rem;white-space:nowrap}.botao[data-astro-cid-j7pv25f6]:hover{border-color:var(--realce);color:var(--realce)}.dica[data-astro-cid-j7pv25f6]{margin:.9rem 0 .2rem;font-size:.82rem}.ultimo-cap[data-astro-cid-j7pv25f6]{font-size:.82rem}.ultimo-cap[data-astro-cid-j7pv25f6].destaque strong[data-astro-cid-j7pv25f6]{color:var(--realce)}
+
+.progresso[data-astro-cid-yvbahnfj]{position:fixed;top:0;left:0;right:0;height:2px;z-index:50;background:transparent}.preenchimento[data-astro-cid-yvbahnfj]{height:100%;background:var(--realce);transform:scaleX(0);transform-origin:0 50%;transition:transform .12s linear}#painel-tipografia[data-astro-cid-yvbahnfj][hidden]{display:none}#painel-tipografia[data-astro-cid-yvbahnfj]{position:sticky;top:44px;z-index:41;display:flex;flex-wrap:wrap;gap:1.2rem;justify-content:center;padding:.7rem 1rem;border-bottom:1px solid var(--borda);background:var(--fundo-alto)}#painel-tipografia[data-astro-cid-yvbahnfj] .grupo[data-astro-cid-yvbahnfj]{display:flex;align-items:center;gap:.4rem}#painel-tipografia[data-astro-cid-yvbahnfj] span[data-astro-cid-yvbahnfj]{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca)}#painel-tipografia[data-astro-cid-yvbahnfj] button[data-astro-cid-yvbahnfj]{font:inherit;font-size:.8rem;padding:.2rem .6rem;background:none;color:var(--tinta);border:1px solid var(--borda);border-radius:999px;cursor:pointer}#painel-tipografia[data-astro-cid-yvbahnfj] button[data-astro-cid-yvbahnfj]:hover{border-color:var(--realce)}.aviso[data-astro-cid-yvbahnfj]{max-width:var(--largura-leitura);margin:1rem auto 0;font-size:.86rem;display:flex;gap:1rem;align-items:center}.aviso[data-astro-cid-yvbahnfj] p[data-astro-cid-yvbahnfj]{margin:0;line-height:1.5}.aviso[data-astro-cid-yvbahnfj] .entendi[data-astro-cid-yvbahnfj]{font:inherit;font-size:.78rem;white-space:nowrap;cursor:pointer;background:none;border:1px solid var(--borda);border-radius:999px;padding:.3rem .75rem;color:var(--tinta)}.fim[data-astro-cid-yvbahnfj]{max-width:var(--largura-leitura);margin:0 auto;padding:2rem 1.35rem 0;border-top:1px solid var(--borda);display:flex;justify-content:space-between;gap:1rem;font-size:.85rem}.fim[data-astro-cid-yvbahnfj] a[data-astro-cid-yvbahnfj]{text-decoration:none;color:var(--tinta-fraca)}.fim[data-astro-cid-yvbahnfj] a[data-astro-cid-yvbahnfj]:hover{color:var(--realce)}.fim[data-astro-cid-yvbahnfj] .proximo[data-astro-cid-yvbahnfj]{margin-left:auto}#abrir-mapa[data-astro-cid-yvbahnfj]{position:fixed;right:1rem;bottom:1.2rem;z-index:45;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;background:var(--fundo-alto);color:var(--tinta);border:1px solid var(--borda);cursor:pointer;box-shadow:0 6px 18px #0000002e;transition:transform .4s var(--respiro)}#abrir-mapa[data-astro-cid-yvbahnfj]:hover{transform:translateY(-2px)}#gaveta-mapa[data-astro-cid-yvbahnfj]{position:fixed;inset:0;z-index:55;background:color-mix(in srgb,var(--fundo) 92%,transparent);padding:3rem 1rem 1rem;overflow-y:auto;opacity:0;transition:opacity .5s var(--respiro)}#gaveta-mapa[data-astro-cid-yvbahnfj].aberta{opacity:1}#gaveta-mapa[data-astro-cid-yvbahnfj] .mapa[data-astro-cid-yvbahnfj]{max-width:34rem;margin:0 auto}.fechar-gaveta[data-astro-cid-yvbahnfj]{position:absolute;top:.9rem;right:1rem;background:none;border:0;color:var(--tinta-fraca);font-size:1.1rem;cursor:pointer}.leitura article{max-width:var(--largura-leitura);margin:0 auto;padding:1.5rem 1.35rem 3rem;font-family:var(--serifa);font-size:var(--tamanho-leitura);line-height:var(--altura-leitura);hanging-punctuation:first}.leitura h1{font-size:1.5rem;font-weight:500;letter-spacing:.06em;text-transform:lowercase;color:var(--tinta-fraca);margin:0 0 2.5rem;text-align:center;font-variant:small-caps}.leitura h2{font-size:1.05rem;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-fraca);margin:3rem 0 1.6rem;text-align:center}.leitura p{margin:0 0 1.15em;text-wrap:pretty}.leitura p+p{text-indent:1.3em}.leitura h2+p,.leitura h1+p{text-indent:0}.leitura em{font-style:italic}.leitura hr{border:0;margin:2.4rem auto;width:5rem;border-top:1px solid var(--borda)}
+
+:root{--reboco: #c9bca4;--reboco-sombra: #a8987d;--reboco-linha: #6d6047;--breu: #16120e;--luz: #ffcf7a;--luz-fria: #9fc7e8;--luz-alta: #ff9d5c;--fundo: #efe9dd;--fundo-alto: #f7f3ea;--tinta: #241f19;--tinta-fraca: #6b6153;--borda: #d6cdba;--realce: #8a5a2b;--serifa: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;--sem-serifa: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;--tamanho-leitura: 1.125rem;--altura-leitura: 1.75;--largura-leitura: 34rem;--lento: .62s;--respiro: cubic-bezier(.32, .08, .24, 1);color-scheme:light}[data-tema=escuro]{--fundo: #14120f;--fundo-alto: #1c1916;--tinta: #e3dccd;--tinta-fraca: #948b7c;--borda: #2e2a24;--realce: #d9a25e;--reboco: #6d6352;--reboco-sombra: #4b4437;--reboco-linha: #b9ab8f;color-scheme:dark}[data-tema=vela]{--fundo: #1a1310;--fundo-alto: #221a15;--tinta: #f0d9b4;--tinta-fraca: #a68a68;--borda: #33251c;--realce: #e8a95c;--reboco: #7a6647;--reboco-sombra: #503f28;--reboco-linha: #d3b98c;color-scheme:dark}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--fundo);color:var(--tinta);font-family:var(--sem-serifa);overflow-x:hidden}a{color:inherit}.envoltorio{max-width:46rem;margin:0 auto;padding:0 1.25rem}.barra{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:.75rem;padding:.7rem 1rem;background:color-mix(in srgb,var(--fundo) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--borda)}.barra a,.barra button{font:inherit;font-size:.8rem;letter-spacing:.04em;color:var(--tinta-fraca);background:none;border:0;padding:.3rem .1rem;text-decoration:none;cursor:pointer}.barra a:hover,.barra button:hover,.barra a[aria-current=page]{color:var(--tinta)}.barra .marca{font-family:var(--serifa);font-size:.95rem;letter-spacing:.02em;color:var(--tinta);margin-right:auto}h1,h2,h3{font-family:var(--serifa);font-weight:500;letter-spacing:.01em}.subtitulo{color:var(--tinta-fraca);font-size:.9rem}.cartao{border:1px solid var(--borda);background:var(--fundo-alto);border-radius:3px;padding:1rem 1.1rem}.trancado{opacity:.34}.trancado .conteudo-trancado{filter:blur(4px);user-select:none}.selo{display:inline-block;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca);border:1px solid var(--borda);border-radius:999px;padding:.12rem .5rem}.ancora-cena{display:block;height:0;overflow:hidden}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}footer{margin:4rem auto 2.5rem;max-width:46rem;padding:1.4rem 1.25rem 0;border-top:1px solid var(--borda);color:var(--tinta-fraca);font-size:.78rem;font-style:italic}
+main[data-astro-cid-xr4sbppn]{padding-block:1.5rem 3rem}h1[data-astro-cid-xr4sbppn]{margin-bottom:.2rem}.lista[data-astro-cid-xr4sbppn]{list-style:none;padding:0;margin:1.5rem 0 0;display:grid;gap:.7rem}.lista[data-astro-cid-xr4sbppn] a[data-astro-cid-xr4sbppn]{text-decoration:none;display:block}.lista[data-astro-cid-xr4sbppn] h2[data-astro-cid-xr4sbppn]{margin:0 0 .25rem;font-size:1.15rem}.partes[data-astro-cid-xr4sbppn]{margin:0;color:var(--tinta-fraca);font-size:.86rem}.meta[data-astro-cid-xr4sbppn]{display:flex;align-items:center;gap:.6rem;margin:.7rem 0 0}.selo[data-astro-cid-xr4sbppn].novo{color:var(--realce);border-color:var(--realce)}li[data-astro-cid-xr4sbppn].lido h2[data-astro-cid-xr4sbppn]{color:var(--tinta-fraca)}
+
+:root{--reboco: #c9bca4;--reboco-sombra: #a8987d;--reboco-linha: #6d6047;--breu: #16120e;--luz: #ffcf7a;--luz-fria: #9fc7e8;--luz-alta: #ff9d5c;--fundo: #efe9dd;--fundo-alto: #f7f3ea;--tinta: #241f19;--tinta-fraca: #6b6153;--borda: #d6cdba;--realce: #8a5a2b;--serifa: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;--sem-serifa: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;--tamanho-leitura: 1.125rem;--altura-leitura: 1.75;--largura-leitura: 34rem;--lento: .62s;--respiro: cubic-bezier(.32, .08, .24, 1);color-scheme:light}[data-tema=escuro]{--fundo: #14120f;--fundo-alto: #1c1916;--tinta: #e3dccd;--tinta-fraca: #948b7c;--borda: #2e2a24;--realce: #d9a25e;--reboco: #6d6352;--reboco-sombra: #4b4437;--reboco-linha: #b9ab8f;color-scheme:dark}[data-tema=vela]{--fundo: #1a1310;--fundo-alto: #221a15;--tinta: #f0d9b4;--tinta-fraca: #a68a68;--borda: #33251c;--realce: #e8a95c;--reboco: #7a6647;--reboco-sombra: #503f28;--reboco-linha: #d3b98c;color-scheme:dark}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--fundo);color:var(--tinta);font-family:var(--sem-serifa);overflow-x:hidden}a{color:inherit}.envoltorio{max-width:46rem;margin:0 auto;padding:0 1.25rem}.barra{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:.75rem;padding:.7rem 1rem;background:color-mix(in srgb,var(--fundo) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--borda)}.barra a,.barra button{font:inherit;font-size:.8rem;letter-spacing:.04em;color:var(--tinta-fraca);background:none;border:0;padding:.3rem .1rem;text-decoration:none;cursor:pointer}.barra a:hover,.barra button:hover,.barra a[aria-current=page]{color:var(--tinta)}.barra .marca{font-family:var(--serifa);font-size:.95rem;letter-spacing:.02em;color:var(--tinta);margin-right:auto}h1,h2,h3{font-family:var(--serifa);font-weight:500;letter-spacing:.01em}.subtitulo{color:var(--tinta-fraca);font-size:.9rem}.cartao{border:1px solid var(--borda);background:var(--fundo-alto);border-radius:3px;padding:1rem 1.1rem}.trancado{opacity:.34}.trancado .conteudo-trancado{filter:blur(4px);user-select:none}.selo{display:inline-block;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca);border:1px solid var(--borda);border-radius:999px;padding:.12rem .5rem}.ancora-cena{display:block;height:0;overflow:hidden}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}footer{margin:4rem auto 2.5rem;max-width:46rem;padding:1.4rem 1.25rem 0;border-top:1px solid var(--borda);color:var(--tinta-fraca);font-size:.78rem;font-style:italic}
+main[data-astro-cid-rfjopv7t]{padding-block:1.5rem 3rem}dl[data-astro-cid-rfjopv7t]{margin:1.5rem 0 0;display:grid;gap:.7rem}dt[data-astro-cid-rfjopv7t]{font-family:var(--serifa);font-size:1.05rem;margin-bottom:.3rem}dd[data-astro-cid-rfjopv7t]{margin:0;font-size:.92rem;line-height:1.6;color:var(--tinta-fraca)}.cadeado[data-astro-cid-rfjopv7t]{margin:.5rem 0 0;font-size:.72rem;letter-spacing:.08em}
+
+:root{--reboco: #c9bca4;--reboco-sombra: #a8987d;--reboco-linha: #6d6047;--breu: #16120e;--luz: #ffcf7a;--luz-fria: #9fc7e8;--luz-alta: #ff9d5c;--fundo: #efe9dd;--fundo-alto: #f7f3ea;--tinta: #241f19;--tinta-fraca: #6b6153;--borda: #d6cdba;--realce: #8a5a2b;--serifa: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;--sem-serifa: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;--tamanho-leitura: 1.125rem;--altura-leitura: 1.75;--largura-leitura: 34rem;--lento: .62s;--respiro: cubic-bezier(.32, .08, .24, 1);color-scheme:light}[data-tema=escuro]{--fundo: #14120f;--fundo-alto: #1c1916;--tinta: #e3dccd;--tinta-fraca: #948b7c;--borda: #2e2a24;--realce: #d9a25e;--reboco: #6d6352;--reboco-sombra: #4b4437;--reboco-linha: #b9ab8f;color-scheme:dark}[data-tema=vela]{--fundo: #1a1310;--fundo-alto: #221a15;--tinta: #f0d9b4;--tinta-fraca: #a68a68;--borda: #33251c;--realce: #e8a95c;--reboco: #7a6647;--reboco-sombra: #503f28;--reboco-linha: #d3b98c;color-scheme:dark}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--fundo);color:var(--tinta);font-family:var(--sem-serifa);overflow-x:hidden}a{color:inherit}.envoltorio{max-width:46rem;margin:0 auto;padding:0 1.25rem}.barra{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:.75rem;padding:.7rem 1rem;background:color-mix(in srgb,var(--fundo) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--borda)}.barra a,.barra button{font:inherit;font-size:.8rem;letter-spacing:.04em;color:var(--tinta-fraca);background:none;border:0;padding:.3rem .1rem;text-decoration:none;cursor:pointer}.barra a:hover,.barra button:hover,.barra a[aria-current=page]{color:var(--tinta)}.barra .marca{font-family:var(--serifa);font-size:.95rem;letter-spacing:.02em;color:var(--tinta);margin-right:auto}h1,h2,h3{font-family:var(--serifa);font-weight:500;letter-spacing:.01em}.subtitulo{color:var(--tinta-fraca);font-size:.9rem}.cartao{border:1px solid var(--borda);background:var(--fundo-alto);border-radius:3px;padding:1rem 1.1rem}.trancado{opacity:.34}.trancado .conteudo-trancado{filter:blur(4px);user-select:none}.selo{display:inline-block;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca);border:1px solid var(--borda);border-radius:999px;padding:.12rem .5rem}.ancora-cena{display:block;height:0;overflow:hidden}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}footer{margin:4rem auto 2.5rem;max-width:46rem;padding:1.4rem 1.25rem 0;border-top:1px solid var(--borda);color:var(--tinta-fraca);font-size:.78rem;font-style:italic}
+main[data-astro-cid-rewm2cxv]{padding-block:1.5rem 3rem}ol[data-astro-cid-rewm2cxv]{list-style:none;margin:2rem 0 0;padding:0 0 0 1.4rem;border-left:1px solid var(--borda)}.evento[data-astro-cid-rewm2cxv]{position:relative;padding-bottom:2rem}.marcador[data-astro-cid-rewm2cxv]{position:absolute;left:-1.78rem;top:.5rem;width:9px;height:9px;border-radius:50%;background:var(--fundo);border:1px solid var(--reboco-linha)}.evento[data-astro-cid-rewm2cxv]:not(.trancado) .marcador[data-astro-cid-rewm2cxv]{background:var(--realce);border-color:var(--realce)}.quando[data-astro-cid-rewm2cxv]{margin:0;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-fraca)}h2[data-astro-cid-rewm2cxv]{margin:.3rem 0 .4rem;font-size:1.1rem}.texto[data-astro-cid-rewm2cxv]{margin:0;font-size:.92rem;line-height:1.6}.lugar[data-astro-cid-rewm2cxv]{margin:.5rem 0 0;font-size:.78rem;font-style:italic}.cadeado[data-astro-cid-rewm2cxv]{margin:.4rem 0 0;font-size:.72rem}
+
+:root{--reboco: #c9bca4;--reboco-sombra: #a8987d;--reboco-linha: #6d6047;--breu: #16120e;--luz: #ffcf7a;--luz-fria: #9fc7e8;--luz-alta: #ff9d5c;--fundo: #efe9dd;--fundo-alto: #f7f3ea;--tinta: #241f19;--tinta-fraca: #6b6153;--borda: #d6cdba;--realce: #8a5a2b;--serifa: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;--sem-serifa: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;--tamanho-leitura: 1.125rem;--altura-leitura: 1.75;--largura-leitura: 34rem;--lento: .62s;--respiro: cubic-bezier(.32, .08, .24, 1);color-scheme:light}[data-tema=escuro]{--fundo: #14120f;--fundo-alto: #1c1916;--tinta: #e3dccd;--tinta-fraca: #948b7c;--borda: #2e2a24;--realce: #d9a25e;--reboco: #6d6352;--reboco-sombra: #4b4437;--reboco-linha: #b9ab8f;color-scheme:dark}[data-tema=vela]{--fundo: #1a1310;--fundo-alto: #221a15;--tinta: #f0d9b4;--tinta-fraca: #a68a68;--borda: #33251c;--realce: #e8a95c;--reboco: #7a6647;--reboco-sombra: #503f28;--reboco-linha: #d3b98c;color-scheme:dark}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;background:var(--fundo);color:var(--tinta);font-family:var(--sem-serifa);overflow-x:hidden}a{color:inherit}.envoltorio{max-width:46rem;margin:0 auto;padding:0 1.25rem}.barra{position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:.75rem;padding:.7rem 1rem;background:color-mix(in srgb,var(--fundo) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--borda)}.barra a,.barra button{font:inherit;font-size:.8rem;letter-spacing:.04em;color:var(--tinta-fraca);background:none;border:0;padding:.3rem .1rem;text-decoration:none;cursor:pointer}.barra a:hover,.barra button:hover,.barra a[aria-current=page]{color:var(--tinta)}.barra .marca{font-family:var(--serifa);font-size:.95rem;letter-spacing:.02em;color:var(--tinta);margin-right:auto}h1,h2,h3{font-family:var(--serifa);font-weight:500;letter-spacing:.01em}.subtitulo{color:var(--tinta-fraca);font-size:.9rem}.cartao{border:1px solid var(--borda);background:var(--fundo-alto);border-radius:3px;padding:1rem 1.1rem}.trancado{opacity:.34}.trancado .conteudo-trancado{filter:blur(4px);user-select:none}.selo{display:inline-block;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--tinta-fraca);border:1px solid var(--borda);border-radius:999px;padding:.12rem .5rem}.ancora-cena{display:block;height:0;overflow:hidden}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}footer{margin:4rem auto 2.5rem;max-width:46rem;padding:1.4rem 1.25rem 0;border-top:1px solid var(--borda);color:var(--tinta-fraca);font-size:.78rem;font-style:italic}
+main[data-astro-cid-z5fflmvz]{padding-block:1.5rem 3rem}.titulo-secao[data-astro-cid-z5fflmvz]{margin:2.4rem 0 .8rem;font-size:1rem;letter-spacing:.08em;text-transform:uppercase;color:var(--tinta-fraca)}.boletim[data-astro-cid-z5fflmvz]{margin-top:1.5rem}.boletim[data-astro-cid-z5fflmvz] h2[data-astro-cid-z5fflmvz]{margin:0;font-size:1.15rem}.boletim[data-astro-cid-z5fflmvz] .subtitulo[data-astro-cid-z5fflmvz]{margin:.1rem 0 .7rem;font-size:.78rem}.boletim[data-astro-cid-z5fflmvz] ul[data-astro-cid-z5fflmvz]{margin:0;padding-left:1.1rem;font-size:.9rem;line-height:1.6}.onde-parou[data-astro-cid-z5fflmvz]{margin:.9rem 0 0;font-size:.85rem;color:var(--realce)}table[data-astro-cid-z5fflmvz]{width:100%;border-collapse:collapse;font-size:.88rem}th[data-astro-cid-z5fflmvz]{text-align:left;font-weight:500;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-fraca);padding-bottom:.4rem}td[data-astro-cid-z5fflmvz]{padding:.5rem 0;border-top:1px solid var(--borda)}.st-publicado[data-astro-cid-z5fflmvz]{color:var(--realce);border-color:var(--realce)}.commits[data-astro-cid-z5fflmvz]{list-style:none;padding:0;margin:0;font-size:.86rem;line-height:1.7}.commits[data-astro-cid-z5fflmvz] .subtitulo[data-astro-cid-z5fflmvz]{font-variant-numeric:tabular-nums;margin-right:.5rem}.ajuste[data-astro-cid-z5fflmvz]{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin-top:.6rem;font-size:.86rem}.ajuste[data-astro-cid-z5fflmvz] button[data-astro-cid-z5fflmvz]{font:inherit;cursor:pointer;background:none;color:var(--tinta);border:1px solid var(--borda);border-radius:999px;padding:.2rem .7rem}.ajuste[data-astro-cid-z5fflmvz] button[data-astro-cid-z5fflmvz]:hover{border-color:var(--realce)}
+
+.lista-capitulos { list-style: none; padding: 0; margin: 1.5rem 0 0; display: grid; gap: 0.7rem; }
+.lista-capitulos button { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; background: none; border: 0; padding: 0; color: inherit; cursor: pointer; font: inherit; }
+.titulo-cap { font-family: var(--serifa); font-size: 1.15rem; }
+.fim button { font: inherit; background: none; border: 0; color: var(--tinta-fraca); cursor: pointer; font-size: 0.85rem; }
+.fim button:hover { color: var(--realce); }
+.fim button[disabled] { opacity: 0.3; cursor: default; }
+section[data-rota] { min-height: 60vh; }
+.aviso[hidden], #painel-tipografia[hidden], #gaveta-mapa[hidden], section[hidden] { display: none !important; }
+</style>
+<nav class="barra">
+  <button class="marca" data-ir="mapa">A Casa do Cais</button>
+  <button data-ir="capitulos">capítulos</button>
+  <button data-ir="tempo">tempo</button>
+  <button data-ir="glossario">glossário</button>
+  <button data-ir="estado">estado</button>
+</nav>
+
+<section data-rota="mapa"><div class="envoltorio"><div class="mapa" data-modo="pagina" data-astro-cid-d7qwffjd> <svg viewBox="0 0 620 980" role="img" aria-label="Mapa da Casa do Cais: o rio Vagaroso, da Cabeceira a Boca Grande" class="parede" data-astro-cid-d7qwffjd> <defs data-astro-cid-d7qwffjd> <filter id="grao-reboco" x="-10%" y="-10%" width="120%" height="120%" data-astro-cid-d7qwffjd> <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" seed="7" result="n" data-astro-cid-d7qwffjd></feTurbulence> <feColorMatrix in="n" type="saturate" values="0" result="c" data-astro-cid-d7qwffjd></feColorMatrix> <feComponentTransfer in="c" result="g" data-astro-cid-d7qwffjd> <feFuncA type="linear" slope="0.34" data-astro-cid-d7qwffjd></feFuncA> </feComponentTransfer> <feBlend in="SourceGraphic" in2="g" mode="multiply" data-astro-cid-d7qwffjd></feBlend> </filter> <filter id="borda-breu" x="-40%" y="-40%" width="180%" height="200%" data-astro-cid-d7qwffjd> <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" seed="3" result="t" data-astro-cid-d7qwffjd></feTurbulence> <feDisplacementMap in="SourceGraphic" in2="t" scale="6" xChannelSelector="R" yChannelSelector="G" data-astro-cid-d7qwffjd></feDisplacementMap> </filter> <radialGradient id="halo-luz" data-astro-cid-d7qwffjd> <stop offset="0%" stop-color="var(--luz)" stop-opacity="0.95" data-astro-cid-d7qwffjd></stop> <stop offset="35%" stop-color="var(--luz)" stop-opacity="0.4" data-astro-cid-d7qwffjd></stop> <stop offset="100%" stop-color="var(--luz)" stop-opacity="0" data-astro-cid-d7qwffjd></stop> </radialGradient> <linearGradient id="lampiao" x1="0" y1="0" x2="1" y2="1" data-astro-cid-d7qwffjd> <stop offset="0%" stop-color="#fff" stop-opacity="0.16" data-astro-cid-d7qwffjd></stop> <stop offset="55%" stop-color="#fff" stop-opacity="0" data-astro-cid-d7qwffjd></stop> </linearGradient> </defs> <g id="camera" data-astro-cid-d7qwffjd> <!-- 1. reboco: o mundo permanente ----------------------------- --> <rect width="620" height="980" fill="var(--reboco)" data-astro-cid-d7qwffjd></rect> <rect width="620" height="980" fill="var(--reboco)" filter="url(#grao-reboco)" opacity="0.85" data-astro-cid-d7qwffjd></rect> <rect id="deriva-lampiao" width="620" height="980" fill="url(#lampiao)" data-astro-cid-d7qwffjd></rect> <!-- 2. camadas antigas: escrivães de antes --------------------- --> <g class="camadas-antigas" stroke="var(--reboco-linha)" fill="none" opacity="0.12" data-astro-cid-d7qwffjd> <path d="M 90 210 C 160 250, 150 330, 96 372" stroke-width="1.5" data-astro-cid-d7qwffjd></path> <path d="M 470 560 C 520 600, 528 660, 486 704" stroke-width="1.5" data-astro-cid-d7qwffjd></path> <path d="M 120 640 h 66 M 120 660 h 40 M 120 680 h 54" stroke-width="1.2" data-astro-cid-d7qwffjd></path> <text x="86" y="196" font-size="11" fill="var(--reboco-linha)" font-style="italic" data-astro-cid-d7qwffjd>estrada velha</text> <text x="462" y="546" font-size="11" fill="var(--reboco-linha)" font-style="italic" data-astro-cid-d7qwffjd>medida antiga</text> </g> <!-- 5. faixa de reboco cru: nunca preenchida ------------------- --> <g class="reboco-cru" data-astro-cid-d7qwffjd> <rect x="0" y="0" width="620" height="88" fill="var(--reboco)" data-astro-cid-d7qwffjd></rect> <path d="M 0 88 H 620" stroke="var(--reboco-linha)" stroke-width="1" stroke-dasharray="2 9" opacity="0.5" data-astro-cid-d7qwffjd></path> <text x="310" y="48" text-anchor="middle" font-size="12" fill="var(--reboco-linha)" opacity="0.35" letter-spacing="3" data-astro-cid-d7qwffjd>— — —</text> </g> <!-- 3. o rio Vagaroso: corrente que nunca para ------------------ --> <path id="rio" d="M 300 92 C 288 158, 246 198, 238 262 C 230 326, 262 384, 244 448 C 228 506, 300 546, 314 604 C 328 666, 272 704, 276 764 C 279 812, 268 838, 266 892" fill="none" stroke="var(--reboco-sombra)" stroke-width="9" stroke-linecap="round" opacity="0.55" data-astro-cid-d7qwffjd></path> <path id="corrente" d="M 300 92 C 288 158, 246 198, 238 262 C 230 326, 262 384, 244 448 C 228 506, 300 546, 314 604 C 328 666, 272 704, 276 764 C 279 812, 268 838, 266 892" fill="none" stroke="var(--reboco-linha)" stroke-width="2" stroke-linecap="round" stroke-dasharray="14 26" opacity="0.5" data-astro-cid-d7qwffjd></path> <!-- 4. lugares -------------------------------------------------- --> <g id="lugares" data-astro-cid-d7qwffjd> <g class="lugar" data-id="cabeceira" data-revela="2" tabindex="0" role="button" aria-label="Cabeceira" transform="translate(296 132)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="vau-queimado" data-revela="2" tabindex="0" role="button" aria-label="Vau Queimado" transform="translate(236 268)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="sete-palhas" data-revela="2" tabindex="0" role="button" aria-label="Sete Palhas" transform="translate(452 350)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g transform="translate(-452 -350)" data-astro-cid-d7qwffjd> <path class="espiga caida" d="M 418 332 l 0 -14 M 418 320 l -5 -4 M 418 320 l 5 -4 M 418 326 l -5 -4 M 418 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga caida" d="M 442 332 l 0 -14 M 442 320 l -5 -4 M 442 320 l 5 -4 M 442 326 l -5 -4 M 442 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga caida" d="M 466 332 l 0 -14 M 466 320 l -5 -4 M 466 320 l 5 -4 M 466 326 l -5 -4 M 466 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 490 332 l 0 -14 M 490 320 l -5 -4 M 490 320 l 5 -4 M 490 326 l -5 -4 M 490 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 418 358 l 0 -14 M 418 346 l -5 -4 M 418 346 l 5 -4 M 418 352 l -5 -4 M 418 352 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 442 358 l 0 -14 M 442 346 l -5 -4 M 442 346 l 5 -4 M 442 352 l -5 -4 M 442 352 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 466 358 l 0 -14 M 466 346 l -5 -4 M 466 346 l 5 -4 M 466 352 l -5 -4 M 466 352 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path> </g> </g><g class="lugar" data-id="aguas-paradas" data-revela="2" tabindex="0" role="button" aria-label="Águas Paradas" transform="translate(176 486)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="porto-de-lenha" data-revela="4" tabindex="0" role="button" aria-label="Porto de lenha" transform="translate(246 556)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="cindra" data-revela="1" tabindex="0" role="button" aria-label="Cindra" transform="translate(322 660)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <path d="M -13 6 h 26 M -9 6 v -9 M 0 6 v -14 M 9 6 v -9" stroke="var(--reboco-linha)" stroke-width="1.8" fill="none" stroke-linecap="round" data-astro-cid-d7qwffjd></path> </g> </g><g class="lugar" data-id="a-fileira" data-revela="1" tabindex="0" role="button" aria-label="A Fileira" transform="translate(386 700)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="o-poco" data-revela="1" tabindex="0" role="button" aria-label="O Poço" transform="translate(424 736)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="casa-do-cais" data-revela="2" tabindex="0" role="button" aria-label="A Casa do Cais" transform="translate(268 690)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="boca-grande" data-revela="2" tabindex="0" role="button" aria-label="Boca Grande" transform="translate(268 848)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <path d="M -13 6 h 26 M -9 6 v -9 M 0 6 v -14 M 9 6 v -9" stroke="var(--reboco-linha)" stroke-width="1.8" fill="none" stroke-linecap="round" data-astro-cid-d7qwffjd></path> </g> </g> </g> <!-- 6. breu: só cresce ----------------------------------------- --> <g id="breu" filter="url(#borda-breu)" data-astro-cid-d7qwffjd> <g class="marca-breu" data-lugar="cabeceira" data-astro-cid-d7qwffjd> <ellipse cx="296" cy="134" rx="21" ry="15" data-astro-cid-d7qwffjd></ellipse> <path d="M 288 150 q 3 26 -1 40 q -6 -16 -3 -40 Z" data-astro-cid-d7qwffjd></path> <path d="M 306 150 q 5 18 2 28 q -7 -12 -6 -28 Z" data-astro-cid-d7qwffjd></path> </g> <g class="marca-breu" data-lugar="aguas-paradas" data-astro-cid-d7qwffjd> <ellipse cx="176" cy="488" rx="23" ry="16" data-astro-cid-d7qwffjd></ellipse> <path d="M 168 506 q 4 30 0 44 q -7 -18 -4 -44 Z" data-astro-cid-d7qwffjd></path> </g> <g class="marca-breu" data-lugar="a-fileira" data-astro-cid-d7qwffjd> <ellipse cx="390" cy="703" rx="19" ry="13" data-astro-cid-d7qwffjd></ellipse> <path d="M 388 718 q 3 22 0 32 q -6 -14 -4 -32 Z" data-astro-cid-d7qwffjd></path> </g> <g class="marca-breu" data-lugar="sete-palhas" data-astro-cid-d7qwffjd> <ellipse cx="418" cy="325" rx="9" ry="9" data-astro-cid-d7qwffjd></ellipse><ellipse cx="442" cy="325" rx="9" ry="9" data-astro-cid-d7qwffjd></ellipse><ellipse cx="466" cy="325" rx="9" ry="9" data-astro-cid-d7qwffjd></ellipse> <path d="M 420 344 q 3 20 0 30 q -6 -14 -4 -30 Z" data-astro-cid-d7qwffjd></path> </g> </g> <!-- rótulos: pintados por cima do breu, pra continuarem legíveis --> <g id="rotulos" data-astro-cid-d7qwffjd> <text class="rotulo" data-id="cabeceira" x="296" y="114" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Cabeceira</text><text class="rotulo" data-id="vau-queimado" x="236" y="250" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Vau Queimado</text><text class="rotulo" data-id="sete-palhas" x="452" y="316" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Sete Palhas</text><text class="rotulo" data-id="aguas-paradas" x="176" y="468" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Águas Paradas</text><text class="rotulo" data-id="porto-de-lenha" x="246" y="538" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Porto de lenha</text><text class="rotulo" data-id="cindra" x="322" y="642" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Cindra</text><text class="rotulo" data-id="a-fileira" x="386" y="730" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>A Fileira</text><text class="rotulo" data-id="o-poco" x="424" y="766" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>O Poço</text><text class="rotulo" data-id="casa-do-cais" x="254" y="720" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>A Casa do Cais</text><text class="rotulo" data-id="boca-grande" x="268" y="830" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Boca Grande</text> </g> <!-- 7. luz: o presente do leitor, de outra matéria -------------- --> <g id="luz" class="oculta" aria-hidden="true" data-astro-cid-d7qwffjd> <circle class="halo" r="54" fill="url(#halo-luz)" data-astro-cid-d7qwffjd></circle> <circle class="nucleo" r="7" fill="var(--luz)" data-astro-cid-d7qwffjd></circle> </g> </g> </svg> <div class="ficha" hidden data-astro-cid-d7qwffjd> <button class="fechar" type="button" aria-label="Fechar" data-astro-cid-d7qwffjd>✕</button> <h3 class="ficha-nome" data-astro-cid-d7qwffjd></h3> <p class="ficha-descricao" data-astro-cid-d7qwffjd></p> <p class="ficha-representa" data-astro-cid-d7qwffjd></p> <div class="ficha-passado" data-astro-cid-d7qwffjd></div> <p class="ficha-estado" data-astro-cid-d7qwffjd></p> </div> </div><p class="dica subtitulo">Toque num lugar da parede. O que estiver apagado, você ainda não leu.</p></div></section>
+<section data-rota="capitulos" hidden>
+  <div class="envoltorio">
+    <h1>Capítulos</h1>
+    <p class="subtitulo">Publicação semanal. O mapa acompanha o que você já leu.</p>
+    <ul class="lista-capitulos">
+      <li class="cartao"><button data-abrir="1"><span class="titulo-cap">Capítulo 1</span><span class="selo estado-leitura" data-numero="1">não lido</span></button></li><li class="cartao"><button data-abrir="2"><span class="titulo-cap">Capítulo 2</span><span class="selo estado-leitura" data-numero="2">não lido</span></button></li><li class="cartao"><button data-abrir="3"><span class="titulo-cap">Capítulo 3</span><span class="selo estado-leitura" data-numero="3">não lido</span></button></li><li class="cartao"><button data-abrir="4"><span class="titulo-cap">Capítulo 4</span><span class="selo estado-leitura" data-numero="4">não lido</span></button></li><li class="cartao"><button data-abrir="5"><span class="titulo-cap">Capítulo 5</span><span class="selo estado-leitura" data-numero="5">não lido</span></button></li>
+    </ul>
+  </div>
+</section>
+<section data-rota="leitor" hidden>
+  <div class="progresso" data-astro-cid-yvbahnfj><div class="preenchimento" data-astro-cid-yvbahnfj></div></div>
+  <div id="painel-tipografia" hidden data-astro-cid-yvbahnfj> <div class="grupo" data-astro-cid-yvbahnfj> <span data-astro-cid-yvbahnfj>corpo</span> <button data-fonte="-" aria-label="Diminuir fonte" data-astro-cid-yvbahnfj>A−</button> <button data-fonte="+" aria-label="Aumentar fonte" data-astro-cid-yvbahnfj>A+</button> </div> <div class="grupo" data-astro-cid-yvbahnfj> <span data-astro-cid-yvbahnfj>luz</span> <button data-tema="claro" data-astro-cid-yvbahnfj>claro</button> <button data-tema="escuro" data-astro-cid-yvbahnfj>escuro</button> <button data-tema="vela" data-astro-cid-yvbahnfj>vela</button> </div> </div>
+  <aside class="aviso cartao" hidden data-astro-cid-yvbahnfj> <p data-astro-cid-yvbahnfj>
+Este livro trata de sofrimento psíquico — presenças, desespero por dívida,
+      soterramento — sem termos clínicos e sem sensacionalismo.
+      Se precisar conversar, o CVV atende no <a href="tel:188" data-astro-cid-yvbahnfj>188</a>, 24 horas.
+</p> <button class="entendi" data-astro-cid-yvbahnfj>entendi</button> </aside>
+  <main class="leitura" data-numero="1">
+    <div id="corpo-capitulo"><article data-astro-cid-yvbahnfj><h1 id="capítulo-1">Capítulo 1</h1>
+<h2 id="i-o-trabalho">I. O Trabalho</h2>
+<span class="ancora-cena" id="cena-2" data-lugar="a-fileira" data-tensao="media" data-tempo="agora" data-revela="sala-de-espera,a-rapida,a-mansa,ferrugem" aria-hidden="true"></span>
+<p>A fila da casa de penhores dobrava a esquina antes do sol nascer de
+verdade, e Íris contou onze pessoas na frente dela antes de parar,
+encostada no muro oposto, só olhando. Não estava ali pra penhorar nada.</p>
+<p><em>Ele não passou por aqui</em>, disse a Rápida, baixo, do jeito que só Íris
+ouvia. <em>A dona da banca de peixe teria comentado.</em></p>
+<p>— Eu sei — respondeu Íris, baixo o bastante pra que a mulher que virou a
+cabeça na fila decidisse, um instante depois, que não tinha ouvido nada.
+Isso acontecia sempre; ela aprendera havia anos a mover os lábios de
+menos, a deixar que parecesse que só respirava fundo.</p>
+<p>Fazia três dias que Mara Sobral tinha batido na porta dela com um retrato
+amassado e o aluguel de duas semanas em moedas contadas na mesa, uma por
+uma. Contava devagar demais pra ser só cuidado com o troco — contava do
+jeito de quem sabe exatamente quanto cada moeda custou pra juntar, porque
+já tinha entregado moedas iguais àquelas outras vezes, pra outra pessoa,
+com prazo pra devolver. Íris reconheceu o gesto. Já tinha visto gente
+contar dinheiro assim em toda a Fileira, sempre que o nome de Ferrugem
+entrava na conversa mesmo sem ser dito — os dois primeiros dedos
+tremendo mais que os outros, como se tocar o dinheiro fizesse lembrar de
+quanto dele já tinha ido embora pra lugar nenhum.</p>
+<p>O retrato era de um rapaz de uns dezessete anos, magro, com o queixo de
+quem ainda não decidiu que cara vai fazer quando crescer. Caio. Sumido
+havia seis dias — e devendo a Ferrugem havia mais tempo que isso, tempo
+suficiente pra que a dívida tivesse deixado de ser sobre dinheiro e
+passado a ser sobre prazo, que era a moeda que interessava de verdade
+pros cobradores dele.</p>
+<p>— Ele não é ruim — Mara disse, sem que ninguém tivesse perguntado. — Só
+fez besteira por mim.</p>
+<p>Íris não perguntou que besteira. Não era da conta dela; da conta dela era
+achar o rapaz antes que alguém da rede de Ferrugem achasse primeiro. Ela
+conhecia o ritmo de como aquilo costumava terminar quando quem cobrava
+chegava antes de quem procurava por afeto: não precisava de detalhe
+nenhum pra saber que o tempo já estava contra as duas.</p>
+<p><em>Ele foi na direção do rio</em>, disse a Rápida agora, puxando a atenção de
+Íris pra um beco entre duas casas de penhor. <em>Duas pessoas comentaram um
+garoto correndo faz quatro dias. Ninguém comentou ontem. Ninguém comentou
+hoje.</em></p>
+<p>Era o pior tipo de informação que existia naquele ofício: silêncio
+recente. Ou o rapaz tinha parado de se mover, ou tinha parado de ser
+visto por gente que ainda falava com os vivos.</p>
+<p><em>A Fileira toda é assim</em>, comentou a Mansa, mais pra acalmar do que pra
+informar. <em>Silêncio não quer dizer o pior.</em></p>
+<p>Íris não respondeu a essa. Guardava respostas pra quando precisava mesmo,
+e o corpo dela, de tanta prática, sabia caminhar reto enquanto ouvia três
+conversas de uma vez sem que o rosto traísse nada. Era o trabalho:
+rastrear gente que a cidade preferia esquecer, usando a única
+vantagem que tinha, que era nunca estar sozinha o bastante pra deixar de
+prestar atenção.</p>
+<p>Entrou no beco. Numa das portas, rente ao chão, alguém tinha riscado um X
+que já ia embranquecendo com o tempo. Íris conhecia o desenho de cor —
+atravessou a rua sem precisar pensar, e contou mais dois iguais antes do
+fim do quarteirão. Em nenhuma das casas marcadas havia sinal de vida
+àquela hora da manhã, só o silêncio espesso de quem prendeu a respiração
+até o barulho de passos passar.</p>
+<p>O beco descia. As casas de penhor davam lugar a barracos de madeira podre
+e depois a nada — só as fundações de um prédio que ninguém tinha coragem
+de reconstruir, cercadas por um mato ralo que crescia torto, do jeito de
+quem sabe de algo que os outros fingem não saber.</p>
+<p><em>É aqui</em>, disse a Rápida, e pela primeira vez naquela manhã havia alguma
+coisa na voz dela que não era pressa, e sim cautela.</p>
+<p>O Poço.</p>
+<h2 id="ii-sala-de-espera-cheia">II. Sala de Espera Cheia</h2>
+<span class="ancora-cena" id="cena-1" data-lugar="o-poco" data-tensao="alta" data-tempo="agora" data-revela="o-poco,o-credor,manifestacao,portador" aria-hidden="true"></span>
+<p>Íris parou na beirada.</p>
+<p>Não era um buraco no chão, apesar do nome — era um porão exposto, o teto
+que um dia existiu agora só memória de vigas carbonizadas, e escada
+abaixo, escuridão que engolia a luz da manhã a um metro da entrada. Vinte
+anos atrás, alguma coisa tinha atacado ali; ninguém na Fileira gostava de
+dizer o nome dela em voz alta, como se isso pudesse chamar de volta o que
+já tinha sido embora. Íris sabia o nome porque a Rápida sabia: o Credor.</p>
+<p>Ficou parada tempo suficiente pra sentir o próprio coração bater num
+ritmo que não era bem o dela, mais rápido, antecipando alguma coisa que o
+resto do corpo ainda não sabia. A Mansa disse alguma coisa baixinho, do
+tipo que costumava dizer antes de uma tarefa difícil, mas Íris não
+conseguiu escutar direito — uma parte dela já estava ocupada demais
+escutando o silêncio que vinha de dentro do Poço, e não era um silêncio
+vazio. Era o silêncio de uma sala cheia de gente que ainda não tinha
+decidido falar.</p>
+<p>Deu o primeiro passo escada abaixo e a Sala de Espera lotou.</p>
+<p>Não foi como abrir uma porta. A porta simplesmente não existia mais, e o
+que a separava daquilo cedeu de uma vez, inteiro. Não foram duas vozes,
+nem três, mas dúzias, um murmúrio se sobrepondo a outro tão depressa que
+Íris não conseguia mais separar o que era a Mansa do que era estranho, do
+que talvez nunca tivesse sido dela pra começar. Alguma coisa dizia
+<em>desça</em>, outra dizia <em>volte</em>, e uma terceira, mais funda que as demais,
+só repetia um número — uma dívida, talvez, ou uma contagem de dias, ela
+não conseguia saber. Por um instante que durou menos que um piscar de
+olhos e mais que uma vida inteira, foi como estar em pé no meio de uma
+multidão gritando o próprio nome dela ao mesmo tempo, cada um exigindo
+ser ouvido primeiro, cada um convencido de que sua urgência era a única
+urgência real. O que apavorava não era a quantidade — era não conseguir
+apontar o instante exato em que uma delas passaria a falar por ela, em
+vez de com ela. O corpo todo se retesou, esperando por esse instante sem
+saber de onde ele viria; vinha como um degrau igual aos outros, até o pé
+descobrir que não era.</p>
+<p>Não tinha tempo pra ficar parada sentindo isso. Cada segundo ali era um
+segundo a mais que Caio passava sozinho lá embaixo, cercado por coisas
+que ela ainda não sabia nomear, e foi esse pensamento, mais que qualquer
+coragem, que obrigou o pé dela a descer mais um degrau.</p>
+<p>O segundo foi pior que o primeiro; o terceiro, pior que o segundo. Íris
+contava os passos porque contar era uma coisa que ainda fazia sozinha —
+nenhuma presença tinha se metido a contar por ela ainda, e enquanto
+contasse teria pelo menos isso: um fio fino de si mesma atravessando o
+barulho, uma corda pra segurar com as duas mãos enquanto tudo ao redor
+virava água. Onze. Doze. O ar mudava de temperatura conforme ela descia,
+mais frio do que o dia lá fora explicava, entrando pelo tecido fino da
+blusa direto até a pele, e um cheiro de terra molhada e metal velho subiu
+ao encontro dela — e junto dele, por um segundo rápido demais pra
+confirmar, alguma coisa que lembrava grãos armazenados, poeira dourada
+boiando num raio de luz que não existia mais. Treze. Ela empurrou a
+lembrança pra trás dos dentes antes que pudesse virar outra coisa, e no
+fundo do coro alguma coisa riu — não uma risada cruel, nem gentil, só
+velha demais pra pertencer a alguém que ainda respirava.</p>
+<p>As mãos começaram a tremer antes que ela percebesse: um tremor fino,
+igual ao de quem carrega peso demais por tempo demais e ainda não soltou
+nada no chão. Os ombros doíam de um jeito sem relação nenhuma com esforço
+físico, uma dor funda, quase óssea: cada voz nova empilhava mais uma
+pedra em cima da anterior, sem escolher onde cair. Precisando sentir
+alguma coisa que fosse só dela, Íris cravou a unha no polegar, uma vez,
+com força, e o pequeno choque atravessou o antebraço até o cotovelo,
+ofuscando por um instante o coro. Continuou descendo. A escada rangeu sob
+o peso dela — um som comum, quase reconfortante por ser tão comum, no
+meio de tudo que não era.</p>
+<p>Encontrou Junco antes de encontrar Caio: um homem largo, parado a meio
+caminho da escada, segurando com as duas mãos uma tocha que tremia mais
+do que o vento explicava. O círculo de luz ao redor dele era menor do que
+qualquer tocha deveria fazer — o próprio ar ali embaixo parecia comer um
+pouco da claridade antes que ela chegasse ao chão. Suava pelo pescoço
+mesmo no frio, e os olhos, quando encontraram os de Íris, tinham o brilho
+de quem calcula, minuto a minuto, quanto tempo ainda consegue aguentar
+antes de sair correndo sem vergonha nenhuma.</p>
+<p>— Não desço mais fundo — disse ele, sem que ninguém tivesse perguntado. —
+Ferrugem que se vire.</p>
+<p>Íris passou por ele sem responder, não por falta do que dizer, mas
+porque cada palavra gasta ali era uma palavra a menos pra usar lá
+embaixo, e ela já sentia no fundo da garganta o preço de manter a própria
+voz separada de todas as outras. Junco não se moveu pra impedir; ela
+suspeitou, sem confirmar, que ele estava aliviado por alguém tomar a
+decisão que ele mesmo não conseguia tomar. Por um segundo, só um, sentiu
+inveja de uma simplicidade que ele tinha e ela não — a de poder
+simplesmente virar as costas pro que assustava.</p>
+<p>Os degraus finais eram mais estreitos, e a escuridão ali já não tinha
+nada de metafórico. Íris caminhava com uma mão na parede fria e úmida,
+sentindo sob os dedos sulcos que podiam ser raízes ou podiam ser outra
+coisa, e não quis saber qual. O coro não parava de crescer, e havia agora
+vozes discutindo entre si sobre coisas que não diziam respeito a ela —
+uma disputa antiga, arrastada, sobre um nome, sobre uma promessa
+quebrada. Íris entendeu, com um arrepio que começou na nuca e desceu pela
+espinha inteira, que nem todas aquelas vozes tinham vindo por causa dela.
+Algumas já estavam ali; ela só tinha aberto a porta que as deixava mais
+altas. E se Caio estava perto, o tempo que ela tinha pra alcançá-lo antes
+que alguma coisa decidisse por ele já estava se esgotando — sentiu uma
+urgência nova apertar o peito, distinta de tudo o mais que sentia ali.</p>
+<p>Lá embaixo, entre mesas de escritório viradas e papéis que tinham parado
+de ser papéis fazia muito tempo, Caio estava sentado de costas pra
+escada, os joelhos contra o peito, falando sozinho — ou era o que
+qualquer outra pessoa teria visto. Íris via mais que isso: via, ao redor
+dele, uma densidade de presenças que não eram as dela, tão pesada que
+doía atravessar, como andar contra uma correnteza que empurrava não o
+corpo, mas a certeza de quem se é. Cada passo em direção a ele custava
+mais que o anterior, o ar ficando mais espesso perto do centro, e Íris
+sentiu, pela primeira vez naquela manhã, o impulso puro e físico de
+recuar — não por medo dele, mas por medo do que estava grudado nele, a
+beira que pode ou não aguentar o próprio peso.</p>
+<p>— Se eu ficar aqui o bastante, ela some — Caio estava dizendo, pra
+ninguém, pra tudo. — É só isso que preciso fazer. Ficar até a dívida
+quitar de vez, e sumir com ela.</p>
+<p><em>Ele acha que a dívida dele que vai desaparecer</em>, disse a Rápida, e
+pela primeira vez naquela manhã sua voz tremia também. <em>Não é a dívida
+que "quita" aqui embaixo.</em></p>
+<p>Íris deu mais um passo, e alguma coisa no fundo da sala de espera cheia —
+fria, antiga, com o peso específico de vinte anos de gente que tinha
+tentado exatamente aquilo antes de Caio — sussurrou pra ela uma sugestão
+tão razoável que por um segundo Íris quase obedeceu sem perceber que era
+sugestão: <em>deixa ele. Ele escolheu. Essa decisão não é sua pra carregar.</em>
+A voz não gritava, e isso era o pior; vinha baixa, quase gentil, embrulhada
+num bom argumento, num respeito fingido pela vontade alheia. Por um
+segundo inteiro e longo demais, Íris sentiu o próprio corpo relaxar em
+direção a ela, os músculos das pernas afrouxando como se já tivessem
+decidido virar as costas antes que o resto dela concordasse.</p>
+<p>Não era a voz do Frio. Era mais velha que o Frio. Sentiu o próprio queixo
+balançar que nem sim, antes de decidir qualquer coisa — e foi esse gesto
+pequeno, ainda não terminado, que a fez parar de vez. Fechou a mão com
+mais força, cravando a unha de novo: a dor era real, era dela, sem voz
+nenhuma dentro, e foi nisso que se agarrou, como quem segura a beirada de
+uma mesa antes de cair. O coração batia tão forte que sentia o pulso na
+garganta. Respirou uma vez, fundo, contando o ar que entrava do jeito que
+tinha contado os degraus, e deixou que aquele único gesto — respirar, só
+respirar — fosse a resposta.</p>
+<p>— Caio — disse, em voz alta, pela primeira vez desde que descera. — Sua
+mãe pagou pra eu te achar. Não pra te deixar aqui decidindo por conta de
+um número.</p>
+<p>Ele virou. O rosto era o do retrato amassado, só que mais cinza, os olhos
+fundos de quem não dormia havia dias e não comia direito havia mais tempo
+ainda, e por um instante pareceu não reconhecer nela uma pessoa — só a
+interrupção de um processo que já tinha começado.</p>
+<p>— Você não entende o tanto que ela já deu.</p>
+<p>— Entendo o suficiente — disse Íris, e estendeu a mão, sem se aproximar
+mais do que precisava. A mão tremia ainda, um pouco, e ela deixou que
+tremesse, sem esconder. — Levanta.</p>
+<p>Não foi uma ordem que veio de fora dela decidindo por ele. Foi só uma
+mão. Caio olhou pra ela, depois pro escuro ao redor, pediu licença sem
+palavras pra alguma coisa que só ele ouvia, e então, devagar, os joelhos
+travados de ficar tempo demais na mesma posição, se levantou — um corpo
+relembrando, devagar, como ficar de pé podia doer.
+Íris sentiu, sem saber dizer se era dela ou se tinha vindo de fora, um
+alívio tão grande que quase doeu mais que o medo de antes.</p>
+<p>A sala de espera não esvaziou no caminho de volta pra escada. Algumas das
+vozes de baixo subiram junto com ela, mais quietas que antes, mas
+presentes de um jeito novo, um jeito que ainda não tinha vocabulário pra
+nomear — como quem fica sentado na sala muito depois do horário de
+atendimento ter fechado. Cada degrau subido pesava menos que o anterior,
+não porque o coro sumisse, mas porque o ar ia ficando mais leve, mais
+próximo do dia lá fora, e o corpo dela foi relaxando aos poucos, o
+músculo enfim soltando a tensão que vinha segurando fazia tempo demais.
+O tremor nas mãos levou mais dois quarteirões pra passar de vez, e deixou
+pra trás uma fraqueza fina nos dedos que ela sabia, por experiência, que
+ia voltar naquela mesma noite em forma de sono pesado demais.</p>
+<p>Lá fora, Junco já tinha ido embora. O sol da manhã parecia ofensivamente
+comum depois do Poço: gente na fila da casa de penhores, o cheiro de
+peixe da banca na esquina, uma criança rindo em algum lugar fora de
+vista, o mundo inteiro continuando exatamente do jeito que sempre
+continuava, sem saber o que quase tinha acontecido dentro dele havia
+menos de dez minutos. Íris ficou parada um segundo a mais do que
+precisava, só sentindo o sol na pele, deixando o calor comum fazer o
+trabalho que nenhuma presença conseguia fazer por ela.</p>
+<p>— Ela vai ficar brava — disse Caio, olhando pro chão, a voz rouca de
+quem não usava a garganta fazia dias.</p>
+<p>— Ela vai ficar aliviada primeiro — disse Íris. — Brava depois.</p>
+<p>Ele não perguntou como ela sabia disso. Íris também não contou que uma
+das vozes que agora morava um pouco mais perto da superfície da própria
+cabeça dela tinha concordado, baixinho, antes mesmo de ela terminar a
+frase — nem que essa voz, sem que ela pedisse, parecia estar ali pra
+ficar.</p></article></div>
+    <nav class="fim">
+      <button id="cap-anterior">‹ anterior</button>
+      <button id="cap-proximo">próximo ›</button>
+    </nav>
+  </main>
+  <button id="abrir-mapa" aria-label="Ver o mapa" title="Ver o mapa" data-astro-cid-yvbahnfj> <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" data-astro-cid-yvbahnfj> <path d="M9 4 3 6.5v13L9 17l6 2.5 6-2.5v-13L15 7 9 4Z" stroke-linejoin="round" data-astro-cid-yvbahnfj></path> <path d="M9 4v13M15 7v12.5" data-astro-cid-yvbahnfj></path> </svg> </button>
+  <div id="gaveta-mapa" hidden>
+    <button class="fechar-gaveta" aria-label="Fechar mapa">✕</button>
+    <div class="mapa" data-modo="pagina" data-astro-cid-d7qwffjd> <svg viewBox="0 0 620 980" role="img" aria-label="Mapa da Casa do Cais: o rio Vagaroso, da Cabeceira a Boca Grande" class="parede" data-astro-cid-d7qwffjd> <defs data-astro-cid-d7qwffjd> <filter id="grao-reboco" x="-10%" y="-10%" width="120%" height="120%" data-astro-cid-d7qwffjd> <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" seed="7" result="n" data-astro-cid-d7qwffjd></feTurbulence> <feColorMatrix in="n" type="saturate" values="0" result="c" data-astro-cid-d7qwffjd></feColorMatrix> <feComponentTransfer in="c" result="g" data-astro-cid-d7qwffjd> <feFuncA type="linear" slope="0.34" data-astro-cid-d7qwffjd></feFuncA> </feComponentTransfer> <feBlend in="SourceGraphic" in2="g" mode="multiply" data-astro-cid-d7qwffjd></feBlend> </filter> <filter id="borda-breu" x="-40%" y="-40%" width="180%" height="200%" data-astro-cid-d7qwffjd> <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" seed="3" result="t" data-astro-cid-d7qwffjd></feTurbulence> <feDisplacementMap in="SourceGraphic" in2="t" scale="6" xChannelSelector="R" yChannelSelector="G" data-astro-cid-d7qwffjd></feDisplacementMap> </filter> <radialGradient id="halo-luz" data-astro-cid-d7qwffjd> <stop offset="0%" stop-color="var(--luz)" stop-opacity="0.95" data-astro-cid-d7qwffjd></stop> <stop offset="35%" stop-color="var(--luz)" stop-opacity="0.4" data-astro-cid-d7qwffjd></stop> <stop offset="100%" stop-color="var(--luz)" stop-opacity="0" data-astro-cid-d7qwffjd></stop> </radialGradient> <linearGradient id="lampiao" x1="0" y1="0" x2="1" y2="1" data-astro-cid-d7qwffjd> <stop offset="0%" stop-color="#fff" stop-opacity="0.16" data-astro-cid-d7qwffjd></stop> <stop offset="55%" stop-color="#fff" stop-opacity="0" data-astro-cid-d7qwffjd></stop> </linearGradient> </defs> <g id="camera" data-astro-cid-d7qwffjd> <!-- 1. reboco: o mundo permanente ----------------------------- --> <rect width="620" height="980" fill="var(--reboco)" data-astro-cid-d7qwffjd></rect> <rect width="620" height="980" fill="var(--reboco)" filter="url(#grao-reboco)" opacity="0.85" data-astro-cid-d7qwffjd></rect> <rect id="deriva-lampiao" width="620" height="980" fill="url(#lampiao)" data-astro-cid-d7qwffjd></rect> <!-- 2. camadas antigas: escrivães de antes --------------------- --> <g class="camadas-antigas" stroke="var(--reboco-linha)" fill="none" opacity="0.12" data-astro-cid-d7qwffjd> <path d="M 90 210 C 160 250, 150 330, 96 372" stroke-width="1.5" data-astro-cid-d7qwffjd></path> <path d="M 470 560 C 520 600, 528 660, 486 704" stroke-width="1.5" data-astro-cid-d7qwffjd></path> <path d="M 120 640 h 66 M 120 660 h 40 M 120 680 h 54" stroke-width="1.2" data-astro-cid-d7qwffjd></path> <text x="86" y="196" font-size="11" fill="var(--reboco-linha)" font-style="italic" data-astro-cid-d7qwffjd>estrada velha</text> <text x="462" y="546" font-size="11" fill="var(--reboco-linha)" font-style="italic" data-astro-cid-d7qwffjd>medida antiga</text> </g> <!-- 5. faixa de reboco cru: nunca preenchida ------------------- --> <g class="reboco-cru" data-astro-cid-d7qwffjd> <rect x="0" y="0" width="620" height="88" fill="var(--reboco)" data-astro-cid-d7qwffjd></rect> <path d="M 0 88 H 620" stroke="var(--reboco-linha)" stroke-width="1" stroke-dasharray="2 9" opacity="0.5" data-astro-cid-d7qwffjd></path> <text x="310" y="48" text-anchor="middle" font-size="12" fill="var(--reboco-linha)" opacity="0.35" letter-spacing="3" data-astro-cid-d7qwffjd>— — —</text> </g> <!-- 3. o rio Vagaroso: corrente que nunca para ------------------ --> <path id="rio" d="M 300 92 C 288 158, 246 198, 238 262 C 230 326, 262 384, 244 448 C 228 506, 300 546, 314 604 C 328 666, 272 704, 276 764 C 279 812, 268 838, 266 892" fill="none" stroke="var(--reboco-sombra)" stroke-width="9" stroke-linecap="round" opacity="0.55" data-astro-cid-d7qwffjd></path> <path id="corrente" d="M 300 92 C 288 158, 246 198, 238 262 C 230 326, 262 384, 244 448 C 228 506, 300 546, 314 604 C 328 666, 272 704, 276 764 C 279 812, 268 838, 266 892" fill="none" stroke="var(--reboco-linha)" stroke-width="2" stroke-linecap="round" stroke-dasharray="14 26" opacity="0.5" data-astro-cid-d7qwffjd></path> <!-- 4. lugares -------------------------------------------------- --> <g id="lugares" data-astro-cid-d7qwffjd> <g class="lugar" data-id="cabeceira" data-revela="2" tabindex="0" role="button" aria-label="Cabeceira" transform="translate(296 132)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="vau-queimado" data-revela="2" tabindex="0" role="button" aria-label="Vau Queimado" transform="translate(236 268)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="sete-palhas" data-revela="2" tabindex="0" role="button" aria-label="Sete Palhas" transform="translate(452 350)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g transform="translate(-452 -350)" data-astro-cid-d7qwffjd> <path class="espiga caida" d="M 418 332 l 0 -14 M 418 320 l -5 -4 M 418 320 l 5 -4 M 418 326 l -5 -4 M 418 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga caida" d="M 442 332 l 0 -14 M 442 320 l -5 -4 M 442 320 l 5 -4 M 442 326 l -5 -4 M 442 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga caida" d="M 466 332 l 0 -14 M 466 320 l -5 -4 M 466 320 l 5 -4 M 466 326 l -5 -4 M 466 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 490 332 l 0 -14 M 490 320 l -5 -4 M 490 320 l 5 -4 M 490 326 l -5 -4 M 490 326 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 418 358 l 0 -14 M 418 346 l -5 -4 M 418 346 l 5 -4 M 418 352 l -5 -4 M 418 352 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 442 358 l 0 -14 M 442 346 l -5 -4 M 442 346 l 5 -4 M 442 352 l -5 -4 M 442 352 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path><path class="espiga" d="M 466 358 l 0 -14 M 466 346 l -5 -4 M 466 346 l 5 -4 M 466 352 l -5 -4 M 466 352 l 5 -4" stroke="var(--reboco-linha)" stroke-width="1.6" fill="none" data-astro-cid-d7qwffjd></path> </g> </g><g class="lugar" data-id="aguas-paradas" data-revela="2" tabindex="0" role="button" aria-label="Águas Paradas" transform="translate(176 486)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="porto-de-lenha" data-revela="4" tabindex="0" role="button" aria-label="Porto de lenha" transform="translate(246 556)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="cindra" data-revela="1" tabindex="0" role="button" aria-label="Cindra" transform="translate(322 660)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <path d="M -13 6 h 26 M -9 6 v -9 M 0 6 v -14 M 9 6 v -9" stroke="var(--reboco-linha)" stroke-width="1.8" fill="none" stroke-linecap="round" data-astro-cid-d7qwffjd></path> </g> </g><g class="lugar" data-id="a-fileira" data-revela="1" tabindex="0" role="button" aria-label="A Fileira" transform="translate(386 700)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="o-poco" data-revela="1" tabindex="0" role="button" aria-label="O Poço" transform="translate(424 736)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="casa-do-cais" data-revela="2" tabindex="0" role="button" aria-label="A Casa do Cais" transform="translate(268 690)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <circle r="5.5" fill="none" stroke="var(--reboco-linha)" stroke-width="1.8" data-astro-cid-d7qwffjd></circle> <circle r="1.6" fill="var(--reboco-linha)" data-astro-cid-d7qwffjd></circle> </g> </g><g class="lugar" data-id="boca-grande" data-revela="2" tabindex="0" role="button" aria-label="Boca Grande" transform="translate(268 848)" data-astro-cid-d7qwffjd> <circle class="alvo" r="26" fill="transparent" data-astro-cid-d7qwffjd></circle> <g class="glifo" data-astro-cid-d7qwffjd> <path d="M -13 6 h 26 M -9 6 v -9 M 0 6 v -14 M 9 6 v -9" stroke="var(--reboco-linha)" stroke-width="1.8" fill="none" stroke-linecap="round" data-astro-cid-d7qwffjd></path> </g> </g> </g> <!-- 6. breu: só cresce ----------------------------------------- --> <g id="breu" filter="url(#borda-breu)" data-astro-cid-d7qwffjd> <g class="marca-breu" data-lugar="cabeceira" data-astro-cid-d7qwffjd> <ellipse cx="296" cy="134" rx="21" ry="15" data-astro-cid-d7qwffjd></ellipse> <path d="M 288 150 q 3 26 -1 40 q -6 -16 -3 -40 Z" data-astro-cid-d7qwffjd></path> <path d="M 306 150 q 5 18 2 28 q -7 -12 -6 -28 Z" data-astro-cid-d7qwffjd></path> </g> <g class="marca-breu" data-lugar="aguas-paradas" data-astro-cid-d7qwffjd> <ellipse cx="176" cy="488" rx="23" ry="16" data-astro-cid-d7qwffjd></ellipse> <path d="M 168 506 q 4 30 0 44 q -7 -18 -4 -44 Z" data-astro-cid-d7qwffjd></path> </g> <g class="marca-breu" data-lugar="a-fileira" data-astro-cid-d7qwffjd> <ellipse cx="390" cy="703" rx="19" ry="13" data-astro-cid-d7qwffjd></ellipse> <path d="M 388 718 q 3 22 0 32 q -6 -14 -4 -32 Z" data-astro-cid-d7qwffjd></path> </g> <g class="marca-breu" data-lugar="sete-palhas" data-astro-cid-d7qwffjd> <ellipse cx="418" cy="325" rx="9" ry="9" data-astro-cid-d7qwffjd></ellipse><ellipse cx="442" cy="325" rx="9" ry="9" data-astro-cid-d7qwffjd></ellipse><ellipse cx="466" cy="325" rx="9" ry="9" data-astro-cid-d7qwffjd></ellipse> <path d="M 420 344 q 3 20 0 30 q -6 -14 -4 -30 Z" data-astro-cid-d7qwffjd></path> </g> </g> <!-- rótulos: pintados por cima do breu, pra continuarem legíveis --> <g id="rotulos" data-astro-cid-d7qwffjd> <text class="rotulo" data-id="cabeceira" x="296" y="114" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Cabeceira</text><text class="rotulo" data-id="vau-queimado" x="236" y="250" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Vau Queimado</text><text class="rotulo" data-id="sete-palhas" x="452" y="316" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Sete Palhas</text><text class="rotulo" data-id="aguas-paradas" x="176" y="468" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Águas Paradas</text><text class="rotulo" data-id="porto-de-lenha" x="246" y="538" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Porto de lenha</text><text class="rotulo" data-id="cindra" x="322" y="642" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Cindra</text><text class="rotulo" data-id="a-fileira" x="386" y="730" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>A Fileira</text><text class="rotulo" data-id="o-poco" x="424" y="766" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>O Poço</text><text class="rotulo" data-id="casa-do-cais" x="254" y="720" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>A Casa do Cais</text><text class="rotulo" data-id="boca-grande" x="268" y="830" text-anchor="middle" font-size="13" data-astro-cid-d7qwffjd>Boca Grande</text> </g> <!-- 7. luz: o presente do leitor, de outra matéria -------------- --> <g id="luz" class="oculta" aria-hidden="true" data-astro-cid-d7qwffjd> <circle class="halo" r="54" fill="url(#halo-luz)" data-astro-cid-d7qwffjd></circle> <circle class="nucleo" r="7" fill="var(--luz)" data-astro-cid-d7qwffjd></circle> </g> </g> </svg> <div class="ficha" hidden data-astro-cid-d7qwffjd> <button class="fechar" type="button" aria-label="Fechar" data-astro-cid-d7qwffjd>✕</button> <h3 class="ficha-nome" data-astro-cid-d7qwffjd></h3> <p class="ficha-descricao" data-astro-cid-d7qwffjd></p> <p class="ficha-representa" data-astro-cid-d7qwffjd></p> <div class="ficha-passado" data-astro-cid-d7qwffjd></div> <p class="ficha-estado" data-astro-cid-d7qwffjd></p> </div> </div>
+  </div>
+</section>
+<section data-rota="glossario" hidden><main class="envoltorio" data-astro-cid-rfjopv7t> <h1 data-astro-cid-rfjopv7t>Glossário</h1> <p class="subtitulo" data-astro-cid-rfjopv7t>Só aparece o que você já leu. Um leitor no Capítulo 2 e outro no 40 veem mundos diferentes.</p> <dl data-astro-cid-rfjopv7t> <div class="cartao verbete" data-revela="4" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>a Boa Hora</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Barca de casco chato, vinte e seis anos e três cascos diferentes. Sobe o rio com paciência e desce com pressa. Mestre Nestor.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 4</p> </div><div class="cartao verbete" data-revela="2" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>a Folga</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Os vinte anos sem Manifestação nenhuma em lugar nenhum do rio. Uma geração inteira cresceu achando que o mundo sempre foi assim.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 2</p> </div><div class="cartao verbete" data-revela="3" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>a Junta de Resguardo</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Órgão de Boca Grande que cobra a taxa das vilas e mantém registro de quem carrega técnica. Mede a pessoa sem enxergá-la, e às vezes acerta por isso.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 3</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>a Mansa</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Uma das presenças. Cantarola, lembra de comer, chega devagar.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>a Rápida</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Uma das presenças. Vê antes, fala baixo, quase nunca está errada sobre o que está na frente dos olhos.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="2" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>a terceira presença</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Subiu do Poço com Íris e ficou calada três dias. Depois falou: &quot;Ele vai precisar de tinta nova.&quot;</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 2</p> </div><div class="cartao verbete" data-revela="4" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Alice</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Contramestre da Boa Hora. Pergunta tudo, e por isso perguntou &quot;quantos são?&quot; como quem pergunta a profundidade do rio.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 4</p> </div><div class="cartao verbete" data-revela="2" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Almanaque</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>O escrivão da Casa do Cais. Registra o que sabe e não registra o que não sabe, e é por honestidade que o mapa fica incompleto.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 2</p> </div><div class="cartao verbete" data-revela="3" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Antes de Cair o Copo</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>A técnica de Bento. Ele sabe antes — e erra doze vezes por dia. O custo não está no lampejo; está em ser o rapaz que avisa.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 3</p> </div><div class="cartao verbete" data-revela="3" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Bento</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Vinte e um anos. A técnica nasceu nele durante a Folga, o que pela via de origem conhecida não deveria ser possível.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 3</p> </div><div class="cartao verbete" data-revela="2" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>breu de lampião</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>A tinta preta com que o escrivão cobre, no mapa, o lugar que caiu. Não existe marca para &quot;não sei&quot;: o mapa só sabe anotar o que já terminou de acontecer.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 2</p> </div><div class="cartao verbete" data-revela="4" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Enxame</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>A técnica de Alice. Muitas coisas começadas, a cadeia inteira aberta ao mesmo tempo — e, de vez em quando, oito segundos em que só existe uma.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 4</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Ferrugem</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Quem administra o crédito informal da Fileira. Não aparece; a rede dele aparece. Um X baixo, perto do chão, na porta que os cobradores pretendem visitar de novo.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Manifestação</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>O que cai sobre um lugar quando o medo de muita gente ao mesmo tempo encontra alguma coisa para virar. Quatro estão marcadas a breu no mapa da Casa do Cais.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>o Credor</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>A Manifestação que atacou a Fileira há vinte anos, nascida do medo de dívida e de escassez. A última registrada no Vagaroso.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="5" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>o Frio</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>A presença que apareceu embaixo do casco, com a água em cima. Não é nova; é antiga e estava esperando o lugar certo.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 5</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>o Poço</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>As fundações do escritório onde o Credor atacou. Ninguém reconstruiu por cima. Perto dele, o número de presenças sobe muito acima do normal.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Portador</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Quem carrega técnica. Palavra de registro, não de identidade — a Junta usa; as pessoas nem sempre.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="1" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Sala de Espera</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>A técnica de Íris. Ela ouve presenças que ninguém mais ouve, e elas nem sempre mentem nem sempre ajudam. Quem decide o que fazer com o que se ouve é ela — sempre.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 1</p> </div><div class="cartao verbete" data-revela="2" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>taxa de resguardo</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>O que as vilas do Vagaroso pagavam à Junta. Reduzida durante a Folga por falta de necessidade comprovada.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 2</p> </div><div class="cartao verbete" data-revela="3" data-astro-cid-rfjopv7t> <dt data-astro-cid-rfjopv7t>Vitorino Cerqueira</dt> <dd class="conteudo-trancado" data-astro-cid-rfjopv7t>Homem da Junta. Formulário de três linhas: nome da pessoa, nome que a pessoa dá pra coisa, observações. Aceitou &quot;não informou&quot; sem retaliar.</dd> <p class="cadeado subtitulo" hidden data-astro-cid-rfjopv7t>destrava no Capítulo 3</p> </div> </dl> </main></section>
+<section data-rota="tempo" hidden><main class="envoltorio" data-astro-cid-rewm2cxv> <h1 data-astro-cid-rewm2cxv>Linha do tempo</h1> <p class="subtitulo" data-astro-cid-rewm2cxv>O rio corre pra um lado só. Notícia, doença e medo sobem por ele.</p> <ol data-astro-cid-rewm2cxv> <li class="evento" data-revela="2" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>há cerca de vinte e dois anos</p> <h2 data-astro-cid-rewm2cxv>Três espigas apagam</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Uma Manifestação sem nome atinge o planalto de Sete Palhas. Os sobreviventes chamam de &quot;o que passou&quot;, e repetem a mesma expressão quando perguntados de novo.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Sete Palhas</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="1" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>há cerca de vinte anos</p> <h2 data-astro-cid-rewm2cxv>O Credor cai sobre a Fileira</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>A última Manifestação registrada no Vagaroso. É destruída, mas deixa resíduo denso nas fundações onde atacou — hoje, o Poço.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>A Fileira</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="2" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>a partir dali</p> <h2 data-astro-cid-rewm2cxv>Começa a Folga</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Vinte anos sem Manifestação nova em lugar nenhum do rio. Boca Grande reduz a taxa de resguardo por falta de necessidade comprovada. Gente volta a construir em terreno abandonado.</p>  <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="1" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>ano 20 da Folga</p> <h2 data-astro-cid-rewm2cxv>Íris tira Caio do Poço</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Contratada por Mara Sobral. No Poço, a Sala de Espera sobrecarrega e uma voz antiga sugere deixar o rapaz. Ele se levanta sozinho.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>O Poço</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="2" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>três dias depois</p> <h2 data-astro-cid-rewm2cxv>O pote de breu secou</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Na Casa do Cais, Almanaque registra que o Vau Queimado não desce barca há três semanas — e não marca nada no mapa, porque não existe marca para &quot;não sei&quot;.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>A Casa do Cais</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="2" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>na mesma noite</p> <h2 data-astro-cid-rewm2cxv>A terceira presença fala</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>&quot;Ele vai precisar de tinta nova.&quot;</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Cindra</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="3" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>quatro da tarde</p> <h2 data-astro-cid-rewm2cxv>A Junta contrata</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Vitorino Cerqueira paga o dobro para que alguém suba até o Vau Queimado, olhe e desça. O homem que a Junta mandou há nove dias não voltou.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Cindra</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="3" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>no mesmo cais</p> <h2 data-astro-cid-rewm2cxv>A corda do guindaste arrebenta</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Bento avisa e ninguém acredita — foram doze falsos alarmes no mesmo dia. Íris tira um menino do caminho. Vitorino anota o número.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Cindra</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="4" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>cinco da manhã</p> <h2 data-astro-cid-rewm2cxv>A Boa Hora sobe o rio</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Íris e Bento partem rio acima. Nas Águas Paradas, Bento passa mal e descobre não ter memória nenhuma da viagem que fez ali aos onze anos.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Águas Paradas</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="4" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>na saída do pântano</p> <h2 data-astro-cid-rewm2cxv>Nove pessoas saem da lenha</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>O trapiche está vazio, com as redes ainda armadas.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Porto de lenha</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="5" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>debaixo do casco</p> <h2 data-astro-cid-rewm2cxv>Oito segundos</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>A barca gira amarrada dos dois lados e o cabo varre o convés. Sob a água, a Sala de Espera abre inteira e o Frio aparece. Alice corta a volta do cabo em hiperfoco, e depois não sabe a ordem do que fez.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Porto de lenha</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li><li class="evento" data-revela="5" data-astro-cid-rewm2cxv> <span class="marcador" aria-hidden="true" data-astro-cid-rewm2cxv></span> <p class="quando" data-astro-cid-rewm2cxv>na segunda vigília</p> <h2 data-astro-cid-rewm2cxv>O Vau subiu</h2> <p class="texto conteudo-trancado" data-astro-cid-rewm2cxv>Os refugiados informam que o povo do Vau Queimado não desceu o rio fugindo. Subiu.</p> <p class="lugar subtitulo" data-astro-cid-rewm2cxv>Vau Queimado</p> <p class="cadeado subtitulo" hidden data-astro-cid-rewm2cxv>ainda não lido</p> </li> </ol> </main></section>
+<section data-rota="estado" hidden><main class="envoltorio" data-astro-cid-z5fflmvz> <h1 data-astro-cid-z5fflmvz>Estado do livro</h1> <p class="subtitulo" data-astro-cid-z5fflmvz>Última atualização: 2026-08-31 · 5 capítulos · 13.265 palavras</p> <section class="boletim cartao" data-astro-cid-z5fflmvz> <h2 data-astro-cid-z5fflmvz>O que mudou no mapa</h2> <p class="subtitulo" data-astro-cid-z5fflmvz>com o Capítulo 5</p> <ul data-astro-cid-z5fflmvz> <li data-astro-cid-z5fflmvz><strong data-astro-cid-z5fflmvz>Vau Queimado</strong> — O povo do Vau não desceu o rio fugindo. Subiu.</li><li data-astro-cid-z5fflmvz><strong data-astro-cid-z5fflmvz>Porto de lenha</strong> — Nove pessoas saíram do meio das pilhas de lenha. Queriam a barca.</li> </ul> <p class="onde-parou" hidden data-astro-cid-z5fflmvz></p> </section> <h2 class="titulo-secao" data-astro-cid-z5fflmvz>Capítulos</h2> <table data-astro-cid-z5fflmvz> <thead data-astro-cid-z5fflmvz><tr data-astro-cid-z5fflmvz><th data-astro-cid-z5fflmvz>capítulo</th><th data-astro-cid-z5fflmvz>status</th><th data-astro-cid-z5fflmvz>último commit</th></tr></thead> <tbody data-astro-cid-z5fflmvz> <tr data-astro-cid-z5fflmvz> <td data-astro-cid-z5fflmvz>Capítulo 1</td> <td data-astro-cid-z5fflmvz><span class="selo st-publicado" data-astro-cid-z5fflmvz>publicado</span></td> <td class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</td> </tr><tr data-astro-cid-z5fflmvz> <td data-astro-cid-z5fflmvz>Capítulo 2</td> <td data-astro-cid-z5fflmvz><span class="selo st-rascunho" data-astro-cid-z5fflmvz>rascunho</span></td> <td class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</td> </tr><tr data-astro-cid-z5fflmvz> <td data-astro-cid-z5fflmvz>Capítulo 3</td> <td data-astro-cid-z5fflmvz><span class="selo st-rascunho" data-astro-cid-z5fflmvz>rascunho</span></td> <td class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</td> </tr><tr data-astro-cid-z5fflmvz> <td data-astro-cid-z5fflmvz>Capítulo 4</td> <td data-astro-cid-z5fflmvz><span class="selo st-rascunho" data-astro-cid-z5fflmvz>rascunho</span></td> <td class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</td> </tr><tr data-astro-cid-z5fflmvz> <td data-astro-cid-z5fflmvz>Capítulo 5</td> <td data-astro-cid-z5fflmvz><span class="selo st-rascunho" data-astro-cid-z5fflmvz>rascunho</span></td> <td class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</td> </tr> </tbody> </table> <h2 class="titulo-secao" data-astro-cid-z5fflmvz>Últimos movimentos</h2> <ul class="commits" data-astro-cid-z5fflmvz> <li data-astro-cid-z5fflmvz><span class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</span> app: fatia vertical do site de leitura interativa (Fases 0–5)</li><li data-astro-cid-z5fflmvz><span class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</span> cap-04 e cap-05: Alice, o Enxame e a Sala de Espera em ação e no cotidiano</li><li data-astro-cid-z5fflmvz><span class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</span> cap-03: ensina o sistema de poderes por contraste, sem explicar nada</li><li data-astro-cid-z5fflmvz><span class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</span> plano: define arquitetura do app de leitura interativa</li><li data-astro-cid-z5fflmvz><span class="subtitulo" data-astro-cid-z5fflmvz>2026-08-31</span> cap-02: mapa do mundo, a Folga e primeiro fio da trama principal</li><li data-astro-cid-z5fflmvz><span class="subtitulo" data-astro-cid-z5fflmvz>2026-08-27</span> capitulo-01.md</li> </ul> <h2 class="titulo-secao" data-astro-cid-z5fflmvz>Sua leitura</h2> <p id="sua-leitura" class="subtitulo" data-total="5" data-astro-cid-z5fflmvz></p> <div class="ajuste" data-astro-cid-z5fflmvz> <button id="menos" data-astro-cid-z5fflmvz>−</button> <span data-astro-cid-z5fflmvz>marcar como lido até o capítulo <strong id="valor" data-astro-cid-z5fflmvz>0</strong></span> <button id="mais" data-astro-cid-z5fflmvz>+</button> <button id="zerar" data-astro-cid-z5fflmvz>esquecer tudo</button> </div> </main></section>
+
+<footer><p>O mapa só sabe anotar o que já terminou de acontecer.</p></footer>
+<div hidden><template data-capitulo="1"><article data-astro-cid-yvbahnfj><h1 id="capítulo-1">Capítulo 1</h1>
+<h2 id="i-o-trabalho">I. O Trabalho</h2>
+<span class="ancora-cena" id="cena-2" data-lugar="a-fileira" data-tensao="media" data-tempo="agora" data-revela="sala-de-espera,a-rapida,a-mansa,ferrugem" aria-hidden="true"></span>
+<p>A fila da casa de penhores dobrava a esquina antes do sol nascer de
+verdade, e Íris contou onze pessoas na frente dela antes de parar,
+encostada no muro oposto, só olhando. Não estava ali pra penhorar nada.</p>
+<p><em>Ele não passou por aqui</em>, disse a Rápida, baixo, do jeito que só Íris
+ouvia. <em>A dona da banca de peixe teria comentado.</em></p>
+<p>— Eu sei — respondeu Íris, baixo o bastante pra que a mulher que virou a
+cabeça na fila decidisse, um instante depois, que não tinha ouvido nada.
+Isso acontecia sempre; ela aprendera havia anos a mover os lábios de
+menos, a deixar que parecesse que só respirava fundo.</p>
+<p>Fazia três dias que Mara Sobral tinha batido na porta dela com um retrato
+amassado e o aluguel de duas semanas em moedas contadas na mesa, uma por
+uma. Contava devagar demais pra ser só cuidado com o troco — contava do
+jeito de quem sabe exatamente quanto cada moeda custou pra juntar, porque
+já tinha entregado moedas iguais àquelas outras vezes, pra outra pessoa,
+com prazo pra devolver. Íris reconheceu o gesto. Já tinha visto gente
+contar dinheiro assim em toda a Fileira, sempre que o nome de Ferrugem
+entrava na conversa mesmo sem ser dito — os dois primeiros dedos
+tremendo mais que os outros, como se tocar o dinheiro fizesse lembrar de
+quanto dele já tinha ido embora pra lugar nenhum.</p>
+<p>O retrato era de um rapaz de uns dezessete anos, magro, com o queixo de
+quem ainda não decidiu que cara vai fazer quando crescer. Caio. Sumido
+havia seis dias — e devendo a Ferrugem havia mais tempo que isso, tempo
+suficiente pra que a dívida tivesse deixado de ser sobre dinheiro e
+passado a ser sobre prazo, que era a moeda que interessava de verdade
+pros cobradores dele.</p>
+<p>— Ele não é ruim — Mara disse, sem que ninguém tivesse perguntado. — Só
+fez besteira por mim.</p>
+<p>Íris não perguntou que besteira. Não era da conta dela; da conta dela era
+achar o rapaz antes que alguém da rede de Ferrugem achasse primeiro. Ela
+conhecia o ritmo de como aquilo costumava terminar quando quem cobrava
+chegava antes de quem procurava por afeto: não precisava de detalhe
+nenhum pra saber que o tempo já estava contra as duas.</p>
+<p><em>Ele foi na direção do rio</em>, disse a Rápida agora, puxando a atenção de
+Íris pra um beco entre duas casas de penhor. <em>Duas pessoas comentaram um
+garoto correndo faz quatro dias. Ninguém comentou ontem. Ninguém comentou
+hoje.</em></p>
+<p>Era o pior tipo de informação que existia naquele ofício: silêncio
+recente. Ou o rapaz tinha parado de se mover, ou tinha parado de ser
+visto por gente que ainda falava com os vivos.</p>
+<p><em>A Fileira toda é assim</em>, comentou a Mansa, mais pra acalmar do que pra
+informar. <em>Silêncio não quer dizer o pior.</em></p>
+<p>Íris não respondeu a essa. Guardava respostas pra quando precisava mesmo,
+e o corpo dela, de tanta prática, sabia caminhar reto enquanto ouvia três
+conversas de uma vez sem que o rosto traísse nada. Era o trabalho:
+rastrear gente que a cidade preferia esquecer, usando a única
+vantagem que tinha, que era nunca estar sozinha o bastante pra deixar de
+prestar atenção.</p>
+<p>Entrou no beco. Numa das portas, rente ao chão, alguém tinha riscado um X
+que já ia embranquecendo com o tempo. Íris conhecia o desenho de cor —
+atravessou a rua sem precisar pensar, e contou mais dois iguais antes do
+fim do quarteirão. Em nenhuma das casas marcadas havia sinal de vida
+àquela hora da manhã, só o silêncio espesso de quem prendeu a respiração
+até o barulho de passos passar.</p>
+<p>O beco descia. As casas de penhor davam lugar a barracos de madeira podre
+e depois a nada — só as fundações de um prédio que ninguém tinha coragem
+de reconstruir, cercadas por um mato ralo que crescia torto, do jeito de
+quem sabe de algo que os outros fingem não saber.</p>
+<p><em>É aqui</em>, disse a Rápida, e pela primeira vez naquela manhã havia alguma
+coisa na voz dela que não era pressa, e sim cautela.</p>
+<p>O Poço.</p>
+<h2 id="ii-sala-de-espera-cheia">II. Sala de Espera Cheia</h2>
+<span class="ancora-cena" id="cena-1" data-lugar="o-poco" data-tensao="alta" data-tempo="agora" data-revela="o-poco,o-credor,manifestacao,portador" aria-hidden="true"></span>
+<p>Íris parou na beirada.</p>
+<p>Não era um buraco no chão, apesar do nome — era um porão exposto, o teto
+que um dia existiu agora só memória de vigas carbonizadas, e escada
+abaixo, escuridão que engolia a luz da manhã a um metro da entrada. Vinte
+anos atrás, alguma coisa tinha atacado ali; ninguém na Fileira gostava de
+dizer o nome dela em voz alta, como se isso pudesse chamar de volta o que
+já tinha sido embora. Íris sabia o nome porque a Rápida sabia: o Credor.</p>
+<p>Ficou parada tempo suficiente pra sentir o próprio coração bater num
+ritmo que não era bem o dela, mais rápido, antecipando alguma coisa que o
+resto do corpo ainda não sabia. A Mansa disse alguma coisa baixinho, do
+tipo que costumava dizer antes de uma tarefa difícil, mas Íris não
+conseguiu escutar direito — uma parte dela já estava ocupada demais
+escutando o silêncio que vinha de dentro do Poço, e não era um silêncio
+vazio. Era o silêncio de uma sala cheia de gente que ainda não tinha
+decidido falar.</p>
+<p>Deu o primeiro passo escada abaixo e a Sala de Espera lotou.</p>
+<p>Não foi como abrir uma porta. A porta simplesmente não existia mais, e o
+que a separava daquilo cedeu de uma vez, inteiro. Não foram duas vozes,
+nem três, mas dúzias, um murmúrio se sobrepondo a outro tão depressa que
+Íris não conseguia mais separar o que era a Mansa do que era estranho, do
+que talvez nunca tivesse sido dela pra começar. Alguma coisa dizia
+<em>desça</em>, outra dizia <em>volte</em>, e uma terceira, mais funda que as demais,
+só repetia um número — uma dívida, talvez, ou uma contagem de dias, ela
+não conseguia saber. Por um instante que durou menos que um piscar de
+olhos e mais que uma vida inteira, foi como estar em pé no meio de uma
+multidão gritando o próprio nome dela ao mesmo tempo, cada um exigindo
+ser ouvido primeiro, cada um convencido de que sua urgência era a única
+urgência real. O que apavorava não era a quantidade — era não conseguir
+apontar o instante exato em que uma delas passaria a falar por ela, em
+vez de com ela. O corpo todo se retesou, esperando por esse instante sem
+saber de onde ele viria; vinha como um degrau igual aos outros, até o pé
+descobrir que não era.</p>
+<p>Não tinha tempo pra ficar parada sentindo isso. Cada segundo ali era um
+segundo a mais que Caio passava sozinho lá embaixo, cercado por coisas
+que ela ainda não sabia nomear, e foi esse pensamento, mais que qualquer
+coragem, que obrigou o pé dela a descer mais um degrau.</p>
+<p>O segundo foi pior que o primeiro; o terceiro, pior que o segundo. Íris
+contava os passos porque contar era uma coisa que ainda fazia sozinha —
+nenhuma presença tinha se metido a contar por ela ainda, e enquanto
+contasse teria pelo menos isso: um fio fino de si mesma atravessando o
+barulho, uma corda pra segurar com as duas mãos enquanto tudo ao redor
+virava água. Onze. Doze. O ar mudava de temperatura conforme ela descia,
+mais frio do que o dia lá fora explicava, entrando pelo tecido fino da
+blusa direto até a pele, e um cheiro de terra molhada e metal velho subiu
+ao encontro dela — e junto dele, por um segundo rápido demais pra
+confirmar, alguma coisa que lembrava grãos armazenados, poeira dourada
+boiando num raio de luz que não existia mais. Treze. Ela empurrou a
+lembrança pra trás dos dentes antes que pudesse virar outra coisa, e no
+fundo do coro alguma coisa riu — não uma risada cruel, nem gentil, só
+velha demais pra pertencer a alguém que ainda respirava.</p>
+<p>As mãos começaram a tremer antes que ela percebesse: um tremor fino,
+igual ao de quem carrega peso demais por tempo demais e ainda não soltou
+nada no chão. Os ombros doíam de um jeito sem relação nenhuma com esforço
+físico, uma dor funda, quase óssea: cada voz nova empilhava mais uma
+pedra em cima da anterior, sem escolher onde cair. Precisando sentir
+alguma coisa que fosse só dela, Íris cravou a unha no polegar, uma vez,
+com força, e o pequeno choque atravessou o antebraço até o cotovelo,
+ofuscando por um instante o coro. Continuou descendo. A escada rangeu sob
+o peso dela — um som comum, quase reconfortante por ser tão comum, no
+meio de tudo que não era.</p>
+<p>Encontrou Junco antes de encontrar Caio: um homem largo, parado a meio
+caminho da escada, segurando com as duas mãos uma tocha que tremia mais
+do que o vento explicava. O círculo de luz ao redor dele era menor do que
+qualquer tocha deveria fazer — o próprio ar ali embaixo parecia comer um
+pouco da claridade antes que ela chegasse ao chão. Suava pelo pescoço
+mesmo no frio, e os olhos, quando encontraram os de Íris, tinham o brilho
+de quem calcula, minuto a minuto, quanto tempo ainda consegue aguentar
+antes de sair correndo sem vergonha nenhuma.</p>
+<p>— Não desço mais fundo — disse ele, sem que ninguém tivesse perguntado. —
+Ferrugem que se vire.</p>
+<p>Íris passou por ele sem responder, não por falta do que dizer, mas
+porque cada palavra gasta ali era uma palavra a menos pra usar lá
+embaixo, e ela já sentia no fundo da garganta o preço de manter a própria
+voz separada de todas as outras. Junco não se moveu pra impedir; ela
+suspeitou, sem confirmar, que ele estava aliviado por alguém tomar a
+decisão que ele mesmo não conseguia tomar. Por um segundo, só um, sentiu
+inveja de uma simplicidade que ele tinha e ela não — a de poder
+simplesmente virar as costas pro que assustava.</p>
+<p>Os degraus finais eram mais estreitos, e a escuridão ali já não tinha
+nada de metafórico. Íris caminhava com uma mão na parede fria e úmida,
+sentindo sob os dedos sulcos que podiam ser raízes ou podiam ser outra
+coisa, e não quis saber qual. O coro não parava de crescer, e havia agora
+vozes discutindo entre si sobre coisas que não diziam respeito a ela —
+uma disputa antiga, arrastada, sobre um nome, sobre uma promessa
+quebrada. Íris entendeu, com um arrepio que começou na nuca e desceu pela
+espinha inteira, que nem todas aquelas vozes tinham vindo por causa dela.
+Algumas já estavam ali; ela só tinha aberto a porta que as deixava mais
+altas. E se Caio estava perto, o tempo que ela tinha pra alcançá-lo antes
+que alguma coisa decidisse por ele já estava se esgotando — sentiu uma
+urgência nova apertar o peito, distinta de tudo o mais que sentia ali.</p>
+<p>Lá embaixo, entre mesas de escritório viradas e papéis que tinham parado
+de ser papéis fazia muito tempo, Caio estava sentado de costas pra
+escada, os joelhos contra o peito, falando sozinho — ou era o que
+qualquer outra pessoa teria visto. Íris via mais que isso: via, ao redor
+dele, uma densidade de presenças que não eram as dela, tão pesada que
+doía atravessar, como andar contra uma correnteza que empurrava não o
+corpo, mas a certeza de quem se é. Cada passo em direção a ele custava
+mais que o anterior, o ar ficando mais espesso perto do centro, e Íris
+sentiu, pela primeira vez naquela manhã, o impulso puro e físico de
+recuar — não por medo dele, mas por medo do que estava grudado nele, a
+beira que pode ou não aguentar o próprio peso.</p>
+<p>— Se eu ficar aqui o bastante, ela some — Caio estava dizendo, pra
+ninguém, pra tudo. — É só isso que preciso fazer. Ficar até a dívida
+quitar de vez, e sumir com ela.</p>
+<p><em>Ele acha que a dívida dele que vai desaparecer</em>, disse a Rápida, e
+pela primeira vez naquela manhã sua voz tremia também. <em>Não é a dívida
+que "quita" aqui embaixo.</em></p>
+<p>Íris deu mais um passo, e alguma coisa no fundo da sala de espera cheia —
+fria, antiga, com o peso específico de vinte anos de gente que tinha
+tentado exatamente aquilo antes de Caio — sussurrou pra ela uma sugestão
+tão razoável que por um segundo Íris quase obedeceu sem perceber que era
+sugestão: <em>deixa ele. Ele escolheu. Essa decisão não é sua pra carregar.</em>
+A voz não gritava, e isso era o pior; vinha baixa, quase gentil, embrulhada
+num bom argumento, num respeito fingido pela vontade alheia. Por um
+segundo inteiro e longo demais, Íris sentiu o próprio corpo relaxar em
+direção a ela, os músculos das pernas afrouxando como se já tivessem
+decidido virar as costas antes que o resto dela concordasse.</p>
+<p>Não era a voz do Frio. Era mais velha que o Frio. Sentiu o próprio queixo
+balançar que nem sim, antes de decidir qualquer coisa — e foi esse gesto
+pequeno, ainda não terminado, que a fez parar de vez. Fechou a mão com
+mais força, cravando a unha de novo: a dor era real, era dela, sem voz
+nenhuma dentro, e foi nisso que se agarrou, como quem segura a beirada de
+uma mesa antes de cair. O coração batia tão forte que sentia o pulso na
+garganta. Respirou uma vez, fundo, contando o ar que entrava do jeito que
+tinha contado os degraus, e deixou que aquele único gesto — respirar, só
+respirar — fosse a resposta.</p>
+<p>— Caio — disse, em voz alta, pela primeira vez desde que descera. — Sua
+mãe pagou pra eu te achar. Não pra te deixar aqui decidindo por conta de
+um número.</p>
+<p>Ele virou. O rosto era o do retrato amassado, só que mais cinza, os olhos
+fundos de quem não dormia havia dias e não comia direito havia mais tempo
+ainda, e por um instante pareceu não reconhecer nela uma pessoa — só a
+interrupção de um processo que já tinha começado.</p>
+<p>— Você não entende o tanto que ela já deu.</p>
+<p>— Entendo o suficiente — disse Íris, e estendeu a mão, sem se aproximar
+mais do que precisava. A mão tremia ainda, um pouco, e ela deixou que
+tremesse, sem esconder. — Levanta.</p>
+<p>Não foi uma ordem que veio de fora dela decidindo por ele. Foi só uma
+mão. Caio olhou pra ela, depois pro escuro ao redor, pediu licença sem
+palavras pra alguma coisa que só ele ouvia, e então, devagar, os joelhos
+travados de ficar tempo demais na mesma posição, se levantou — um corpo
+relembrando, devagar, como ficar de pé podia doer.
+Íris sentiu, sem saber dizer se era dela ou se tinha vindo de fora, um
+alívio tão grande que quase doeu mais que o medo de antes.</p>
+<p>A sala de espera não esvaziou no caminho de volta pra escada. Algumas das
+vozes de baixo subiram junto com ela, mais quietas que antes, mas
+presentes de um jeito novo, um jeito que ainda não tinha vocabulário pra
+nomear — como quem fica sentado na sala muito depois do horário de
+atendimento ter fechado. Cada degrau subido pesava menos que o anterior,
+não porque o coro sumisse, mas porque o ar ia ficando mais leve, mais
+próximo do dia lá fora, e o corpo dela foi relaxando aos poucos, o
+músculo enfim soltando a tensão que vinha segurando fazia tempo demais.
+O tremor nas mãos levou mais dois quarteirões pra passar de vez, e deixou
+pra trás uma fraqueza fina nos dedos que ela sabia, por experiência, que
+ia voltar naquela mesma noite em forma de sono pesado demais.</p>
+<p>Lá fora, Junco já tinha ido embora. O sol da manhã parecia ofensivamente
+comum depois do Poço: gente na fila da casa de penhores, o cheiro de
+peixe da banca na esquina, uma criança rindo em algum lugar fora de
+vista, o mundo inteiro continuando exatamente do jeito que sempre
+continuava, sem saber o que quase tinha acontecido dentro dele havia
+menos de dez minutos. Íris ficou parada um segundo a mais do que
+precisava, só sentindo o sol na pele, deixando o calor comum fazer o
+trabalho que nenhuma presença conseguia fazer por ela.</p>
+<p>— Ela vai ficar brava — disse Caio, olhando pro chão, a voz rouca de
+quem não usava a garganta fazia dias.</p>
+<p>— Ela vai ficar aliviada primeiro — disse Íris. — Brava depois.</p>
+<p>Ele não perguntou como ela sabia disso. Íris também não contou que uma
+das vozes que agora morava um pouco mais perto da superfície da própria
+cabeça dela tinha concordado, baixinho, antes mesmo de ela terminar a
+frase — nem que essa voz, sem que ela pedisse, parecia estar ali pra
+ficar.</p></article></template>
+<template data-capitulo="2"><article data-astro-cid-yvbahnfj><h1 id="capítulo-2">Capítulo 2</h1>
+<h2 id="i-o-pagamento">I. O Pagamento</h2>
+<span class="ancora-cena" id="cena-3" data-lugar="a-fileira" data-tensao="media" data-tempo="agora" aria-hidden="true"></span>
+<p>Íris dormiu quase dois dias inteiros e acordou com a sensação de ter
+sido devolvida ao próprio corpo por alguém que não teve cuidado nenhum
+ao guardar as peças. Os dedos ainda tinham aquela fraqueza fina que
+sobrava sempre depois de um trabalho pesado, e ela ficou um tempo
+deitada abrindo e fechando a mão devagar, contando, até a mão obedecer
+sem precisar de aviso.</p>
+<p>O quarto estava quieto. Não vazio — quieto. Havia uma diferença que ela
+teria dificuldade de explicar pra qualquer pessoa que não morasse do
+jeito que ela morava: o silêncio de um cômodo com uma cadeira a mais do
+que tinha na semana anterior, ninguém sentado nela ainda, mas a cadeira
+lá.</p>
+<p><em>Come alguma coisa antes de sair</em>, disse a Mansa.</p>
+<p>— Depois — respondeu Íris, e vestiu a blusa mais grossa, porque a manhã
+de Cindra descia do rio com um frio que não combinava com a época.</p>
+<p>A casa de Mara Sobral ficava três ladeiras acima do Poço, o que na
+Fileira não queria dizer distância, queria dizer sorte: as construções
+mais altas pegavam sol por duas horas antes do resto do bairro
+acordar. Mara atendeu com o cabelo preso do jeito de quem tinha começado
+a limpar a casa cedo demais e ainda não tinha parado, e o cheiro que
+saía de dentro era de sabão e de água fervida — o cheiro específico de
+uma pessoa que resolveu esfregar tudo porque não conseguia resolver
+nada.</p>
+<p>— Ele tá comendo — disse Mara, antes de qualquer bom-dia. — Pouco, mas
+tá.</p>
+<p>Caio estava sentado à mesa dos fundos, de costas pra porta, com uma
+tigela na frente. Não se virou. Íris entendeu, e ficou onde estava.
+Havia uma cortina de pano entre a sala e a cozinha, e o rapaz tinha
+escolhido o lado de lá dela — não por medo, ela achava, mas pela mesma
+razão que faz uma pessoa evitar espelho depois de chorar. Ela tinha sido
+a testemunha. Enquanto ela estivesse no cômodo, aquilo tinha acontecido
+mesmo.</p>
+<p>Mara pagou o restante na mesa da frente, contando as moedas uma por uma,
+igual da primeira vez. Íris reparou que a pilha de onde as moedas saíam
+era menor do que a pilha de três dias atrás, e que Mara tinha
+percebido que ela reparou, e que nenhuma das duas ia dizer nada sobre
+isso. Havia uma etiqueta pra esse tipo de conversa na Fileira, e a
+etiqueta era o silêncio.</p>
+<p>— Se ele quiser conversar um dia — disse Íris, guardando as moedas sem
+contar de novo, o que era a coisa mais educada que ela sabia fazer —,
+eu não cobro por conversa.</p>
+<p>— Ele não vai querer.</p>
+<p>— Eu sei.</p>
+<p>Mara acompanhou até a porta, e foi ali, no batente, rente ao chão, que
+Íris viu: um X riscado com giz de pedra, novo, ainda com o pó
+branco solto nas bordas, do tipo que a primeira chuva ia levar e que
+alguém voltaria pra refazer depois da chuva. A mão de Mara estava
+apoiada na madeira a um palmo dele. Ela não olhou pra baixo. Não
+precisava; sabia que estava lá do mesmo jeito que sabia onde ficavam os
+próprios móveis no escuro.</p>
+<p>Íris desceu a ladeira sem dizer nada, porque não havia nada que dizer
+que a mulher já não soubesse melhor que ela, e porque o trabalho pelo
+qual tinha sido paga estava terminado. Era assim que funcionava. Achar
+não é resolver. Ela tinha achado.</p>
+<p><em>Ela vai precisar de você de novo</em>, disse a Rápida, prática como sempre.</p>
+<p><em>Não hoje</em>, disse a Mansa.</p>
+<p>A terceira presença — a que tinha subido do Poço junto com ela e ficado
+— não disse nada. Fazia três dias que não dizia nada. Íris tinha
+perguntado uma vez, na primeira noite, em voz baixa, no escuro,
+qualquer coisa besta pra testar, do tipo que se pergunta pra um cachorro
+novo pra ver se ele levanta a orelha. Não obteve resposta. Mas quando
+ela virou pro outro lado da cama, teve a impressão nítida — não um som,
+uma impressão — de que alguma coisa tinha virado junto, pra continuar
+de frente pra ela.</p>
+<p>Na feira do meio da ladeira, a mulher da banca de farinha estava
+discutindo preço com dois fregueses ao mesmo tempo, e Íris ouviu, de
+passagem, sem prestar atenção de propósito:</p>
+<p>— Não sou eu que aumento. É que não desceu barca de cima. Três semanas.
+Reclama com o rio.</p>
+<h2 id="ii-a-casa-do-cais">II. A Casa do Cais</h2>
+<span class="ancora-cena" id="cena-2" data-lugar="casa-do-cais" data-tensao="baixa" data-tempo="agora" data-revela="a-folga,breu,almanaque,taxa-de-resguardo" aria-hidden="true"></span>
+<p>Cindra era uma cidade empilhada. Quem chegava pela água via primeiro os
+terraços — cinco degraus largos de pedra e barro escavados na
+ribanceira, cada um com sua fileira de casas, cada fileira mais
+caiada e mais seca que a de baixo, até o alto, onde moravam as famílias
+que tinham chegado antes de todo mundo e faziam questão de continuar
+chegando antes. Embaixo, colado na água, ficava o cais; e colada no
+cais, a Fileira, que era o único bairro de Cindra construído em terreno
+que o rio reclamava de volta uma vez por ano.</p>
+<p>O rio se chamava Vagaroso e fazia jus. Era largo, barrento e lento o
+bastante pra que uma folha caída perto da Fileira levasse a manhã
+inteira pra sumir de vista, e era, junto com duas estradas ruins, a
+única coisa que ligava Cindra ao resto do que existia. Descendo, oito
+dias de barca, ficava Boca Grande, onde o Vagaroso encontrava o mar e
+onde moravam as pessoas que mandavam papéis pra Cindra dizendo o que
+Cindra devia fazer. Subindo, a coisa mudava de nome a cada curva.</p>
+<p>A Casa do Cais era uma construção baixa de janelas largas, na ponta do
+píer velho, e servia pra uma coisa só: anotar. Quem chegava, quem saía,
+o que trazia, quanto pagou de ancoragem, e — porque a Casa do Cais era
+antiga e tinha absorvido funções que ninguém mais quis — quem estava
+procurando quem. Era ali que se deixava recado pra gente sem endereço
+fixo. Era ali, portanto, que se deixava recado pra Íris.</p>
+<p>Almanaque estava onde sempre estava, no banco alto atrás do balcão, com
+o registro aberto e a pena parada em cima da linha, esperando a barca
+que ele já sabia que ia atrasar. Era um homem seco e comprido, com um
+óculos de uma lente só, e o apelido não tinha nada de irônico: ele sabia
+de cor as datas de coisas que ninguém mais tinha achado importante
+anotar.</p>
+<p>— Nada pra você desde ontem — disse ele, sem levantar os olhos, o que na
+linguagem dele era um cumprimento afetuoso. — Senta que a barca das dez
+não vem antes do meio-dia.</p>
+<p>Íris sentou no banco encostado na parede. Era o único lugar da cidade
+onde ela sentava de propósito com as costas pra porta, porque o cômodo
+inteiro cabia num olhar e porque, ali dentro, as presenças ficavam
+estranhamente quietas — talvez pelo teto baixo, talvez pelo cheiro de
+tinta e papel velho, talvez por nenhum motivo que valesse a pena
+investigar.</p>
+<p>E porque, da parede oposta, dava pra ver o mapa.</p>
+<p>Não era um mapa de papel. Era pintado direto no reboco, ocupando a
+parede inteira da Casa do Cais, e tinha sido começado por alguém
+morto havia tanto tempo que nem Almanaque sabia o nome. Cada geração de
+escrivão tinha acrescentado o que aprendeu e coberto o que descobriu
+estar errado, de modo que a parede era mais camada que desenho: o
+Vagaroso descia dela em uma linha grossa e torta, do canto de cima até
+o canto de baixo, e tudo que importava no mundo estava pendurado nessa
+linha igual roupa em varal.</p>
+<p>Em cima, quase encostando no teto, a Cabeceira: as nascentes, as
+montanhas, as minas de onde vinha o metal que a Fileira penhorava.
+Alguém tinha pintado as montanhas com um traço mais escuro e apertado
+que o resto, e não era estilo — era a maneira de quem desenha um lugar
+sem gostar dele. Descendo, o Vau Queimado, vila de travessia, único
+ponto em muitas léguas onde o rio ficava raso o bastante pra passar
+gado. Depois, um pouco pra dentro da terra, o planalto de grãos, marcado
+com um símbolo de espiga repetido sete vezes porque as sete aldeias de
+lá nunca tiveram nome individual pra quem escrevia de longe: Sete
+Palhas. Mais abaixo, à direita da linha, o borrão verde das Águas
+Paradas, o pântano onde o rio se distraía por umas semanas antes de
+lembrar pra onde estava indo. Depois Cindra. Depois oito dias de nada
+pintado, e Boca Grande, e o mar, que o pintor original tinha resolvido
+representar com uma faixa lisa sem nenhuma onda, o que sempre pareceu a
+Íris a coisa mais honesta do mapa inteiro: ninguém ali sabia como era o
+mar.</p>
+<p>E acima da Cabeceira, onde a parede continuava e o desenho não, uma
+região de reboco cru que nenhum escrivão tinha ousado preencher. O rio
+vinha de algum lugar. O mapa simplesmente parava de ter opinião sobre
+isso.</p>
+<p>Sobre quatro pontos da parede havia manchas pretas.</p>
+<p>Elas não faziam parte do desenho. Eram grossas, feitas com breu de
+lampião, aplicadas por cima do que já estava pintado, e cada uma cobria
+um lugar. A da Fileira era a menor, um borrãozinho do tamanho de uma
+unha em cima do quarteirão onde hoje ficava o Poço. A das Águas Paradas
+era espalhada e irregular, quase um segundo pântano. A da Cabeceira
+tinha escorrido antes de secar, e o escorrido tinha sido deixado lá. E
+uma cobria três das sete espigas do planalto.</p>
+<p>Íris já tinha olhado pra essa quarta mancha centenas de vezes e tinha
+uma regra pra isso, que era olhar rápido e olhar de novo depois. Não
+funcionava. Nunca tinha funcionado. Ela conhecia o cheiro da poeira
+daquele planalto do jeito que se conhece o cheiro da própria casa, e
+sabia, sem precisar contar pra ninguém, exatamente qual das espigas
+pintadas ficava em cima de onde tinha ficado o silo.</p>
+<p>Cada mancha tinha um nome que as pessoas de Cindra evitavam dizer em
+voz alta e diziam mesmo assim, quando bebiam: o Credor, a Vizinha, o
+Teto Baixo. A quarta não tinha nome nenhum. As três aldeias que
+sobraram do planalto chamavam de "o que passou", e quando alguém de fora
+perguntava o que era, respondiam "o que passou" de novo, com a mesma
+entonação, como quem repete um preço.</p>
+<p>Almanaque virou uma página. O barulho encheu a sala.</p>
+<p>— Tá olhando a parede — disse ele.</p>
+<p>— Tô esperando a barca das dez.</p>
+<p>— A barca das dez vem ao meio-dia — disse ele. — Você tá olhando a
+parede.</p>
+<p>Íris não discutiu. Do balcão, Almanaque estendeu a mão pra uma latinha
+de folha, dessas de rapé, e destampou. Dentro, o breu tinha secado num
+tijolinho fosco e rachado. Ele cutucou com a unha, virou a lata de boca
+pra baixo em cima do balcão, e nada caiu.</p>
+<p>— Vinte anos — disse ele, sem drama nenhum, do jeito que comentaria a
+umidade. — Foi a última vez que eu precisei disso aqui. Esse pote é do
+tempo do Credor. Ele secou sozinho, sem serviço nenhum.</p>
+<p>Havia um nome pra isso, e todo mundo usava sem pensar de onde tinha
+vindo: a Folga. Vinte anos sem nenhuma Manifestação nova em lugar
+nenhum do Vagaroso. Tempo suficiente pra os moços do cais acharem que a
+palavra era exagero de velho, tempo suficiente pra Boca Grande mandar
+papel dizendo que a taxa de resguardo das vilas ia ser reduzida por
+falta de necessidade comprovada, tempo suficiente pra alguém construir
+uma casa nova em cima de um lugar onde ninguém tinha construído por
+duas décadas — e tinha acontecido, no ano passado, na beira das Águas
+Paradas, e as pessoas comentaram por uma semana e depois pararam de
+comentar.</p>
+<p>Íris tinha idade pra lembrar de antes. Não muita gente na Casa do Cais
+tinha.</p>
+<p>— Joga fora, então — disse ela.</p>
+<p>Almanaque tampou a lata e devolveu ela ao lugar de sempre, na prateleira
+de baixo, onde ficavam as coisas que ele usava.</p>
+<p>— O Vau Queimado não desce barca faz três semanas — disse. — A do mês
+passado veio com dez pessoas a mais do que declarou e nenhuma quis dizer
+de onde vinha. Tem homem meu no píer que jura que a água tá subindo mais
+fria. — Ele deu de ombros, um movimento seco. — Isso não é nada. Rio é
+assim. Barqueiro é preguiçoso, gente mente na declaração, e água fria em
+agosto é água fria em agosto.</p>
+<p>— É — disse Íris.</p>
+<p>— Não tem marca pra "não sei" — disse Almanaque, e fechou o registro,
+que era o jeito dele de encerrar assunto. — Foi isso que o velho que
+pintou essa parede esqueceu de inventar.</p>
+<p>Ele empurrou pelo balcão um pedaço de papel dobrado em quatro.</p>
+<p>— Chegou agora de manhã, quase esqueci. Deixaram pra você.</p>
+<p>O papel tinha três linhas: um dia, uma hora, e o nome do píer. Nenhuma
+assinatura, nenhum serviço descrito, nenhuma explicação de como a pessoa
+sabia onde deixar recado pra ela. Dobrada dentro do papel havia uma
+moeda, e Íris soube que estava errada antes de entender por quê: era
+pesada demais e limpa demais, cunhada em Boca Grande, com a borda
+serrilhada intacta. Não era o tipo de dinheiro que circulava na Fileira,
+onde as moedas passavam de mão em mão até virarem discos lisos sem
+figura nenhuma.</p>
+<p>Era adiantamento. E era mais do que ela já tinha recebido por um
+trabalho inteiro.</p>
+<p><em>Devolve</em>, disse a Rápida, imediatamente. <em>Quem paga adiantado sabe que
+você ia recusar depois de ouvir.</em></p>
+<p><em>Ou é gente que não sabe negociar</em>, disse a Mansa.</p>
+<p><em>Ninguém de Boca Grande não sabe negociar.</em></p>
+<p>Íris fechou a mão em volta da moeda e sentiu a serrilha marcar a palma.
+Do banco onde estava sentada, o mapa ficava exatamente na altura dos
+olhos, e o dedo do rio subia da mancha pequena do Poço, passava pelo
+pântano, pelas espigas, pelo Vau Queimado, pela Cabeceira, e ia morrer
+lá em cima, no reboco cru onde ninguém tinha pintado nada.</p>
+<h2 id="iii-o-alto">III. O Alto</h2>
+<span class="ancora-cena" id="cena-1" data-lugar="cindra" data-tensao="media" data-tempo="agora" data-revela="a-terceira" aria-hidden="true"></span>
+<p>Ela subiu os cinco terraços a pé no fim da tarde, o que não precisava
+fazer, e fez porque o corpo pedia um cansaço escolhido pra substituir o
+cansaço que tinha sido escolhido por outra pessoa.</p>
+<p>Do último degrau, Cindra ficava inteira embaixo. Os telhados desciam em
+camadas, cada um mais torto que o de cima, e a luz de fim de tarde
+deixava tudo do mesmo tom de barro — as casas caiadas do alto, os
+barracos da Fileira, o cais, as três barcas paradas, tudo pertencendo à
+mesma coisa por uns quinze minutos por dia. Daquela altura dava pra ver
+o Vagaroso fazer a curva larga e sumir nas duas direções: pra baixo,
+onde ficava o mar que ninguém do mapa sabia desenhar; pra cima, onde a
+água vinha, marrom e paciente, de lugares cujos nomes ela conhecia todos
+e um deles ela não dizia em voz alta desde criança.</p>
+<p>Uma cidade fazendo barulho de cidade. Alguém batendo roupa. Um cachorro
+ganindo por comida em algum quintal, depois parando, o que queria dizer
+que tinha conseguido. Fumaça subindo reta de umas trinta chaminés,
+porque não havia vento nenhum.</p>
+<p>As presenças estavam quietas. Isso acontecia às vezes, no fim do dia, e
+Íris tinha aprendido a não desconfiar do descanso quando ele vinha — a
+Rápida se calava quando não havia nada pra decidir, a Mansa se calava
+quando não havia nada pra consolar. Ficava um espaço no meio da cabeça
+dela que era só espaço, e ela sentou na pedra ainda morna do dia e
+deixou ele ficar espaço.</p>
+<p>Pensou, sem chegar a nenhum lugar com isso, que a maior parte da gente
+lá embaixo tinha nascido depois. Que os moços do cais mediam o mundo
+inteiro nesses vinte anos e achavam, com razão, que o mundo era assim:
+imposto alto, barca atrasada, dívida, ladeira, farinha cara. Que quando
+um velho dizia que já tinha sido diferente, era o velho falando, e velho
+sempre diz. E que ela mesma, se não tivesse a idade que tinha e a
+memória que tinha, provavelmente acharia a mesma coisa, porque acreditar
+que o chão é chão é o que permite pisar nele.</p>
+<p>Tirou a moeda de Boca Grande do bolso e ficou virando entre os dedos.
+Faltavam dois dias pra hora escrita no papel. Ela ainda podia devolver.</p>
+<p>O sol encostou na linha dos telhados e a cidade começou a se acender por
+partes — primeiro os lampiões do cais, que a Casa do Cais pagava;
+depois as janelas do terraço de cima; depois, aos poucos, e não todas, e
+nunca todas, as da Fileira.</p>
+<p>Foi então que a terceira presença falou pela primeira vez.</p>
+<p>Não veio de fora nem de dentro; veio da direção do rio, baixa e sem
+pressa nenhuma, com o tipo de voz que uma pessoa usa pra comentar o
+tempo com alguém que ela conhece há muitos anos.</p>
+<p><em>Ele vai precisar de tinta nova.</em></p>
+<p>Íris não se virou, porque não havia pra onde se virar, e não respondeu,
+porque a primeira coisa que se responde é a que ensina a presença o que
+vale a pena dizer. Ficou sentada mais um tempo na pedra morna, com a
+moeda serrilhada apertada na mão, olhando a água subir escura na
+direção contrária àquela em que corria.</p>
+<p>Lá embaixo, no cais, alguém gritou que a barca das dez estava
+chegando. Já era quase noite.</p></article></template>
+<template data-capitulo="3"><article data-astro-cid-yvbahnfj><h1 id="capítulo-3">Capítulo 3</h1>
+<h2 id="i-quatro-da-tarde">I. Quatro da Tarde</h2>
+<span class="ancora-cena" id="cena-3" data-lugar="cindra" data-tensao="media" data-tempo="agora" data-revela="junta-de-resguardo,vitorino" aria-hidden="true"></span>
+<p>Íris chegou ao píer novo uma hora antes do combinado, porque era o que
+sempre fazia, e passou essa hora encostada na parede de um depósito de
+sal fingindo esperar outra coisa.</p>
+<p>O píer novo tinha vinte anos e ainda se chamava novo. Era o único lugar
+de Cindra com guindaste — um braço de madeira e ferro que subia fardo do
+convés e girava sobre o cais com um rangido que dava pra ouvir de três
+terraços acima. Naquela tarde ele trabalhava sem parar: sal chegando de
+Boca Grande, sal saindo em carroça, homens gritando números uns pros
+outros, e crianças no meio de tudo fazendo o que crianças fazem em
+lugares onde não deviam estar.</p>
+<p><em>Aquele de casaco</em>, disse a Rápida. <em>Chegou três minutos depois de você e
+já perguntou seu nome pra dois homens.</em></p>
+<p>O homem de casaco estava parado perto da balança, com uma pasta de couro
+debaixo do braço e um caderno aberto na mão. Vestia bem, e as botas
+denunciavam: eram baratas e novas, do tipo que se compra depressa quando
+se descobre que o lugar pra onde se vai tem lama. Ao lado dele, meio
+passo atrás, havia um rapaz.</p>
+<p>O rapaz é que interessava.</p>
+<p>Ele estava de frente pro rio, mas não olhava o rio. Olhava tudo, em
+sequência, rápido demais pra ser curiosidade: o guindaste, a carroça, a
+corda, o menino que corria, o guindaste de novo. A cada ciclo o corpo
+dele dava um começo de movimento e não terminava nenhum — o ombro
+subindo, a mão abrindo, o peso passando pro pé da frente e voltando.
+Tinha o lábio inferior descascado de mordida, e as olheiras de quem já
+não conta as noites separadamente.</p>
+<p>Íris ficou olhando por um tempo maior do que costumava se permitir.</p>
+<p><em>Ele tá com medo</em>, disse a Mansa.</p>
+<p><em>Ele tá com medo de uma coisa que ainda não aconteceu</em>, disse a Rápida.
+<em>Não é a mesma coisa.</em></p>
+<p>A terceira presença não disse nada. Fazia isso agora: chegava perto,
+prestava atenção, e não dizia. Íris tinha começado a reparar que o
+silêncio dela tinha texturas diferentes conforme o assunto, e que aquele
+silêncio ali era do tipo interessado.</p>
+<p>Ela se descolou da parede e atravessou o cais.</p>
+<p>— Íris — disse o homem de casaco, antes que ela dissesse qualquer coisa,
+e fechou o caderno com o polegar guardando a página. — Vitorino
+Cerqueira. Da Junta.</p>
+<p>— Que junta?</p>
+<p>— Resguardo. — Ele disse do jeito de quem já cansou de repetir e de quem
+sabe que ninguém em Cindra sabe o que é. — Você recebeu o adiantamento.</p>
+<p>— Recebi. — Íris tirou a moeda do bolso e segurou entre dois dedos, sem
+oferecer de volta e sem guardar. — Recebi antes de saber pra quê. Isso
+normalmente quer dizer que quem paga acha que eu ia dizer não depois de
+ouvir.</p>
+<p>Vitorino sorriu com metade da boca, o que era mais honesto do que ela
+esperava.</p>
+<p>— Normalmente sim. — Ele abriu a pasta contra o próprio peito, com a
+habilidade de quem já trabalhou muito tempo em pé. — Vau Queimado. Três
+semanas sem descer barca, uma antes disso com gente a mais no convés e
+declaração falsa. Preciso de alguém que suba, olhe e desça. Não quero
+que resolva nada. Não quero que socorra ninguém. Quero que olhe e me
+diga o que viu.</p>
+<p>— Manda um dos seus.</p>
+<p>— Mandei — disse ele. — Faz nove dias.</p>
+<p>O rio fez o barulho que fazia. O guindaste rangeu e girou.</p>
+<p>— Contrato de subida e descida, pagamento em três partes, a segunda na
+volta — continuou Vitorino, e agora estava lendo do caderno, e a voz
+tinha mudado pro registro de quem repete um formulário que já leu mil
+vezes. — Antes disso eu tenho três linhas pra preencher. Nome da pessoa.
+Nome que a pessoa dá pra coisa. Observações.</p>
+<p>Íris não respondeu.</p>
+<p>— É só isso — disse ele, batendo a unha no papel, quase animado. — Não
+tem lista. Não tem categoria. Já teve, na época do meu avô; tentaram
+fazer uma tabela dessas coisas por trinta anos e o que juntaram foi um
+armário cheio de papel que não servia pra nada, porque nunca apareciam
+duas iguais. Aí desistiram e ficou isso: o nome que a pessoa dá. Eu
+escrevo o que você falar. Se você não falar, eu escrevo "não informou", e
+é a mesma coisa pra mim.</p>
+<p>— Então escreve "não informou".</p>
+<p>— Íris.</p>
+<p>— Escreve.</p>
+<p>Ele olhou pra ela por um segundo a mais, depois deu de ombros, molhou o
+lápis na língua e escreveu duas palavras. Íris viu de canto de olho a mão
+dele se mover, e a mão se moveu pouco: tinha escrito mesmo "não
+informou". Alguma coisa nos ombros dela desceu meio dedo.</p>
+<p>— O trabalho continua de pé — disse Vitorino. — Eu preferia saber, porque
+saber é mais barato que descobrir tarde. Mas o trabalho não depende
+disso.</p>
+<p>— Por que eu?</p>
+<p>— Porque eu preciso de alguém que perceba o que não tá na frente dele — e
+aqui ele fez uma pausa curta, do tamanho exato de uma escolha de palavra
+—, e porque em Cindra inteira eu achei duas pessoas assim. Uma é você. A
+outra é ele.</p>
+<p>O rapaz, ouvindo o próprio pronome, virou pela metade.</p>
+<p>— Bento — disse Vitorino. — Vai subir com você.</p>
+<h2 id="ii-o-copo">II. O Copo</h2>
+<span class="ancora-cena" id="cena-2" data-lugar="cindra" data-tensao="alta" data-tempo="agora" data-revela="antes-de-cair-o-copo,bento" aria-hidden="true"></span>
+<p>Bento apertou a mão dela do jeito de quem aprendeu a apertar mão lendo
+sobre isso.</p>
+<p>— Desculpa — foi a primeira coisa que ele disse, sem que nada tivesse
+acontecido ainda.</p>
+<p>Ele falava rápido e baixo, comendo o fim das frases, e enquanto falava os
+olhos continuavam fazendo a ronda: guindaste, carroça, corda, menino.
+Contou, sem que ninguém perguntasse, que era de Cindra mesmo, do terraço
+três, que trabalhava pra Junta havia um ano e pouco, que nunca tinha
+subido o rio além das Águas Paradas, e que a barca de amanhã saía às
+cinco e não às seis, seu Vitorino tinha anotado errado, ele tinha
+conferido três vezes.</p>
+<p>— Quatro — disse Vitorino, sem levantar os olhos do caderno.</p>
+<p>— Quatro — concordou Bento.</p>
+<p>Íris ouviu tudo isso prestando metade da atenção nele e metade no
+próprio cais, que era o costume dela, e por isso reparou no momento em
+que o rapaz parou de falar no meio de uma palavra.</p>
+<p>Ele estava olhando pro guindaste. O braço subia uma rede de sacos de sal,
+uns oito, amarrada com corda velha, e embaixo do arco de subida havia
+duas carroças, um homem com um gancho e, três passos adiante, dois
+meninos brigando por um pedaço de gelo roubado do depósito.</p>
+<p>— A corda — disse Bento.</p>
+<p>Ninguém se moveu. O homem do gancho nem virou a cabeça.</p>
+<p>— A corda — repetiu ele, mais alto, e agora estava andando, e a voz saiu
+fina demais, aguda demais, uma voz que não convence ninguém a fazer nada.
+— Sai debaixo. Sai debaixo!</p>
+<p>Um dos estivadores riu. Não uma risada cruel — uma risada gasta, do jeito
+que se ri de uma piada que já foi contada muitas vezes no mesmo dia.</p>
+<p>— De manhã era a escada — disse ele pro companheiro, alto o bastante. —
+Depois foi o cachorro. Depois foi a escada de novo.</p>
+<p>Bento parou no meio do cais com a mão estendida, e Íris viu a coisa
+inteira acontecer no rosto dele em menos de um segundo: viu ele saber que
+tinha razão, viu ele saber que ninguém ia acreditar, e viu ele calcular —
+essa foi a parte que ficou com ela depois — quanto ia custar estar errado
+pela décima terceira vez naquele dia, e se valia a pena.</p>
+<p>Foi essa hesitação, de meio segundo, que tirou a decisão da mão dele.</p>
+<p><em>O menino de camisa azul</em>, disse a Rápida, num tom que Íris conhecia e
+que não admitia discussão.</p>
+<p>Ela não perguntou por quê e não teve tempo de duvidar. Deu quatro passos
+e pegou o menino de camisa azul pela gola por trás, um puxão só, curto,
+mais firme do que gentil, e o menino berrou de raiva e caiu sentado a um
+metro e meio de onde estava.</p>
+<p>A corda arrebentou com um estalo seco, sem nenhum drama, e a rede de sal
+caiu do alto e explodiu contra a pedra do cais. Um saco reventou em cima
+da carroça. Outro pegou de raspão no braço do homem do gancho, que gritou
+e ficou gritando. Onde o menino de camisa azul estava sentado dois
+segundos antes ficou um saco inteiro, aberto no meio, o sal derramando
+branco no chão molhado.</p>
+<p>Depois disso houve o barulho todo que sempre há: gente correndo, gente
+mandando ninguém correr, o mestre do cais aparecendo de algum lugar
+gritando pelo nome do dono da corda.</p>
+<p>Íris ficou onde estava, com a mão ainda fechada no ar, sentindo o próprio
+coração bater atrasado, do jeito que o coração sempre bate atrasado nessas
+horas. O menino de camisa azul chorava de susto e de humilhação, e a mãe
+já vinha buscar ele e já vinha, também, olhar feio pra Íris, porque ela
+era uma mulher estranha que tinha posto a mão num filho alheio.</p>
+<p>Bento estava ajoelhado no chão a uns cinco passos, com a testa quase
+encostando na pedra, respirando de um jeito que não estava dando certo.
+Vomitou um pouco, pouca coisa, quase nada — o estômago de quem não comeu
+—, e ficou daquele jeito, e as mãos dele tremiam com uma frequência que
+Íris reconheceu na hora, porque era a mesma das dela na saída do Poço, só
+que não ia passar em dois quarteirões.</p>
+<p>Ela ajoelhou ao lado. Não pôs a mão nele; sabia o que era ser tocada
+naquele estado.</p>
+<p>— Respira contando — disse. — Não respira fundo. Conta.</p>
+<p>Ele contou. Levou um tempo.</p>
+<p>— Desculpa — disse ele de novo, quando conseguiu.</p>
+<p>— Pelo quê?</p>
+<p>— Sei lá — disse Bento, e riu, uma risada horrível e curta, e limpou a
+boca com as costas da mão. — Por ter acertado, acho. Quando eu erro é
+chato. Quando eu acerto é pior.</p>
+<p>Vitorino tinha vindo até eles e estava parado com a pasta debaixo do
+braço, olhando o estrago no cais com uma expressão que não era fria, mas
+também não era o que Íris queria ver ali.</p>
+<p>— Quantos hoje? — perguntou ele.</p>
+<p>— Treze — disse Bento. — Doze antes desse.</p>
+<p>— E ontem foram nove — disse Vitorino, e abriu o caderno.</p>
+<p>Íris levantou.</p>
+<p>— Você tá anotando isso — disse ela.</p>
+<p>— Tô.</p>
+<p>— Ele acabou de vomitar no cais e você tá anotando o número.</p>
+<p>— Tô — disse Vitorino, e não teve nenhuma vergonha no jeito que disse,
+que era o que tornava aquilo pior. — Porque na terça foram cinco, na
+quarta nove, hoje treze, e isso é uma linha subindo. Eu não sei ler o
+rapaz. Eu sei ler a linha.</p>
+<p>Ele fechou o caderno.</p>
+<p>— A senhora acha que eu contratei vocês dois por gosto? — disse, e pela
+primeira vez a voz saiu com alguma coisa embaixo. — Faz nove dias que eu
+mandei um homem pro Vau Queimado. Faz três semanas que não desce barca.
+E faz três semanas que o número dele sobe todo dia.</p>
+<h2 id="iii-o-preço-da-passagem">III. O Preço da Passagem</h2>
+<span class="ancora-cena" id="cena-1" data-lugar="cindra" data-tensao="baixa" data-tempo="agora" aria-hidden="true"></span>
+<p>Ficaram os dois sentados na beirada do píer velho depois, com as pernas
+penduradas sobre a água, enquanto o cais atrás se ocupava do sal
+derramado e do braço quebrado do homem do gancho. O sol já ia baixo.
+Vitorino tinha ido resolver a papelada da passagem e tinha, pelo menos,
+tido o bom senso de ir sozinho.</p>
+<p>— Como você sabia? — perguntou Bento. — Do menino.</p>
+<p>— Não sabia.</p>
+<p>— Mas você foi.</p>
+<p>— Fui.</p>
+<p>Ele esperou o resto e o resto não veio. Íris tinha aprendido, ao longo de
+muitos anos, que a maior parte das pessoas preenche sozinha o silêncio
+que a gente deixa, e que o que elas põem ali diz mais do que qualquer
+resposta que ela pudesse dar.</p>
+<p>— Comigo não é saber — disse Bento, olhando pra água. — Todo mundo acha
+que é. Seu Vitorino acha que é. Não é. É que de vez em quando eu vejo o
+copo cair antes do copo cair. Só isso. Dura menos que um pisco. E aí
+noventa e nove vezes não cai copo nenhum, e as pessoas ficam bravas, e
+eu sei que elas vão ficar bravas, então eu fico com medo de falar, e aí
+na centésima o copo cai e eu não falei.</p>
+<p>Ele ficou quieto um tempo.</p>
+<p>— Antes de Cair o Copo — disse, meio sem graça. — É como eu chamo. Botei
+o nome sozinho, quando eu tinha dezenove anos, porque a coisa precisava
+de nome pra eu poder falar dela sem dar um jeito na frase inteira. Seu
+Vitorino escreveu no caderno dele.</p>
+<p>— Dezenove — disse Íris.</p>
+<p>— É.</p>
+<p>Ela fez a conta e a conta não fechava, e ficou com a conta na mão sem
+saber onde botar. Não tinha havido nada em Cindra havia vinte anos.
+Nem em Cindra, nem no rio inteiro, nem em canto nenhum de onde chegasse
+notícia. Um rapaz de vinte e poucos anos não tinha tido tempo de
+sobreviver a coisa nenhuma. Não do jeito que todo mundo entendia que
+essas coisas começavam: você fica perto de uma, ela vai embora ou é
+destruída, e às vezes — não sempre, nem na maioria — alguma coisa cresce
+no buraco que ela deixou.</p>
+<p>— Você é de Cindra mesmo? — perguntou ela, devagar. — Nunca saiu?</p>
+<p>— Águas Paradas, uma vez, com onze anos. Meu pai levava carga. — Bento
+deu de ombros, e o gesto foi rápido demais. — Antes que você pergunte:
+não. Eu não passei por nenhuma. Não tem nada pra achar aí. Todo mundo
+que descobre já procurou.</p>
+<p>Ele disse isso com a fluência de quem repete uma frase decorada, e Íris,
+que também tinha frases decoradas pra perguntas que doíam, não insistiu.</p>
+<p><em>Insiste</em>, disse a Rápida.</p>
+<p>Ela não insistiu.</p>
+<p>O sol encostou nos telhados. No cais, alguém varria sal, o que era um
+trabalho inútil e que estava sendo feito assim mesmo.</p>
+<p>— Não tem como desligar? — perguntou Íris, e a pergunta saiu antes que
+ela decidisse fazer, o que quase nunca acontecia com ela.</p>
+<p>Bento demorou pra responder.</p>
+<p>— Tem como piorar — disse. — Isso eu já descobri. Quando eu tento não
+ver, vejo mais e vejo pior; vem tudo junto, vem coisa que nem é ameaça, o
+telhado, o cachorro, a escada. Fica igual um zumbido. — Ele esfregou os
+olhos com as duas mãos. — Aí eu paro de tentar por uns dias e diminui um
+pouco. Não some. Nunca somem, né.</p>
+<p>— Não — disse Íris. — Nunca somem.</p>
+<p>Ele virou pra ela, e por um segundo teve no rosto uma coisa que ela
+demorou a reconhecer porque não recebia com frequência: alívio de não ter
+que explicar.</p>
+<p>— Cinco da manhã — disse Bento, se levantando e sacudindo a poeira da
+calça. — Não seis. Eu conferi.</p>
+<p>— Quatro vezes.</p>
+<p>— Cinco, agora.</p>
+<p>Ela ficou sozinha na beirada mais um tempo, com os pés sobre a água
+escura, ouvindo o rio ir embora na direção do mar e vir da direção
+contrária ao mesmo tempo. Amanhã ia subir. Pela primeira vez em muitos
+anos, ia estar mais longe de Cindra do que uma caminhada de volta
+resolvia, e ia estar mais perto de Sete Palhas do que tinha estado desde
+criança, e não pensou nisso de propósito, e pensou nisso mesmo assim.</p>
+<p><em>Ele mentiu</em>, disse a Rápida. <em>Sobre não ter passado por nenhuma.</em></p>
+<p><em>Ele não mentiu</em>, disse a Mansa. <em>Ele acredita.</em></p>
+<p><em>As duas coisas.</em></p>
+<p>Íris deixou as duas discutirem, porque era o que faziam, e porque ela
+tinha aprendido cedo que quando as duas discordavam era porque o mundo
+ainda não tinha decidido. Guardou a moeda serrilhada no bolso de dentro,
+onde não ia cair.</p>
+<p>E a terceira presença, que não tinha dito nada a tarde inteira, escolheu
+esse momento — de novo baixinho, de novo sem pressa, de novo do jeito de
+quem comenta o tempo com um conhecido antigo:</p>
+<p><em>Ele é o primeiro.</em></p>
+<p>Íris ficou muito quieta.</p>
+<p>Esperou, contando a respiração, a explicação que ela sabia que não vinha.
+Não veio. Lá embaixo, a água batia nos pilares do píer velho com o
+barulho de sempre, sem pressa nenhuma, e do outro lado do cais alguém
+acendeu o primeiro lampião da noite.</p></article></template>
+<template data-capitulo="4"><article data-astro-cid-yvbahnfj><h1 id="capítulo-4">Capítulo 4</h1>
+<h2 id="i-regras-de-bordo">I. Regras de Bordo</h2>
+<span class="ancora-cena" id="cena-4" data-lugar="cindra" data-tensao="baixa" data-tempo="agora" data-revela="boa-hora" aria-hidden="true"></span>
+<p>A <em>Boa Hora</em> saiu de Cindra às cinco e dez, e Bento passou os primeiros
+vinte minutos de viagem explicando que tinha sido às cinco e dez e não às
+cinco, e que ele tinha avisado.</p>
+<p>Era uma barca de casco chato e caldeira pequena, do tipo que subia rio
+com paciência e descia com pressa, carregando o que Boca Grande mandava
+pra cima e o que a terra mandava pra baixo. No convés havia sacaria,
+duas cabras, quatorze passageiros, e uma cobertura de lona sob a qual
+todo mundo se enfiava quando o sol resolvia o assunto por conta própria.
+Íris achou um canto perto da amurada de bombordo, encostou a mochila na
+madeira e sentou com as costas apoiadas nela, e ali ficou.</p>
+<p>Quatorze passageiros era muita gente.</p>
+<p>Ela tinha regras pra isso. Não eram regras que alguém tivesse ensinado, e
+ela nunca tinha explicado nenhuma delas em voz alta pra ninguém vivo;
+tinham se formado sozinhas, ao longo dos anos, do mesmo jeito que se
+forma um caminho no mato quando muita gente passa no mesmo lugar.</p>
+<p>A primeira regra era a mais antiga e a única que ela nunca quebrava:
+não durante a comida. Tinha feito esse acordo aos quatorze anos, numa
+época em que comer tinha virado uma coisa difícil porque havia sempre
+alguém opinando, e desde então o prato era dela. As presenças respeitavam
+isso — ou pelo menos a Mansa e a Rápida respeitavam, o que era o mesmo
+que dizer que Íris tinha aprendido a não escutar durante um tempo curto e
+específico do dia.</p>
+<p>A segunda era sobre turnos. Numa viagem longa, com pouca coisa
+acontecendo, a Rápida virava um problema: ela existia pra decidir, e sem
+nada pra decidir começava a inventar. <em>Aquele homem escondeu a mão
+esquerda</em>, dizia. <em>A cabra tá doente. O mestre olhou pra bússola duas
+vezes seguidas.</em> Íris tinha descoberto cedo que discutir alimentava, e
+que ignorar por completo também alimentava, e que o único jeito era dar
+serviço de verdade: deixava a Rápida contar coisas. Sacos de carga.
+Curvas do rio. Quantas vezes o motorista da caldeira punha lenha.</p>
+<p>A terceira regra não era regra, era vergonha antiga virada hábito:
+mover os lábios de menos, respirar no lugar das palavras, e escolher
+sempre — sempre — o assento de onde desse pra ver a maior parte do
+espaço, porque uma pessoa que fala sozinha de costas pra multidão é uma
+pessoa que os outros comentam, e uma pessoa que fala sozinha olhando pra
+frente é só uma pessoa distraída.</p>
+<p><em>Duzentos e onze</em>, disse a Rápida, no fim da primeira hora. <em>Sacos.</em></p>
+<p>— Obrigada — disse Íris, com os lábios quase parados.</p>
+<p>A Mansa não contava nada. A Mansa, em viagem, cantarolava — sem letra,
+sem música identificável, do jeito de quem tem alguma coisa na cabeça
+desde muito antes de você nascer. Nas primeiras vezes, quando era menina,
+Íris tinha achado insuportável. Agora era o barulho que o mundo fazia
+quando estava tudo bem, e ela só notava quando parava.</p>
+<p>E a terceira presença ficava. Não contava, não cantava, não opinava.
+Ocupava um lugar do jeito que ocupa uma pessoa sentada do outro lado de
+um vagão, que não te olha e que você sabe que não dormiu.</p>
+<p>Bento sentou ao lado dela por volta das nove, depois de conferir o
+próprio saco de viagem pela quinta vez.</p>
+<p>— Você não fala muito — disse ele.</p>
+<p>— Falo o suficiente.</p>
+<p>— É — disse Bento. — Eu falo demais. Eu sei. Eu ouço a minha voz e penso
+"para", e aí eu falo mais um pouco pra terminar o assunto, e o assunto
+nunca termina.</p>
+<p>Íris olhou pra ele de lado.</p>
+<p>— Termina — disse. — Você só não gosta de como termina.</p>
+<p>Bento riu, uma risada de verdade dessa vez, curta e surpresa, e ficou
+quieto por uns bons quinze minutos, o que Íris entendeu, corretamente,
+como o maior elogio que ele sabia fazer.</p>
+<h2 id="ii-álice">II. Álice</h2>
+<span class="ancora-cena" id="cena-3" data-lugar="aguas-paradas" data-tensao="baixa" data-tempo="agora" data-revela="alice,enxame" aria-hidden="true"></span>
+<p>Ela reparou na mulher antes de saber que ia reparar.</p>
+<p>Foi por causa do ritmo. Todo mundo a bordo tinha um ritmo, e depois de
+duas horas Íris já tinha catalogado todos sem querer: o mestre Nestor
+andava pouco e sempre no mesmo trajeto; o rapaz da caldeira trabalhava em
+blocos de esforço seguidos de encostadas longas; os passageiros
+alternavam entre dormir e reclamar do sol. Só uma pessoa naquela barca
+não tinha ritmo nenhum.</p>
+<p>Ela apareceu na proa carregando um balde, largou o balde, foi ver a
+amarração da carga, apertou um nó, achou uma corda desfiada, começou a
+trançar a corda, parou no meio da trança pra gritar pro rapaz da caldeira
+que a pressão estava subindo antes do sino, voltou pra corda, viu uma das
+cabras comendo a lona, resolveu isso com um tapa no focinho e uma
+conversa curta e ofensiva com a cabra, e aí lembrou do balde.</p>
+<p>Levou tudo isso três minutos. No fim dos três minutos, a trança da corda
+estava pela metade e continuou pela metade pelo resto do dia.</p>
+<p><em>Ela vai esbarrar em você</em>, disse a Rápida.</p>
+<p>Esbarrou. Meia hora depois, passando com uma braçada de lenha, o cotovelo
+dela pegou o ombro de Íris em cheio.</p>
+<p>— Desculpa — disse a mulher, sem parar de andar, e depois parou de andar,
+voltou dois passos e olhou pra ela de verdade. — Você tá sentada no meu
+lugar.</p>
+<p>— Não tem nome escrito.</p>
+<p>— Tem uma tábua solta. — Ela apontou com o queixo. — Aquela ali. Se a
+gente pegar onda de barca grande, ela dá um pulo e acerta o cóccix de
+quem tiver sentado. Eu ia consertar em maio.</p>
+<p>— Estamos em agosto.</p>
+<p>— Estamos — concordou a mulher, com uma serenidade absoluta. — Alice.</p>
+<p>— Alice.</p>
+<p>— Álice — corrigiu ela, batendo o dedo duas vezes na tábua solta pra
+marcar onde a palavra pesava. — Na frente. Não é no meio. A vida inteira
+eu corrijo, e a vida inteira as pessoas acham que eu tô sendo chata, e
+eu tô mesmo, mas é o meu nome.</p>
+<p>Ela largou a lenha no chão do convés, esqueceu a lenha, sentou ao lado de
+Íris na tábua solta como se aquilo resolvesse o problema da tábua solta,
+e começou a falar.</p>
+<p>Falou sobre a <em>Boa Hora</em>, que tinha vinte e seis anos e três cascos
+diferentes. Falou sobre o mestre Nestor, que era bom homem e péssimo
+pagador. Falou sobre uma prima que morava em Boca Grande e que tinha
+casado com um homem que vendia rede. Falou sobre redes. Falou sobre o
+preço da lenha nos portos de cima, que tinha triplicado, e daí — sem
+mudar de tom, sem marcar que estava dizendo uma coisa importante — falou
+que o porto de lenha do Vau Queimado tinha parado de vender fazia um mês,
+e que ninguém subia mais além da boca das Águas Paradas se pudesse
+evitar, e que ela achava aquilo tudo muito estranho, e voltou pra prima
+de Boca Grande.</p>
+<p>Íris não disse quase nada. Não precisou.</p>
+<p>E em algum momento daquela tarde, sem que ela desse por isso na hora,
+aconteceu uma coisa que só foi entender à noite: por três horas seguidas,
+ela não tinha ouvido a Rápida.</p>
+<p>Não porque a Rápida tivesse ido embora. Porque, pela primeira vez em
+muitos anos, o barulho de fora estava ganhando do barulho de dentro, e
+não era um barulho ruim.</p>
+<p>Isso incomodou Íris de um jeito que ela não soube nomear, e ela pensou
+nisso deitada no convés naquela noite, olhando as estrelas passarem
+devagar por cima do mastro, com as mãos cruzadas na barriga.</p>
+<p><em>Você gostou dela</em>, disse a Mansa.</p>
+<p>— Eu gostei do silêncio — disse Íris.</p>
+<p><em>Não teve silêncio nenhum a tarde inteira</em>, disse a Rápida.</p>
+<h2 id="iii-o-porto-de-lenha">III. O Porto de Lenha</h2>
+<span class="ancora-cena" id="cena-2" data-lugar="aguas-paradas" data-tensao="media" data-tempo="agora" aria-hidden="true"></span>
+<p>No terceiro dia a <em>Boa Hora</em> entrou na boca das Águas Paradas, e a água
+mudou de cor e de cheiro.</p>
+<p>O pântano começava sem aviso: o rio se alargava até perder as duas
+margens, e o que tinha sido barranco virava um campo de água parada com
+árvores crescendo dentro dela, tortas, cinzentas, de raízes à mostra. A
+barca seguia por um canal marcado com estacas, e as estacas eram
+repintadas de branco todo ano por alguém que ninguém sabia dizer quem
+era.</p>
+<p>Bento ficou ruim.</p>
+<p>Não foi nada dramático. Ele só parou de falar, o que nele era mais grave
+do que gritar, e passou a manhã inteira agarrado na amurada olhando a
+água. Íris viu o corpo dele fazer aquela coisa de novo — o começo de
+movimento que não termina — mas dessa vez sem alvo nenhum, disparando
+contra o pântano inteiro.</p>
+<p>— Quantos hoje? — perguntou ela, baixo, ao lado dele.</p>
+<p>— Não dá pra contar — disse Bento. — Não vem separado aqui. Vem junto.</p>
+<p>— Você já esteve aqui.</p>
+<p>— Uma vez. — Ele engoliu. — Eu tinha onze anos. Eu não lembro de nada
+daqui, Íris. Nada mesmo. Eu lembro de sair de Cindra e lembro de voltar
+pra Cindra. — Ele tentou rir e não conseguiu. — Meu pai dizia que eu
+dormi a viagem toda. Eu dormia muito, naquela época.</p>
+<p>Íris não disse nada, e a coisa que ela não disse ficou pendurada no ar
+entre os dois por um tempo.</p>
+<p>O que ela não contou pra ele foi que a Sala de Espera dela também estava
+diferente ali. Não como no Poço — nada parecido com o Poço. Era um grau
+minúsculo, do tipo que só quem mora naquilo percebe: uma sensação de
+cadeiras a mais no fundo do cômodo, longe, sem ninguém sentado; um
+murmúrio muito abaixo do limiar da fala, como se houvesse uma conversa em
+outro andar. Vinte anos depois. Ainda ali.</p>
+<p><em>Não olha muito pra isso</em>, disse a Mansa, que quase nunca dava conselho
+prático.</p>
+<p>Íris fez o que a Mansa disse.</p>
+<span class="ancora-cena" id="cena-1" data-lugar="porto-de-lenha" data-tensao="media" data-tempo="agora" aria-hidden="true"></span>
+<p>O porto de lenha ficava na saída do pântano, três horas depois: um
+trapiche de tábuas, um barracão sem parede, pilhas de madeira cortada e
+uma balança. Sempre havia gente ali — lenhadores, dois ou três
+negociantes, mulheres vendendo peixe frito pros que passavam.</p>
+<p>O mestre Nestor reduziu a máquina antes do que devia e ficou olhando.</p>
+<p>— Cadê todo mundo? — disse ele, mais pra si mesmo.</p>
+<p>O trapiche estava vazio. As pilhas de lenha estavam lá, com o corte
+recente, algumas ainda com a serragem clara do lado. A balança estava com
+o prato caído. E o barracão sem parede, no fundo, tinha três redes
+armadas, ainda armadas, com o pano fundo do jeito que fica quando alguém
+saiu de dentro e não voltou pra desarmar.</p>
+<p>Alice apareceu ao lado de Íris na amurada, secando a mão na calça, e
+pela primeira vez em três dias não estava fazendo mais nada além de
+olhar.</p>
+<p>— Encosta não — disse ela pro mestre, sem levantar a voz.</p>
+<p>— Preciso de lenha, Alice.</p>
+<p>— Encosta não.</p>
+<p>Nestor encostou.</p>
+<p>Bento, atrás delas, tinha voltado a falar, e o que ele estava dizendo,
+baixinho e depressa, como quem reza sem acreditar em nada, era: — Tem
+alguém, tem alguém, tem alguém.</p>
+<p>Do meio das pilhas de lenha, do barracão, de trás da balança, começaram a
+sair pessoas.</p>
+<p>Não eram muitas — nove, dez. Estavam sujas do jeito de quem dorme fora
+faz muitos dias e magras do jeito de quem não escolheu isso, e traziam
+facão de mato, gancho de carga, e um deles uma espingarda velha que ele
+segurava com as duas mãos e com muito respeito, o respeito de quem nunca
+atirou. Vinham depressa, sem gritar, o que era pior do que se viessem
+gritando.</p>
+<p>Íris sentiu a Sala de Espera acordar inteira, de uma vez, e não do jeito
+do Poço: do jeito do trabalho.</p>
+<p><em>Quatro na frente, seis atrás</em>, disse a Rápida, já contando. <em>O da
+espingarda tá com o dedo fora do gatilho.</em></p>
+<p><em>Eles estão com medo</em>, disse a Mansa.</p>
+<p><em>Todo mundo aqui está com medo</em>, disse a Rápida. <em>Isso não ajuda.</em></p>
+<p>E a terceira presença, do fundo da sala, disse a frase dela do dia, do
+mesmo jeito de sempre, sem pressa nenhuma:</p>
+<p><em>Esses não são de Vau Queimado. Esses são de mais acima.</em></p></article></template>
+<template data-capitulo="5"><article data-astro-cid-yvbahnfj><h1 id="capítulo-5">Capítulo 5</h1>
+<h2 id="i-o-que-eles-queriam">I. O Que Eles Queriam</h2>
+<span class="ancora-cena" id="cena-7" data-lugar="porto-de-lenha" data-tensao="media" data-tempo="agora" aria-hidden="true"></span>
+<p>Não gritaram, e foi isso que assustou os passageiros mais do que
+qualquer grito. Pararam a três passos do trapiche, num arco desigual, e o
+mais velho deles — um homem de barba branca curta, com um facão baixo na
+mão, apontado pro chão — disse:</p>
+<p>— A barca desce hoje.</p>
+<p>— A barca sobe hoje — disse o mestre Nestor, da proa. — Sobe até o Vau,
+descarrega e volta na quinta.</p>
+<p>— A barca desce hoje — repetiu o homem, com uma paciência que não era
+ameaça, era cansaço. — Com a gente dentro. Somos vinte e dois, contando os
+que estão no barracão que não conseguem andar direito. A gente paga.</p>
+<p>— Paga com quê?</p>
+<p>— Com nada — disse ele. — Eu falei que paga. Não falei quando.</p>
+<p><em>Ele já disse tudo que ia dizer</em>, disse a Rápida, rápida como o nome. <em>A
+partir de agora ele só repete. Repetir é o que a pessoa faz quando já
+decidiu.</em></p>
+<p>Íris estava em pé na amurada, meio passo atrás de Alice, e fez o que
+fazia quando o trabalho apertava: separou o coro. Não era um poder novo
+nem um esforço heroico; era uma coisa doméstica, de tanto uso, como quem
+separa arroz. A Mansa dizia que eles estavam com medo — verdade e inútil.
+A Rápida contava — dez de pé, quatro com facão, um com espingarda velha,
+dedo fora do gatilho. E havia mais três ou quatro murmúrios ao fundo, dos
+que apareciam sempre em situação de risco e que ela tinha aprendido a
+não consultar nunca, porque diziam coisas grandes e bonitas e erradas.</p>
+<p>O trabalho não era ouvir todas. Era escolher uma e responder por essa
+escolha depois.</p>
+<p>— Quantos estão doentes de verdade? — perguntou Íris, em voz alta.</p>
+<p>O homem da barba olhou pra ela pela primeira vez.</p>
+<p>— Seis — disse. — Três velhos, dois meninos, e uma mulher que tá com a
+perna preta até o joelho.</p>
+<p><em>Verdade</em>, disse a Rápida. <em>Ele respondeu rápido demais pra ter
+inventado.</em></p>
+<p>— Nestor — disse Íris, sem virar. — Cabem.</p>
+<p>— Não cabem — disse Nestor. — Eu tenho carga de Boca Grande, eu tenho
+prazo, e eu tenho um contrato com a Junta que essa moça aí sabe muito
+bem qual é.</p>
+<p>— Cabem se a carga descer no trapiche e ficar aqui.</p>
+<p>— Cabem se a carga descer — concordou Alice, sem tirar os olhos dos
+homens.</p>
+<p>— Ninguém pediu tua opinião, Alice.</p>
+<p>— Ninguém precisa pedir, seu Nestor, eu falo de graça.</p>
+<p>E foi aí, exatamente aí, no meio dessa frase, que Bento disse atrás
+deles, muito depressa e muito baixo:</p>
+<p>— Não deixa ele mexer na máquina.</p>
+<p>Havia uma resposta óbvia pra isso, e a resposta óbvia era treze falsos
+alarmes num único dia no cais de Cindra. Íris não deu a resposta óbvia.
+Virou o corpo inteiro e olhou pra onde Bento estava olhando, e Bento
+estava olhando pro rapaz da caldeira, que tinha escorregado até a
+alavanca de ré com a cara de quem ia ser herói.</p>
+<p>— NÃO — disse Íris.</p>
+<p>Ele já tinha puxado.</p>
+<h2 id="ii-debaixo">II. Debaixo</h2>
+<span class="ancora-cena" id="cena-6" data-lugar="porto-de-lenha" data-tensao="alta" data-tempo="agora" aria-hidden="true"></span>
+<p>A <em>Boa Hora</em> deu um tranco de ré com a proa ainda amarrada ao trapiche
+por um cabo de proa e um cabo de popa, e uma barca de casco chato
+amarrada dos dois lados que anda pra trás não anda pra trás: ela gira.</p>
+<p>O convés inteiro virou ladeira. As cabras berraram, a sacaria deslizou,
+uma mulher caiu sentada em cima de um passageiro, o homem da espingarda
+apertou o que não devia e o tiro foi pro céu, e o cabo de popa — velho,
+molhado, tenso de repente — cortou o ar na altura das canelas varrendo
+tudo do lado de bombordo.</p>
+<p>Íris viu o cabo vir e não viu mais nada.</p>
+<p>A água do pântano era morna em cima e gelada meio metro abaixo, e ela
+entrou de costas, e o cabo veio junto, e antes que ela tivesse organizado
+um único pensamento a coisa já tinha se enrolado no tornozelo direito e
+puxado. O casco passou por cima. O mundo virou uma tábua preta a um palmo
+do rosto dela, e do outro lado da tábua havia o rangido do casco, o
+tambor da máquina, e nenhuma luz.</p>
+<p>Escuro. Frio. Sem espaço.</p>
+<p>A Sala de Espera abriu inteira.</p>
+<span class="ancora-cena" id="cena-5" data-lugar="sete-palhas" data-tensao="alta" data-tempo="antes-da-folga" aria-hidden="true"></span>
+<p>Não foram dúzias, como no Poço; foram poucas, e foi pior, porque eram as
+dela. Vieram todas de uma vez e vieram falando ao mesmo tempo, e a
+primeira coisa que Íris entendeu, com uma clareza que não ajudava em
+nada, foi que aquilo já tinha acontecido antes — não parecido: aquilo. O
+escuro tinha a mesma qualidade. O peso em cima tinha a mesma qualidade. E
+o cheiro — não havia cheiro nenhum, ela estava debaixo d'água, e mesmo
+assim havia, e era de grão guardado, poeira doce, silo.</p>
+<p><em>Puxa o pé pra trás e gira</em>, disse a Rápida. <em>Não é nó, é volta. Duas
+voltas.</em></p>
+<p><em>Fica quieta</em>, disse alguma coisa ao fundo. <em>Fica quieta que passa.</em></p>
+<p><em>Sobe</em>, disse a Mansa. <em>Sobe, sobe, sobe.</em></p>
+<p>Não dava pra subir. Havia um casco em cima dela.</p>
+<span class="ancora-cena" id="cena-4" data-lugar="porto-de-lenha" data-tensao="alta" data-tempo="agora" aria-hidden="true"></span>
+<p>E então, do lugar mais fundo da sala, de onde quase nunca vinha nada,
+veio uma voz que Íris não ouvia havia quase dois anos. Não gritava.
+Nenhuma das que importavam gritava.</p>
+<p><em>Foi assim com ele também</em>, disse o Frio. <em>Ele também tentou primeiro.</em></p>
+<p>O corpo dela quis obedecer. Isso era a parte que ninguém entendia e que
+ela nunca tinha conseguido explicar a ninguém: não era convencimento, era
+gravidade. A voz dizia e o corpo pendia pra lá. Os dedos que estavam
+puxando o cabo pararam de puxar, e ela sentiu — sentiu de verdade, com o
+peito ardendo e a garganta fechada — o começo do sim.</p>
+<p>Íris deu uma cotovelada na tábua acima dela.</p>
+<p>Doeu. A dor subiu pelo braço e explodiu no ombro e era dela, sem voz
+nenhuma dentro, e foi nisso que ela se agarrou. Contou. Um. Dois. Três —
+contar era dela, sempre tinha sido, era o fio fino que atravessava tudo.
+Dobrou o joelho, puxou o pé pra trás e girou o tornozelo pro lado que a
+Rápida tinha dito.</p>
+<p>A primeira volta saiu.</p>
+<p>A segunda não.</p>
+<p>O peito dela era uma coisa só, um único músculo em pânico, e a boca abriu
+sozinha uma vez e ela conseguiu fechar, e o Frio ainda estava lá,
+paciente, sem pressa, do jeito de quem já viu isso antes e sabe como
+termina.</p>
+<p>Foi quando alguma coisa agarrou o cabo do lado de fora e cortou.</p>
+<p>Não puxaram Íris pra cima. Cortaram o cabo, o que era mais difícil e mais
+inteligente, e a perna dela ficou solta e o corpo subiu sozinho, e o
+casco continuava em cima, e uma mão fechou no cós da calça dela e puxou
+de lado, pro claro, pro azul, pro verde, pro ar.</p>
+<p>O ar entrou e doeu mais que a água.</p>
+<h2 id="iii-oito-segundos">III. Oito Segundos</h2>
+<span class="ancora-cena" id="cena-3" data-lugar="porto-de-lenha" data-tensao="alta" data-tempo="agora" aria-hidden="true"></span>
+<p>Íris ficou de bruços nas tábuas do trapiche por um tempo que não soube
+medir, vomitando água do pântano, com as mãos de alguém segurando a
+cabeça dela de lado pra que ela não engasgasse com o próprio vômito.
+Alice estava encharcada, e o cabelo dela colava na testa, e ela estava
+dizendo <em>respira, respira, respira</em>, que era a coisa mais óbvia do mundo
+e a única útil.</p>
+<p>Depois, mais tarde, quando a barca já estava amarrada direito e o rapaz
+da caldeira já tinha apanhado do mestre e chorado, foi que Íris ouviu a
+história — e ouviu quatro versões dela, todas diferentes, todas juradas.</p>
+<p>O mestre Nestor dizia que Alice tinha fechado o registro da caldeira
+primeiro. O passageiro da rede dizia que não, que a primeira coisa foi
+ela ter chutado o gancho de carga na direção do Bento gritando "PROA",
+e que só depois foi na caldeira. A mulher do peixe frito, que assistiu
+tudo do trapiche, jurava que ela tinha derrubado o pau de carga em cima
+do homem da espingarda antes de qualquer outra coisa, porque o homem
+estava recarregando. Bento não sabia dizer a ordem de nada: ele estava
+ocupado sendo a pessoa que segurou o gancho de carga que apareceu voando
+na direção dele e que, com esse gancho, prendeu o cabo de proa antes que
+a barca terminasse de girar — o que ele fez sem entender por que estava
+fazendo, e o que provavelmente evitou que a <em>Boa Hora</em> virasse.</p>
+<p>O que todos concordavam era o tempo. Ninguém contou, mas todo mundo
+disse a mesma coisa: foi tudo junto. Foi tudo no mesmo pedaço de tempo.</p>
+<p>Íris perguntou pra própria Alice, no fim da tarde, qual tinha sido a
+ordem.</p>
+<p>Alice estava sentada no chão do convés com as costas na amurada e as
+pernas abertas, com uma caneca de café que ela não estava conseguindo
+levar até a boca, porque a mão tremia demais e o líquido saía pela
+borda. Tinha aquele olhar que Íris só tinha visto uma vez antes, no
+espelho.</p>
+<p>— Não sei — disse Alice.</p>
+<p>— Não lembra?</p>
+<p>— Não é não lembrar. — Ela fechou os olhos. — É que não teve ordem. Eu
+sei o que precisava ser feito. Tudo. De uma vez. Aí eu fiz. — Ela abriu
+os olhos e olhou pra caneca com um ódio enorme. — E agora eu não consigo
+tomar café.</p>
+<p>Ficou assim o resto do dia. Não conseguiu enrolar corda. Perguntou três
+vezes se tinham amarrado a barca e três vezes disseram que sim. Às sete
+da noite dormiu sentada, no meio de uma frase, e dormiu catorze horas, e
+no dia seguinte acordou envergonhada de um jeito que Íris achou
+insuportável de assistir.</p>
+<p>— Desculpa — disse Alice, de manhã. — Eu apago depois. Sempre apago. É
+o preço da conta.</p>
+<p>— Você me tirou de baixo de um casco.</p>
+<p>— Eu sei — disse ela. — Mas hoje eu não sirvo pra nada, e a gente ainda
+tem três dias de rio.</p>
+<h2 id="iv-a-tábua">IV. A Tábua</h2>
+<span class="ancora-cena" id="cena-2" data-lugar="porto-de-lenha" data-tensao="baixa" data-tempo="agora" aria-hidden="true"></span>
+<p>O que ninguém sabia, e o que Íris não contou pra ninguém, é que ela ficou
+com raiva.</p>
+<p>Não da Alice. Da situação inteira, de um jeito difuso e injusto que ela
+reconheceu como injusto enquanto acontecia e sentiu assim mesmo. Ela
+tinha passado a vida adulta inteira construindo uma coisa muito
+específica: ser a pessoa que chega, resolve, e vai embora antes que
+alguém precise saber qualquer coisa sobre ela. Tinha entrado no Poço
+sozinha. Tinha subido do Poço sozinha, com um rapaz atrás dela.</p>
+<p>E agora catorze passageiros, um mestre, dois cobradores de lenha e um
+rapaz de vinte e um anos tinham visto Íris de bruços num trapiche
+vomitando água com as mãos de outra mulher segurando a cabeça dela.</p>
+<p>Ela evitou Alice por um dia e meio. Fez isso com competência, porque era
+uma coisa em que tinha muita prática.</p>
+<p><em>Isso é burrice</em>, disse a Rápida, no segundo dia.</p>
+<p><em>Deixa ela</em>, disse a Mansa.</p>
+<p><em>Não é burrice</em>, disse a Rápida. <em>É desperdício. Não é a mesma coisa.</em></p>
+<p>Na segunda noite, Íris pegou o formão da caixa de ferramentas do convés,
+a marreta pequena, e quatro pregos, e consertou a tábua solta de
+bombordo. Levou vinte minutos. Ficou torta, mas parou de bater.</p>
+<p>Não disse nada pra ninguém sobre isso.</p>
+<h2 id="v-a-segunda-vigília">V. A Segunda Vigília</h2>
+<span class="ancora-cena" id="cena-1" data-lugar="porto-de-lenha" data-tensao="baixa" data-tempo="agora" data-revela="o-frio" aria-hidden="true"></span>
+<p>Alice descobriu na noite seguinte, pisou na tábua duas vezes pra
+confirmar, olhou em volta procurando um culpado, não encontrou nenhum,
+e foi sentar do lado de Íris no lugar de sempre com duas canecas de café.</p>
+<p>— Você consertou minha tábua.</p>
+<p>— Ela batia.</p>
+<p>— Ela batia desde maio — disse Alice, entregando uma das canecas. —
+Eu ia consertar. Eu ia mesmo. Eu penso nela todo dia. Todo dia eu passo
+aqui e penso "hoje eu conserto", e aí no caminho até a caixa de
+ferramentas eu vejo a lona rasgada, e aí eu vou buscar linha, e a linha
+tá com o mestre, e o mestre tá comendo, e eu não vou incomodar homem
+comendo, e aí eu vejo a corda desfiada. — Ela tomou o café. — Aí é de
+noite.</p>
+<p>Ficaram as duas caladas um tempo. O rio de noite fazia um barulho
+contínuo que não era barulho de nada.</p>
+<p>— Enxame — disse Alice.</p>
+<p>— O quê?</p>
+<p>— O nome. Da coisa. Você não perguntou, e todo mundo pergunta, e como
+você não perguntou eu fiquei três dias querendo contar. — Ela riu de si
+mesma. — É assim mesmo, viu. Eu sou assim mesmo.</p>
+<p>Íris ficou com a caneca nas duas mãos.</p>
+<p>— Enxame — repetiu.</p>
+<p>— Botei quando eu tinha uns quinze. Porque não é uma coisa. São muitas
+coisas pequenas, todas ao mesmo tempo, e cada uma sozinha não é nada. Aí
+de vez em quando elas viram uma coisa só, e nessa hora eu faço num
+minuto o que ninguém faz num dia. — Ela deu de ombros. — E depois eu
+pago catorze horas e não consigo tomar café. Não tem meio termo. Eu já
+procurei.</p>
+<p>— Não tem — disse Íris.</p>
+<p>— É.</p>
+<p>Alice tomou mais um gole e disse, no mesmo tom, sem mudar nada:</p>
+<p>— Quantos são?</p>
+<p>Íris ficou muito quieta.</p>
+<p>Já tinham perguntado outras coisas pra ela, ao longo da vida. Já tinham
+perguntado se ela era doida. Já tinham perguntado se as vozes mandavam
+ela fazer coisas ruins. Uma mulher em Cindra, tentando ser gentil, tinha
+perguntado uma vez se ela já tinha tentado rezar. Ninguém, nunca, tinha
+perguntado quantos.</p>
+<p><em>Não responde</em>, disse alguma coisa ao fundo da sala.</p>
+<p><em>Responde</em>, disse a Mansa.</p>
+<p>E a Rápida, que era prática acima de tudo, não disse nada — o que, vindo
+dela, era uma opinião.</p>
+<p>— Três — disse Íris. — Três que eu conheço bem. — Ela girou a caneca nas
+mãos. — E uma nova, faz umas duas semanas, que eu ainda não sei o que é.</p>
+<p>Alice assentiu devagar, do jeito que se assente pra uma informação
+prática, do tipo "a maré vira às quatro".</p>
+<p>— A nova é chata?</p>
+<p>Íris começou a rir e não esperava por isso.</p>
+<p>— Ela fala uma frase por dia — disse. — Uma frase só. E vai embora.</p>
+<p>— Essa é a pior — disse Alice, com convicção total. — Gente que fala
+pouco tem sempre razão. É insuportável.</p>
+<p>Elas ficaram ali até tarde. Alice falou sobre a prima de Boca Grande, e
+sobre um homem que tentou vender uma bússola quebrada pro mestre Nestor,
+e sobre as estacas brancas do pântano, e sobre quem repintava as estacas
+— ninguém sabia, e ela tinha uma teoria, e a teoria era longa. Íris não
+precisou dizer quase nada, e não teve, nenhuma vez naquela noite, que
+mover os lábios de menos.</p>
+<p>Antes de dormir, Alice contou a única coisa útil que os homens do
+trapiche tinham falado antes de aceitarem descer com a carga e ficarem
+com o barracão.</p>
+<p>— Eles não são do Vau Queimado — disse ela. — São de cima do Vau. E eles
+disseram que o povo do Vau saiu antes deles.</p>
+<p>— Saiu pra onde?</p>
+<p>Alice ficou um tempo olhando o escuro do rio, que era muito escuro.</p>
+<p>— Pra cima — disse. — O povo do Vau Queimado subiu.</p>
+<p>Íris ficou acordada muito depois de Alice ter dormido, pensando em rio,
+em direção, em gente que anda pro lado errado, e a terceira presença —
+que não tinha dito uma palavra desde o pântano, nem no fundo da água,
+nem no trapiche, nem enquanto ela consertava a tábua — escolheu esse
+momento pra dizer a frase dela:</p>
+<p><em>Ainda não é medo. Ainda é costume.</em></p></article></template></div>
+<script>
+(() => {
+  const LUGARES = [{"id":"reboco-cru","nome":"reboco cru","x":300,"y":52,"t":0,"revelaEm":2,"mudo":true,"descricao":"Acima da Cabeceira o mapa simplesmente para. Faixa de reboco que nenhum escrivão preencheu.","representa":"O rio vem de algum lugar que ninguém mapeou.","passado":[]},{"id":"cabeceira","nome":"Cabeceira","x":296,"y":132,"t":0.02,"revelaEm":2,"descricao":"Nascentes, montanha e minas, no topo do mapa. O metal que a Fileira penhora vem de lá.","representa":"O peso que pode ceder.","passado":[{"texto":"Caiu numa Manifestação chamada o Teto Baixo, antes da Folga.","revelaEm":2}],"breu":{"nome":"o Teto Baixo","revelaEm":2}},{"id":"vau-queimado","nome":"Vau Queimado","x":236,"y":268,"t":0.19,"revelaEm":2,"descricao":"Vila de travessia, único ponto em muitas léguas onde o Vagaroso fica raso o bastante pra passar gado.","representa":"O lugar sobre o qual o mapa não tem como dizer nada.","passado":[{"texto":"A última barca desceu com dez pessoas a mais do que declarou, e nenhuma disse de onde vinha.","revelaEm":2},{"texto":"A Junta mandou um homem próprio. Ele não voltou.","revelaEm":3},{"texto":"O povo do Vau não desceu o rio fugindo. Subiu.","revelaEm":5}],"estado":{"texto":"Não desce barca há três semanas. Almanaque não marcou nada no mapa.","revelaEm":2}},{"id":"sete-palhas","nome":"Sete Palhas","x":452,"y":350,"t":0.3,"revelaEm":2,"descricao":"Planalto de sete aldeias de plantio, sem nomes individuais para quem registra de longe. No mapa aparecem como sete espigas repetidas. Três estão cobertas de breu.","representa":"O que não recebe nome não recebe registro.","passado":[{"texto":"o que passou","revelaEm":2}],"breu":{"nome":"o que passou","revelaEm":2}},{"id":"aguas-paradas","nome":"Águas Paradas","x":176,"y":486,"t":0.45,"revelaEm":2,"descricao":"Pântano lateral onde o rio se distrai por algumas semanas antes de lembrar pra onde ia. Região historicamente de febre.","representa":"O medo de quem está do lado.","passado":[{"texto":"Caiu numa Manifestação chamada a Vizinha, antes da Folga.","revelaEm":2},{"texto":"Vinte anos depois o pântano ainda produz ruído: cadeiras a mais no fundo do cômodo, conversa em outro andar.","revelaEm":4}],"estado":{"texto":"No ano passado alguém construiu casa nova na beira. Comentaram por uma semana e pararam.","revelaEm":4},"breu":{"nome":"a Vizinha","revelaEm":2}},{"id":"porto-de-lenha","nome":"Porto de lenha","x":246,"y":556,"t":0.55,"revelaEm":4,"descricao":"Trapiche de tábuas, barracão sem parede, pilhas de lenha cortada e uma balança. Ponto de reabastecimento obrigatório de quem sobe o rio.","representa":"A pressa de quem saiu sem terminar de sair.","passado":[{"texto":"Encontrado vazio: serragem clara, prato da balança caído, três redes ainda armadas.","revelaEm":4},{"texto":"Nove pessoas saíram do meio das pilhas de lenha. Queriam a barca.","revelaEm":5}]},{"id":"cindra","nome":"Cindra","x":322,"y":660,"t":0.68,"revelaEm":1,"descricao":"Cidade portuária em terraços ao longo de um rio lento e barrento. Cresceu rápido demais com gente fugindo de regiões atingidas.","representa":"A cidade que absorve a dor de fora sem processar nada.","passado":[{"texto":"O preço da farinha vem subindo.","revelaEm":2}]},{"id":"a-fileira","nome":"A Fileira","x":386,"y":700,"t":0.7,"revelaEm":1,"descricao":"Bairro baixo, perto do rio, de casas de penhor e cobradores. O nome vem das filas que se formam antes do amanhecer.","representa":"A espera como estado permanente.","passado":[{"texto":"Caiu numa Manifestação chamada o Credor — a última registrada no Vagaroso.","revelaEm":1},{"texto":"Um X de cobrança novo, a giz, no batente da casa de Mara.","revelaEm":2}],"breu":{"nome":"o Credor","revelaEm":1}},{"id":"o-poco","nome":"O Poço","x":424,"y":736,"t":0.71,"revelaEm":1,"descricao":"Fundações desabadas de um antigo escritório de cobrança. Ninguém reconstruiu por cima.","representa":"O lugar de onde a dívida convida a desaparecer.","passado":[{"texto":"Íris tirou Caio de lá antes que ele decidisse não subir.","revelaEm":1},{"texto":"Alguma coisa subiu junto.","revelaEm":2}],"estado":{"texto":"Resíduo psíquico mais denso conhecido em Cindra.","revelaEm":1}},{"id":"casa-do-cais","nome":"A Casa do Cais","x":268,"y":690,"t":0.68,"revelaEm":2,"descricao":"Construção baixa de janelas largas na ponta do píer velho. Registra chegadas, saídas, cargas — e guarda recado para gente sem endereço fixo.","representa":"O registro honesto que, por ser honesto, fica incompleto.","passado":[{"texto":"O mapa desta parede é este mapa. O pote de breu de Almanaque secou de desuso.","revelaEm":2},{"texto":"Um recado anônimo: dia, hora, píer, e uma moeda de Boca Grande adiantada.","revelaEm":2}],"estado":{"texto":"As presenças de Íris ficam anormalmente quietas lá dentro.","revelaEm":2}},{"id":"boca-grande","nome":"Boca Grande","x":268,"y":848,"t":0.94,"revelaEm":2,"descricao":"Cidade grande no encontro do Vagaroso com o mar, a oito dias de barca de Cindra.","representa":"A administração que declara o problema encerrado porque ele parou de aparecer no relatório.","passado":[{"texto":"Reduziu a taxa de resguardo das vilas por falta de necessidade comprovada.","revelaEm":2},{"texto":"A Junta de Resguardo fica lá. Agora contrata gente de fora da folha.","revelaEm":3}]}];
+  const RIO = "M 300 92 C 288 158, 246 198, 238 262 C 230 326, 262 384, 244 448 C 228 506, 300 546, 314 604 C 328 666, 272 704, 276 764 C 279 812, 268 838, 266 892";
+  const CAPITULOS = [1,2,3,4,5];
+  const POR_ID = new Map(LUGARES.map((l) => [l.id, l]));
+  const REDUZIR = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  const guardar = (c, v) => { try { localStorage.setItem(c, v); } catch (e) {} };
+  const lerChave = (c, p) => { try { const v = localStorage.getItem(c); return v === null ? p : v; } catch (e) { return p; } };
+  const progresso = {
+    ler: () => Number(lerChave('cais:progresso', 0)) || 0,
+    definir: (n) => guardar('cais:progresso', String(Math.max(0, Math.min(CAPITULOS.length, n)))),
+    concluir(n) { if (n > this.ler()) this.definir(n); },
+  };
+  const marcador = {
+    ler: (n) => Number(lerChave('cais:marcador:capitulo-' + n, 0)) || 0,
+    guardar: (n, f) => guardar('cais:marcador:capitulo-' + n, f.toFixed(4)),
+  };
+
+  /* --- tema e corpo de texto ------------------------------------- */
+  document.documentElement.dataset.tema = lerChave('cais:tema', 'claro');
+  const fonteSalva = lerChave('cais:fonte', null);
+  if (fonteSalva) document.documentElement.style.setProperty('--tamanho-leitura', fonteSalva + 'px');
+
+  /* --- navegação -------------------------------------------------- */
+  const secoes = [...document.querySelectorAll('section[data-rota]')];
+  const mostrar = (rota) => {
+    secoes.forEach((s) => (s.hidden = s.dataset.rota !== rota));
+    scrollTo({ top: 0, behavior: 'instant' });
+    if (rota === 'capitulos') pintarLista();
+    if (rota === 'estado') pintarEstado();
+    if (rota === 'glossario' || rota === 'tempo') pintarTrancas();
+    if (rota === 'mapa') { pintarMapas(); acenderInicial(); }
+  };
+  document.querySelectorAll('[data-ir]').forEach((b) => (b.onclick = () => mostrar(b.dataset.ir)));
+
+  /* --- proteção de spoiler ---------------------------------------- */
+  function pintarTrancas() {
+    const lido = progresso.ler();
+    document.querySelectorAll('.verbete, .evento').forEach((el) => {
+      const trancado = Number(el.dataset.revela) > lido;
+      el.classList.toggle('trancado', trancado);
+      const cadeado = el.querySelector('.cadeado');
+      if (cadeado) cadeado.hidden = !trancado;
+      const h2 = el.querySelector('h2');
+      if (h2 && el.classList.contains('evento')) {
+        if (trancado) { h2.dataset.texto = h2.dataset.texto || h2.textContent; h2.textContent = '— — —'; }
+        else if (h2.dataset.texto) h2.textContent = h2.dataset.texto;
+      }
+    });
+  }
+
+  function pintarLista() {
+    const lido = progresso.ler();
+    document.querySelectorAll('.estado-leitura').forEach((selo) => {
+      const n = Number(selo.dataset.numero);
+      const m = marcador.ler(n);
+      selo.classList.remove('novo');
+      if (n <= lido) selo.textContent = 'lido';
+      else if (m > 0.02) selo.textContent = Math.round(m * 100) + '%';
+      else if (n === lido + 1) { selo.textContent = 'novo'; selo.classList.add('novo'); }
+      else selo.textContent = 'não lido';
+    });
+  }
+
+  function pintarEstado() {
+    const p = progresso.ler();
+    const texto = document.getElementById('sua-leitura');
+    const valor = document.getElementById('valor');
+    if (valor) valor.textContent = String(p);
+    if (texto) {
+      texto.textContent = p === 0
+        ? 'Você ainda não concluiu nenhum capítulo — o mapa está quase todo apagado.'
+        : 'Você leu até o Capítulo ' + p + '. Faltam ' + Math.max(0, CAPITULOS.length - p) + ' publicados.';
+    }
+  }
+  const liga = (id, f) => { const b = document.getElementById(id); if (b) b.onclick = () => { f(); pintarEstado(); pintarMapas(); }; };
+  liga('mais', () => progresso.definir(progresso.ler() + 1));
+  liga('menos', () => progresso.definir(progresso.ler() - 1));
+  liga('zerar', () => progresso.definir(0));
+
+  /* --- os mapas ---------------------------------------------------- */
+  const mapas = [...document.querySelectorAll('.mapa')].map((mapa) => {
+    const svg = mapa.querySelector('svg');
+    const camera = svg.querySelector('#camera');
+    const rio = svg.querySelector('#rio');
+    const luz = svg.querySelector('#luz');
+    const ficha = mapa.querySelector('.ficha');
+    let aberta = null;
+    let atual = null;
+    let animacao = null;
+
+    const abrir = (id) => {
+      const l = POR_ID.get(id);
+      if (!l || l.mudo) return;
+      const lido = progresso.ler();
+      const bloqueado = l.revelaEm > lido;
+      aberta = id;
+      ficha.querySelector('.ficha-nome').textContent = bloqueado ? 'Ainda não' : l.nome;
+      ficha.querySelector('.ficha-descricao').textContent = bloqueado
+        ? 'Você ainda não leu o suficiente para que este lugar tenha nome.' : l.descricao;
+      ficha.querySelector('.ficha-representa').textContent = bloqueado ? '' : l.representa;
+      const passado = bloqueado ? [] : l.passado.filter((p) => p.revelaEm <= lido);
+      ficha.querySelector('.ficha-passado').innerHTML = passado.length
+        ? '<h4>o que passou</h4><ul>' + passado.map((p) => '<li>' + p.texto + '</li>').join('') + '</ul>' : '';
+      const estado = ficha.querySelector('.ficha-estado');
+      const tem = !bloqueado && l.estado && l.estado.revelaEm <= lido;
+      estado.textContent = tem ? l.estado.texto : '';
+      estado.hidden = !tem;
+      ficha.hidden = false;
+      requestAnimationFrame(() => ficha.classList.add('visivel'));
+      mapa.classList.add('com-ficha');
+      if (!REDUZIR) {
+        const e = 1.7;
+        camera.style.transform = 'translate(' + (310 - l.x * e) + 'px, ' + (300 - l.y * e) + 'px) scale(' + e + ')';
+      }
+    };
+    const fechar = () => {
+      aberta = null;
+      ficha.classList.remove('visivel');
+      mapa.classList.remove('com-ficha');
+      camera.style.transform = '';
+      setTimeout(() => { if (!aberta) ficha.hidden = true; }, 400);
+    };
+    svg.querySelectorAll('.lugar').forEach((g) => {
+      g.onclick = () => (aberta === g.dataset.id ? fechar() : abrir(g.dataset.id));
+      g.onkeydown = (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); abrir(g.dataset.id); } };
+    });
+    ficha.querySelector('.fechar').onclick = fechar;
+    svg.addEventListener('click', (e) => { if (!e.target.closest('.lugar')) fechar(); });
+
+    const comprimento = rio.getTotalLength();
+    const noRio = (t) => rio.getPointAtLength(Math.max(0, Math.min(1, t)) * comprimento);
+
+    const mover = (id, tensao, tempo) => {
+      const d = POR_ID.get(id);
+      if (!d || d.mudo || d.revelaEm > Math.max(progresso.ler(), liberado)) return;
+      luz.classList.remove('oculta');
+      luz.dataset.tensao = tensao || 'media';
+      luz.dataset.tempo = tempo || 'agora';
+      const alvo = { x: d.x, y: d.y, t: d.t };
+      if (!atual || REDUZIR) {
+        atual = alvo;
+        luz.style.transform = 'translate(' + alvo.x + 'px, ' + alvo.y + 'px)';
+        return;
+      }
+      if (atual.x === alvo.x && atual.y === alvo.y) return;
+      const passos = ['translate(' + atual.x + 'px, ' + atual.y + 'px)'];
+      const a = noRio(atual.t);
+      passos.push('translate(' + a.x + 'px, ' + a.y + 'px)');
+      const n = Math.max(2, Math.round(Math.abs(alvo.t - atual.t) * 26));
+      for (let i = 1; i <= n; i++) {
+        const p = noRio(atual.t + ((alvo.t - atual.t) * i) / n);
+        passos.push('translate(' + p.x + 'px, ' + p.y + 'px)');
+      }
+      passos.push('translate(' + alvo.x + 'px, ' + alvo.y + 'px)');
+      if (animacao) animacao.cancel();
+      animacao = luz.animate(passos.map((transform) => ({ transform })), {
+        duration: 700 + Math.abs(alvo.t - atual.t) * 1400,
+        easing: 'cubic-bezier(.4,0,.2,1)',
+        fill: 'forwards',
+      });
+      atual = alvo;
+    };
+
+    const pintar = () => {
+      const lido = Math.max(progresso.ler(), liberado);
+      svg.querySelectorAll('.lugar').forEach((g) => {
+        const apagado = Number(g.dataset.revela) > lido;
+        g.classList.toggle('apagado', apagado);
+        const rot = svg.querySelector('#rotulos .rotulo[data-id="' + g.dataset.id + '"]');
+        if (rot) rot.classList.toggle('apagado', apagado);
+      });
+      svg.querySelectorAll('.marca-breu').forEach((m) => {
+        const l = POR_ID.get(m.dataset.lugar);
+        const quando = (l && l.breu && l.breu.revelaEm) || 99;
+        m.classList.toggle('escondida', quando > lido);
+      });
+    };
+
+    return { mapa, mover, pintar };
+  });
+
+  let liberado = 0; /* o capítulo em leitura conta como liberado */
+  const pintarMapas = () => mapas.forEach((m) => m.pintar());
+  const moverTodos = (id, tensao, tempo) => mapas.forEach((m) => m.mover(id, tensao, tempo));
+
+  function acenderInicial() {
+    const lido = progresso.ler();
+    const visiveis = LUGARES.filter((l) => !l.mudo && l.revelaEm <= lido);
+    const alvo = visiveis[visiveis.length - 1] || POR_ID.get('cindra');
+    if (alvo) setTimeout(() => moverTodos(alvo.id, 'baixa', 'agora'), 400);
+  }
+
+  /* --- o leitor ---------------------------------------------------- */
+  const corpo = document.getElementById('corpo-capitulo');
+  const leitura = document.querySelector('.leitura');
+  const barra = document.querySelector('.progresso .preenchimento');
+  let capituloAtual = 1;
+  let observador = null;
+
+  function abrirCapitulo(n, fracao) {
+    const tpl = document.querySelector('template[data-capitulo="' + n + '"]');
+    if (!tpl) return;
+    capituloAtual = n;
+    liberado = Math.max(liberado, n);
+    leitura.dataset.numero = String(n);
+    corpo.innerHTML = tpl.innerHTML;
+    mostrar('leitor');
+    document.getElementById('cap-anterior').disabled = n <= 1;
+    document.getElementById('cap-proximo').disabled = n >= CAPITULOS.length;
+    pintarMapas();
+    ligarCenas();
+    const f = fracao !== undefined ? fracao : marcador.ler(n);
+    requestAnimationFrame(() => {
+      const total = document.documentElement.scrollHeight - innerHeight;
+      if (f > 0.02 && f < 0.98) scrollTo({ top: f * total, behavior: 'instant' });
+    });
+  }
+
+  function ligarCenas() {
+    if (observador) observador.disconnect();
+    const ancoras = [...corpo.querySelectorAll('.ancora-cena')];
+    if (!ancoras.length) return;
+    let ultima = '';
+    const anunciar = (a) => {
+      if (a.id === ultima) return;
+      ultima = a.id;
+      moverTodos(a.dataset.lugar, a.dataset.tensao, a.dataset.tempo);
+    };
+    observador = new IntersectionObserver((entradas) => {
+      entradas.forEach((e) => { if (e.isIntersecting) anunciar(e.target); });
+    }, { rootMargin: '-25% 0px -60% 0px' });
+    ancoras.forEach((a) => observador.observe(a));
+    anunciar(ancoras[0]);
+  }
+
+  document.querySelectorAll('[data-abrir]').forEach((b) => (b.onclick = () => abrirCapitulo(Number(b.dataset.abrir))));
+  document.getElementById('cap-anterior').onclick = () => abrirCapitulo(capituloAtual - 1, 0);
+  document.getElementById('cap-proximo').onclick = () => abrirCapitulo(capituloAtual + 1, 0);
+
+  let guardando;
+  addEventListener('scroll', () => {
+    if (document.querySelector('section[data-rota="leitor"]').hidden) return;
+    const total = document.documentElement.scrollHeight - innerHeight;
+    const f = total > 0 ? Math.min(1, Math.max(0, scrollY / total)) : 0;
+    if (barra) barra.style.transform = 'scaleX(' + f + ')';
+    if (f > 0.92) { progresso.concluir(capituloAtual); pintarMapas(); }
+    clearTimeout(guardando);
+    guardando = setTimeout(() => marcador.guardar(capituloAtual, f), 400);
+  }, { passive: true });
+
+  /* --- tipografia, aviso, gaveta ----------------------------------- */
+  const aviso = document.querySelector('.aviso');
+  if (aviso) {
+    aviso.hidden = !!lerChave('cais:aviso', '');
+    const b = aviso.querySelector('.entendi');
+    if (b) b.onclick = () => { aviso.hidden = true; guardar('cais:aviso', '1'); };
+  }
+  const painel = document.getElementById('painel-tipografia');
+  const botaoTipografia = document.getElementById('tipografia');
+  if (painel) painel.hidden = true;
+  if (botaoTipografia && painel) botaoTipografia.onclick = () => (painel.hidden = !painel.hidden);
+  document.querySelectorAll('[data-fonte]').forEach((b) => (b.onclick = () => {
+    const atual = Number(lerChave('cais:fonte', 18));
+    const v = Math.min(26, Math.max(15, atual + (b.dataset.fonte === '+' ? 1 : -1)));
+    document.documentElement.style.setProperty('--tamanho-leitura', v + 'px');
+    guardar('cais:fonte', String(v));
+  }));
+  document.querySelectorAll('[data-tema]').forEach((b) => (b.onclick = () => {
+    document.documentElement.dataset.tema = b.dataset.tema;
+    guardar('cais:tema', b.dataset.tema);
+  }));
+  const gaveta = document.getElementById('gaveta-mapa');
+  const abrirMapa = document.getElementById('abrir-mapa');
+  if (gaveta && abrirMapa) {
+    abrirMapa.onclick = () => { gaveta.hidden = false; requestAnimationFrame(() => gaveta.classList.add('aberta')); };
+    gaveta.querySelector('.fechar-gaveta').onclick = () => {
+      gaveta.classList.remove('aberta');
+      setTimeout(() => (gaveta.hidden = true), 500);
+    };
+  }
+
+  /* --- entrada ------------------------------------------------------ */
+  pintarMapas();
+  pintarTrancas();
+  pintarLista();
+  pintarEstado();
+  mostrar('mapa');
+})();
+
+</script>

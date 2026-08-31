@@ -168,9 +168,10 @@ const espigas = Array.from({ length: 7 }, (_, i) => ({
     const rio = svg.querySelector<SVGPathElement>('#rio')!;
     const luz = svg.querySelector<SVGGElement>('#luz')!;
     const ficha = mapa.querySelector<HTMLElement>('.ficha')!;
-    const lido = progresso.ler();
+    /* o capítulo em leitura conta como liberado: você está lendo ele agora */
+    let lido = progresso.ler();
 
-    /* --- proteção de spoiler: o mapa só mostra o que já foi lido --- */
+    function pintarRevelacoes() {
     for (const g of svg.querySelectorAll<SVGGElement>('.lugar')) {
       const revela = Number(g.dataset.revela ?? 1);
       g.classList.toggle('apagado', revela > lido);
@@ -182,6 +183,8 @@ const espigas = Array.from({ length: 7 }, (_, i) => ({
       marca.classList.toggle('escondida', quando > lido);
       if (quando === lido) marca.classList.add('escorrendo');
     }
+    }
+    pintarRevelacoes();
 
     /* --- ficha do lugar, com zoom cinematográfico ------------------ */
     let aberta: string | null = null;
@@ -289,6 +292,10 @@ const espigas = Array.from({ length: 7 }, (_, i) => ({
     (mapa as any).irPara = mover;
     window.addEventListener('cena', (e) => {
       const d = (e as CustomEvent).detail;
+      if (d.capitulo && d.capitulo > lido) {
+        lido = d.capitulo;
+        pintarRevelacoes();
+      }
       mover(d.lugar, d.tensao, d.tempo);
     });
   });
