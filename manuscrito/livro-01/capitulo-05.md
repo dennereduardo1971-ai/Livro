@@ -5,9 +5,9 @@
 ::cena lugar="porto-de-lenha" tensao="media"
 
 Não gritaram, e foi isso que assustou os passageiros mais do que
-qualquer grito. Pararam a três passos do trapiche, num arco desigual, e o
-mais velho deles — um homem de barba branca curta, com um facão baixo na
-mão, apontado pro chão — disse:
+qualquer grito. Pararam a três passos do trapiche, num arco desigual, e
+o mais velho deles — um homem de barba branca curta, com um facão baixo
+na mão, apontado pro chão — disse:
 
 — A barca desce hoje.
 
@@ -15,25 +15,23 @@ mão, apontado pro chão — disse:
 descarrega e volta na quinta.
 
 — A barca desce hoje — repetiu o homem, com uma paciência que não era
-ameaça, era cansaço. — Com a gente dentro. Somos vinte e dois, contando os
-que estão no barracão que não conseguem andar direito. A gente paga.
+ameaça, era cansaço. — Com a gente dentro. Somos vinte e dois, contando
+os que estão no barracão que não conseguem andar direito. A gente paga.
 
 — Paga com quê?
 
 — Com nada — disse ele. — Eu falei que paga. Não falei quando.
 
-*Ele já disse tudo que ia dizer*, disse a Rápida, rápida como o nome. *A
-partir de agora ele só repete. Repetir é o que a pessoa faz quando já
-decidiu.*
+*Ele já disse tudo que ia dizer*, disse a Rápida. *A partir de agora ele
+só repete. Repetir é o que a pessoa faz quando já decidiu.*
 
 Íris estava em pé na amurada, meio passo atrás de Alice, e fez o que
-fazia quando o trabalho apertava: separou o coro. Não era um poder novo
-nem um esforço heroico; era uma coisa doméstica, de tanto uso, como quem
-separa arroz. A Mansa dizia que eles estavam com medo — verdade e inútil.
-A Rápida contava — dez de pé, quatro com facão, um com espingarda velha,
-dedo fora do gatilho. E havia mais três ou quatro murmúrios ao fundo, dos
-que apareciam sempre em situação de risco e que ela tinha aprendido a
-não consultar nunca, porque diziam coisas grandes e bonitas e erradas.
+fazia quando o trabalho apertava: separou o coro, do jeito doméstico de
+quem separa arroz. A Mansa dizia que eles estavam com medo — verdade e
+inútil. A Rápida contava: dez de pé, quatro com facão, um com espingarda
+velha, dedo fora do gatilho. E ao fundo três ou quatro murmúrios dos que
+apareciam sempre em situação de risco e que ela tinha aprendido a nunca
+consultar, porque diziam coisas grandes, bonitas e erradas.
 
 O trabalho não era ouvir todas. Era escolher uma e responder por essa
 escolha depois.
@@ -82,6 +80,9 @@ Ele já tinha puxado.
 
 ::cena lugar="porto-de-lenha" tensao="alta"
 
+Os problemas são covardes: nunca aparecem sozinhos, sempre andam em
+bando. E chegaram todos juntos.
+
 A *Boa Hora* deu um tranco de ré com a proa ainda amarrada ao trapiche
 por um cabo de proa e um cabo de popa, e uma barca de casco chato
 amarrada dos dois lados que anda pra trás não anda pra trás: ela gira.
@@ -95,11 +96,11 @@ tudo do lado de bombordo.
 Íris viu o cabo vir e não viu mais nada.
 
 A água do pântano era morna em cima e gelada meio metro abaixo, e ela
-entrou de costas, e o cabo veio junto, e antes que ela tivesse organizado
-um único pensamento a coisa já tinha se enrolado no tornozelo direito e
-puxado. O casco passou por cima. O mundo virou uma tábua preta a um palmo
-do rosto dela, e do outro lado da tábua havia o rangido do casco, o
-tambor da máquina, e nenhuma luz.
+entrou de costas, e o cabo veio junto, e antes que ela tivesse
+organizado um único pensamento a coisa já tinha se enrolado no tornozelo
+direito e puxado. O casco passou por cima. O mundo virou uma tábua preta
+a um palmo do rosto dela, e do outro lado da tábua havia o rangido do
+casco, o tambor da máquina, e nenhuma luz.
 
 Escuro. Frio. Sem espaço.
 
@@ -111,8 +112,8 @@ Não foram dúzias, como no Poço; foram poucas, e foi pior, porque eram as
 dela. Vieram todas de uma vez e vieram falando ao mesmo tempo, e a
 primeira coisa que Íris entendeu, com uma clareza que não ajudava em
 nada, foi que aquilo já tinha acontecido antes — não parecido: aquilo. O
-escuro tinha a mesma qualidade. O peso em cima tinha a mesma qualidade. E
-o cheiro — não havia cheiro nenhum, ela estava debaixo d'água, e mesmo
+escuro tinha a mesma qualidade. O peso em cima tinha a mesma qualidade.
+E o cheiro — não havia cheiro nenhum, ela estava debaixo d'água, e mesmo
 assim havia, e era de grão guardado, poeira doce, silo.
 
 *Puxa o pé pra trás e gira*, disse a Rápida. *Não é nó, é volta. Duas
@@ -132,17 +133,16 @@ Nenhuma das que importavam gritava.
 
 *Foi assim com ele também*, disse o Frio. *Ele também tentou primeiro.*
 
-O corpo dela quis obedecer. Isso era a parte que ninguém entendia e que
-ela nunca tinha conseguido explicar a ninguém: não era convencimento, era
-gravidade. A voz dizia e o corpo pendia pra lá. Os dedos que estavam
-puxando o cabo pararam de puxar, e ela sentiu — sentiu de verdade, com o
-peito ardendo e a garganta fechada — o começo do sim.
+O corpo dela quis obedecer. Era a parte que ela nunca tinha conseguido
+explicar a ninguém: não era convencimento, era gravidade. A voz dizia e
+o corpo pendia pra lá. Os dedos que estavam puxando o cabo pararam de
+puxar, e ela sentiu — com o peito ardendo e a garganta fechada — o
+começo do sim.
 
 Íris deu uma cotovelada na tábua acima dela.
 
 Doeu. A dor subiu pelo braço e explodiu no ombro e era dela, sem voz
-nenhuma dentro, e foi nisso que ela se agarrou. Contou. Um. Dois. Três —
-contar era dela, sempre tinha sido, era o fio fino que atravessava tudo.
+nenhuma dentro, e foi nisso que ela se agarrou. Contou. Um. Dois. Três.
 Dobrou o joelho, puxou o pé pra trás e girou o tornozelo pro lado que a
 Rápida tinha dito.
 
@@ -150,17 +150,16 @@ A primeira volta saiu.
 
 A segunda não.
 
-O peito dela era uma coisa só, um único músculo em pânico, e a boca abriu
-sozinha uma vez e ela conseguiu fechar, e o Frio ainda estava lá,
-paciente, sem pressa, do jeito de quem já viu isso antes e sabe como
-termina.
+O peito dela era um único músculo em pânico, e a boca abriu sozinha uma
+vez e ela conseguiu fechar, e o Frio ainda estava lá, paciente, sem
+pressa, do jeito de quem já viu isso antes e sabe como termina.
 
 Foi quando alguma coisa agarrou o cabo do lado de fora e cortou.
 
-Não puxaram Íris pra cima. Cortaram o cabo, o que era mais difícil e mais
-inteligente, e a perna dela ficou solta e o corpo subiu sozinho, e o
-casco continuava em cima, e uma mão fechou no cós da calça dela e puxou
-de lado, pro claro, pro azul, pro verde, pro ar.
+Não puxaram Íris pra cima. Cortaram o cabo, o que era mais difícil e
+mais inteligente, e a perna dela ficou solta e o corpo subiu sozinho, e
+o casco continuava em cima, e uma mão fechou no cós da calça dela e
+puxou de lado, pro claro, pro azul, pro verde, pro ar.
 
 O ar entrou e doeu mais que a água.
 
@@ -171,24 +170,23 @@ O ar entrou e doeu mais que a água.
 Íris ficou de bruços nas tábuas do trapiche por um tempo que não soube
 medir, vomitando água do pântano, com as mãos de alguém segurando a
 cabeça dela de lado pra que ela não engasgasse com o próprio vômito.
-Alice estava encharcada, e o cabelo dela colava na testa, e ela estava
-dizendo *respira, respira, respira*, que era a coisa mais óbvia do mundo
-e a única útil.
+Alice estava encharcada, o cabelo colado na testa, dizendo *respira,
+respira, respira*, que era a coisa mais óbvia do mundo e a única útil.
 
-Depois, mais tarde, quando a barca já estava amarrada direito e o rapaz
-da caldeira já tinha apanhado do mestre e chorado, foi que Íris ouviu a
-história — e ouviu quatro versões dela, todas diferentes, todas juradas.
+Depois, com a barca amarrada direito e o rapaz da caldeira já tendo
+apanhado do mestre e chorado, Íris ouviu a história. Ouviu quatro
+versões dela, todas diferentes, todas juradas.
 
 O mestre Nestor dizia que Alice tinha fechado o registro da caldeira
 primeiro. O passageiro da rede dizia que não, que a primeira coisa foi
-ela ter chutado o gancho de carga na direção do Bento gritando "PROA",
-e que só depois foi na caldeira. A mulher do peixe frito, que assistiu
+ela ter chutado o gancho de carga na direção do Bento gritando "PROA", e
+que só depois foi na caldeira. A mulher do peixe frito, que assistiu
 tudo do trapiche, jurava que ela tinha derrubado o pau de carga em cima
 do homem da espingarda antes de qualquer outra coisa, porque o homem
-estava recarregando. Bento não sabia dizer a ordem de nada: ele estava
+estava recarregando. Bento não sabia dizer a ordem de nada: estava
 ocupado sendo a pessoa que segurou o gancho de carga que apareceu voando
 na direção dele e que, com esse gancho, prendeu o cabo de proa antes que
-a barca terminasse de girar — o que ele fez sem entender por que estava
+a barca terminasse de girar — o que fez sem entender por que estava
 fazendo, e o que provavelmente evitou que a *Boa Hora* virasse.
 
 O que todos concordavam era o tempo. Ninguém contou, mas todo mundo
@@ -197,20 +195,19 @@ disse a mesma coisa: foi tudo junto. Foi tudo no mesmo pedaço de tempo.
 Íris perguntou pra própria Alice, no fim da tarde, qual tinha sido a
 ordem.
 
-Alice estava sentada no chão do convés com as costas na amurada e as
-pernas abertas, com uma caneca de café que ela não estava conseguindo
-levar até a boca, porque a mão tremia demais e o líquido saía pela
-borda. Tinha aquele olhar que Íris só tinha visto uma vez antes, no
+Alice estava sentada no chão do convés com as costas na amurada e uma
+caneca de café que não conseguia levar até a boca, porque a mão tremia
+demais. Tinha aquele olhar que Íris só tinha visto uma vez antes, no
 espelho.
 
 — Não sei — disse Alice.
 
 — Não lembra?
 
-— Não é não lembrar. — Ela fechou os olhos. — É que não teve ordem. Eu
-sei o que precisava ser feito. Tudo. De uma vez. Aí eu fiz. — Ela abriu
-os olhos e olhou pra caneca com um ódio enorme. — E agora eu não consigo
-tomar café.
+— Não é não lembrar. — Fechou os olhos. — É que não teve ordem. Eu sei o
+que precisava ser feito. Tudo. De uma vez. Aí eu fiz. — Abriu os olhos e
+olhou pra caneca com um ódio enorme. — E agora eu não consigo tomar
+café.
 
 Ficou assim o resto do dia. Não conseguiu enrolar corda. Perguntou três
 vezes se tinham amarrado a barca e três vezes disseram que sim. Às sete
@@ -218,8 +215,8 @@ da noite dormiu sentada, no meio de uma frase, e dormiu catorze horas, e
 no dia seguinte acordou envergonhada de um jeito que Íris achou
 insuportável de assistir.
 
-— Desculpa — disse Alice, de manhã. — Eu apago depois. Sempre apago. É
-o preço da conta.
+— Desculpa — disse Alice, de manhã. — Eu apago depois. Sempre apago. É o
+preço da conta.
 
 — Você me tirou de baixo de um casco.
 
@@ -230,15 +227,14 @@ tem três dias de rio.
 
 ::cena lugar="porto-de-lenha" tensao="baixa"
 
-O que ninguém sabia, e o que Íris não contou pra ninguém, é que ela ficou
-com raiva.
+O que ninguém sabia, e o que Íris não contou pra ninguém, é que ela
+ficou com raiva.
 
 Não da Alice. Da situação inteira, de um jeito difuso e injusto que ela
-reconheceu como injusto enquanto acontecia e sentiu assim mesmo. Ela
-tinha passado a vida adulta inteira construindo uma coisa muito
-específica: ser a pessoa que chega, resolve, e vai embora antes que
-alguém precise saber qualquer coisa sobre ela. Tinha entrado no Poço
-sozinha. Tinha subido do Poço sozinha, com um rapaz atrás dela.
+reconheceu como injusto enquanto acontecia e sentiu assim mesmo. Tinha
+passado a vida adulta construindo uma coisa muito específica: ser a
+pessoa que chega, resolve e vai embora antes que alguém precise saber
+qualquer coisa sobre ela.
 
 E agora catorze passageiros, um mestre, dois cobradores de lenha e um
 rapaz de vinte e um anos tinham visto Íris de bruços num trapiche
@@ -254,7 +250,7 @@ uma coisa em que tinha muita prática.
 *Não é burrice*, disse a Rápida. *É desperdício. Não é a mesma coisa.*
 
 Na segunda noite, Íris pegou o formão da caixa de ferramentas do convés,
-a marreta pequena, e quatro pregos, e consertou a tábua solta de
+a marreta pequena e quatro pregos, e consertou a tábua solta de
 bombordo. Levou vinte minutos. Ficou torta, mas parou de bater.
 
 Não disse nada pra ninguém sobre isso.
@@ -264,20 +260,19 @@ Não disse nada pra ninguém sobre isso.
 ::cena lugar="porto-de-lenha" tensao="baixa" revela="o-frio"
 
 Alice descobriu na noite seguinte, pisou na tábua duas vezes pra
-confirmar, olhou em volta procurando um culpado, não encontrou nenhum,
-e foi sentar do lado de Íris no lugar de sempre com duas canecas de café.
+confirmar, olhou em volta procurando um culpado, não encontrou nenhum, e
+foi sentar do lado de Íris com duas canecas de café.
 
 — Você consertou minha tábua.
 
 — Ela batia.
 
-— Ela batia desde maio — disse Alice, entregando uma das canecas. —
-Eu ia consertar. Eu ia mesmo. Eu penso nela todo dia. Todo dia eu passo
-aqui e penso "hoje eu conserto", e aí no caminho até a caixa de
-ferramentas eu vejo a lona rasgada, e aí eu vou buscar linha, e a linha
-tá com o mestre, e o mestre tá comendo, e eu não vou incomodar homem
-comendo, e aí eu vejo a corda desfiada. — Ela tomou o café. — Aí é de
-noite.
+— Ela batia desde maio — disse Alice, entregando uma das canecas. — Eu
+ia consertar. Eu penso nela todo dia. Todo dia eu passo aqui e penso
+"hoje eu conserto", e aí no caminho até a caixa de ferramentas eu vejo a
+lona rasgada, e aí eu vou buscar linha, e a linha tá com o mestre, e o
+mestre tá comendo, e eu não vou incomodar homem comendo, e aí eu vejo a
+corda desfiada. — Tomou o café. — Aí é de noite.
 
 Ficaram as duas caladas um tempo. O rio de noite fazia um barulho
 contínuo que não era barulho de nada.
@@ -287,7 +282,7 @@ contínuo que não era barulho de nada.
 — O quê?
 
 — O nome. Da coisa. Você não perguntou, e todo mundo pergunta, e como
-você não perguntou eu fiquei três dias querendo contar. — Ela riu de si
+você não perguntou eu fiquei três dias querendo contar. — Riu de si
 mesma. — É assim mesmo, viu. Eu sou assim mesmo.
 
 Íris ficou com a caneca nas duas mãos.
@@ -297,8 +292,8 @@ mesma. — É assim mesmo, viu. Eu sou assim mesmo.
 — Botei quando eu tinha uns quinze. Porque não é uma coisa. São muitas
 coisas pequenas, todas ao mesmo tempo, e cada uma sozinha não é nada. Aí
 de vez em quando elas viram uma coisa só, e nessa hora eu faço num
-minuto o que ninguém faz num dia. — Ela deu de ombros. — E depois eu
-pago catorze horas e não consigo tomar café. Não tem meio termo. Eu já
+minuto o que ninguém faz num dia. — Deu de ombros. — E depois eu pago
+catorze horas e não consigo tomar café. Não tem meio termo. Eu já
 procurei.
 
 — Não tem — disse Íris.
@@ -324,7 +319,7 @@ perguntado quantos.
 E a Rápida, que era prática acima de tudo, não disse nada — o que, vindo
 dela, era uma opinião.
 
-— Três — disse Íris. — Três que eu conheço bem. — Ela girou a caneca nas
+— Três — disse Íris. — Três que eu conheço bem. — Girou a caneca nas
 mãos. — E uma nova, faz umas duas semanas, que eu ainda não sei o que é.
 
 Alice assentiu devagar, do jeito que se assente pra uma informação
@@ -339,19 +334,19 @@ prática, do tipo "a maré vira às quatro".
 — Essa é a pior — disse Alice, com convicção total. — Gente que fala
 pouco tem sempre razão. É insuportável.
 
-Elas ficaram ali até tarde. Alice falou sobre a prima de Boca Grande, e
-sobre um homem que tentou vender uma bússola quebrada pro mestre Nestor,
-e sobre as estacas brancas do pântano, e sobre quem repintava as estacas
-— ninguém sabia, e ela tinha uma teoria, e a teoria era longa. Íris não
-precisou dizer quase nada, e não teve, nenhuma vez naquela noite, que
-mover os lábios de menos.
+Ficaram ali até tarde. Alice falou sobre a prima de Boca Grande, sobre
+um homem que tentou vender uma bússola quebrada pro mestre Nestor, e
+sobre quem repintava as estacas brancas do pântano — ninguém sabia, e
+ela tinha uma teoria, e a teoria era longa. Íris não precisou dizer
+quase nada, e não teve, nenhuma vez naquela noite, que mover os lábios
+de menos.
 
 Antes de dormir, Alice contou a única coisa útil que os homens do
-trapiche tinham falado antes de aceitarem descer com a carga e ficarem
-com o barracão.
+trapiche tinham falado antes de aceitarem descer com a carga e ficar com
+o barracão.
 
-— Eles não são do Vau Queimado — disse ela. — São de cima do Vau. E eles
-disseram que o povo do Vau saiu antes deles.
+— Eles não são do Vau Queimado — disse. — São de cima do Vau. E disseram
+que o povo do Vau saiu antes deles.
 
 — Saiu pra onde?
 
@@ -360,9 +355,8 @@ Alice ficou um tempo olhando o escuro do rio, que era muito escuro.
 — Pra cima — disse. — O povo do Vau Queimado subiu.
 
 Íris ficou acordada muito depois de Alice ter dormido, pensando em rio,
-em direção, em gente que anda pro lado errado, e a terceira presença —
-que não tinha dito uma palavra desde o pântano, nem no fundo da água,
-nem no trapiche, nem enquanto ela consertava a tábua — escolheu esse
-momento pra dizer a frase dela:
+em direção, em gente que anda pro lado errado. E a terceira presença —
+calada desde o pântano, calada no fundo da água, no trapiche, na noite
+da tábua — escolheu esse momento pra dizer a frase dela:
 
 *Ainda não é medo. Ainda é costume.*

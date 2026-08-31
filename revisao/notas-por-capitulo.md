@@ -116,3 +116,43 @@ fragmentos soltos).
    generalizado ("de tanta prática"), sem fixar número.
 
 **Voz dos personagens:** sem divergências novas da ficha.
+
+## Capítulos 2 a 5 — passe de fluidez e corte de redundância (Livro 1)
+**Data da revisão:** 2026-08-31
+
+**Contexto:** autor aprovou trama e desenvolvimento, mas apontou excesso de
+redundância e de explicação, com o texto ficando maçante. Pedido: prosa
+mais fluida, linha narrativa próxima de *Lugar Nenhum* (Neil Gaiman), com
+manutenção do humor seco já presente ("os problemas são covardes, sempre
+andam em bando").
+
+**O que foi feito:**
+1. Corte das "caudas explicativas" — a frase que vinha depois do gesto
+   para dizer ao leitor o que o gesto significava. O beat físico ficou; a
+   glosa saiu (ex.: separar o coro "como quem separa arroz", sem a
+   justificativa de que não era esforço heroico).
+2. Encadeamentos "porque X, e porque Y" reduzidos a uma razão só, a mais
+   forte, em toda a extensão dos quatro capítulos.
+3. Blocos de interioridade encurtados sem perder o conteúdo: a reflexão do
+   alto de Cindra (cap. 2), a conta que não fecha sobre a idade de Bento
+   (cap. 3), a raiva de Íris no trapiche (cap. 5).
+4. Descrição do mapa da Casa do Cais (cap. 2) compactada mantendo os
+   quatro pontos de breu, os nomes evitados e o reboco cru acima da
+   Cabeceira — a informação de trama permanece inteira.
+5. Registro cômico seco reforçado em pontos escolhidos, sempre na voz do
+   narrador e sem quebrar a tensão da cena: "a barca das dez tinha esse
+   nome por tradição, não por horário"; a Junta de Resguardo que "cabia
+   inteira dentro de um homem de botas novas"; o nome da *Boa Hora* pelo
+   mesmo princípio que faz chamar cachorro bravo de Amiguinho; "salvar
+   criança dos outros é um trabalho mal pago e pior agradecido"; o sal
+   varrido como "um trabalho inútil, executado com esmero"; a cabra que
+   "não levou a mal".
+6. A frase do autor entrou como abertura da virada do cap. 5, parte II
+   ("Os problemas são covardes: nunca aparecem sozinhos, sempre andam em
+   bando"), marcando o ponto onde tudo desanda de uma vez.
+
+**Preservado:** todas as diretivas `::cena` (3/3/4/7, iguais às
+anteriores), todas as revelações de trama, os nomes dados pelos
+personagens aos próprios poderes (Antes de Cair o Copo, Enxame), o custo
+físico de cada uso, o gancho da terceira presença e a regra de ouro do
+README — nenhum termo de bastidor aparece no texto.
