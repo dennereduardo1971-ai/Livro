@@ -9,7 +9,7 @@ const termos = [...GLOSSARIO].sort((a, b) => a.termo.localeCompare(b.termo, 'pt-
     <p class="subtitulo">Só aparece o que você já leu. Um leitor no Capítulo 2 e outro no 40 veem mundos diferentes.</p>
     <dl>
       {termos.map((t) => (
-        <div class="cartao verbete" data-revela={t.revelaEm}>
+        <div class="cartao verbete" id={t.id} data-revela={t.revelaEm}>
           <dt>{t.termo}</dt>
           <dd class="conteudo-trancado">{t.definicao}</dd>
           <p class="cadeado subtitulo" hidden>destrava no Capítulo {t.revelaEm}</p>
@@ -33,5 +33,8 @@ const termos = [...GLOSSARIO].sort((a, b) => a.termo.localeCompare(b.termo, 'pt-
     dt { font-family: var(--serifa); font-size: 1.05rem; margin-bottom: 0.3rem; }
     dd { margin: 0; font-size: 0.92rem; line-height: 1.6; color: var(--tinta-fraca); }
     .cadeado { margin: 0.5rem 0 0; font-size: 0.72rem; letter-spacing: 0.08em; }
+    /* chegou de um verbete clicado no meio do capítulo */
+    .verbete { scroll-margin-top: 4rem; transition: border-color 600ms var(--respiro); }
+    .verbete:target { border-color: var(--realce); }
   </style>
 </Base>

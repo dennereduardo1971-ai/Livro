@@ -57,6 +57,12 @@ const { Content } = await render(capitulo.entrada);
     </nav>
   </main>
 
+  <div id="verbete" role="dialog" aria-label="Verbete do glossário" hidden>
+    <p class="termo-titulo"></p>
+    <p class="termo-definicao"></p>
+    <a class="termo-ir" href="/glossario">ver no glossário ›</a>
+  </div>
+
   <button id="abrir-mapa" aria-label="Ver o mapa" title="Ver o mapa">
     <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6">
       <path d="M9 4 3 6.5v13L9 17l6 2.5 6-2.5v-13L15 7 9 4Z" stroke-linejoin="round" />
@@ -71,6 +77,7 @@ const { Content } = await render(capitulo.entrada);
 
   <script>
     import { progresso, marcador, tema, fonte } from '../scripts/progresso';
+    import { GLOSSARIO } from '../dados/glossario';
 
     const main = document.querySelector<HTMLElement>('.leitura')!;
     const numero = Number(main.dataset.numero);
@@ -145,6 +152,60 @@ const { Content } = await render(capitulo.entrada);
       anunciar(ancoras[0]);
     }
 
+    /* --- verbetes do glossário no corpo do texto ------------------- */
+    const verbete = document.getElementById('verbete')!;
+    const titulo = verbete.querySelector<HTMLElement>('.termo-titulo')!;
+    const definicao = verbete.querySelector<HTMLElement>('.termo-definicao')!;
+    const ir = verbete.querySelector<HTMLAnchorElement>('.termo-ir')!;
+    const porId = new Map(GLOSSARIO.map((t) => [t.id, t]));
+    let aberto: HTMLElement | null = null;
+
+    const fecharVerbete = () => {
+      if (!aberto) return;
+      aberto.classList.remove('aberto');
+      aberto = null;
+      verbete.classList.remove('visivel');
+      setTimeout(() => { if (!aberto) verbete.hidden = true; }, 200);
+    };
+
+    const abrirVerbete = (botao: HTMLElement) => {
+      const termo = porId.get(botao.dataset.termo ?? '');
+      if (!termo) return;
+      if (aberto === botao) return fecharVerbete();
+      aberto?.classList.remove('aberto');
+      aberto = botao;
+      botao.classList.add('aberto');
+
+      titulo.textContent = termo.termo;
+      definicao.textContent = termo.definicao;
+      ir.href = `/glossario#${termo.id}`;
+
+      verbete.hidden = false;
+      /* medir só depois de visível, para caber na tela em qualquer largura */
+      const caixa = botao.getBoundingClientRect();
+      const largura = verbete.offsetWidth;
+      const margem = 12;
+      const esquerda = Math.min(
+        Math.max(margem, caixa.left + caixa.width / 2 - largura / 2),
+        innerWidth - largura - margem,
+      );
+      const abaixo = caixa.bottom + scrollY + 10;
+      const acima = caixa.top + scrollY - verbete.offsetHeight - 10;
+      const cabeAbaixo = caixa.bottom + verbete.offsetHeight + 10 < innerHeight;
+      verbete.style.left = `${esquerda + scrollX}px`;
+      verbete.style.top = `${cabeAbaixo || acima < scrollY ? abaixo : acima}px`;
+      requestAnimationFrame(() => verbete.classList.add('visivel'));
+    };
+
+    document.querySelectorAll<HTMLElement>('.leitura .termo').forEach((b) =>
+      b.addEventListener('click', (e) => { e.stopPropagation(); abrirVerbete(b); }),
+    );
+    addEventListener('click', (e) => {
+      if (aberto && !verbete.contains(e.target as Node)) fecharVerbete();
+    });
+    addEventListener('keydown', (e) => { if (e.key === 'Escape') fecharVerbete(); });
+    addEventListener('resize', fecharVerbete);
+
     /* --- gaveta do mapa: só sob demanda ---------------------------- */
     const gaveta = document.getElementById('gaveta-mapa')!;
     document.getElementById('abrir-mapa')!.addEventListener('click', () => {
@@ -182,6 +243,13 @@ const { Content } = await render(capitulo.entrada);
     .leitura p + p { text-indent: 1.3em; }
     .leitura h2 + p, .leitura h1 + p { text-indent: 0; }
     .leitura em { font-style: italic; }
+    .leitura .termo {
+      font: inherit; color: inherit; background: none; padding: 0; margin: 0;
+      border: 0; border-bottom: 1px dotted var(--tinta-fraca);
+      cursor: help; transition: color 200ms var(--respiro), border-color 200ms var(--respiro);
+    }
+    .leitura .termo:hover, .leitura .termo:focus-visible { color: var(--realce); border-bottom-color: var(--realce); }
+    .leitura .termo.aberto { color: var(--realce); border-bottom-style: solid; }
     .leitura hr {
       border: 0; margin: 2.4rem auto; width: 5rem;
       border-top: 1px solid var(--borda);
@@ -245,6 +313,30 @@ const { Content } = await render(capitulo.entrada);
       transition: transform 400ms var(--respiro);
     }
     #abrir-mapa:hover { transform: translateY(-2px); }
+
+    #verbete[hidden] { display: none; }
+    #verbete {
+      position: absolute; z-index: 46;
+      width: min(20rem, calc(100vw - 1.5rem));
+      padding: 0.85rem 1rem 0.9rem;
+      background: var(--fundo-alto); border: 1px solid var(--borda); border-radius: 4px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      opacity: 0; transform: translateY(-4px);
+      transition: opacity 200ms var(--respiro), transform 200ms var(--respiro);
+    }
+    #verbete.visivel { opacity: 1; transform: none; }
+    #verbete .termo-titulo {
+      margin: 0 0 0.35rem; font-family: var(--serifa); font-size: 1rem; color: var(--tinta);
+    }
+    #verbete .termo-definicao {
+      margin: 0; font-size: 0.86rem; line-height: 1.6; color: var(--tinta-fraca);
+    }
+    #verbete .termo-ir {
+      display: inline-block; margin-top: 0.7rem; font-size: 0.72rem;
+      letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--tinta-fraca); text-decoration: none;
+    }
+    #verbete .termo-ir:hover { color: var(--realce); }
 
     #gaveta-mapa {
       position: fixed; inset: 0; z-index: 55;
