@@ -61,6 +61,26 @@
   Mansa" (calma, consola), "a Rápida" (prática, é quem ela mais consulta
   a trabalho), "o Frio" (cruel, raramente fala — ligado à memória do
   primo).
+- **A terceira presença (sem apelido ainda):** a que subiu do Poço com
+  ela no fim do Capítulo 1 e ficou. Passou três dias em silêncio
+  absoluto; Íris testou uma vez, no escuro, e não obteve resposta — só a
+  impressão de que a coisa se virou pra continuar de frente pra ela.
+  Fala pela primeira vez no fim do Capítulo 2 (*"Ele vai precisar de
+  tinta nova."*), em tom de comentário casual entre conhecidos antigos.
+  **Regras de escrita:** (1) Íris não a batiza enquanto não decidir o
+  que ela é; (2) ela não responde à presença de imediato, porque a
+  primeira resposta ensina a presença o que vale a pena dizer;
+  (3) a origem e a natureza dela ficam deliberadamente em aberto — nunca
+  confirmar em texto que é "do Credor", que é profética, ou que é
+  alucinação; a ambiguidade é o ponto.
+- **Idade (bastidor, nunca afirmada em texto):** cerca de 31 anos no
+  presente — tinha 9 quando Sete Palhas caiu, ~22 anos atrás (ver
+  `linha-do-tempo.md`). Serve só para coerência entre cenas de tempos
+  diferentes.
+- **Origem geográfica:** nasceu no planalto de Sete Palhas (ver
+  `geografia-e-faccoes.md`). Reconhece no mapa da Casa do Cais
+  exatamente qual espiga apagada fica em cima do silo. Nunca diz o nome
+  do lugar em voz alta.
 
 ---
 
@@ -123,3 +143,31 @@
   porque o lugar o assusta tanto quanto assusta qualquer um.
 - **Linha vermelha:** não entraria fundo no Poço sozinho por dinheiro
   nenhum — é por isso que ainda não achou Caio antes de Íris.
+
+## Almanaque
+- **Papel na história:** escrivão da Casa do Cais, em Cindra. Registra
+  chegadas, saídas e recados — é por meio dele que Íris é contratada.
+  Introduzido no Capítulo 2.
+- **Poder e eixo psicológico:** nenhum poder.
+- **Descrição:** homem seco e comprido, óculos de uma lente só. O
+  apelido não é irônico: sabe de cor datas que ninguém mais achou que
+  valia a pena anotar. Guarda na prateleira de baixo, junto com o que
+  usa, o pote de breu de lampião que secou sozinho por vinte anos sem
+  serviço — e não joga fora quando Íris sugere.
+- **Arco emocional pretendido:** candidato natural à "pessoa real" que
+  disputa espaço com as presenças no arco de Íris (ver ficha dela) —
+  relação de confiança prática, sem intimidade declarada, construída em
+  silêncios compartilhados. Não forçar amizade explícita.
+- **Contradições internas que sustentam o personagem:** confia
+  cegamente no registro escrito e sabe, melhor que ninguém, que o
+  registro não tem símbolo pra "não sei" — anota tudo e, mesmo assim,
+  deixa de anotar a única coisa que o assusta.
+- **Linha vermelha:** não inventa registro. Não marca no mapa o que não
+  tem confirmado, mesmo que a falta da marca custe caro.
+
+## Mancha sem nome ("o que passou")
+- Não é personagem, é entrada de referência: a Manifestação que derrubou
+  três das sete aldeias de Sete Palhas e nunca ganhou nome. Quem
+  sobreviveu chama de "o que passou", e repete a expressão quando
+  perguntado de novo. **Manter sem nome** — a ausência de nome é a
+  caracterização, e vale como reserva narrativa para o passado de Íris.
