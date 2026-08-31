@@ -308,3 +308,22 @@ internalizado a "gramática" da Sala de Espera através da ação.
 - **O homem da Junta que subiu há nove dias.** Nome e destino em aberto.
 - **O que aconteceu com o Vau Queimado.** Em aberto — evitar decidir
   antes de escrever a chegada.
+
+## Perguntas plantadas nos Capítulos 4–5 (2026-08-31) — não resolver cedo
+- **Por que o povo do Vau Queimado subiu o rio em vez de descer?** Fugir
+  rio acima é andar pro lado errado. Nenhuma explicação dada; é o fio
+  principal da chegada.
+- **A lacuna de memória de Bento** na viagem às Águas Paradas aos 11
+  anos. Ele lembra de sair de Cindra e de voltar a Cindra, e de mais
+  nada; o pai dizia que ele dormiu a viagem toda. Ligar (ou não) à
+  anomalia da técnica nascida durante a Folga.
+- **Quem repinta as estacas brancas do canal do pântano todo ano.**
+  Ninguém sabe. Alice tem uma teoria longa que ainda não foi contada ao
+  leitor — reserva de cena.
+- **Origem da técnica de Alice.** Não perguntada em cena, não
+  estabelecida. Não inventar antes de precisar.
+- **Frases da terceira presença até aqui:** *"Ele vai precisar de tinta
+  nova"* (Cap. 2), *"Ele é o primeiro"* (Cap. 3), *"Esses não são de Vau
+  Queimado, esses são de mais acima"* (Cap. 4), *"Ainda não é medo. Ainda
+  é costume"* (Cap. 5). Uma por capítulo, sempre certeira, nunca
+  explicada. Manter o padrão.

@@ -221,3 +221,46 @@
 - **Em aberto:** mandou um homem da Junta ao Vau Queimado há nove dias,
   sem retorno; e sabe mais do que disse sobre por que a linha de Bento
   está subindo junto com o silêncio do rio.
+
+## Alice
+> **Pronúncia:** sílaba tônica na primeira — *Álice*. Ela corrige todo
+> mundo, sempre, sabe que parece implicância e corrige mesmo assim.
+> Usar a correção como caracterização recorrente.
+
+- **Papel na história:** contramestre e faz-tudo da barca *Boa Hora*;
+  conhecida de todo o rio entre Cindra e o Vau Queimado. Conhece Íris no
+  Capítulo 4. **Par romântico de Íris** (ver regra de construção abaixo).
+- **Técnica:** **Enxame** (eixo interno: TDAH — nunca nomeado em texto).
+  Nomeada por ela mesma aos ~15 anos. Ver `sistema-de-poderes.md`.
+- **Origem:** ainda não estabelecida — não perguntada em cena, não
+  inventar até precisar.
+- **Como se apresenta:** sem ritmo. Começa seis coisas em três minutos e
+  fecha nenhuma; conserta o que não ia consertar e deixa pendente o que
+  prometeu; fala em galhos, sai do assunto e volta ao assunto muito
+  depois, e no meio de um galho solta a informação mais importante da
+  cena sem marcar que é importante — **usar isso sempre: as revelações
+  de trama chegam pela boca dela, escondidas em digressão**.
+- **Arco emocional pretendido:** começa administrando a própria vergonha
+  do crash com humor preventivo (ri de si antes que riam dela); caminho é
+  deixar de precisar compensar. Sem cura.
+- **Contradições internas:** é a pessoa mais competente da barca e a que
+  mais pede desculpa; salva a vida de alguém e no dia seguinte se
+  desculpa por não servir pra nada.
+- **Linha vermelha:** nunca finge lembrar a ordem do que fez. Prefere
+  dizer "não teve ordem" e ficar sem crédito a inventar uma sequência
+  heroica.
+
+### Regra de construção do romance Íris × Alice (não quebrar)
+1. **A paixão não nasce do salvamento.** O resgate no Cap. 5 gera, em
+   Íris, *raiva* difusa e vergonha por ter sido vista mal — não gratidão
+   romântica. Ela evita Alice por um dia e meio.
+2. O vínculo real nasce de três coisas pequenas e não declaradas: o
+   barulho de Alice ser o primeiro ruído externo que não compete com o
+   interno de Íris; Íris consertar a tábua sem contar a ninguém; e Alice
+   perguntar **"quantos são?"** — a primeira pessoa na vida de Íris a
+   fazer uma pergunta prática em vez de recuar.
+3. Construção **lenta e por acúmulo**: nenhuma declaração, nenhum quase-
+   beijo, nenhum ciúme de terceiros por muitos capítulos. O afeto aparece
+   só em ato prático e em quanto silêncio elas conseguem dividir.
+4. Nenhuma das duas "cura" ou "completa" a outra. Alice não silencia as
+   presenças; Íris não organiza o Enxame.
