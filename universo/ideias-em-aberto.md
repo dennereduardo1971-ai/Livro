@@ -82,6 +82,17 @@
   Manifestação em si ensina ao leitor, em miniatura, a sensação que o
   resto do livro vai cobrar. Nome própria da Manifestação: ainda não
   decidido.
+- **Forma física:** sem corpo fixo — é velocidade/movimento puro.
+  Quase nunca é vista parada; percebida por rastro, deslocamento de ar,
+  som que se aproxima e nunca chega. Difícil de enfrentar de frente
+  porque nunca "para" pra ser atingida.
+- **Fraqueza explorável (exigida por `sistema-de-poderes.md`):** só
+  reconhece/persegue quem está em movimento — ficar completamente
+  imóvel tira o alvo do tipo de ameaça que ela rastreia. Paradoxo
+  proposital: a saída tática é parar de correr, mas ficar parado sob
+  perigo real é aterrorizante e caro emocionalmente — não é fraqueza de
+  graça. Ecoa (sem repetir) o tema de agência/escolha sob pressão já
+  central em Íris.
 
 **Pontos ainda em aberto para rodadas seguintes desta mesma sessão (ou
 sessões futuras):**
