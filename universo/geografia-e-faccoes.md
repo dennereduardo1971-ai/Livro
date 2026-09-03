@@ -99,6 +99,11 @@
   A última barca desceu com dez pessoas a mais do que declarou e nenhuma
   disse de onde vinha. Almanaque não marcou nada no mapa. Este é o
   primeiro fio da trama principal.
+- **Planejado, ainda não escrito (Capítulos 6+):** os refugiados do
+  Cap. 5 vieram de acima do Vau Queimado e subiram o rio em vez de
+  descer. Motivo previsto: fugiam de uma Manifestação nova, "Quem Vem
+  Atrás" (ver `sistema-de-poderes.md` e `linha-do-tempo.md`), que
+  quebraria a Folga. Não tratar como fato até o capítulo existir.
 
 ### Sete Palhas (planalto de grãos)
 - **Descrição física:** planalto de sete aldeias de plantio, sem nomes
@@ -177,6 +182,10 @@
   nas portas das casas que já visitaram e pretendem visitar de novo — um
   sinal silencioso que qualquer morador da Fileira reconhece e teme,
   mesmo sem nunca ser mencionado em voz alta.
+- **Nota de planejamento (2026-09-03, validado):** confirmado que
+  Ferrugem/os Cobradores **não têm ligação** com a instituição nova que
+  move a trama do Livro 1 (ver nota equivalente em "A Junta de
+  Resguardo" abaixo). Ferrugem segue como textura local de Cindra.
 
 ### A Junta de Resguardo ("a Junta")
 - **Objetivo:** órgão sediado em Boca Grande que cobra a taxa de
@@ -200,3 +209,10 @@
   exigiu que Íris se declarasse quando ela recusou.
 - **Em aberto:** já mandou um homem próprio ao Vau Queimado há nove
   dias; ele não voltou.
+- **Nota de planejamento (2026-09-03, validado):** decisão estrutural
+  do autor de que a instituição nova que move a trama do Livro 1 inteiro
+  (fuga/sobrevivência, captura de portadores para exploração como
+  recurso — ver `ideias-em-aberto.md`) **não tem ligação com a Junta**.
+  A Junta permanece o que já está fichado aqui: contratante ambígua,
+  não vilã declarada. Não inventar vínculo entre as duas sem nova
+  validação.

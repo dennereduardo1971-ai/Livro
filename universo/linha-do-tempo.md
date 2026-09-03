@@ -48,3 +48,31 @@ precisa explicar o termo — ele é usado no cotidiano, sem cerimônia.
 | Capítulo 3 — "Quatro da Tarde" / "O Copo" / "O Preço da Passagem" | No píer novo, Íris encontra o contratante: Vitorino Cerqueira, da Junta de Resguardo. Serviço: subir até o Vau Queimado, olhar e descer — a Junta já mandou um homem há nove dias e ele não voltou. Íris recusa preencher a linha "nome que a pessoa dá pra coisa" e Vitorino anota "não informou" sem retaliar. Um acidente real no cais (corda do guindaste arrebenta) mostra as duas técnicas lado a lado: Bento avisa e ninguém acredita, porque foram doze falsos alarmes no mesmo dia; Íris tira um menino do caminho por indicação da Rápida. Bento passa mal; Vitorino anota o número. Bento nomeia a própria técnica e revela ter 21 anos — idade impossível pela via de origem estabelecida. Íris aceita a subida; partida às cinco da manhã. | Íris, Vitorino Cerqueira, Bento, a Mansa, a Rápida, a terceira presença | Ensina o sistema de poderes por contraste e consequência, sem exposição; estabelece a Junta como contratante ambígua e o formulário de três linhas como prova diegética de que não existe taxonomia; abre a anomalia da técnica nascida durante a Folga (*"Ele é o primeiro"*); põe a trama em movimento rio acima, na direção de Sete Palhas |
 | Capítulo 4 — "Regras de Bordo" / "Álice" / "O Porto de Lenha" | Íris e Bento sobem o rio na barca *Boa Hora* (mestre Nestor). Cotidiano da Sala de Espera em espaço fechado: regra da comida, turnos da Rápida, cantarolar da Mansa, disciplina de não ser vista falando. Íris conhece **Alice**, contramestre da barca. Ao atravessar as Águas Paradas, Bento passa mal e revela não ter memória nenhuma da viagem que fez ali aos 11 anos; Íris percebe resíduo psíquico fraco no pântano, vinte anos depois. No porto de lenha na saída do pântano, o trapiche está vazio, com redes ainda armadas — e nove pessoas saem do meio das pilhas de lenha. | Íris, Bento, Alice, Nestor, a Mansa, a Rápida, a terceira presença | Estabelece Alice e o Enxame; primeira lacuna de memória de Bento (pista da anomalia); resíduo das Águas Paradas confirmado; abre a cena de perigo do Cap. 5 |
 | Capítulo 5 — "O Que Eles Queriam" / "Debaixo" / "Oito Segundos" / "A Tábua" / "A Segunda Vigília" | Os nove são refugiados de acima do Vau Queimado e querem a barca. Íris negocia e quase resolve; Bento avisa sobre a máquina e **é acreditado pela primeira vez**, tarde demais. O foguista dá ré com a barca amarrada dos dois lados, ela gira, o cabo de popa varre o convés e Íris cai presa embaixo do casco. Sob a água, a Sala de Espera abre inteira e **o Frio aparece pela primeira vez**, ligando a cena ao silo; Íris se solta de uma volta do cabo e Alice corta a outra em hiperfoco — oito segundos, quatro versões contraditórias, e ela mesma não sabe a ordem. Crash de catorze horas. Íris fica com raiva e evita Alice por um dia e meio; conserta a tábua solta em segredo. Na vigília seguinte, Alice nomeia o Enxame e pergunta "quantos são?" — Íris responde: três, e uma nova. Os refugiados informam que o povo do Vau Queimado saiu **rio acima**. | Íris, Alice, Bento, Nestor, refugiados de cima do Vau, a Mansa, a Rápida, o Frio, a terceira presença | Início da amizade Íris×Alice (não do romance — ver regra em `personagens.md`); Sala de Espera explorada em ação e em cotidiano; pagamento do arco de credibilidade de Bento; grande fio novo: o Vau Queimado não fugiu rio abaixo, subiu |
+
+## Evento planejado (ainda não escrito) — Capítulos 6+, quebra da Folga
+
+> Registrado a partir da sessão de brainstorm estrutural de 2026-09-03
+> (ver `ideias-em-aberto.md`) e validado pelo agente de lógica do
+> universo. **Não é fato consumado do manuscrito ainda** — nenhum
+> capítulo escrito até aqui narra isto. Mantido aqui só para não se
+> perder e para blindar contra contradição quando o capítulo for
+> escrito.
+
+- O grupo encontra uma Manifestação nova, de nome de trabalho **"Quem
+  Vem Atrás"** (ver `sistema-de-poderes.md`, Catálogo de Manifestações),
+  nascida do medo coletivo de "nunca parar de correr". Esta seria **a
+  primeira Manifestação nova registrada em qualquer lugar do Vagaroso
+  desde o Credor**, encerrando os 20 anos da Folga.
+- Explica retroativamente por que os refugiados do Cap. 5 fugiram **rio
+  acima** em vez de rio abaixo (fugiam dela).
+- Casa com as falas já plantadas da terceira presença de Íris ("ele é
+  o primeiro", Cap. 3; "ainda não é medo, ainda é costume", Cap. 5) e
+  com a anomalia da técnica de Bento, nascida durante a Folga (ver
+  `sistema-de-poderes.md`, "Anomalia em aberto").
+- Uma instituição nova (sem nome/rosto ainda, sem ligação com Ferrugem
+  ou com a Junta de Resguardo — ver `geografia-e-faccoes.md`) já está
+  presente e ativa desde o Capítulo 1 nos bastidores; ela é o motor de
+  fuga/sobrevivência do Livro 1 inteiro. Íris não sabe disso até pelo
+  menos o Capítulo 5.
+- **Deliberadamente em aberto, não inventar ainda:** forma exata da
+  primeira aparição da instituição; clímax do Livro 1.

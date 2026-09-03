@@ -123,6 +123,25 @@ Paradas aos 11 anos (região com resíduo de Manifestação antiga — ver a
 regra do Poço em `geografia-e-faccoes.md`), e a fala da terceira presença
 de Íris no fecho do Capítulo 3: *"Ele é o primeiro."*
 
+## Catálogo de Manifestações (ameaças — distinto do catálogo de poderes acima)
+> Manifestações não são poderes de personagem; são a fonte externa que
+> abre rachaduras (ver "Princípio central"). Registradas aqui quando
+> ganham mecânica de ameaça fixada (forma física, fraqueza, contrapartida
+> tática), mesmo antes de aparecerem em capítulo escrito.
+
+| Nome | Medo coletivo que encarna | Forma física | Fraqueza / contrapartida tática | Status |
+|---|---|---|---|---|
+| Quem Vem Atrás | Nunca parar de correr — perseguição sem fim, o alívio nunca chega | Sem corpo fixo — é velocidade/movimento puro. Quase nunca é vista parada; percebida por rastro, deslocamento de ar, som que se aproxima e nunca chega | Só reconhece/persegue quem está em movimento — ficar completamente imóvel tira o alvo do tipo de ameaça que ela rastreia. Não é fraqueza de graça: parar sob perigo real é aterrorizante e caro emocionalmente | planejada (Capítulos 6+ do Livro 1; **ainda não escrita no manuscrito** — não tratar como evento consumado até o capítulo existir) |
+
+**Nota de continuidade (validado 2026-09-03):** a aparição de "Quem Vem
+Atrás" quebra deliberadamente **a Folga** (ver `linha-do-tempo.md`) — é
+o motor pretendido para explicar por que o povo do Vau Queimado subiu o
+rio em vez de descer, e casa com a hipótese (c) já registrada na seção
+"Anomalia em aberto" logo acima (a técnica de Bento não é exceção
+isolada; ele pode ser o primeiro sinal de algo que já tinha começado
+antes do registro oficial). Ver validação completa em
+`ideias-em-aberto.md`, seção "Validação do plano macro do Livro 1".
+
 ## Ideias em aberto (não canônicas)
 > O agente de ideias escreve aqui. O agente de lógica do universo só move
 > para o catálogo acima depois de validar consistência.

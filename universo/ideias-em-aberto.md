@@ -121,9 +121,84 @@ sessões futuras):**
 formato do clímax final; ficha completa de Domingo e Dois Verões
 (nome, origem, contradições, linha vermelha) quando entrarem em cena.
 
-- **Status:** não avaliada — pendente de validação do agente de lógica
-  do universo antes de virar canônico em `sistema-de-poderes.md`,
-  `geografia-e-faccoes.md` e `linha-do-tempo.md`.
+- **Status:** aprovado com ajustes — ver validação abaixo.
+
+## Validação do plano macro do Livro 1 (2026-09-03)
+> Avaliação do agente de lógica do universo sobre a sessão de
+> brainstorm acima. Checado contra `sistema-de-poderes.md`,
+> `personagens.md`, `linha-do-tempo.md`, `geografia-e-faccoes.md` e
+> `glossario-tematico.md`.
+
+**1. Escala/motor.** Sem contradição. A instituição nova, presente e
+ativa desde o Cap. 1 sem nome/rosto, com Íris no escuro até o Cap. 5, é
+compatível com tudo já escrito — nenhuma cena dos Caps. 1-5 afirma ou
+implica a ausência dela, e o formato "fuga/sobrevivência" não conflita
+com nenhuma linha vermelha existente.
+
+**2. Elenco fixo.** Confirmado: Alice = Enxame e Bento = Antes de Cair
+o Copo já batem 100% com as fichas em `personagens.md` — não é mudança,
+é confirmação, sem necessidade de editar nada lá. Domingo (antiherói
+independente) e Dois Verões (antagonista da instituição) seguem sem
+ficha, como pedido — não inventada nenhuma ficha nova.
+
+**3. "Quem Vem Atrás" (Caps. 6+).** Aprovado, com uma ressalva de
+forma (não de conteúdo): o nome foge um pouco do padrão morfológico de
+"o Credor" / "a Vizinha" / "o Teto Baixo" (artigo definido + substantivo
+curto), mas encontra precedente direto em "o que passou" — outro
+apelido construído como oração relativa curta, usado por sobreviventes
+no lugar de nome oficial. Mantido como está.
+- Quebrar a Folga **não contradiz** nada escrito nos Caps. 1-5 nem em
+  `linha-do-tempo.md` — pelo contrário, resolve organicamente um fio já
+  aberto (por que os refugiados subiram o rio) e é compatível com a
+  hipótese (c) já registrada em `sistema-de-poderes.md` ("Anomalia em
+  aberto"): a técnica de Bento, nascida durante a Folga, pode ser o
+  primeiro sinal de algo que já tinha começado antes do registro
+  oficial, não uma exceção isolada. Isso reforça a teoria já plantada
+  em vez de entrar em conflito com ela.
+- Forma física (velocidade/movimento puro, sem corpo fixo) e fraqueza
+  (só rastreia quem está em movimento; ficar imóvel sob ameaça real é
+  caro emocionalmente, não é fraqueza de graça) cumprem a regra
+  estrutural de `sistema-de-poderes.md`: "toda técnica precisa de uma
+  contrapartida tática clara... e uma fraqueza explorável".
+- **Ajuste aplicado:** registrado explicitamente em todos os arquivos
+  onde isso foi promovido que este é um evento **planejado, ainda não
+  escrito no manuscrito** — para nenhum agente futuro tratar a quebra
+  da Folga como fato consumado antes do capítulo existir.
+
+**4. Ligação temática (captura ecoando a linha vermelha de Íris).** Sem
+contradição nem redundância problemática: a linha vermelha de Íris
+("nunca deixar uma presença decidir por ela", `personagens.md`) é sobre
+agência interna diante de presenças; a captura institucional é uma
+ameaça externa distinta (alguém de fora controlando o portador). São
+eixos diferentes que rimam tematicamente sem se sobreporem — inclusive
+reforça o princípio do glossário de tratar a instrumentalização do
+sintoma como crítica embutida, não vilania caricata (ver a entrada da
+Junta em `glossario-tematico.md`), desde que a futura cena de captura
+mantenha a mesma regra: crueldade banal/burocrática, não vilania
+declarada, e a vítima mantendo agência mesmo capturada.
+
+**5. Ferrugem/Junta sem ligação com a instituição nova.** Sem problema
+de consistência — nenhuma ficha existente de Ferrugem, dos Cobradores
+ou da Junta depende de uma conexão com uma terceira força. Nota
+registrada em `geografia-e-faccoes.md` para blindar contra invenção
+futura acidental de vínculo.
+
+**Resultado: Aprovado com ajustes** (já incorporados):
+1. Nova entrada de "Quem Vem Atrás" no Catálogo de Manifestações de
+   `sistema-de-poderes.md`, marcada como "planejada, ainda não escrita".
+2. Evento de quebra da Folga registrado em `linha-do-tempo.md` como
+   seção separada "Evento planejado (ainda não escrito)", sem alterar a
+   tabela de eventos já narrados nem a descrição da Folga como fato
+   passado.
+3. Nota em `geografia-e-faccoes.md` (Vau Queimado) ligando o fio dos
+   refugiados à futura Manifestação, também marcada como planejada.
+4. Notas em `geografia-e-faccoes.md` (Os Cobradores e a Junta de
+   Resguardo) confirmando ausência de vínculo com a instituição nova.
+5. Nenhuma ficha nova criada para Domingo, Dois Verões ou a instituição
+   — permanecem deliberadamente em aberto, como pedido. Clímax final do
+   Livro 1 também segue em aberto.
+
+**Status:** aprovado com ajustes
 
 ---
 
