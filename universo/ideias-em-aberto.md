@@ -94,11 +94,32 @@
   graça. Ecoa (sem repetir) o tema de agência/escolha sob pressão já
   central em Íris.
 
+- **Nome de trabalho da Manifestação:** "Quem Vem Atrás" — segue o
+  padrão dos nomes existentes (curto, doméstico, tipo apelido que o
+  povo diria baixo, não abstrato/assustador — ver o Credor, a Vizinha,
+  o Teto Baixo).
+
+**Papéis de Domingo e Dois Verões (terceira leva de decisões):**
+- **Dois Verões** (bipolaridade) vira **antagonista dentro da
+  instituição** — dá à instituição um rosto humano com poder real, não
+  só burocracia. O padrão de pico/vale já registrado em
+  `ideias-em-aberto.md` (pico reckless e incontrolável, vale quase
+  incapaz de agir) sugere que a instituição não o controla por completo
+  — fricção interna a explorar quando essa parte da trama chegar.
+- **Domingo** (depressão) vira **antiherói independente e indiferente,
+  com objetivos próprios** — não é aliado nem inimigo fixo do grupo. O
+  traço já registrado ("não consegue completar sozinho(a) a ação
+  decisiva sem um empurrão externo") sugere um gancho natural: ele só
+  age quando algo/alguém o empurra — candidato óbvio a esse empurrão é
+  o próprio grupo de Íris, sem que ele necessariamente queira fazer
+  parte dele.
+- Nenhum dos dois tem ficha em `personagens.md` ainda — nomes, origem e
+  ficha completa ficam pendentes de quando entrarem em cena de fato.
+
 **Pontos ainda em aberto para rodadas seguintes desta mesma sessão (ou
 sessões futuras):**
-nome/forma física da nova Manifestação; formato do clímax final; papéis
-de Domingo e Dois Verões; se/quando Domingo ou Dois Verões viram
-antagonistas dentro da instituição.
+formato do clímax final; ficha completa de Domingo e Dois Verões
+(nome, origem, contradições, linha vermelha) quando entrarem em cena.
 
 - **Status:** não avaliada — pendente de validação do agente de lógica
   do universo antes de virar canônico em `sistema-de-poderes.md`,
