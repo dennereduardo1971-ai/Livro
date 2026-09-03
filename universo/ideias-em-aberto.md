@@ -13,6 +13,52 @@
 
 ---
 
+## Plano macro do Livro 1 — sessão de brainstorm com o autor (2026-09-03)
+> Registrado direto pelo autor numa sessão de planejamento estrutural
+> (bloqueio criativo, decisões tomadas em rodadas de pergunta/resposta).
+> Ainda não passou pelo agente de lógica do universo — tratar como
+> direção de trabalho, não como fato estabelecido nos outros arquivos.
+
+- **Escala:** Livro 1 é uma obra fechada de ~70 capítulos (não é uma
+  fatia de série maior).
+- **Final:** ainda não definido — decisão explícita de descobrir andando,
+  não travar o clímax agora.
+- **Motor da trama do livro inteiro:** fuga/sobrevivência contra uma
+  instituição — não jornada, não mistério autônomo, não drama relacional
+  como eixo principal (esses podem coexistir, mas subordinados a este).
+- **Motivação da instituição:** exploração como recurso. Não é medo do
+  poder (não é o modelo "estado vigia orogene" puro) nem é "cura"
+  benevolente disfarçada — ela quer gente com rachadura como ferramenta/
+  ativo, ponto. Deixa margem pra crueldade banal, burocrática, tipo
+  "ativo com valor de mercado" em vez de vilania declarada.
+- **Ligação com o que já existe:** decisão explícita de NÃO ligar essa
+  força a Ferrugem nem à Junta — ficam como texturas locais de Cindra,
+  separadas. A instituição é nova.
+- **Quando aparece:** já está presente e ativa desde o Capítulo 1, ainda
+  sem nome nem rosto. Candidatos a já serem rastro dela (não confirmado,
+  não decidido — só possibilidade a explorar): a queda de Sete Palhas, o
+  motivo do povo do Vau Queimado ter subido o rio em vez de descido, e/ou
+  a terceira presença de Íris. Nenhum desses vínculos está fechado —
+  qualquer um pode acabar sendo outra coisa.
+- **Consciência de Íris:** ela não sabe de nada disso ainda no Capítulo
+  5. O leitor pode desconfiar antes dela (via pistas indiretas), mas ela
+  está genuinamente no escuro — nada de instinto/paranoia pré-armada.
+- **Forma da escalada de tensão ao longo dos 70 capítulos:** em ondas —
+  blocos de respiro/cotidiano/formação de elenco intercalados com blocos
+  de crise aguda. Não é rampa contínua nem três-atos rígido.
+
+**Pontos ainda em aberto para rodadas seguintes desta mesma sessão:**
+quando/como os quatro eixos psicológicos reservados (Domingo, Dois
+Verões, Enxame, Antes de Cair o Copo) entram no elenco; o que a
+instituição faz concretamente com quem ela captura (o que está em jogo
+se Íris for pega); formato do clímax final.
+
+- **Status:** não avaliada — pendente de validação do agente de lógica
+  do universo antes de virar canônico em `sistema-de-poderes.md`,
+  `geografia-e-faccoes.md` e `linha-do-tempo.md`.
+
+---
+
 ## Propostas de abertura do Livro 1 (2026-08-27)
 > Cinco direções distintas para o primeiro capítulo/cena real do
 > manuscrito (ainda não existe nenhum capítulo escrito além do
