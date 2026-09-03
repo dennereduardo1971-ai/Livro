@@ -47,11 +47,47 @@
   blocos de respiro/cotidiano/formação de elenco intercalados com blocos
   de crise aguda. Não é rampa contínua nem três-atos rígido.
 
-**Pontos ainda em aberto para rodadas seguintes desta mesma sessão:**
-quando/como os quatro eixos psicológicos reservados (Domingo, Dois
-Verões, Enxame, Antes de Cair o Copo) entram no elenco; o que a
-instituição faz concretamente com quem ela captura (o que está em jogo
-se Íris for pega); formato do clímax final.
+**Elenco fixo (segunda leva de decisões, mesma sessão):**
+- Dos quatro eixos reservados, **Enxame** e **Antes de Cair o Copo**
+  ficam travados como elenco fixo ao redor de Íris. Isso não é uma
+  decisão nova de verdade — **confirma o que já está escrito**: Alice
+  (Cap. 4-5, par romântico de Íris) já é Enxame, e Bento (Cap. 3+) já é
+  Antes de Cair o Copo, ambos com ficha completa em `personagens.md`.
+  Domingo e Dois Verões continuam livres — sem compromisso de reunir
+  todos, podem virar aliados soltos, secundários ou até antagonistas
+  dentro da instituição.
+- O que a instituição faz com quem captura: **extração/uso forçado do
+  poder** (recrutamento à força, mantém a pessoa viva e "produtiva").
+  Ligação temática forte a registrar: isso é, em escala institucional,
+  exatamente a violação da linha vermelha pessoal de Íris ("nunca deixar
+  uma presença decidir por ela") — ser capturada seria alguém *fazendo
+  por fora* o que ela nunca se permite fazer por dentro. Vale explorar
+  essa simetria quando a instituição finalmente aparecer em cena.
+- Final do livro: **decisão adiada de propósito** — não travar ainda.
+
+**A próxima Manifestação (Vau Queimado, capítulos 6+):**
+- A instituição continua nas sombras — os problemas atuais (Vau
+  Queimado, a linha de Bento subindo) são causados por ela
+  indiretamente, mas ela ainda não tem interesse real no grupo.
+- Nos próximos capítulos o grupo enfrenta uma Manifestação nova — o que
+  quebra **a Folga** (20 anos sem Manifestação registrada em lugar
+  nenhum do Vagaroso, `linha-do-tempo.md`). Isso dá resposta natural a
+  "por que o povo do Vau Queimado subiu o rio" (fugiam dela) e casa com
+  as falas já plantadas da terceira presença ("ele é o primeiro",
+  "ainda não é medo, ainda é costume") e com a anomalia já registrada de
+  Bento ter nascido a técnica dele durante a Folga.
+- **Medo coletivo que essa Manifestação encarna: nunca parar de
+  correr.** Perseguição sem fim, o alívio nunca chega — escolhida por
+  ecoar direto o motor de fuga/sobrevivência do livro inteiro; a
+  Manifestação em si ensina ao leitor, em miniatura, a sensação que o
+  resto do livro vai cobrar. Nome própria da Manifestação: ainda não
+  decidido.
+
+**Pontos ainda em aberto para rodadas seguintes desta mesma sessão (ou
+sessões futuras):**
+nome/forma física da nova Manifestação; formato do clímax final; papéis
+de Domingo e Dois Verões; se/quando Domingo ou Dois Verões viram
+antagonistas dentro da instituição.
 
 - **Status:** não avaliada — pendente de validação do agente de lógica
   do universo antes de virar canônico em `sistema-de-poderes.md`,
