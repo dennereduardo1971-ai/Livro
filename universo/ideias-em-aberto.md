@@ -327,3 +327,202 @@ internalizado a "gramática" da Sala de Espera através da ação.
   Queimado, esses são de mais acima"* (Cap. 4), *"Ainda não é medo. Ainda
   é costume"* (Cap. 5). Uma por capítulo, sempre certeira, nunca
   explicada. Manter o padrão.
+
+## Propostas para o Capítulo 6 (2026-09-07)
+> Cinco direções para o Cap. 6 (Livro 1, POV Íris), geradas a partir do
+> estado do manuscrito até o Cap. 5 e da bíblia atual. Nenhuma validada
+> pelo agente de lógica do universo.
+
+### 1. "As Sete Espigas" — a barca passa por Sete Palhas sem atracar
+- **Ideia:** subindo o rio depois das Águas Paradas, a próxima região no
+  eixo geográfico é Sete Palhas (ver `geografia-e-faccoes.md`) — a terra
+  de Íris, com o silo soterrado sob uma das espigas apagadas do mapa da
+  Casa do Cais. A *Boa Hora* não precisa atracar lá (não é porto de
+  reabastecimento obrigatório), mas passa perto o bastante para Íris ver
+  o planalto da amurada, de dia ou de noite. Ninguém a bordo sabe que
+  aquela terra é dela — ela nunca disse o nome em voz alta. A cena é
+  quase toda interna: o que a Sala de Espera faz perto de casa (a Mansa
+  canta diferente? a Rápida vai quieta? o Frio, que só apareceu uma vez,
+  aparece de novo, sem cabo nenhum puxando ninguém, só porque a terra
+  está ali?).
+- **Âncora psicológica:** o retorno geográfico ao lugar da ferida
+  original sem nenhum gatilho externo de perigo — a diferença entre
+  reviver um trauma por evento e revivê-lo só por proximidade/memória
+  involuntária, e a escolha de não contar a ninguém, nem a Alice, que
+  aquele é o lugar.
+- **Por que funciona dramaticamente:** é a cena de maior tensão interna
+  possível sem precisar de um único inimigo em cena — contemplativa por
+  definição, porque o "combate" é inteiramente entre Íris e a Sala de
+  Espera em terreno que já a venceu uma vez; testa organicamente se ela
+  vai deixar Alice entrar nesse espaço específico (a "pessoa real"
+  disputando com a presença) sem forçar declaração nenhuma.
+- **Personagens/elementos:** Íris, Alice, a Mansa, a Rápida, o Frio,
+  a terceira presença, Bento (contraste: ele não sabe da história dela);
+  Sete Palhas como local revisitado — nenhuma marca nova no mapa
+  necessária.
+- **Riscos/cuidados:** risco real de "gastar" a revelação de Sete Palhas
+  cedo demais — o capítulo não precisa (e talvez não deva) dizer ao
+  leitor que aquele é o lugar; pode ficar só na reação física de Íris e
+  numa frase da terceira presença, mantendo a ambiguidade até um
+  capítulo futuro decidir revelar. Cuidado para não transformar isso em
+  cena de exposição de passado (nada de flashback longo aqui — é sobre
+  o presente reagindo ao passado, não sobre recontar o silo).
+
+### 2. "Perna Preta" — cena de cuidado com uma das refugiadas doentes
+- **Ideia:** entre os catorze passageiros extras (seis doentes: três
+  velhos, dois meninos, uma mulher com a perna preta até o joelho, ver
+  Cap. 5), Íris passa parte do capítulo perto da mulher da perna doente
+  — trocando um pano, ajudando a acomodar, ou só ficando por perto porque
+  ninguém mais fica. A mulher fala pouco e sem drama, do jeito de quem já
+  aceitou o corpo apodrecendo devagar; a informação sobre o Vau Queimado
+  vaza em fragmentos entre uma frase e outra, nunca como testemunho
+  organizado — no estilo "revelação escondida em digressão" já
+  estabelecido com Alice, mas numa chave mais dura e mais silenciosa.
+- **Âncora psicológica:** negligência prolongada até o ponto de
+  naturalizar o próprio sofrimento — o oposto do pânico de Bento: aqui
+  ninguém grita, porque gritar parou de valer a pena há muito tempo.
+  Dramatiza, sem nomear, a exaustão de quem pede ajuda tarde demais
+  porque o sistema (Junta cortando taxa de resguardo durante a Folga) já
+  ensinou que ninguém vem.
+- **Por que funciona dramaticamente:** contrasta com o "trabalho" de
+  Íris (ela resolve, ela tira gente do perigo, ela sai antes de alguém
+  precisar saber dela) com uma situação que ela não pode resolver rápido
+  nem sozinha — testa a régua da própria protagonista fora de combate;
+  reforça o "quantos são?" do Cap. 5 como modelo (Íris pode replicar a
+  pergunta prática, mas dessa vez sobre a perna, não sobre presenças) sem
+  repetir a cena.
+- **Personagens/elementos:** Íris, a mulher da perna preta (personagem
+  novo, precisaria de ficha mínima se ganhar nome), possivelmente um dos
+  meninos como contraponto (criança que ainda pergunta "vamos chegar
+  quando"); Alice de relance, ajudando com panos e falando demais para
+  preencher o silêncio da cena.
+- **Riscos/cuidados:** risco de virar "personagem-sofrimento" só para
+  gerar pathos — precisa que a mulher tenha uma frase ou gesto de agência
+  própria, não só de vítima; cuidado extra por não termos ainda
+  documentado esse eixo (negligência médica/exaustão institucional) no
+  glossário temático — se aprovado, sugerir entrada nova lá.
+
+### 3. "As Estacas Brancas" — Alice conta a teoria, vigília contemplativa
+- **Ideia:** capítulo de transição, baixa tensão externa, centrado numa
+  vigília noturna (ecoando a estrutura da "Segunda Vigília" do Cap. 5,
+  mas avançando o vínculo por acúmulo, não por repetição): Alice conta
+  finalmente a teoria longa sobre quem repinta as estacas brancas do
+  canal das Águas Paradas — reserva de cena já registrada em capítulos
+  anteriores. A teoria dela pode (não precisa) tocar, sem saber, em algo
+  real do mundo — ou pode ser errada e bonita, e ainda assim revelar
+  como Alice pensa. No meio da conversa, um detalhe prático de Íris
+  (contar, ancorar) aparece organicamente, sem ser chamado de técnica.
+- **Âncora psicológica:** o TDAH de Alice não só em ação de crise (já
+  mostrado no Cap. 5), mas em repouso — como a mesma fragmentação que
+  quebra tarefas em pedaços também produz teorias ricas, associativas,
+  cheias de conexões que ninguém mais faria; e como Íris, pela primeira
+  vez, escuta uma "teoria grande e bonita" de uma pessoa real sem
+  desconfiar dela por reflexo (contraste direto com a regra de nunca
+  consultar os murmúrios "grandes, bonitos e errados" da Sala de Espera).
+- **Por que funciona dramaticamente:** cumpre a regra de construção lenta
+  do romance (nenhuma declaração, só acúmulo de silêncio dividido e
+  competência mútua) num capítulo que pode servir de respiro tonal depois
+  da violência do Cap. 5 — mas sem ser "nada acontece": o contraste entre
+  a teoria da Alice (associativa, sem filtro) e o método de Íris
+  (separar o coro, escolher uma voz) é o próprio tema do livro
+  encenado sem nenhuma exposição.
+- **Personagens/elementos:** Íris, Alice, possivelmente Bento entrando e
+  saindo da cena (ele tenta participar da conversa e erra o tom, o que é
+  characterização dele, não humor barato); as estacas brancas como
+  elemento físico recorrente.
+- **Riscos/cuidados:** maior risco é ritmo — se for capítulo inteiro
+  nisso, pode faltar propulsão de trama logo depois do clímax do Cap. 5;
+  melhor funciona como metade de capítulo, combinado com outra direção
+  (ver recomendação abaixo). Cuidado para a teoria de Alice não virar
+  bombeamento de lore disfarçado.
+
+### 4. "Antes de Chegar" — o lampejo de Bento muda de natureza
+- **Ideia:** conforme a barca se aproxima mais do Vau Queimado (ainda a
+  alguns dias, mas o rio começa a mudar — menos tráfego, menos barcas
+  descendo, silêncio maior), Bento tem um lampejo diferente dos que já
+  mostramos: não é sobre um perigo imediato e físico (corda, alavanca),
+  é mais lento, mais estranho, e ele não sabe dizer se está vendo algo
+  que vai acontecer ou algo que já aconteceu — pela primeira vez a
+  "Antes de Cair o Copo" produz uma sensação que se parece com memória,
+  não com aviso. Ele fica assustado com isso de um jeito diferente do
+  medo de estar errado: medo de que a técnica esteja mudando.
+- **Âncora psicológica:** a linha instável entre hipervigilância
+  ansiosa e intrusão de memória — dramatiza, sem nomear, como ansiedade
+  crônica pode borrar a fronteira entre "o que temo que aconteça" e "o
+  que já aconteceu e o corpo não deixa esquecer"; alimenta diretamente a
+  pergunta em aberto da lacuna de memória dele nas Águas Paradas (agora
+  para trás, mas com efeito residual) e a anomalia da técnica nascida
+  durante a Folga.
+- **Por que funciona dramaticamente:** avança o mistério estrutural mais
+  importante do livro (como Bento existe) sem entregá-lo, e faz isso
+  pelo próprio corpo dele, não por exposição de Íris ou da
+  terceira presença; cria tensão contemplativa genuína — o leitor sente o
+  desconforto de não saber se está lendo profecia ou lembrança, exatamente
+  como Bento não sabe.
+- **Personagens/elementos:** Bento, Íris (observando, comparando com a
+  própria experiência de intrusão sensorial em Sete Palhas — boa costura
+  se combinado com a direção 1), a terceira presença (pode comentar,
+  sempre sem contexto, a frase-do-capítulo apontando para essa mesma
+  ambiguidade).
+- **Riscos/cuidados:** cuidado para não resolver a anomalia — a regra
+  documentada em `sistema-de-poderes.md` é explícita: "não resolver
+  cedo". Esta cena deve aprofundar a pergunta, nunca respondê-la;
+  também cuidado para o "medo de estar mudando" de Bento não virar
+  drama de poder descontrolado (viola o princípio de agência do
+  glossário) — ele continua tendo escolha sobre o que faz com o que
+  sente, só a natureza do sentir está ficando mais estranha.
+
+### 5. "Falar Primeiro" — Íris quebra a própria regra com a terceira presença
+- **Ideia:** numa vigília sozinha (sem Alice, sem Bento por perto), com
+  a proximidade de Sete Palhas ou do Vau Queimado pesando, Íris decide
+  deliberadamente falar primeiro com a terceira presença — quebrando a
+  regra dela mesma (nunca responder de imediato, porque a primeira
+  resposta ensina a presença o que vale a pena dizer). Não é impulso, é
+  escolha cansada e consciente: ela quer saber o que a coisa é, mesmo
+  sabendo o preço. A presença pode responder de um jeito que não
+  esclarece nada — ou pode, pela primeira vez, fazer uma pergunta de
+  volta.
+- **Âncora psicológica:** o desgaste de manter uma fronteira preventiva
+  por anos — a exaustão específica de quem administra sofrimento com
+  regras rígidas e, em um momento de cansaço genuíno (não de fraqueza),
+  decide testar o que acontece se abrir mão de uma delas por vontade
+  própria, não por colapso. Isso é diferente da "sala de espera cheia"
+  do Cap. 1: aqui a escolha é dela, feita com clareza, não sob pressão de
+  ameaça externa.
+- **Por que funciona dramaticamente:** é o tipo de cena pequena e
+  silenciosa que muda a relação de poder entre protagonista e mistério
+  central sem precisar de ação nenhuma — o leitor sente o risco porque a
+  bíblia já estabeleceu a regra (personagens.md) e agora a vê sendo
+  quebrada por escolha, não por acidente, o que é mais assustador; abre
+  uma porta genuína para o Cap. 7 em diante sem fechar a ambiguidade da
+  presença.
+- **Personagens/elementos:** Íris, a terceira presença, a Mansa e a
+  Rápida como testemunhas/comentaristas da decisão (pode gerar atrito
+  entre elas — a Rápida acha imprudente, a Mansa acha que já era hora).
+- **Riscos/cuidados:** o maior risco do livro inteiro está aqui: a
+  bíblia é explícita que a origem/natureza da terceira presença "fica
+  deliberadamente em aberto" e nunca deve ser confirmada. Esta cena
+  **não pode** resultar em revelação — só em mudança da dinâmica de
+  contato. Precisa validação cuidadosa do agente de lógica do universo
+  antes de escrever, para garantir que a resposta da presença (se
+  houver) não feche a ambiguidade por acidente.
+
+**Recomendação do agente de ideias:** combinar as direções **1 ("As
+Sete Espigas")** e **3 ("As Estacas Brancas")** num único capítulo —
+abrir ou fechar o capítulo com a passagem silenciosa por Sete Palhas
+(a barca não atraca, Íris não conta a ninguém, só a Sala de Espera
+reage) e usar o meio do capítulo para uma vigília com Alice que avança o
+vínculo por acúmulo (a teoria das estacas) — porque a geografia já
+empurra a trama fisicamente para o pátio de Íris logo depois das Águas
+Paradas, e isso é a maior fonte de tensão contemplativa disponível
+sem precisar inventar ameaça nova ou resolver mistério nenhum antes da
+hora. A direção 4 (Bento) é forte demais para descartar, mas funciona
+melhor puxada para o Cap. 7, quando a barca estiver mais perto do Vau
+Queimado de fato — usá-la aqui competiria por atenção com a cena de
+Sete Palhas, que precisa de silêncio ao redor dela para funcionar. A
+direção 5 é a mais arriscada e a mais poderosa; recomendo reservá-la
+para um capítulo em que o agente de lógica do universo já tenha tido
+tempo de aprovar com calma os limites exatos do que a presença pode ou
+não dizer.
+
+- **Status:** não avaliada
