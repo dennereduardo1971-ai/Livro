@@ -526,3 +526,231 @@ tempo de aprovar com calma os limites exatos do que a presença pode ou
 não dizer.
 
 - **Status:** não avaliada
+
+## Propostas de ação para o Capítulo 6 (2026-09-07) — a pedido do autor
+> Autor pediu especificamente uma cena de AÇÃO pro Cap. 6, com melhor uso
+> das técnicas em combate — nenhuma das 5 propostas acima cumpre isso
+> (todas contemplativas/baixa tensão externa). Três novas direções,
+> geradas com o mesmo cuidado de continuidade, mostrando Sala de Espera,
+> Enxame e Antes de Cair o Copo operando **juntas** sob ameaça concreta.
+
+### 6. "A Corrente Armada" — bloqueio no desfiladeiro antes do Vau Queimado
+- **Ideia:** entre Sete Palhas e o Vau Queimado o rio se estreita num
+  desfiladeiro. À noite, a *Boa Hora* encontra o canal fechado por uma
+  corrente de troncos amarrados e redes de carga, banco a banco — não
+  para impedir que alguém desça, mas para impedir que alguém **suba**.
+  Nas duas margens, uma dúzia de pessoas armadas com o que tinham em casa
+  (foices, varas, uma zagaia de pesca) vigia o bloqueio, apavoradas,
+  prontas para brigar por ele. Não são monstros — são gente que decidiu,
+  por conta própria, que ninguém mais devia ir naquela direção, e a
+  *Boa Hora* carrega catorze passageiros a mais e pouco calado livre. A
+  cena de ação nasce da tentativa de atravessar (ou recuar) sem afundar o
+  casco nem matar ninguém, com as três técnicas trabalhando ao mesmo
+  tempo pela primeira vez sob a mesma ameaça:
+  - **Bento** entra em disparo de lampejos curtos e seguidos — corda que
+    solta, tocha que cai na lona, remo que quebra — porque há ameaça
+    física real e múltipla; o custo aparece na hora certa: ele já gastou
+    a confiança de Nestor em falsos alarmes de dias anteriores, e agora,
+    quando mais precisa ser ouvido rápido, tem que escolher **qual**
+    aviso dar primeiro, sabendo que só um vai ser atendido a tempo.
+  - **Alice** entra em Enxame pela pressão real (não decisão consciente)
+    — em segundos ela solta a driça, desvia o leme, empurra um tronco que
+    ia esmagar a amurada e puxa um dos meninos refugiados de volta pro
+    convés, tudo sem sequência que ela vá lembrar depois. O crash bate
+    exatamente quando o bloqueio ainda não acabou de ser vencido — ela
+    fica incapaz de seguir ajudando no momento em que a cena pede mais
+    dela, não menos.
+  - **Íris** sente a "sala de espera" encher — o medo concentrado de quem
+    guarda o bloqueio tem a mesma densidade psíquica de lugares como o
+    Poço (ver `geografia-e-faccoes.md`), e por um instante ela tem
+    presenças demais falando ao mesmo tempo, incluindo murmúrios
+    "grandes, bonitos e errados" sugerindo a saída fácil (atacar os
+    defensores pra abrir caminho). Ela separa o coro sob pressão real
+    pela primeira vez em combate — usa a Rápida pra contar quantos são e
+    onde, recusa o murmúrio, e o Frio aparece de relance, sem cabo nenhum
+    puxando ninguém, só porque o medo ao redor é grande o bastante.
+  - A resolução **não é vencer os defensores** — é atravessar sem matar
+    ninguém, o que custa mais (tempo, risco, um tronco que raspa o casco)
+    do que se a cena fosse resolvida na força. Um dos defensores pode
+    gritar algo sobre por que ninguém pode subir — frase solta, nunca
+    explicada — puxando diretamente o fio "por que o povo do Vau Queimado
+    subiu o rio em vez de descer".
+- **Âncora psicológica:** cada técnica dramatiza sob pressão real (não
+  hipotética) o que ela já estabeleceu no manejo cotidiano — Bento
+  decide a quem dar voz quando só pode salvar uma vida por vez com o
+  aviso certo; Alice faz tudo de uma vez e paga com a ausência exatamente
+  quando mais se precisaria dela (o oposto do "super poder que
+  compensa"); Íris exerce agência real dentro da sobrecarga, recusando a
+  resposta fácil que a Sala de Espera oferece — as três dramatizam, ao
+  mesmo tempo e sem se tocar, a mesma pergunta: o que fazer quando não dá
+  pra atender tudo que pede atenção.
+- **Por que funciona dramaticamente:** é a primeira cena do livro em que
+  as três técnicas precisam operar juntas sob a mesma ameaça concreta, o
+  que testa se elas se atravancam ou se completam sem nunca "explicar" a
+  sinergia — o leitor vê o time funcionar (ou quase falhar) através da
+  ação, não de diálogo; o fato de a vitória custar mais do que a força
+  bruta custaria mantém o tom contemplativo dentro do combate (a régua
+  moral da cena não é "quem vence", é "quanto custou não matar
+  ninguém").
+- **Personagens/elementos:** Íris, Alice, Bento, Nestor, a Mansa, a
+  Rápida, o Frio, catorze refugiados (peso físico real do casco), os
+  defensores do bloqueio (personagens novos, sem nome necessário — podem
+  ficar coletivos, "os do desfiladeiro").
+- **Riscos/cuidados:** risco de a cena virar coreografia de ação
+  genérica se perder o foco nos custos internos de cada técnica — cada
+  beat de ação precisa estar ancorado num custo já documentado (crash da
+  Alice, hesitação do Bento, sobrecarga da Íris), nunca em "poder de
+  graça" sob pressão. Cuidado para não resolver o fio "por que subiram o
+  rio" — a frase gritada deve intrigar, não explicar. Cuidado extra para
+  os defensores não virarem massa anônima descartável — mesmo sem nome,
+  precisam de pelo menos um gesto que os humanize (alguém protegendo uma
+  criança atrás de si, por exemplo), coerente com o princípio de não
+  reduzir sofrimento a vilania.
+- **Status:** não avaliada
+
+### 7. "O Rio Que Desce em Chamas" — a jangada do homem da Junta
+- **Ideia:** o homem que a Junta mandou ao Vau Queimado há nove dias (ver
+  `geografia-e-faccoes.md`) reaparece — não a bordo, não em segurança,
+  mas como origem de uma ameaça física concreta: numa curva estreita do
+  rio, à noite, uma jangada de destroços e óleo é solta em chamas rio
+  abaixo, direto no caminho da *Boa Hora*. Na margem, uma silhueta corta
+  a amarra de um segundo obstáculo — um paredão de toras represadas que a
+  corrente empurra atrás da jangada. Ele não está tentando matar ninguém
+  especificamente: está tentando impedir, por qualquer meio, que
+  qualquer barca suba mais — e não hesita, porque algo que ele viu lá em
+  cima o convenceu de que essa é a única forma de proteger gente que ele
+  não consegue mais nomear direito.
+  - **Bento** vê a trajetória da jangada mudar antes que a correnteza
+    devesse permitir isso — não é aviso de perigo físico simples, é um
+    lampejo que ele não sabe classificar como aviso ou não (linha que já
+    vinha se abrindo desde as Águas Paradas): ele grita um curso de
+    desvio que soa errado pro capitão, e a hesitação de meio segundo
+    entre ver e falar quase custa a manobra certa.
+  - **Alice** enche o convés de tarefas simultâneas de contenção de fogo
+    — balde, vela molhada, retirar refugiados da amurada mais próxima do
+    calor — numa sequência que ninguém, nem ela, vai conseguir
+    reconstruir depois; o crash bate assim que o fogo é controlado, e ela
+    apaga exatamente na hora em que alguém precisa dela pra puxar o
+    segundo obstáculo (o paredão de toras) pra longe do casco.
+  - **Íris** tenta ler a silhueta na margem à distância — o medo dele é
+    denso o bastante para lotar a sala de espera mesmo sem contato
+    próximo, e por um instante ela tem informação demais e nenhuma
+    palavra dele. A tentação (murmúrio grande e bonito) é tratá-lo como
+    inimigo a neutralizar; a linha vermelha dela pede outra coisa —
+    decidir por si, sem deixar a presença decidir, se vale tentar chegar
+    perto o bastante pra gritar um nome que a Junta lhe passou (ou não —
+    fica em aberto se ela sequer sabe o nome dele).
+  - Final possível (não obrigatório, ajustável): o homem desaparece de
+    novo na margem antes que alguém consiga alcançá-lo — vivo, mas não
+    resgatado, mantendo o fio aberto.
+- **Âncora psicológica:** o mesmo eixo de ansiedade de Bento, mas visto
+  de fora pela primeira vez através de outra pessoa levada ao extremo —
+  o homem da Junta como espelho distorcido do próprio Bento (o que
+  acontece quando o aviso constante para de ser ouvido por tempo demais
+  e vira ação unilateral); para Íris, a cena testa diretamente o
+  princípio do glossário "a pergunta 'quantos são?' como oposto do
+  estigma" — tratar um homem em colapso como informação prática, não
+  como monstro, sob pressão de vida ou morte real.
+- **Por que funciona dramaticamente:** transforma um fio já plantado
+  (o homem sumido) em ameaça física imediata sem resolvê-lo — ele
+  continua sumido no fim da cena, só que agora o leitor sabe que ele
+  está vivo e mudado, o que aumenta a tensão em vez de fechá-la; a cena
+  de ação carrega peso moral real (querem impedi-lo sem feri-lo, e o
+  fogo/as toras são ameaça implacável, indiferente à intenção de
+  ninguém) e força as três técnicas a colaborar num problema que nenhuma
+  resolve sozinha — Bento vê, Alice executa, Íris decide o que fazer com
+  a pessoa por trás do ataque.
+- **Personagens/elementos:** Íris, Alice, Bento, Nestor, o homem da
+  Junta (sem nome confirmado ainda — pode continuar assim), os catorze
+  refugiados, a Mansa, a Rápida.
+- **Riscos/cuidados:** cuidado grande para não sugerir que o lampejo de
+  Bento "virou memória" nesta cena — isso pertence à direção 4 já
+  registrada acima, reservada para o Cap. 7; aqui o lampejo deve
+  permanecer ambíguo só o suficiente pra ecoar a pergunta, sem resolver
+  nem antecipar. Cuidado para o homem da Junta não virar vilão puro —
+  precisa ficar claro (por ação, nunca por fala explicativa) que ele
+  acredita estar certo. Não revelar o que ele viu no Vau Queimado.
+- **Status:** não avaliada
+
+### 8. "Boca Cheia de Bicho" — cardume fora do lugar como ameaça física real
+- **Ideia:** direção mais "impessoal", sem antagonista humano: ao entrar
+  na água mais rasa e mais parada que precede o Vau Queimado, um cardume
+  de peixes de rio, grande demais e agindo errado (batendo contra o
+  casco em massa, subindo à superfície fora de hora), empurra a
+  *Boa Hora* para um banco de areia enquanto pássaros noturnos, também
+  fora do padrão, batem contra a lona e o lampião. Não é uma
+  Manifestação nova — é fauna real reagindo a algo que ninguém nomeia
+  (ecoando o resíduo psíquico das Águas Paradas, mas mais forte, mais
+  perto do Vau Queimado) — e o perigo é inteiramente físico: encalhe com
+  catorze passageiros extra a bordo e caldeira pequena, de noite, longe
+  de socorro.
+  - **Alice** entra em Enxame para redistribuir peso, cortar a vela a
+    tempo, e jogar os únicos dois sacos de lastro que sobraram —
+    decisão que ela não vai lembrar ter tomado, mas que é a única coisa
+    que evita o encalhe total; paga com o crash na manhã seguinte,
+    incapaz de ajudar a desencalhar de vez o que sobrou preso no banco
+    de areia.
+  - **Bento** tem uma sequência rara de lampejos **consecutivos e
+    corretos** (mais que o normal) — não é presente, é o custo virando
+    imediato: cada acerto seguido custa caro fisicamente (tremor, náusea
+    entre um aviso e outro), e ele começa a duvidar, no meio da cena, se
+    está vendo o que vai acontecer ou se está começando a causar o que
+    avisa, só de tanto prestar atenção — pergunta que ele não resolve, e
+    ninguém responde por ele.
+  - **Íris** usa a Sala de Espera para tentar entender **por que** os
+    bichos estão errados — não obtém resposta clara (as presenças não
+    sabem de biologia, só de medo), mas a Mansa fica visivelmente mais
+    quieta que o normal durante toda a cena, e a terceira presença solta
+    a frase do capítulo nesse momento exato, sem explicar nada, apontando
+    (sem confirmar) para algo maior se aproximando do Vau Queimado.
+- **Âncora psicológica:** hipervigilância levada ao ponto de se
+  perguntar se prestar atenção demais causa o próprio perigo que se teme
+  (eixo de Bento aprofundado por uma direção nova — não intrusão de
+  memória como na proposta 4, mas dúvida sobre a própria agência
+  causal); para Alice, o Enxame aparece pela primeira vez resolvendo um
+  problema que não é "gente em perigo direto" mas físico/ambiental,
+  testando se a técnica dela funciona igual quando a ameaça não tem
+  rosto.
+- **Por que funciona dramaticamente:** é a cena de ação com menos
+  moralidade em jogo e mais física crua (peso, calado, tempo), o que
+  cria um tipo de tensão diferente das outras duas propostas — nada aqui
+  quer alguma coisa, o que tira de Íris a opção de negociar ou julgar e
+  a força a agir sem o filtro moral que ela normalmente usa para
+  escolher a quem ouvir; também é a proposta que mais aproxima o leitor
+  da sensação de que o Vau Queimado está fisicamente errado antes de
+  qualquer personagem dizer isso em voz alta.
+- **Personagens/elementos:** Íris, Alice, Bento, Nestor, a Mansa, a
+  Rápida, a terceira presença (uma frase, sem explicação), os catorze
+  refugiados, o cardume e as aves (sem nome, sem intenção).
+- **Riscos/cuidados:** maior risco é parecer arbitrária/genérica se não
+  tiver imagem concreta o bastante (peixes "errados" precisa de detalhe
+  sensorial específico, não abstrato); cuidado para a dúvida de Bento
+  sobre causar o que avisa não empurrar a técnica pra território de
+  "poder descontrolado" (viola glossário) — ele continua escolhendo
+  falar, só a certeza dele fica menor. Não confirmar nem negar ligação
+  com uma Manifestação — deixar como fauna perturbada, ponto.
+- **Status:** não avaliada
+
+**Recomendação do agente de ideias (ação, Cap. 6):** entre as três,
+**"A Corrente Armada" (item 6)** é a que melhor cumpre o pedido do autor.
+Ela é a única das três em que as três técnicas precisam operar
+**simultaneamente e sob a mesma decisão** (atravessar sem matar
+ninguém), em vez de cada uma resolver uma sub-tarefa separada da cena —
+o que é exatamente "trabalhar juntas" no sentido forte. Também é a que
+mais aproveita um fio já mapeado e ainda saudável de tensão ("por que
+subiram o rio") sem gastá-lo, porque a explicação continua fora de
+alcance mesmo depois da ação. "O Rio Que Desce em Chamas" (item 7) é
+dramaticamente mais pesada e talvez mais tocante — mas arrisca colidir
+com a direção 4 já proposta (o lampejo de Bento mudando de natureza),
+então funciona melhor guardada para depois que aquele fio já tiver
+avançado um pouco, ou como clímax mais perto do Vau Queimado de fato
+(Cap. 7 ou 8). "Boca Cheia de Bicho" (item 8) é a mais fácil de encaixar
+sem mexer em nenhum outro fio, mas é também a mais substituível — se o
+autor quiser reservar tensão física mais forte para a chegada real ao
+Vau Queimado, talvez valha mais guardá-la. Se o objetivo é a cena de
+ação mais rica em termos de sistema de poderes (técnicas se cruzando,
+custos aparecendo em cascata, decisão tática real sob pressão) mantendo
+o tom contemplativo através do custo da vitória em vez da vitória em
+si, a recomendação é o item 6.
+
+- **Status:** não avaliada
