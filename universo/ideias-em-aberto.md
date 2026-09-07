@@ -325,7 +325,8 @@ internalizado a "gramática" da Sala de Espera através da ação.
 - **Frases da terceira presença até aqui:** *"Ele vai precisar de tinta
   nova"* (Cap. 2), *"Ele é o primeiro"* (Cap. 3), *"Esses não são de Vau
   Queimado, esses são de mais acima"* (Cap. 4), *"Ainda não é medo. Ainda
-  é costume"* (Cap. 5). Uma por capítulo, sempre certeira, nunca
+  é costume"* (Cap. 5), *"Eles fizeram a corrente errada. A que importa
+  não é de tronco"* (Cap. 6). Uma por capítulo, sempre certeira, nunca
   explicada. Manter o padrão.
 
 ## Propostas para o Capítulo 6 (2026-09-07)
@@ -634,9 +635,19 @@ não dizer.
      nota reforçada em `sistema-de-poderes.md` e `geografia-e-faccoes.md`.
 
   Local novo canonizado: "O Desfiladeiro (entre Sete Palhas e o Vau
-  Queimado)" em `geografia-e-faccoes.md`. Entrada preliminar do Capítulo
-  6 registrada em `linha-do-tempo.md`, marcada como sujeita a revisão
-  quando o capítulo for de fato escrito.
+  Queimado)" em `geografia-e-faccoes.md`.
+
+  **Atualização (2026-09-07): capítulo escrito e usado no manuscrito**
+  como `manuscrito/livro-01/capitulo-06.md`. Os cinco ajustes obrigatórios
+  foram aplicados no texto (contagem de passageiros resolvida em
+  `geografia-e-faccoes.md`; crash da Alice reescrito como perda de
+  precisão/fala entrecortada, consciente o tempo todo, nunca apagão
+  instantâneo; sobrecarga da Íris tratada como o mecanismo padrão sob
+  ameaça real, não como sítio de resíduo novo; gesto de humanização dos
+  dois lados do desfiladeiro incluído — cada grupo protege gente do
+  próprio lado sem se falar; Frio e fala cortada da defensora mantidos
+  sem fechamento). Entrada correspondente em `linha-do-tempo.md`
+  atualizada de preliminar para definitiva.
 
 ### 7. "O Rio Que Desce em Chamas" — a jangada do homem da Junta
 - **Ideia:** o homem que a Junta mandou ao Vau Queimado há nove dias (ver

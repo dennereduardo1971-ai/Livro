@@ -148,16 +148,21 @@
   o rio com paciência e desce com pressa. Mestre: **Nestor**;
   contramestre: **Alice**. Tábua solta em bombordo — consertada por Íris
   no Cap. 5, torta, mas parou de bater.
-- **Em aberto — contagem de passageiros (resolver antes de fechar o
-  Cap. 6):** o Cap. 4 abre com "quatorze passageiros" a bordo, saindo de
-  Cindra, antes de qualquer refugiado. O Cap. 5 termina com "catorze
-  passageiros" testemunhando o resgate de Íris — **depois** do encontro
-  com os 22 refugiados do porto de lenha (dos quais ao menos os seis
-  doentes embarcaram, com a carga descendo pra abrir espaço). O texto
-  nunca esclarece se os catorze finais são os refugiados substituindo os
-  passageiros originais, uma mistura dos dois grupos, ou coincidência de
-  número. **Não assumir "14 refugiados a bordo" como fato já
-  estabelecido** em capítulos futuros sem resolver essa costura primeiro.
+- **Contagem de passageiros — resolvido (2026-09-07):** o Cap. 4 abre com
+  quatorze passageiros saindo de Cindra. A *Boa Hora* é barca de entrega
+  ("sobe até o Vau, descarrega e volta" — fala do próprio Nestor no
+  Cap. 5): parte desses quatorze passageiros originais desce em pousos
+  menores entre Cindra e o porto de lenha, antes do Cap. 5 começar — não
+  narrado, não precisa ser. No porto de lenha, a carga desce pra abrir
+  espaço e os seis doentes do grupo de refugiados (três velhos, dois
+  meninos, uma mulher com a perna preta) embarcam; os dezesseis
+  refugiados saudáveis restantes aceitam ficar no porto com o barracão e
+  a carga descarregada. O resultado, por coincidência de número (não por
+  substituição 1-para-1), volta a fechar em catorze — os originais que
+  restaram a bordo mais os seis doentes. **Uso em capítulos futuros:**
+  os "catorze passageiros" do Cap. 6 em diante são esse grupo misto;
+  qualquer capítulo que precise dele em cena pode tratar isso como fato
+  estabelecido, sem precisar explicar a aritmética em texto.
 
 ### Águas Paradas
 - **Descrição física:** pântano lateral onde o rio se distrai por
