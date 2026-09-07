@@ -89,7 +89,18 @@ O que Íris faz todo dia, e que nunca é explicado no texto — só praticado:
   consumado, sempre pela via da memória do primo. **Regra de escrita:** o
   perigo do Frio nunca é persuasão, é *gravidade* — o corpo de Íris pende
   antes de ela concordar. Ela quebra isso com dor própria e contagem,
-  nunca com força de vontade declarada.
+  nunca com força de vontade declarada. Em aparições futuras e breves
+  (ex.: Cap. 6, "de relance"), manter a mesma textura mesmo em poucas
+  linhas — nunca vira persuasão nem grito só porque a cena é curta.
+- **"Sala cheia" sem resíduo de Manifestação (a partir do Cap. 6):** a
+  sobrecarga não depende de um lugar com resíduo psíquico como o Poço ou
+  as Águas Paradas — o gatilho documentado desde o início é "pressão/
+  estresse (uso profissional, ameaça real)" (ver Catálogo de poderes
+  acima). Medo coletivo comum de gente comum, sem Manifestação por trás
+  (ex.: defensores apavorados de um bloqueio), pode ativar a mesma
+  sobrecarga por esse mecanismo — **nunca escrever isso como se o lugar
+  em si tivesse virado um sítio de resíduo**, para não confundir com a
+  regra específica do Poço/Águas Paradas (ver `geografia-e-faccoes.md`).
 
 ## Como o mundo lida com isso (versão diegética da regra de ouro)
 

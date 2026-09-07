@@ -112,6 +112,30 @@
   passou", e repetem a expressão quando perguntados de novo. Manter sem
   nome — a falta de nome é a caracterização.
 
+### O Desfiladeiro (entre Sete Palhas e o Vau Queimado)
+- **Descrição física:** trecho onde o Vagaroso se estreita entre paredões,
+  rio acima de Sete Palhas e rio abaixo do Vau Queimado — condiz com a
+  ordem de lugares já fixada (Cabeceira → Vau Queimado → Sete Palhas →
+  Águas Paradas → Cindra). Nome ainda não fixado em texto; sem marca no
+  mapa da Casa do Cais.
+- **Estado a partir do Capítulo 6:** bloqueado por uma corrente de troncos
+  amarrados e redes de carga, banco a banco, armada por moradores da
+  região para impedir qualquer barca de **subir** — não de descer. Cerca
+  de uma dúzia de defensores, armados com o que tinham em casa, vigia o
+  bloqueio, apavorada, não hostil por natureza.
+- **O que representa tematicamente:** medo coletivo comum, sem
+  Manifestação envolvida — pessoas comuns fazendo, por conta própria,
+  algo que ecoa a lógica de conter uma ameaça vinda de cima do rio, sem
+  que ninguém explique o quê.
+- **Regras próprias:** **não é um sítio de resíduo psíquico** como o Poço
+  ou as Águas Paradas — não há Manifestação registrada aqui. Qualquer
+  sobrecarga da Sala de Espera de Íris nesse local nasce do mecanismo já
+  documentado (sobrecarga sob ameaça real/pressão), nunca de resíduo do
+  lugar; não usar este local para insinuar Manifestação nova.
+- **Em aberto:** um dos defensores grita algo sobre por que ninguém pode
+  subir, sem explicar — liga-se diretamente ao fio "por que o povo do Vau
+  Queimado subiu o rio" (ver `linha-do-tempo.md`, Cap. 5). Não resolver.
+
 ### Porto de lenha (saída das Águas Paradas)
 - Trapiche de tábuas, barracão sem parede, pilhas de lenha cortada e uma
   balança. Ponto de reabastecimento obrigatório de quem sobe o rio.
@@ -124,6 +148,16 @@
   o rio com paciência e desce com pressa. Mestre: **Nestor**;
   contramestre: **Alice**. Tábua solta em bombordo — consertada por Íris
   no Cap. 5, torta, mas parou de bater.
+- **Em aberto — contagem de passageiros (resolver antes de fechar o
+  Cap. 6):** o Cap. 4 abre com "quatorze passageiros" a bordo, saindo de
+  Cindra, antes de qualquer refugiado. O Cap. 5 termina com "catorze
+  passageiros" testemunhando o resgate de Íris — **depois** do encontro
+  com os 22 refugiados do porto de lenha (dos quais ao menos os seis
+  doentes embarcaram, com a carga descendo pra abrir espaço). O texto
+  nunca esclarece se os catorze finais são os refugiados substituindo os
+  passageiros originais, uma mistura dos dois grupos, ou coincidência de
+  número. **Não assumir "14 refugiados a bordo" como fato já
+  estabelecido** em capítulos futuros sem resolver essa costura primeiro.
 
 ### Águas Paradas
 - **Descrição física:** pântano lateral onde o rio se distrai por

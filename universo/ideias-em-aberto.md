@@ -606,7 +606,37 @@ não dizer.
   precisam de pelo menos um gesto que os humanize (alguém protegendo uma
   criança atrás de si, por exemplo), coerente com o princípio de não
   reduzir sofrimento a vilania.
-- **Status:** não avaliada
+- **Status:** **aprovada com ajustes** (avaliação do agente de lógica do
+  universo, 2026-09-07). Sem contradição geográfica (desfiladeiro entre
+  Sete Palhas e o Vau Queimado respeita a ordem já fixada em
+  `geografia-e-faccoes.md`, onde o local foi canonizado). Nenhum mistério
+  fechado (nem "por que o Vau Queimado subiu", nem a natureza da terceira
+  presença, nem a anomalia de Bento). Linhas vermelhas de personagens
+  respeitadas. Ajustes obrigatórios antes de escrever o capítulo:
+  1. **Contagem de passageiros não pode ser assumida como "14
+     refugiados" pronta** — o manuscrito é ambíguo entre o Cap. 4
+     ("quatorze passageiros" antes de qualquer refugiado) e o Cap. 5
+     ("catorze passageiros" testemunhando o resgate, depois do encontro
+     com os 22 refugiados). Resolver essa costura no texto do Cap. 6 (ver
+     nota em `geografia-e-faccoes.md`, entrada "A *Boa Hora*").
+  2. **Crash de Alice** deve continuar sendo perda de precisão/força
+     física (tremor, incapacidade de gesto fino) — nunca apagão/sono
+     instantâneo em pleno perigo, para não contradizer o padrão já
+     mostrado no Cap. 5 (ela ainda fala e se move minutos depois do
+     resgate).
+  3. **Sobrecarga de Íris** deve ser escrita como o mecanismo já
+     documentado (sobrecarga sob ameaça real), nunca como se o
+     desfiladeiro tivesse virado um novo sítio de resíduo psíquico tipo
+     Poço — nota adicionada em `sistema-de-poderes.md`.
+  4. **Gesto de humanização dos defensores é obrigatório, não
+     facultativo.**
+  5. Manter o Frio e a fala solta do defensor sem qualquer fechamento —
+     nota reforçada em `sistema-de-poderes.md` e `geografia-e-faccoes.md`.
+
+  Local novo canonizado: "O Desfiladeiro (entre Sete Palhas e o Vau
+  Queimado)" em `geografia-e-faccoes.md`. Entrada preliminar do Capítulo
+  6 registrada em `linha-do-tempo.md`, marcada como sujeita a revisão
+  quando o capítulo for de fato escrito.
 
 ### 7. "O Rio Que Desce em Chamas" — a jangada do homem da Junta
 - **Ideia:** o homem que a Junta mandou ao Vau Queimado há nove dias (ver
