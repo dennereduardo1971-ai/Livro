@@ -264,3 +264,29 @@
    só em ato prático e em quanto silêncio elas conseguem dividir.
 4. Nenhuma das duas "cura" ou "completa" a outra. Alice não silencia as
    presenças; Íris não organiza o Enxame.
+
+## Nestor
+- **Papel na história:** mestre da barca *Boa Hora*; conduz Íris e Bento
+  rio acima a partir do Capítulo 4. Autoridade prática de bordo — decide
+  rota, prazo e carga.
+- **Poder e eixo psicológico:** nenhum poder.
+- **Descrição:** vinte e seis anos de barca (a própria idade da *Boa
+  Hora* — mestre dela desde sempre, ao que parece). Prático, cioso de
+  prazo e contrato, mas não insensível: cede espaço a bordo quando
+  confrontado com gente doente de verdade (Cap. 5), mesmo reclamando.
+- **Arco emocional pretendido:** nenhum arco extenso previsto —
+  personagem de apoio recorrente, autoridade adulta e competente que
+  ancora o cotidiano de bordo. Reavaliar se ganhar mais peso em capítulos
+  futuros (é a primeira vez, no Cap. 6, que algo no rio o assusta de
+  verdade, não só o incomoda).
+- **Relações-chave:** mestre da *Boa Hora*; chefe de Alice a bordo.
+- **Contradições internas que sustentam o personagem:** insiste em regra
+  e contrato como se fossem a coisa mais importante do mundo, e ainda
+  assim é sempre ele quem cede primeiro diante de gente em perigo real —
+  a rispidez é gerência de risco, não frieza.
+- **Linha vermelha:** não vira a barca em situação que ele julga
+  arriscada demais pra manobra, mesmo sob pressão — mas nunca abandona a
+  tripulação nem os passageiros pra se salvar sozinho.
+- **Voz recorrente:** fala em ditados curtos e práticos de quem já viu
+  todo tipo de rio ("rio calado é rio pensando"). Confere as próprias
+  decisões em voz alta, mais pra si mesmo do que pra plateia.

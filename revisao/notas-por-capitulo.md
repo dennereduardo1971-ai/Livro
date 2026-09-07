@@ -116,3 +116,59 @@ fragmentos soltos).
    generalizado ("de tanta prática"), sem fixar número.
 
 **Voz dos personagens:** sem divergências novas da ficha.
+
+## Capítulo 6 — "A Corrente Armada" (Livro 1)
+**Data da revisão:** 2026-09-07
+
+**Resumo:** Primeiro capítulo de combate real do livro, com as três
+técnicas (Sala de Espera, Antes de Cair o Copo, Enxame) operando juntas
+sob a mesma ameaça pela primeira vez. Cumpre bem a exigência de "batalha
+como metáfora em movimento": cada beat de ação está ancorado num custo já
+documentado (a escolha dolorosa de Bento, o crash sem memória de ordem de
+Alice, a recusa consciente de Íris ao murmúrio fácil), e a resolução custa
+mais do que a força bruta custaria — mantendo a régua moral da cena em
+"quanto custou não matar ninguém", não "quem venceu". Os cinco ajustes
+exigidos na validação de consistência (`ideias-em-aberto.md`, item 6)
+aparecem bem executados no texto, com destaque para o crash de Alice:
+perda de precisão e fala entrecortada, consciência mantida o tempo todo,
+nunca apagão instantâneo.
+
+**Pontos de atenção levantados e resolução:**
+1. Prosa: tique "como se/do jeito que/do mesmo jeito que" em 13
+   ocorrências, clusterizado em dois pontos. **Resolvido** — reescritos
+   "mentira do tipo que ele mesmo sabia que era mentira" (l.36),
+   "do jeito que as coisas grandes e bonitas e erradas sempre soavam
+   bonitas primeiro" (l.90-91) e a repetição próxima "sem nenhuma
+   pressa"/"pressa nenhuma"; mantidas as ocorrências com peso temático
+   real (metáfora da porta, mão que "pertence a outra pessoa").
+2. Tema: trecho "o medo de gente comum, comum o bastante pra empilhar em
+   cima de si mesmo até virar barulho" comentava o mecanismo em vez de
+   mostrar cena. **Resolvido** — substituído por detalhe sensorial (a
+   ausência de cheiro, só água escura e óleo de tocha) no lugar do
+   comentário.
+3. Consistência: gesto de humanização dos defensores só aparecia na
+   margem esquerda; o ajuste obrigatório da validação pedia simetria
+   entre os dois lados. **Resolvido** — adicionado gesto físico da
+   margem direita (a mulher que depois grita a frase cortada puxando uma
+   criança pra longe do casco), reordenado pra ela já estar estabelecida
+   antes da fala.
+4. Consistência: Nestor, personagem nomeado e recorrente desde o Cap. 4,
+   não tinha ficha em `personagens.md`. **Resolvido** — ficha mínima
+   adicionada, coerente com a voz já em uso nos capítulos 4-6.
+5. Sistema de poderes: aparição breve do Frio no Cap. 6 omite o
+   componente físico "corpo pende" por não haver perigo físico literal
+   prendendo Íris na cena (diferente do cabo do Cap. 5). **Resolvido
+   como variação aceita, documentada** — nota adicionada em
+   `sistema-de-poderes.md`: a gravidade física do Frio é amarrada ao
+   perigo físico real de cada cena; aparições futuras com perigo físico
+   presente devem manter o "pender" no corpo, não só na voz.
+
+**Voz dos personagens:** Íris, Bento e Alice consistentes com as fichas
+em `personagens.md`, incluindo linhas vermelhas (Bento nunca deixa de
+avisar; Alice nunca finge lembrar a ordem; Íris nunca deixa a presença
+decidir). Ponto de atenção sem correção de texto (comportamento, não
+prosa): Alice no pós-crash fica silenciosa e monossilábica, mais apagada
+que o humor preventivo característico dela — justificável pela gravidade
+do crash retratado, mas vale não deixar virar padrão em capítulos
+futuros, já que o arco dela é sobre deixar de precisar compensar com
+humor, não sobre perder a voz.

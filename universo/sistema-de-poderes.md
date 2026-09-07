@@ -92,6 +92,14 @@ O que Íris faz todo dia, e que nunca é explicado no texto — só praticado:
   nunca com força de vontade declarada. Em aparições futuras e breves
   (ex.: Cap. 6, "de relance"), manter a mesma textura mesmo em poucas
   linhas — nunca vira persuasão nem grito só porque a cena é curta.
+  **Nota (revisão do Cap. 6):** na aparição do Cap. 6 o "cabo" físico que
+  normalmente puxa o corpo dela não está presente (não há perigo físico
+  literal prendendo Íris como no Cap. 5), então a "gravidade" fica só na
+  fala e na contagem, sem o corpo pender. Isso é aceito como variação
+  válida — o gatilho de dor/gravidade física do Frio é amarrado ao perigo
+  físico real de cada cena, não obrigatório em toda aparição — mas
+  aparições futuras com perigo físico presente devem manter o "pender"
+  descrito no corpo dela, não só na voz.
 - **"Sala cheia" sem resíduo de Manifestação (a partir do Cap. 6):** a
   sobrecarga não depende de um lugar com resíduo psíquico como o Poço ou
   as Águas Paradas — o gatilho documentado desde o início é "pressão/

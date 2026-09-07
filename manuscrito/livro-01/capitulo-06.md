@@ -33,8 +33,8 @@ ainda não sabia nomear.
 
 — Você tá bem? — perguntou ela, baixo, sentando ao lado dele.
 
-— Tô — disse Bento, e era mentira do tipo que ele mesmo sabia que era
-mentira, mas que ainda não tinha virado aviso. — É só que o rio devia
+— Tô — disse Bento, e era mentira que ele mesmo sabia que era mentira,
+mas que ainda não tinha virado aviso. — É só que o rio devia
 estar cheio de gente descendo agora. Barcas de reboco, gente de Sete
 Palhas levando grão. Não tem nada. — Ele olhou pra ela. — Faz dois dias
 que a gente não vê ninguém vindo do outro lado.
@@ -87,9 +87,10 @@ vinha atrás dela.
 *Doze*, disse a Rápida, prática, contando junto. *Nenhum treinado.
 Nenhum querendo brigar de verdade. Tão apavorados quanto nós.*
 
-*Deixa eles com medo*, disse alguma coisa ao fundo, nova, funda, do jeito
-que as coisas grandes e bonitas e erradas sempre soavam bonitas primeiro.
-*Um barco passa por cima de doze fácil. Ninguém morre se ninguém para.*
+*Deixa eles com medo*, disse alguma coisa ao fundo, nova, funda — da
+mesma família de coisas grandes e bonitas e erradas: soava bonita
+primeiro, errada depois. *Um barco passa por cima de doze fácil. Ninguém
+morre se ninguém para.*
 
 Íris não respondeu. Nunca respondia àquelas.
 
@@ -110,9 +111,9 @@ o bastante pra Íris notar —, disse, num tom completamente diferente do
 de sempre, sem nenhuma pressa nele:
 
 — Tem correnteza puxando forte por baixo da corrente de troncos. — Ela
-apontou, sem olhar pra ninguém. — Se a gente parar de todo aqui, o rio
-vai empurrar a gente na pedra. Não dá pra ficar parado. Só dá pra
-atravessar ou recuar rápido.
+apontou, sem se apressar. — Se a gente parar de todo aqui, o rio vai
+empurrar a gente na pedra. Não dá pra ficar parado. Só dá pra atravessar
+ou recuar rápido.
 
 ## III. Separar o Coro
 
@@ -156,10 +157,10 @@ outro lugar.
 A Sala de Espera encheu.
 
 Não era o Poço — não tinha aquele peso específico, aquele cheiro de grão
-e poeira que vinha de baixo. Era outra coisa: o medo de gente comum,
-comum o bastante pra empilhar em cima de si mesmo até virar barulho.
-Vieram falando ao mesmo tempo, mais do que o normal, menos do que na
-Sala de Espera Cheia do Poço, mas o suficiente pra encher.
+e poeira que vinha de baixo. Não tinha cheiro nenhum, na verdade, só a
+água escura e o óleo das tochas. Vieram falando ao mesmo tempo, mais do
+que o normal, menos do que na Sala de Espera Cheia do Poço, mas o
+suficiente pra encher.
 
 *Ataca a corda que prende o tronco maior*, disse um murmúrio, confiante
 demais pra estar certo. *Corta e eles somem da frente. É rápido. Ninguém
@@ -211,14 +212,16 @@ decidido antes de qualquer um saber o valor exato.
 
 Na margem, ninguém atacou. Um dos homens tentou empurrar um tronco de
 volta pro meio do canal com uma vara, e Bento gritou "ELE VAI CAIR", e o
-homem quase caiu, e alguém do próprio grupo dele puxou ele pra trás — os
-dois lados, por um instante, protegendo gente sem se falar.
+homem quase caiu, e alguém do próprio grupo dele puxou ele pra trás. Do
+outro lado, uma mulher mais nova puxou uma criança pra longe da margem
+no instante em que o casco raspou mais perto do que devia — os dois
+lados, por um instante, cada um protegendo gente do próprio grupo sem se
+falar.
 
 Quando a *Boa Hora* finalmente passou, raspando a última corda com um
-som que Íris sentiu nos dentes, uma mulher da margem direita — não o
-homem que tinha falado antes, uma mulher mais nova, com uma criança atrás
-dela — gritou alguma coisa que o vento e a distância cortaram pela
-metade:
+som que Íris sentiu nos dentes, foi essa mesma mulher — não o homem que
+tinha falado antes — quem gritou alguma coisa que o vento e a distância
+cortaram pela metade:
 
 — ...NINGUÉM VOLTA DE LÁ DE CIMA IGUAL FOI...!
 
