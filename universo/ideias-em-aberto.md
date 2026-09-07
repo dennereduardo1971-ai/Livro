@@ -795,3 +795,167 @@ o tom contemplativo através do custo da vitória em vez da vitória em
 si, a recomendação é o item 6.
 
 - **Status:** não avaliada
+
+## Plano de escrita — Capítulos 7 a 10 (2026-09-07)
+> Proposta de arco conectado (não lista solta) para os Capítulos 7–10 do
+> Livro 1, POV Íris, gerada a partir do manuscrito até o Cap. 6 ("A
+> Corrente Armada", já escrito, validado e revisado) e do estado atual da
+> bíblia. Reaproveita direções já registradas nas seções "Propostas para
+> o Capítulo 6" acima, decidindo ordem e função de cada uma dentro do
+> arco maior. Nenhum capítulo abaixo foi validado pelo agente de lógica
+> do universo — este é só o plano de ação, não texto aprovado.
+
+### Capítulo 7 — "Antes de Chegar"
+- **Resumo:** depois do desfiladeiro, o rio fica mais silencioso — menos
+  barcas descendo, menos gente nos poucos pousos que aparecem. É um
+  capítulo de respiro depois da ação do Cap. 6, mas não vazio: Bento tem
+  um lampejo diferente de todos os anteriores, mais lento e mais
+  estranho, que ele não sabe dizer se é aviso de algo que vai acontecer
+  ou eco de algo que já aconteceu (direção 4, já registrada acima).
+  Paralelamente, Íris passa parte do capítulo perto da mulher da perna
+  preta entre os passageiros doentes (direção 2, ainda não usada) —
+  cuidado prático, sem discurso — e informação sobre o Vau Queimado vaza
+  em fragmentos entre uma frase e outra, nunca como testemunho
+  organizado. Alice transita entre as duas cenas, tentando (e errando um
+  pouco) participar da conversa com Bento, e ajudando com panos na cena
+  da mulher. O capítulo fecha sem resolver nenhuma das duas linhas.
+- **Fio que puxa:** a anomalia de Bento (técnica nascida durante a
+  Folga, lacuna de memória nas Águas Paradas) avança de natureza sem se
+  explicar; o mistério "o que aconteceu no Vau Queimado" ganha os
+  primeiros fragmentos concretos, ainda contraditórios entre si.
+- **Técnicas/personagens em foco:** Antes de Cair o Copo (Bento, foco
+  principal); Sala de Espera de relance (Íris comparando o desconforto
+  dele com a própria experiência de intrusão sensorial, sem que isso
+  vire diálogo explicativo); a mulher da perna preta (personagem novo,
+  precisa de ficha mínima se ganhar nome); Alice em modo cotidiano, sem
+  Enxame ativado.
+- **Risco/cuidado principal:** não resolver a anomalia de Bento — a regra
+  em `sistema-de-poderes.md` é explícita ("não resolver cedo"); o medo
+  dele de que "a técnica esteja mudando" não pode virar drama de poder
+  descontrolado (violaria a agência garantida no glossário). Com a
+  mulher da perna preta, cuidado para ela não virar personagem-sofrimento
+  — precisa de um gesto ou frase de agência própria, não só pathos.
+
+### Capítulo 8 — "O Rio Que Desce em Chamas"
+- **Resumo:** o homem que a Junta mandou ao Vau Queimado há nove dias
+  reaparece — não resgatado, mas como origem de uma ameaça física real:
+  numa curva estreita do rio, à noite, solta uma jangada de destroços em
+  chamas rio abaixo, direto no caminho da *Boa Hora*, e corta a amarra de
+  um paredão de toras represadas atrás dela (direção 7, já registrada
+  acima). As três técnicas operam sob pressão simultânea outra vez, mas
+  numa chave diferente do Cap. 6 (ali era bloqueio armado por medo comum;
+  aqui é um homem só, convencido de que está certo). Ele desaparece de
+  novo na margem antes que alguém o alcance — vivo, mudado, ainda sumido.
+- **Fio que puxa:** o homem da Junta sumido há nove dias, agora como
+  ameaça concreta em vez de menção; funciona como espelho distorcido de
+  Bento (o que acontece quando o aviso constante para de ser ouvido por
+  tempo demais e vira ação unilateral) — por isso vem depois do Cap. 7,
+  não antes, para que o leitor já tenha internalizado a textura do
+  próprio desconforto de Bento antes de vê-la refletida e ampliada em
+  outra pessoa.
+- **Técnicas/personagens em foco:** as três técnicas sob a mesma ameaça
+  física (Bento vendo a trajetória da jangada mudar sem saber classificar
+  o lampejo; Alice em Enxame de contenção de fogo, crash batendo na hora
+  errada; Íris tentando ler a silhueta na margem à distância, testando o
+  princípio "quantos são?" sob pressão de vida ou morte real); Nestor,
+  pela primeira vez, verdadeiramente assustado.
+- **Risco/cuidado principal:** não deixar o lampejo de Bento "virar
+  memória" nesta cena — isso pertence ao Cap. 7, que já avançou essa
+  linha; aqui a ambiguidade dele deve ecoar, não repetir. O homem da
+  Junta não pode virar vilão puro (precisa ficar claro, por ação, que ele
+  acredita estar certo) e o que ele viu no Vau Queimado não pode ser
+  revelado.
+
+### Capítulo 9 — "O Silêncio Antes do Vau"
+- **Resumo:** rescaldo físico e emocional do Cap. 8 — corpo e ânimo
+  cansados, ninguém processa em voz alta. A paisagem muda de vez: menos
+  tráfego no rio, docas vazias, silêncio maior que o normal, primeiro
+  avistamento à distância do Vau Queimado. Numa vigília noturna sem
+  urgência externa, Alice finalmente conta a Íris a teoria longa sobre
+  quem repinta as estacas brancas do canal (direção 3, reservada desde o
+  Cap. 6) — reserva de cena paga, servindo de respiro contemplativo real
+  antes do clímax de aproximação, e avançando o vínculo por acúmulo, não
+  por declaração. A terceira presença solta a frase do capítulo nesse
+  momento exato, apontando (sem confirmar) para o que está por vir.
+- **Fio que puxa:** "por que o povo do Vau Queimado subiu o rio em vez de
+  descer" aprofunda-se pela mudança física visível na paisagem (não por
+  explicação); o vínculo Íris×Alice avança por acúmulo silencioso.
+- **Técnicas/personagens em foco:** Sala de Espera (Íris sentindo o rio
+  "errado" antes de qualquer confirmação factual — a Mansa mais quieta
+  que o normal); Alice em repouso, não em crise, mostrando como a mesma
+  fragmentação que quebra tarefas produz teorias ricas e associativas;
+  Bento entrando e saindo da cena, ainda processando o Cap. 7 e o Cap. 8.
+- **Risco/cuidado principal:** maior risco é ritmo — não pode virar "nada
+  acontece" logo depois de dois capítulos de ação; precisa de imagem
+  concreta forte (a paisagem mudando, o silêncio das docas) para sustentar
+  a tensão contemplativa. Não resolver "por que subiram o rio" nem
+  antecipar o que será encontrado no Vau Queimado — este capítulo é
+  limiar, não revelação. A teoria de Alice não pode virar despejo de
+  lore disfarçado.
+
+### Capítulo 10 — Chegada ao Vau Queimado (título provisório: "A Vila Que Não Desce Barca")
+- **Resumo:** a *Boa Hora* finalmente chega ao destino declarado desde o
+  Cap. 3. O capítulo entrega a primeira imagem concreta e direta do que
+  restou do Vau Queimado — mas a natureza exata do que aconteceu lá
+  (regra vigente: "em aberto — evitar decidir antes de escrever a
+  chegada") não deve ser fechada aqui; a chegada deve reformular a
+  pergunta, não respondê-la. É o ponto de virada natural do arco de
+  aproximação: a viagem rio acima termina, e uma nova fase da trama
+  (o que fazer com o que foi encontrado) começa. Pode reabrir, sem
+  resolver, o fio do homem da Junta.
+- **Fio que puxa:** o fio mestre da missão desde o Cap. 3 (chegar ao Vau
+  Queimado) se cumpre fisicamente; os fios "por que subiram o rio" e "o
+  que aconteceu no Vau Queimado" convergem e se intensificam sem se
+  fechar.
+- **Técnicas/personagens em foco:** todo o elenco reunido; Sala de Espera
+  possivelmente voltando a encher (contraste deliberado com a "sala de
+  espera cheia" do Cap. 1 — mas pelo mecanismo já documentado de
+  sobrecarga sob ameaça/densidade real, nunca como resíduo automático de
+  lugar, seguindo a nota já registrada em `sistema-de-poderes.md` para o
+  Desfiladeiro).
+- **Risco/cuidado principal:** é o capítulo de maior risco do arco. A
+  bíblia deixa "o que aconteceu com o Vau Queimado" deliberadamente em
+  aberto — este plano **não decide** o conteúdo da revelação; qualquer
+  versão específica do que a barca encontra precisa passar pelo agente de
+  lógica do universo antes de ser escrita, para garantir que não feche
+  prematuramente mistérios que sustentam o resto do Livro 1 (a anomalia
+  de Bento, a natureza da terceira presença, a origem da técnica de
+  Alice). O capítulo deve terminar abrindo a próxima fase da trama, não
+  fechando o livro.
+
+### Nota — "Falar Primeiro" (direção 5, Cap. 6) permanece fora deste arco
+A direção mais arriscada já registrada acima (Íris quebrar a própria
+regra e falar primeiro com a terceira presença) **não** foi encaixada em
+nenhum dos Caps. 7–10 deste plano — segue reservada até que o agente de
+lógica do universo defina com calma os limites do que a presença pode ou
+não dizer. Se aprovada depois, o momento mais natural seria logo após a
+chegada ao Vau Queimado (Cap. 11 em diante), quando o peso acumulado da
+viagem e a proximidade do mistério central tornam a escolha de Íris mais
+carregada — mas isso é decisão para depois, não parte deste plano.
+
+### Por que essa ordem
+O arco segue o padrão de respiração que o livro já demonstrou nos Caps.
+5–6 (clímax de ação → processamento → nova ação): o Cap. 6 acabou de
+entregar a primeira cena de ação conjunta das três técnicas, então o Cap.
+7 precisa ser um respiro real antes de qualquer coisa nova explodir —
+por isso ele puxa o fio mais interno e silencioso disponível (a anomalia
+de Bento) em vez de introduzir ameaça externa. O Cap. 8 usa a segunda
+ação do arco (o homem da Junta) só depois que o fio de Bento já avançou,
+exatamente como recomendado nas propostas do Cap. 6 registradas acima —
+isso evita que as duas cenas competissem pela mesma textura de
+ambiguidade (lampejo-que-parece-memória) e permite que o homem da Junta
+funcione como espelho distorcido do que o leitor acabou de sentir em
+Bento. O Cap. 9 é o momento de pagar duas dívidas pendentes ao mesmo
+tempo — a reserva de cena das estacas brancas de Alice (adiada desde o
+Cap. 6) e o acúmulo lento do romance — enquanto a paisagem física já
+começa a fazer o trabalho de tensão que nenhum diálogo precisa fazer,
+preparando o terreno emocional e narrativo para a chegada. O Cap. 10
+fecha o arco cumprindo a promessa física feita desde o Cap. 3 (chegar ao
+Vau Queimado), dando ao leitor uma virada sentida sem exigir que
+nenhum dos mistérios estruturais do livro (Bento, a terceira presença, a
+origem de Alice, o que houve de fato no Vau Queimado) seja resolvido —
+o que mantém o motor da segunda metade do Livro 1 intacto e evita o erro
+mais comum desse tipo de arco: gastar o destino declarado como se fosse
+a resposta, quando na verdade ele é só a porta.
+
+- **Status:** não avaliada
