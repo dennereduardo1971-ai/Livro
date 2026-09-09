@@ -89,7 +89,26 @@ O que Íris faz todo dia, e que nunca é explicado no texto — só praticado:
   consumado, sempre pela via da memória do primo. **Regra de escrita:** o
   perigo do Frio nunca é persuasão, é *gravidade* — o corpo de Íris pende
   antes de ela concordar. Ela quebra isso com dor própria e contagem,
-  nunca com força de vontade declarada.
+  nunca com força de vontade declarada. Em aparições futuras e breves
+  (ex.: Cap. 6, "de relance"), manter a mesma textura mesmo em poucas
+  linhas — nunca vira persuasão nem grito só porque a cena é curta.
+  **Nota (revisão do Cap. 6):** na aparição do Cap. 6 o "cabo" físico que
+  normalmente puxa o corpo dela não está presente (não há perigo físico
+  literal prendendo Íris como no Cap. 5), então a "gravidade" fica só na
+  fala e na contagem, sem o corpo pender. Isso é aceito como variação
+  válida — o gatilho de dor/gravidade física do Frio é amarrado ao perigo
+  físico real de cada cena, não obrigatório em toda aparição — mas
+  aparições futuras com perigo físico presente devem manter o "pender"
+  descrito no corpo dela, não só na voz.
+- **"Sala cheia" sem resíduo de Manifestação (a partir do Cap. 6):** a
+  sobrecarga não depende de um lugar com resíduo psíquico como o Poço ou
+  as Águas Paradas — o gatilho documentado desde o início é "pressão/
+  estresse (uso profissional, ameaça real)" (ver Catálogo de poderes
+  acima). Medo coletivo comum de gente comum, sem Manifestação por trás
+  (ex.: defensores apavorados de um bloqueio), pode ativar a mesma
+  sobrecarga por esse mecanismo — **nunca escrever isso como se o lugar
+  em si tivesse virado um sítio de resíduo**, para não confundir com a
+  regra específica do Poço/Águas Paradas (ver `geografia-e-faccoes.md`).
 
 ## Como o mundo lida com isso (versão diegética da regra de ouro)
 
@@ -122,6 +141,34 @@ resolver cedo.** Pistas plantadas até aqui: viagem única às Águas
 Paradas aos 11 anos (região com resíduo de Manifestação antiga — ver a
 regra do Poço em `geografia-e-faccoes.md`), e a fala da terceira presença
 de Íris no fecho do Capítulo 3: *"Ele é o primeiro."*
+
+**Nova textura do lampejo (a partir do Cap. 7):** até o Cap. 6, "Antes de
+Cair o Copo" sempre produziu lampejos curtos de ameaça física iminente
+(corda, alavanca, tronco) — nitidamente *aviso*. A partir do Cap. 7, rio
+acima do desfiladeiro, um lampejo aparece com textura diferente: mais
+lento, mais estranho, e Bento não consegue classificá-lo como aviso de
+algo que vai acontecer ou eco de algo que já aconteceu — a primeira vez
+que a técnica produz uma sensação que se parece com memória. Isso é
+**mudança de textura, não de mecânica nem de regra**: continua
+involuntário, continua com o mesmo custo físico (náusea, tremor,
+insônia), e ele continua escolhendo o que fazer com o que sente — avisar
+ou não, quando dá pra avisar algo concreto. **Nunca escrever isso como
+"poder evoluindo" ou "ficando mais forte"**, e nunca confirmar nem negar
+se a nova textura vem da lacuna de memória das Águas Paradas ou da
+anomalia da origem da técnica — só aprofundar a pergunta. O medo dele
+("a técnica está mudando") é sobre a experiência de não conseguir
+classificar o que sente, nunca perda de agência sobre a escolha de
+avisar — ver linha vermelha em `personagens.md`.
+
+**Nota de vocabulário (checagem de 2026-09-09, Cap. 7):** ao escrever
+falas de terceiros (em especial a terceira presença de Íris) sobre esse
+lampejo, evitar verbos que presumam que algo de fato aconteceu e está
+sendo recordado (ex.: "lembrar"/"lembrança") — esse tipo de verbo empurra
+a leitura para o lado do "eco do que já aconteceu" e, por extensão,
+sugere que Bento presenciou um evento real, o que resolveria cedo demais
+se a origem da técnica está ligada a uma Manifestação que ele de fato
+viu. Preferir verbos neutros entre aviso e eco (ex.: "sentir", "ver") ao
+comentar o lampejo por fora do ponto de vista dele.
 
 ## Ideias em aberto (não canônicas)
 > O agente de ideias escreve aqui. O agente de lógica do universo só move

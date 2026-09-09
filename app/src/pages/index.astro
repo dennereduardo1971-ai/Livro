@@ -5,6 +5,7 @@ import { listarCapitulos } from '../dados/capitulos';
 
 const capitulos = await listarCapitulos();
 const ultimo = capitulos.at(-1);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 <Base titulo="A Casa do Cais" barra={false}>
   <div id="abertura">
@@ -16,16 +17,16 @@ const ultimo = capitulos.at(-1);
   <main id="mundo" class="apagado">
     <nav class="barra">
       <span class="marca">A Casa do Cais</span>
-      <a href="/capitulos">capítulos</a>
-      <a href="/linha-do-tempo">tempo</a>
-      <a href="/glossario">glossário</a>
-      <a href="/estado">estado</a>
+      <a href={`${base}/capitulos`}>capítulos</a>
+      <a href={`${base}/linha-do-tempo`}>tempo</a>
+      <a href={`${base}/glossario`}>glossário</a>
+      <a href={`${base}/estado`}>estado</a>
     </nav>
 
     <div class="envoltorio">
       <div class="continuar cartao" hidden>
         <p class="rotulo-continuar"></p>
-        <a class="botao" href="/capitulos">continuar</a>
+        <a class="botao" href={`${base}/capitulos`}>continuar</a>
       </div>
       <Mapa modo="pagina" />
       <p class="dica subtitulo">Toque num lugar da parede. O que estiver apagado, você ainda não leu.</p>
@@ -72,7 +73,7 @@ const ultimo = capitulos.at(-1);
       const n = parou.slug.split('-')[1];
       caixa.querySelector('.rotulo-continuar')!.textContent =
         `Você parou no Capítulo ${n}, a ${Math.round(parou.fracao * 100)}% dele.`;
-      caixa.querySelector('a')!.setAttribute('href', `/${parou.slug}`);
+      caixa.querySelector('a')!.setAttribute('href', `${import.meta.env.BASE_URL.replace(/\/$/, '')}/${parou.slug}`);
       caixa.hidden = false;
     }
     if (desde) {

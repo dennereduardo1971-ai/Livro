@@ -112,6 +112,30 @@
   passou", e repetem a expressão quando perguntados de novo. Manter sem
   nome — a falta de nome é a caracterização.
 
+### O Desfiladeiro (entre Sete Palhas e o Vau Queimado)
+- **Descrição física:** trecho onde o Vagaroso se estreita entre paredões,
+  rio acima de Sete Palhas e rio abaixo do Vau Queimado — condiz com a
+  ordem de lugares já fixada (Cabeceira → Vau Queimado → Sete Palhas →
+  Águas Paradas → Cindra). Nome ainda não fixado em texto; sem marca no
+  mapa da Casa do Cais.
+- **Estado a partir do Capítulo 6:** bloqueado por uma corrente de troncos
+  amarrados e redes de carga, banco a banco, armada por moradores da
+  região para impedir qualquer barca de **subir** — não de descer. Cerca
+  de uma dúzia de defensores, armados com o que tinham em casa, vigia o
+  bloqueio, apavorada, não hostil por natureza.
+- **O que representa tematicamente:** medo coletivo comum, sem
+  Manifestação envolvida — pessoas comuns fazendo, por conta própria,
+  algo que ecoa a lógica de conter uma ameaça vinda de cima do rio, sem
+  que ninguém explique o quê.
+- **Regras próprias:** **não é um sítio de resíduo psíquico** como o Poço
+  ou as Águas Paradas — não há Manifestação registrada aqui. Qualquer
+  sobrecarga da Sala de Espera de Íris nesse local nasce do mecanismo já
+  documentado (sobrecarga sob ameaça real/pressão), nunca de resíduo do
+  lugar; não usar este local para insinuar Manifestação nova.
+- **Em aberto:** um dos defensores grita algo sobre por que ninguém pode
+  subir, sem explicar — liga-se diretamente ao fio "por que o povo do Vau
+  Queimado subiu o rio" (ver `linha-do-tempo.md`, Cap. 5). Não resolver.
+
 ### Porto de lenha (saída das Águas Paradas)
 - Trapiche de tábuas, barracão sem parede, pilhas de lenha cortada e uma
   balança. Ponto de reabastecimento obrigatório de quem sobe o rio.
@@ -124,6 +148,21 @@
   o rio com paciência e desce com pressa. Mestre: **Nestor**;
   contramestre: **Alice**. Tábua solta em bombordo — consertada por Íris
   no Cap. 5, torta, mas parou de bater.
+- **Contagem de passageiros — resolvido (2026-09-07):** o Cap. 4 abre com
+  quatorze passageiros saindo de Cindra. A *Boa Hora* é barca de entrega
+  ("sobe até o Vau, descarrega e volta" — fala do próprio Nestor no
+  Cap. 5): parte desses quatorze passageiros originais desce em pousos
+  menores entre Cindra e o porto de lenha, antes do Cap. 5 começar — não
+  narrado, não precisa ser. No porto de lenha, a carga desce pra abrir
+  espaço e os seis doentes do grupo de refugiados (três velhos, dois
+  meninos, uma mulher com a perna preta) embarcam; os dezesseis
+  refugiados saudáveis restantes aceitam ficar no porto com o barracão e
+  a carga descarregada. O resultado, por coincidência de número (não por
+  substituição 1-para-1), volta a fechar em catorze — os originais que
+  restaram a bordo mais os seis doentes. **Uso em capítulos futuros:**
+  os "catorze passageiros" do Cap. 6 em diante são esse grupo misto;
+  qualquer capítulo que precise dele em cena pode tratar isso como fato
+  estabelecido, sem precisar explicar a aritmética em texto.
 
 ### Águas Paradas
 - **Descrição física:** pântano lateral onde o rio se distrai por

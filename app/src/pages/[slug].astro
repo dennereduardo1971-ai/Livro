@@ -14,12 +14,13 @@ export async function getStaticPaths() {
 
 const { capitulo, anterior, proximo } = Astro.props;
 const { Content } = await render(capitulo.entrada);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 <Base titulo={`${capitulo.titulo} · A Casa do Cais`} barra={false}>
   <div class="progresso"><div class="preenchimento"></div></div>
 
   <nav class="barra">
-    <a class="marca" href="/capitulos">‹ capítulos</a>
+    <a class="marca" href={`${base}/capitulos`}>‹ capítulos</a>
     <button id="tipografia" aria-label="Tipografia e tema">Aa</button>
   </nav>
 
@@ -50,9 +51,9 @@ const { Content } = await render(capitulo.entrada);
     <article><Content /></article>
 
     <nav class="fim">
-      {anterior && <a href={`/${anterior.slug}`}>‹ {anterior.titulo}</a>}
+      {anterior && <a href={`${base}/${anterior.slug}`}>‹ {anterior.titulo}</a>}
       {proximo
-        ? <a class="proximo" href={`/${proximo.slug}`}>{proximo.titulo} ›</a>
+        ? <a class="proximo" href={`${base}/${proximo.slug}`}>{proximo.titulo} ›</a>
         : <span class="subtitulo">Fim do que está publicado. O próximo desce o rio na semana que vem.</span>}
     </nav>
   </main>
