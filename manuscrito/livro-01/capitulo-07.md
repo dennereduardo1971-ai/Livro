@@ -188,7 +188,7 @@ depois. Ela não queria contar o resto ali.
 antigo dela, o que tinha sumido nos últimos dias. — Eu tenho essa coisa
 de chegar num assunto por cima, sem escada. Nem sempre dá certo.
 
-Ficaram caladas um tempo.
+Ficaram caladas.
 
 — O Bento tá diferente — disse Alice, por fim, não como fofoca, como
 quem cuida.
@@ -208,8 +208,8 @@ era, por si só, um tipo de fala.
 
 — Não precisa — disse Alice. — Eu só reparo. Reparar não custa nada.
 
-O rio seguiu escuro e vazio, e nenhum pouso apareceu naquela noite,
-nem vazio nem cheio — só água, só margem, só o motor batendo baixo.
+O rio seguiu escuro, e nenhum pouso apareceu naquela noite, nem vazio
+nem cheio — só água, só margem, só o motor batendo baixo.
 
 Foi já tarde, quando quase todo mundo tinha dormido, que a terceira
 presença falou, do fundo da sala, no mesmo tom de sempre:

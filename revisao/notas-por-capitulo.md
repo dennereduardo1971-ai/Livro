@@ -172,3 +172,50 @@ que o humor preventivo característico dela — justificável pela gravidade
 do crash retratado, mas vale não deixar virar padrão em capítulos
 futuros, já que o arco dela é sobre deixar de precisar compensar com
 humor, não sobre perder a voz.
+
+## Capítulo 7 — "Rio Vazio" / "O Copo Que Já Caiu" / "Fragmentos" / "O Que Ninguém Marca" (Livro 1)
+**Data da revisão:** 2026-09-09
+
+**Resumo:** Capítulo de respiro pós-combate (Cap. 6) que cumpre bem o risco
+assumido no próprio plano ("não pode virar nada acontece") — tensão
+contemplativa sustentada por detalhe concreto (pousos vazios, o ponto
+vazio no convés) em vez de afirmação direta de clima. Os quatro ajustes
+exigidos pela validação de consistência (`ideias-em-aberto.md`, entrada
+do Cap. 7) foram bem executados: fragmentos da mulher da perna preta
+soam como relato de fora/de cima ("Não vi nada com os próprios olhos"),
+nunca testemunho direto do Vau Queimado; ela ganha agência real via dois
+gestos de escolha própria (recusa o pano por cálculo, reafirma a recusa
+com firmeza); a nova textura do lampejo de Bento nunca é escrita como
+"poder evoluindo" e nunca confirma/nega origem (Águas Paradas vs.
+anomalia seguem em aberto); nenhum termo clínico nomeado em nenhum eixo.
+
+**Pontos de atenção levantados e resolução:**
+1. Prosa: tique "um tempo" repetido de forma quase idêntica em três
+   pontos. **Resolvido** — cortado em "Ficaram caladas um tempo." →
+   "Ficaram caladas."
+2. Prosa: repetição imediata da palavra "vazio" ("escuro e vazio... nem
+   vazio nem cheio"), criando redundância antes do paradoxo pretendido
+   ficar claro. **Resolvido** — cortado o primeiro "e vazio".
+3. Consistência (sinalizado, não resolvido — checagem para o agente de
+   lógica do universo antes do Cap. 8): a fala final da terceira
+   presença ("Ele não lembrou errado. Só lembrou cedo demais.") dá a uma
+   presença de Íris uma posição quase onisciente sobre a natureza do
+   lampejo de Bento. Não nomeia Águas Paradas nem confirma origem da
+   técnica, e o paradoxo da frase preserva ambiguidade — mas vale
+   confirmação extra de que isso não empurra a anomalia de Bento pra
+   resolução prematura.
+4. Tema: a linha de Íris "A técnica muda. Você não." é a mais aforística
+   do capítulo — reforça bem a agência de Bento exigida pelo glossário,
+   mas está no limite do "redondo demais". **Aceito sem correção** — é
+   fala de personagem em momento de conforto emocional genuíno, não
+   narração explicando a metáfora ao leitor, no mesmo registro de frases
+   de impacto já validadas em capítulos anteriores.
+
+**Voz dos personagens:** Íris, Bento, Nestor e a mulher da perna preta
+consistentes com `personagens.md`, incluindo linhas vermelhas (Bento
+nunca deixa de tentar articular o aviso; a mulher nunca se apresenta
+como vítima pedindo socorro). Destaque para Alice: o capítulo reconhece
+textualmente, dentro da própria cena, que o humor característico dela
+sumiu nos últimos dias — resposta direta ao ponto de atenção (não
+resolvido, apenas sinalizado) deixado na revisão do Cap. 6 sobre o risco
+de ela ficar "apagada demais" virar padrão.
