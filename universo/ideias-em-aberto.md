@@ -326,8 +326,9 @@ internalizado a "gramática" da Sala de Espera através da ação.
   nova"* (Cap. 2), *"Ele é o primeiro"* (Cap. 3), *"Esses não são de Vau
   Queimado, esses são de mais acima"* (Cap. 4), *"Ainda não é medo. Ainda
   é costume"* (Cap. 5), *"Eles fizeram a corrente errada. A que importa
-  não é de tronco"* (Cap. 6). Uma por capítulo, sempre certeira, nunca
-  explicada. Manter o padrão.
+  não é de tronco"* (Cap. 6), *"Ele não lembrou errado. Só lembrou cedo
+  demais"* (Cap. 7). Uma por capítulo, sempre certeira, nunca explicada.
+  Manter o padrão.
 
 ## Propostas para o Capítulo 6 (2026-09-07)
 > Cinco direções para o Cap. 6 (Livro 1, POV Íris), geradas a partir do
@@ -862,6 +863,18 @@ si, a recomendação é o item 6.
 
   Entrada preliminar adicionada em `linha-do-tempo.md` (Capítulo 7 —
   "Antes de Chegar").
+
+  **Atualização (2026-09-09): capítulo escrito e usado no manuscrito**
+  como `manuscrito/livro-01/capitulo-07.md`. Os quatro ajustes
+  obrigatórios foram aplicados no texto (fragmentos da mulher da perna
+  preta explicitamente enquadrados como "não vi com os próprios olhos",
+  vila "de cima" e não o Vau Queimado; ela ganha agência própria ao
+  decidir guardar o pano limpo e recusar trocá-lo antes da hora; a nova
+  textura do lampejo de Bento nunca confirma origem, e ele mantém a
+  escolha do que fazer com o que sente; nenhuma situação de aviso real
+  apareceu na cena, então o ajuste 4 não se aplicou). Entrada
+  correspondente em `linha-do-tempo.md` atualizada de preliminar para
+  definitiva.
 
 ### Capítulo 8 — "O Rio Que Desce em Chamas"
 - **Resumo:** o homem que a Junta mandou ao Vau Queimado há nove dias
