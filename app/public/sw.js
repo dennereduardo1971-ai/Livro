@@ -1,6 +1,9 @@
 /* Offline dos capítulos já visitados. Nada de fantasia: cache simples. */
 const CACHE = 'cais-v1';
-const ESSENCIAL = ['/', '/capitulos', '/manifest.webmanifest', '/icone.svg'];
+/* self.registration.scope já vem com a base (ex.: /livro/) quando o service
+   worker é registrado com { scope } no layout — daí os caminhos relativos. */
+const BASE = new URL(self.registration.scope).pathname;
+const ESSENCIAL = [BASE, `${BASE}capitulos`, `${BASE}manifest.webmanifest`, `${BASE}icone.svg`];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ESSENCIAL)).then(() => self.skipWaiting()));
@@ -24,6 +27,6 @@ self.addEventListener('fetch', (e) => {
         caches.open(CACHE).then((c) => c.put(req, copia));
         return res;
       })
-      .catch(() => caches.match(req).then((r) => r || caches.match('/'))),
+      .catch(() => caches.match(req).then((r) => r || caches.match(BASE))),
   );
 });

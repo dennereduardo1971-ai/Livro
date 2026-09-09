@@ -2,7 +2,8 @@ import { defineConfig } from 'astro/config';
 import { remarkCena } from './src/plugins/cena.mjs';
 
 export default defineConfig({
-  site: 'https://casa-do-cais.netlify.app',
+  site: 'https://dennereduardo1971-ai.github.io',
+  base: '/livro',
   markdown: {
     remarkPlugins: [remarkCena],
     smartypants: false,
