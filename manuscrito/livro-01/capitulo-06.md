@@ -199,7 +199,9 @@ ninguém.
 
 Levaram quase dez minutos pra atravessar vinte metros — o casco gemendo,
 Bento gritando avisos cada vez mais curtos porque a voz já não aguentava
-mais frases inteiras, Nestor manobrando um leme que respondia tarde.
+mais frases inteiras, Nestor manobrando um leme que respondia tarde, e
+Alice em toda parte ao mesmo tempo, um borrão de driça e tronco e fogo
+apagado antes de virar chama.
 
 Dez minutos custava mais do que dez segundos de força bruta teria
 custado. Ninguém discutiu isso depois. Era o preço, e o preço tinha sido
