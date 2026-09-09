@@ -326,7 +326,7 @@ internalizado a "gramática" da Sala de Espera através da ação.
   nova"* (Cap. 2), *"Ele é o primeiro"* (Cap. 3), *"Esses não são de Vau
   Queimado, esses são de mais acima"* (Cap. 4), *"Ainda não é medo. Ainda
   é costume"* (Cap. 5), *"Eles fizeram a corrente errada. A que importa
-  não é de tronco"* (Cap. 6), *"Ele não lembrou errado. Só lembrou cedo
+  não é de tronco"* (Cap. 6), *"Ele não sentiu errado. Só sentiu cedo
   demais"* (Cap. 7). Uma por capítulo, sempre certeira, nunca explicada.
   Manter o padrão.
 

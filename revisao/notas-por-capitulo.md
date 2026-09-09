@@ -196,14 +196,30 @@ anomalia seguem em aberto); nenhum termo clínico nomeado em nenhum eixo.
 2. Prosa: repetição imediata da palavra "vazio" ("escuro e vazio... nem
    vazio nem cheio"), criando redundância antes do paradoxo pretendido
    ficar claro. **Resolvido** — cortado o primeiro "e vazio".
-3. Consistência (sinalizado, não resolvido — checagem para o agente de
-   lógica do universo antes do Cap. 8): a fala final da terceira
-   presença ("Ele não lembrou errado. Só lembrou cedo demais.") dá a uma
-   presença de Íris uma posição quase onisciente sobre a natureza do
-   lampejo de Bento. Não nomeia Águas Paradas nem confirma origem da
-   técnica, e o paradoxo da frase preserva ambiguidade — mas vale
-   confirmação extra de que isso não empurra a anomalia de Bento pra
-   resolução prematura.
+3. Consistência (checado pelo agente de lógica do universo em
+   2026-09-09): a fala final da terceira presença cruzava a linha de
+   `sistema-de-poderes.md` ("não resolver cedo" a anomalia de Bento) e de
+   `personagens.md` (regra de escrita da terceira presença: nunca
+   confirmar a natureza/origem do que ela comenta). O verbo "lembrou" era
+   o problema — "lembrar" pressupõe que algo de fato aconteceu e está
+   sendo recordado, o que empurra a leitura do lampejo para o lado do
+   "eco de algo que já aconteceu" (não do "aviso de algo que vai
+   acontecer"), e por extensão sugere que Bento presenciou um evento real
+   (possível Manifestação) — contradizendo diretamente que "ele afirma
+   nunca ter passado por uma Manifestação, e acredita nisso"
+   (`personagens.md`, ficha de Bento). Dita com a certeza categórica
+   típica da terceira presença, a linha funcionava como confirmação
+   narrativa, não como comentário ambíguo. **Resolvido** — trocado
+   "lembrou"/"lembrou" por "sentiu"/"sentiu" nas duas ocorrências: *"Ele
+   não sentiu errado. Só sentiu cedo demais."* Mantém a métrica, o tom
+   categórico e o paradoxo de tempo ("cedo demais"), mas "sentir" não
+   escolhe entre aviso e eco — preserva a ambiguidade estabelecida na
+   própria cena (Bento "não sabe se é aviso do que vai acontecer ou eco
+   do que já aconteceu"). Edição aplicada também em
+   `manuscrito/livro-01/capitulo-07.md` (fala final) e na citação da fala
+   em `linha-do-tempo.md` (entrada do Cap. 7). Reforço registrado em
+   `sistema-de-poderes.md`, seção da anomalia de Bento, para não reabrir
+   essa dúvida em capítulos futuros.
 4. Tema: a linha de Íris "A técnica muda. Você não." é a mais aforística
    do capítulo — reforça bem a agência de Bento exigida pelo glossário,
    mas está no limite do "redondo demais". **Aceito sem correção** — é

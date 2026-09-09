@@ -214,4 +214,4 @@ nem cheio — só água, só margem, só o motor batendo baixo.
 Foi já tarde, quando quase todo mundo tinha dormido, que a terceira
 presença falou, do fundo da sala, no mesmo tom de sempre:
 
-*Ele não lembrou errado. Só lembrou cedo demais.*
+*Ele não sentiu errado. Só sentiu cedo demais.*

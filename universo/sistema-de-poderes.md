@@ -160,6 +160,16 @@ anomalia da origem da técnica — só aprofundar a pergunta. O medo dele
 classificar o que sente, nunca perda de agência sobre a escolha de
 avisar — ver linha vermelha em `personagens.md`.
 
+**Nota de vocabulário (checagem de 2026-09-09, Cap. 7):** ao escrever
+falas de terceiros (em especial a terceira presença de Íris) sobre esse
+lampejo, evitar verbos que presumam que algo de fato aconteceu e está
+sendo recordado (ex.: "lembrar"/"lembrança") — esse tipo de verbo empurra
+a leitura para o lado do "eco do que já aconteceu" e, por extensão,
+sugere que Bento presenciou um evento real, o que resolveria cedo demais
+se a origem da técnica está ligada a uma Manifestação que ele de fato
+viu. Preferir verbos neutros entre aviso e eco (ex.: "sentir", "ver") ao
+comentar o lampejo por fora do ponto de vista dele.
+
 ## Ideias em aberto (não canônicas)
 > O agente de ideias escreve aqui. O agente de lógica do universo só move
 > para o catálogo acima depois de validar consistência.
