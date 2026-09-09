@@ -3,7 +3,7 @@ import { remarkCena } from './src/plugins/cena.mjs';
 
 export default defineConfig({
   site: 'https://dennereduardo1971-ai.github.io',
-  base: '/livro',
+  base: '/Livro',
   markdown: {
     remarkPlugins: [remarkCena],
     smartypants: false,
