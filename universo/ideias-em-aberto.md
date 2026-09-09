@@ -835,6 +835,33 @@ si, a recomendação é o item 6.
   descontrolado (violaria a agência garantida no glossário). Com a
   mulher da perna preta, cuidado para ela não virar personagem-sofrimento
   — precisa de um gesto ou frase de agência própria, não só pathos.
+- **Status:** **aprovada com ajustes** (avaliação do agente de lógica do
+  universo, 2026-09-09). Sem contradição com `sistema-de-poderes.md`
+  (regra "não resolver cedo" respeitada — o lampejo muda de textura, não
+  confirma nem nega origem), `glossario-tematico.md` (agência de Bento
+  preservada) nem geografia/linha do tempo (continuidade direta com o
+  fecho do Cap. 6). Ajustes obrigatórios antes de escrever o capítulo:
+  1. **Fragmentos sobre o Vau Queimado devem soar como relato de fora/de
+     cima, nunca como testemunho direto de dentro da vila** — os
+     refugiados do Cap. 5, incluindo a mulher da perna preta, são "de
+     cima do Vau", não do Vau Queimado (ver fala do homem da barba
+     branca, Cap. 5); não resolver "por que o povo do Vau Queimado subiu
+     o rio", só aprofundar.
+  2. **Ficha mínima da mulher da perna preta adicionada a
+     `personagens.md`** (sem nome, paralelo deliberado a "Mancha sem
+     nome") — o capítulo precisa cumprir a regra de escrita já registrada
+     lá: pelo menos um gesto ou frase de agência própria dela em cena.
+  3. **Nova textura do lampejo de Bento documentada em
+     `sistema-de-poderes.md`** ("Nova textura do lampejo, a partir do
+     Cap. 7") — mudança de textura, nunca de mecânica; nunca escrever
+     como "poder evoluindo"; nunca confirmar/negar ligação com a lacuna
+     de memória das Águas Paradas ou com a origem da técnica.
+  4. Se qualquer situação de aviso real (mesmo pequena) aparecer na cena,
+     Bento precisa continuar avisando — hesitação maior é aceitável,
+     silêncio total nunca é (linha vermelha em `personagens.md`).
+
+  Entrada preliminar adicionada em `linha-do-tempo.md` (Capítulo 7 —
+  "Antes de Chegar").
 
 ### Capítulo 8 — "O Rio Que Desce em Chamas"
 - **Resumo:** o homem que a Junta mandou ao Vau Queimado há nove dias

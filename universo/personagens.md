@@ -202,6 +202,42 @@
   de doze falsos alarmes num dia, ele fala. A hesitação de meio segundo
   antes de falar é dele; o silêncio total nunca é.
 
+## A mulher da perna preta
+- **Papel na história:** uma das seis pessoas doentes entre os refugiados
+  "de cima do Vau" resgatados no porto de lenha (Cap. 5); embarca na *Boa
+  Hora* junto com três velhos e dois meninos. Aparece de relance no Cap. 6
+  (dorme encostada na sacaria; Íris troca o pano dela de manhã sem
+  precisar ser pedido; um dos meninos fica de guarda perto dela, sério
+  demais pra idade). Ganha cena própria no Cap. 7.
+- **Poder e eixo psicológico:** nenhum poder.
+- **Descrição:** perna preta até o joelho — ferimento/infecção não
+  tratada a tempo (ver `geografia-e-faccoes.md`, "Vau Queimado" e o fio
+  "por que o povo do Vau Queimado subiu o rio"). Pouco falante; fala sem
+  drama, do jeito de quem já se acostumou ao próprio corpo piorando.
+  **Não é do Vau Queimado** — como todo o grupo de vinte e dois, é "de
+  cima do Vau" (ver fala do homem da barba branca, Cap. 5); qualquer
+  informação que ela solte sobre o Vau Queimado é de fora/de cima, nunca
+  testemunho direto de dentro da vila.
+- **Nome:** não estabelecido — deixado deliberadamente sem nome por ora
+  (paralelo ao tratamento de "Mancha sem nome"); pode ganhar nome em
+  capítulo futuro sem que isso seja obrigatório.
+- **Arco emocional pretendido:** nenhum arco extenso — personagem de
+  apoio que dramatiza, por contraste com Bento, a exaustão de quem já
+  aprendeu que pedir ajuda não adianta (ver `glossario-tematico.md`,
+  entrada a criar/registrada em ideias-em-aberto). **Regra de escrita
+  obrigatória:** precisa de pelo menos um gesto ou frase de agência
+  própria em qualquer cena em que apareça — nunca só objeto de cuidado/
+  pathos.
+- **Relações-chave:** um dos dois meninos refugiados fica de guarda perto
+  dela por conta própria.
+- **Contradições internas que sustentam o personagem:** aceita o próprio
+  corpo piorando sem drama, mas ainda assim guarda informação (sobre o
+  Vau Queimado, sobre a viagem) que solta em fragmentos — ela desistiu de
+  pedir ajuda, não de saber das coisas.
+- **Linha vermelha:** nunca se apresenta como vítima pedindo socorro —
+  se algo for oferecido a ela, a escolha de aceitar ou recusar continua
+  sendo dela.
+
 ## Vitorino Cerqueira
 - **Papel na história:** agente da Junta de Resguardo (ver
   `geografia-e-faccoes.md`); contratante de Íris e chefe imediato de

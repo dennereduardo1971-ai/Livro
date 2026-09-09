@@ -142,6 +142,24 @@ Paradas aos 11 anos (região com resíduo de Manifestação antiga — ver a
 regra do Poço em `geografia-e-faccoes.md`), e a fala da terceira presença
 de Íris no fecho do Capítulo 3: *"Ele é o primeiro."*
 
+**Nova textura do lampejo (a partir do Cap. 7):** até o Cap. 6, "Antes de
+Cair o Copo" sempre produziu lampejos curtos de ameaça física iminente
+(corda, alavanca, tronco) — nitidamente *aviso*. A partir do Cap. 7, rio
+acima do desfiladeiro, um lampejo aparece com textura diferente: mais
+lento, mais estranho, e Bento não consegue classificá-lo como aviso de
+algo que vai acontecer ou eco de algo que já aconteceu — a primeira vez
+que a técnica produz uma sensação que se parece com memória. Isso é
+**mudança de textura, não de mecânica nem de regra**: continua
+involuntário, continua com o mesmo custo físico (náusea, tremor,
+insônia), e ele continua escolhendo o que fazer com o que sente — avisar
+ou não, quando dá pra avisar algo concreto. **Nunca escrever isso como
+"poder evoluindo" ou "ficando mais forte"**, e nunca confirmar nem negar
+se a nova textura vem da lacuna de memória das Águas Paradas ou da
+anomalia da origem da técnica — só aprofundar a pergunta. O medo dele
+("a técnica está mudando") é sobre a experiência de não conseguir
+classificar o que sente, nunca perda de agência sobre a escolha de
+avisar — ver linha vermelha em `personagens.md`.
+
 ## Ideias em aberto (não canônicas)
 > O agente de ideias escreve aqui. O agente de lógica do universo só move
 > para o catálogo acima depois de validar consistência.
