@@ -60,10 +60,8 @@ ouvir qualquer coisa, porque já tinha aprendido o som do silêncio dele.
 
 — Para — disse ele, alto agora, de pé. — PARA A MÁQUINA.
 
-Nestor parou. Dessa vez ele nem discutiu — doze falsos alarmes tinham
-virado, no fim do Cap. 5, um acerto que salvou uma manobra inteira, e o
-crédito de Bento no convés da *Boa Hora* já não era o mesmo de três dias
-atrás.
+Nestor parou. Dessa vez ele nem discutiu — o crédito de Bento no convés
+da *Boa Hora* já não era o mesmo de três dias atrás.
 
 A *Boa Hora* deslizou mais um pouco pela própria inércia e parou a vinte
 metros de uma coisa que, no escuro do desfiladeiro, primeiro parecia só
@@ -199,12 +197,11 @@ ninguém.
 
 ::cena lugar="desfiladeiro" tensao="media"
 
-Levaram quase dez minutos pra atravessar vinte metros — dez minutos com
-o casco gemendo, com Bento gritando avisos cada vez mais curtos porque a
-voz já não aguentava mais frases inteiras, com Nestor manobrando um leme
-que respondia tarde, com Alice numa sequência de tarefas que ninguém ia
-conseguir reconstruir depois: puxar corda, empurrar tronco, segurar
-criança, apagar fogo pequeno antes dele virar fogo grande.
+Levaram quase dez minutos pra atravessar vinte metros — o casco gemendo,
+Bento gritando avisos cada vez mais curtos porque a voz já não aguentava
+mais frases inteiras, Nestor manobrando um leme que respondia tarde, e
+Alice em toda parte ao mesmo tempo, um borrão de driça e tronco e fogo
+apagado antes de virar chama.
 
 Dez minutos custava mais do que dez segundos de força bruta teria
 custado. Ninguém discutiu isso depois. Era o preço, e o preço tinha sido
@@ -238,13 +235,9 @@ tivesse acabado de sair.
 — Senta — disse Íris, segurando o braço dela antes que as pernas
 decidissem por conta própria.
 
-Não foi como da última vez — não teve catorze horas de sono chegando
-tudo de uma vez. Dessa vez foi mais devagar e mais visível: as mãos
-tremendo forte demais pra segurar a caneca que alguém trouxe, a voz
-saindo em pedaços, um "eu" que começava frase e não conseguia terminar
-porque o resto da frase não vinha. Ela continuava ali, olhos abertos,
-respondendo quando chamada — só que cada gesto fino, cada coisa que
-pedia precisão, tinha ido embora junto com o resto.
+Não foi como da última vez. As mãos tremiam forte demais pra segurar a
+caneca que alguém trouxe, e a voz saía em pedaços, um "eu" que começava
+frase e não conseguia terminar.
 
 — Alguém... — começou ela, tentando por três vezes até a frase sair
 inteira. — Alguém segurou o menino?
