@@ -897,8 +897,17 @@ si, a recomendação é o item 6.
   física (Bento vendo a trajetória da jangada mudar sem saber classificar
   o lampejo; Alice em Enxame de contenção de fogo, crash batendo na hora
   errada; Íris tentando ler a silhueta na margem à distância, testando o
-  princípio "quantos são?" sob pressão de vida ou morte real); Nestor,
-  pela primeira vez, verdadeiramente assustado.
+  princípio "quantos são?" sob pressão de vida ou morte real); Nestor
+  assustado de um jeito novo — o medo dele já apareceu no Cap. 6
+  (bloqueio), então aqui precisa ser outra coisa (ex.: medo pela barca
+  em si, já remendada, ou por reconhecer o homem da Junta).
+- **Nota da revisão conjunta dos Caps. 5–7 (2026-09-29):** os Caps. 4–7
+  fecham todos com uma frase da terceira presença — o recurso está
+  virando fórmula. O Cap. 8 não deve terminar com fala dela (o silêncio
+  dela num fim de capítulo de ação vira informação). Casco da *Boa Hora*
+  segue remendado e subindo a meio vapor desde o Cap. 7 — usar na cena
+  da jangada/toras. Evitar repetir o eco "ninguém volta igual" (já usado
+  no Cap. 6 e no Cap. 7).
 - **Risco/cuidado principal:** não deixar o lampejo de Bento "virar
   memória" nesta cena — isso pertence ao Cap. 7, que já avançou essa
   linha; aqui a ambiguidade dele deve ecoar, não repetir. O homem da

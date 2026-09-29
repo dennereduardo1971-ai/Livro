@@ -13,6 +13,12 @@ margem: um trapiche sem corda, uma casa de reboco com a porta batendo
 sozinha no vento, um curral sem gado e sem cerca quebrada, como se o
 gado tivesse sido levado, não fugido.
 
+O casco, batido no desfiladeiro, fazia água devagar num canto da popa, e
+a *Boa Hora* subia a meio vapor pra não forçar a emenda.
+
+— Era pra gente estar no Vau ontem — disse Nestor, uma vez só, e não
+repetiu.
+
 — Aqui parava gente pra vender melado — disse Alice, olhando pro
 trapiche vazio, num tom que não era o dela de sempre, mais baixo, sem a
 digressão de praxe. — Ano passado tinha fila.
@@ -20,8 +26,7 @@ digressão de praxe. — Ano passado tinha fila.
 Ninguém respondeu. Não tinha resposta boa.
 
 *A gente tá indo pra um lugar que esvaziou pro lado errado*, disse a
-Rápida, o mais perto que ela chegava de comentário sem serventia prática
-— e era raro o bastante pra Íris notar.
+Rápida, o mais perto que ela chegava de comentário sem serventia prática.
 
 Os catorze de bordo sentiam também, do jeito que gente sente sem
 conseguir apontar o quê: conversavam menos, dormiam mais cedo. A mulher
@@ -46,9 +51,9 @@ guardou o pano.
 ::cena lugar="rio-vagaroso" tensao="media"
 
 Foi no fim da tarde que aconteceu com Bento — e Íris só soube o momento
-exato porque conhecia o silêncio dele.
+exato porque as mãos dele pararam de mexer na corda.
 
-Dessa vez não foi o silêncio de sempre, o de um segundo inteiro parado
+Não foi o silêncio de sempre, o de um segundo inteiro parado
 antes do grito. Foi mais comprido, e ele não gritou nada.
 
 Ficou olhando pra um ponto vazio do convés, perto da amurada de
@@ -81,8 +86,7 @@ chão, quebrado, antes de ver ele cair.
 lembrando de alguma coisa que nunca aconteceu. Não sei dizer qual das
 duas é pior.
 
-Íris sentou perto dele, sem tocar — ele nunca gostava logo depois — e
-esperou.
+Íris sentou perto dele, a um palmo de distância, e esperou.
 
 — Você tá com medo — disse ela, não como pergunta.
 
@@ -102,13 +106,13 @@ das duas é a certa?
 — Aí você escolhe do mesmo jeito que sempre escolheu — disse ela. — Com
 medo de estar errado e falando assim mesmo.
 
-Bento ficou quieto um tempo comprido, olhando pro mesmo pedaço vazio de
+Bento ficou quieto, olhando pro mesmo pedaço vazio de
 convés, como se esperasse que ele voltasse a mostrar alguma coisa.
 
 — Vinte e um anos — disse ele, por fim, sem que ninguém tivesse
 perguntado nada sobre idade. — Vinte e um anos e a técnica só fez uma
-coisa a vida inteira. Hoje ela fez outra. Isso não devia me deixar mais
-com medo do que qualquer outro dia. Devia. Mas deixa.
+coisa a vida inteira. Hoje ela fez outra. Isso não devia me deixar com
+mais medo do que qualquer outro dia. Mas deixa.
 
 — Você continua sendo o único que decide o que fazer com isso — disse
 Íris. — A técnica muda. Você não.
@@ -124,17 +128,26 @@ A mulher da perna preta contava as coisas do jeito que se conta o que
 não dói mais falar, porque já doeu tanto que a dor de contar não faz
 diferença.
 
-— A gente não é do Vau Queimado — disse ela, naquela noite, quando Alice
-trouxe as duas canecas de sempre e sentou perto, tentando (e errando um
-pouco, tarde demais pra puxar o assunto certo) entrar na conversa que já
-tinha começado sem ela. — Somos de cima. Uma vila menor, sem nome que
+Naquela noite, Alice chegou com as duas canecas de sempre quando a
+conversa já tinha começado sem ela, e sentou perto.
+
+— Senta aí, Alice — disse a mulher, com a tônica no lugar errado.
+
+— Álice — corrigiu Alice, por reflexo, e ficou vermelha na mesma hora,
+de ter corrigido logo ali. — Desculpa. Pode chamar como quiser.
+
+A mulher olhou pra ela um instante, e alguma coisa no canto da boca
+quase virou riso.
+
+— Álice — repetiu, certo dessa vez. E voltou pro que estava dizendo: —
+A gente não é do Vau Queimado. Somos de cima. Uma vila menor, sem nome que
 valha a pena dizer. Vivíamos de vender pro Vau Queimado, que vivia de
 vender pra Cindra.
 
 — Então você não viu — disse Íris, com cuidado.
 
 — Não vi nada com os próprios olhos — confirmou a mulher. — Vi gente
-descendo de lá com a cara que a gente só faz uma vez na vida. Vi eles
+subindo de lá com a cara que a gente só faz uma vez na vida. Vi eles
 não conseguirem contar. Um homem tentou. Falou três palavras e parou.
 Nunca mais tentou de novo.
 
@@ -146,9 +159,9 @@ estivesse decidindo se valia a pena.
 — "Não voltou igual" — disse ela, por fim. — Só isso. E depois nada.
 Ele nem sabia dizer se falava da terra ou da gente ou dele mesmo.
 
-Alice, que tinha ficado quieta um tempo raro pra ela, disse, baixinho:
+Alice, que até ali tinha ficado quieta, disse, baixinho:
 
-— Vocês subiram por quê, então? Se nem sabiam o que era.
+— Vocês desceram por quê, então? Se nem sabiam o que era.
 
 — Porque o Vau Queimado ficou entre a gente e Cindra — disse a mulher. —
 E gente que não sabe o que aconteceu não fica esperando descobrir do
@@ -162,8 +175,8 @@ noite.
 *Ela sabe mais do que soltou*, disse a Rápida, sem nenhuma emoção
 particular, só constatando.
 
-*Ela também tem o direito de guardar*, disse a Mansa, e era raro a Mansa
-discordar da Rápida daquele jeito tão claro.
+*Ela também tem o direito de guardar*, disse a Mansa, e dessa vez a
+Rápida não insistiu.
 
 Íris não pediu mais nada. Só perguntou, baixo:
 
@@ -201,8 +214,8 @@ o desfiladeiro. Mais quieta.
 Íris não respondeu na hora. A Sala de Espera estava quieta também, mais
 quieta do que costumava ficar num fim de dia comum — a Mansa cantarolando
 baixinho, a Rápida sem nada de útil pra contar, o Frio ausente de todo, e
-a terceira presença guardando silêncio havia dois capítulos, o que já
-era, por si só, um tipo de fala.
+a terceira presença sem dizer nada desde o desfiladeiro, o que já era,
+por si só, um tipo de fala.
 
 — Eu sei — disse Íris, por fim. — Não sei explicar direito.
 
@@ -212,6 +225,10 @@ O rio seguiu escuro, e nenhum pouso apareceu naquela noite, nem vazio
 nem cheio — só água, só margem, só o motor batendo baixo.
 
 Foi já tarde, quando quase todo mundo tinha dormido, que a terceira
-presença falou, do fundo da sala, no mesmo tom de sempre:
+presença falou:
 
 *Ele não sentiu errado. Só sentiu cedo demais.*
+
+Do outro lado do convés, perto da amurada de bombordo, Bento ainda
+estava acordado, sentado de frente pro mesmo pedaço de tábua, como quem
+espera um copo que ainda não decidiu se vai cair.

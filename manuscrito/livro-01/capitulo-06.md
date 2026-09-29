@@ -2,7 +2,7 @@
 
 ## I. O Rio Estreita
 
-::cena lugar="rio-vagaroso" tensao="baixa" tempo="dois-dias-depois-porto-de-lenha"
+::cena lugar="rio-vagaroso" tensao="baixa" tempo="tres-dias-depois-porto-de-lenha"
 
 No terceiro dia depois do porto de lenha, o rio começou a fazer uma coisa
 que Nestor não gostou: ficou quieto de um jeito que não era calmaria.
@@ -10,8 +10,9 @@ que Nestor não gostou: ficou quieto de um jeito que não era calmaria.
 — Rio calado é rio pensando — disse ele, sem tirar os olhos da água. —
 Rio pensando é rio que vai fazer alguma coisa.
 
-Os catorze de bordo — os que tinham sobrado de Cindra mais os seis do
-porto de lenha, ninguém mais contava separado, era só "os catorze" agora
+Os catorze de bordo — os oito que tinham sobrado de Cindra, depois que
+o resto preferiu esperar no porto de lenha por barca descendo, mais os
+seis doentes, ninguém mais contava separado, era só "os catorze" agora
 — tinham se acomodado num tipo de rotina que Íris reconhecia de outras
 viagens: gente que dividiu perigo uma vez divide espaço mais fácil depois.
 A mulher da perna preta dormia a maior parte do dia, encostada na
@@ -67,7 +68,7 @@ A *Boa Hora* deslizou mais um pouco pela própria inércia e parou a vinte
 metros de uma coisa que, no escuro do desfiladeiro, primeiro parecia só
 mais escuridão: uma linha de troncos amarrados de margem a margem,
 tensionada com redes de carga velhas, boiando baixo, quase à flor da
-água. Não fechava a passagem — fechava a **subida**. Um barco descendo
+água. Não fechava a passagem — fechava a *subida*. Um barco descendo
 passaria por cima, rasgando alguma coisa, talvez. Um barco subindo batia
 de frente.
 
@@ -76,7 +77,7 @@ pessoa esperasse a anterior pra ter coragem.
 
 — A barca não sobe — disse uma voz de homem, da margem esquerda.
 
-Íris contou: seis daquele lado, cinco do outro, todos de pé nas pedras,
+Íris contou: seis daquele lado, seis do outro, todos de pé nas pedras,
 com o que dava pra pegar em casa depressa — foices, varas com ponta,
 um deles com uma zagaia de pesca segurada como se fosse lança. Ninguém
 tinha espingarda. Todos tinham medo — não da barca, ela percebeu; do que
@@ -86,18 +87,18 @@ vinha atrás dela.
 Nenhum querendo brigar de verdade. Tão apavorados quanto nós.*
 
 *Deixa eles com medo*, disse alguma coisa ao fundo, nova, funda — da
-mesma família de coisas grandes e bonitas e erradas: soava bonita
+mesma família dos murmúrios do porto de lenha: soava bonita
 primeiro, errada depois. *Um barco passa por cima de doze fácil. Ninguém
 morre se ninguém para.*
 
 Íris não respondeu. Nunca respondia àquelas.
 
-— A gente não vai pro Vau Queimado — disse ela, alto, pra margem. —
-Vamos até o desfiladeiro e voltamos. Tem gente doente a bordo.
+— A gente só sobe pra olhar e desce de novo — disse ela, alto, pra
+margem. — Não vai ficar ninguém lá em cima.
 
 — Ninguém sobe — repetiu o homem, sem discutir o motivo, do mesmo jeito
 que o homem da barba branca no porto de lenha tinha repetido "a barca
-desce hoje". Repetir era o que a pessoa fazia quando já tinha decidido. —
+desce hoje". —
 Vocês voltam por onde vieram.
 
 — A gente não tem carga pra descer de novo — disse Nestor, e pela
@@ -109,7 +110,7 @@ o bastante pra Íris notar —, disse, num tom completamente diferente do
 de sempre, sem nenhuma pressa nele:
 
 — Tem correnteza puxando forte por baixo da corrente de troncos. — Ela
-apontou, sem se apressar. — Se a gente parar de todo aqui, o rio vai
+apontou. — Se a gente parar de todo aqui, o rio vai
 empurrar a gente na pedra. Não dá pra ficar parado. Só dá pra atravessar
 ou recuar rápido.
 
@@ -176,12 +177,11 @@ um degrau só, o suficiente pra Íris notar que estava ali.
 
 Contou. Um. Dois. Três. A dor de sempre não veio — não tinha cabo nenhum
 puxando o pé dela dessa vez — mas ela contou do mesmo jeito, porque
-contar era o fio que atravessava tudo, com ou sem cabo.
+contar funcionava com ou sem cabo.
 
-E então, breve, do lugar mais fundo da sala, de onde quase nunca vinha
-nada:
+E então, breve, por baixo de todas as outras:
 
-*Foi assim antes. Não vai ser assim agora, se você não deixar.*
+*Da outra vez você também escolheu. E ele ficou lá embaixo.*
 
 Não era pergunta e não era ordem. Era só o Frio, de relance, sem
 pressa nenhuma, sem gritar — nunca gritava — e sem esperar resposta. Íris
@@ -244,8 +244,7 @@ inteira. — Alguém segurou o menino?
 
 — Você segurou — disse Íris.
 
-— Ah — disse Alice, e ficou olhando pra água por um tempo comprido. —
-Que bom.
+— Ah — disse Alice, e ficou olhando pra água. — Que bom.
 
 Bento vomitou pela amurada, discretamente, do jeito de quem já tinha
 prática, e depois se sentou no chão e ficou ali, tremendo, recusando o
@@ -267,7 +266,7 @@ Queimado. Quando finalmente falou, foi baixo, mais pra si mesmo do que
 pra qualquer um:
 
 — Vinte e seis anos nessa barca. Nunca vi ninguém tentar impedir gente de
-**subir**.
+*subir*.
 
 Íris ficou na proa, sozinha, o tempo que levou pro convés se aquietar de
 novo. A sala de espera esvaziava devagar, como sempre esvaziava — não de
@@ -280,9 +279,9 @@ barulho.
 Íris não respondeu a isso também. Só ficou olhando pra escuridão rio
 acima, onde o desfiladeiro se abria de novo e o Vagaroso continuava,
 mais estreito do que devia, mais quieto do que devia, subindo pra um
-lugar de onde, ao que tudo indicava, ninguém voltava igual tinha ido.
+lugar que ninguém mais descia.
 
-E foi a terceira presença, do fundo da sala, que fechou a noite pra ela,
-no mesmo tom de sempre, sem contexto nenhum, como quem comenta o tempo:
+E foi a terceira presença que fechou a noite pra ela, sem contexto
+nenhum, como quem comenta o tempo:
 
 *Eles fizeram a corrente errada. A que importa não é de tronco.*

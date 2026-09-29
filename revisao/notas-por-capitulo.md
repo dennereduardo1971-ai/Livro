@@ -235,3 +235,68 @@ textualmente, dentro da própria cena, que o humor característico dela
 sumiu nos últimos dias — resposta direta ao ponto de atenção (não
 resolvido, apenas sinalizado) deixado na revisão do Cap. 6 sobre o risco
 de ela ficar "apagada demais" virar padrão.
+
+---
+
+## Revisão conjunta — Capítulos 5, 6 e 7 (2026-09-29)
+
+**Motivo:** os três capítulos já tinham revisão individual; esta passada
+leu os três em sequência para pegar o que só aparece entre capítulos.
+Todas as correções abaixo foram aprovadas pelo autor e aplicadas.
+
+**Continuidade:**
+1. Cap. 7 — "terceira presença guardando silêncio havia dois capítulos"
+   era falso (ela fala no fim do Cap. 6) e fazia referência explícita a
+   capítulo. → "sem dizer nada desde o desfiladeiro".
+2. Cap. 7 — direção do rio invertida na cena da mulher da perna preta:
+   Alice perguntava "subiram" (o grupo dela desceu) e ela dizia ter visto
+   gente "descendo" do Vau (o povo do Vau subiu, Cap. 5). → "desceram" /
+   "subindo". `linha-do-tempo.md` ajustada.
+3. Cap. 6 — Íris contava 6 + 5 = 11 defensores; Rápida e narração dizem
+   doze. → "seis do outro".
+4. Cap. 6 — os 14 de Cindra viravam "os que sobraram + 6 doentes" sem
+   explicação. → explicitado que oito ficaram a bordo e o resto esperou
+   no porto de lenha por barca descendo (condiz com
+   `geografia-e-faccoes.md`). Grafia unificada em "catorze" (Cap. 4).
+5. Cap. 6/7 — Alice prometeu "três dias de rio" (Cap. 5) e a viagem já
+   passa disso. → Cap. 7 ganha o casco remendado subindo a meio vapor e
+   Nestor: "Era pra gente estar no Vau ontem". Tag de cena e
+   `linha-do-tempo.md` do Cap. 6 alinhadas ao texto ("terceiro dia").
+6. Cap. 6 — fala de Íris "vamos até o desfiladeiro e voltamos" dita já
+   dentro do desfiladeiro. → "A gente só sobe pra olhar e desce de novo."
+
+**Voz:**
+7. Cap. 6 — fala do Frio ("Foi assim antes. Não vai ser assim agora, se
+   você não deixar.") soava como encorajamento, fora da regra dele
+   (rendição em tom de fato consumado, via memória do primo). → *"Da
+   outra vez você também escolheu. E ele ficou lá embaixo."*
+8. Cap. 7 — Alice volta a corrigir a pronúncia (*Álice*), por reflexo e
+   com vergonha, na cena da mulher da perna preta — substitui o
+   parêntese com cara de nota de planejamento ("tentando (e errando um
+   pouco...)"); a mulher repete o nome certo, gesto pequeno de agência.
+
+**Estrutura e repetição entre capítulos:**
+9. Caps. 4–7 terminavam todos com frase da terceira presença introduzida
+   "no mesmo tom de sempre". → fórmula de introdução cortada nos Caps. 6
+   e 7; Cap. 7 ganha uma imagem final de Bento depois da frase dela.
+   Regra registrada no plano do Cap. 8 (não fechar com a presença).
+10. Frases repetidas quase literais entre capítulos cortadas ou variadas
+    no Cap. 6/7: "do lugar mais fundo da sala...", "contar era o fio que
+    atravessava tudo", "coisas grandes e bonitas e erradas", "sem tocar,
+    ele nunca gostava logo depois", "conhecia o silêncio dele", "raro...
+    pra Íris notar" (x3), "um tempo comprido"; narração que re-explicava
+    "repetir é o que a pessoa faz quando já decidiu" cortada.
+11. Eco "ninguém volta igual" aparecia 3x em dois capítulos → cortado o
+    pensamento de Íris no fim do Cap. 6 ("um lugar que ninguém mais
+    descia"); mantidos o grito da margem e o "Não voltou igual".
+
+**Prosa pontual:** fala de Bento "Devia. Mas deixa." (contraditória)
+simplificada; "era raro a Mansa discordar da Rápida" (falso — discordam
+no Cap. 5) → "dessa vez a Rápida não insistiu"; negritos **subida** /
+**subir** viraram itálico; redundância "sem se apressar" cortada.
+
+**Em aberto (para o agente de lógica do universo):** Bento diz que a
+técnica "só fez uma coisa a vida inteira" e "sempre foi assim", mas só a
+nomeou aos 19 — decidir desde quando ele tem os lampejos antes que
+algum capítulo precise disso. Plano do Cap. 8 ajustado: o medo de Nestor
+precisa ser diferente do já mostrado no Cap. 6.
