@@ -915,6 +915,18 @@ si, a recomendação é o item 6.
   acredita estar certo) e o que ele viu no Vau Queimado não pode ser
   revelado.
 
+- **Status:** **escrito** (2026-09-29) como `manuscrito/livro-01/capitulo-08.md`.
+  Validação de consistência feita antes da escrita: aprovado com ajustes
+  — (1) o lampejo de Bento é um aviso comum de ameaça física, com só um
+  eco da ambiguidade ("não saberia dizer se tinha visto a jangada virar
+  ou só o lugar onde ela ia estar"), sem virar memória; (2) o homem da
+  Junta não revela nada do que viu e mostra, por ação (a pausa de um
+  segundo, o fogo apagado depois), que não quer matar; (3) o medo de
+  Nestor é pela barca, não pela margem; (4) o capítulo não fecha com a
+  terceira presença, que não fala nele. A reserva do pano limpo (Cap. 7)
+  foi paga: a mulher da perna preta usa o pano na queimadura de Alice,
+  gesto de agência dela.
+
 ### Capítulo 9 — "O Silêncio Antes do Vau"
 - **Resumo:** rescaldo físico e emocional do Cap. 8 — corpo e ânimo
   cansados, ninguém processa em voz alta. A paisagem muda de vez: menos
@@ -941,6 +953,15 @@ si, a recomendação é o item 6.
   antecipar o que será encontrado no Vau Queimado — este capítulo é
   limiar, não revelação. A teoria de Alice não pode virar despejo de
   lore disfarçado.
+
+- **Status:** **escrito** (2026-09-29) como `manuscrito/livro-01/capitulo-09.md`.
+  Adições aprovadas: acampamento do homem da Junta com a corda-laçada
+  presa a uma árvore (ele se prendia à noite, a corda esticando sempre
+  pro lado de cima — nunca explicar); docas *arrumadas*, não saqueadas;
+  frase da terceira presença no meio da vigília, não no fim do capítulo.
+  Teoria de Alice sobre as estacas: cuidado coletivo sem dono ("é todo
+  mundo, um pouquinho") — contraponto deliberado, nunca dito, ao medo
+  coletivo que gera Manifestações.
 
 ### Capítulo 10 — Chegada ao Vau Queimado (título provisório: "A Vila Que Não Desce Barca")
 - **Resumo:** a *Boa Hora* finalmente chega ao destino declarado desde o
@@ -971,6 +992,22 @@ si, a recomendação é o item 6.
   de Bento, a natureza da terceira presença, a origem da técnica de
   Alice). O capítulo deve terminar abrindo a próxima fase da trama, não
   fechando o livro.
+
+- **Status:** **escrito** (2026-09-29) como `manuscrito/livro-01/capitulo-10.md`,
+  título "A Vila Que Não Desce Barca". **Decisão de conteúdo tomada (e
+  registrada aqui porque o plano pedia validação antes):** o Vau está
+  intacto e vazio por *partida em paz* — a vila subiu a estrada de cima
+  numa manhã, sem medo, arrumando tudo. Isso **não** responde o que
+  aconteceu: reformula a pergunta (de "do que fugiram" para "o que faz
+  uma vila subir sem medo"), e é compatível com as três hipóteses sobre
+  a anomalia de Bento — em especial a (c), sem confirmá-la. Checado
+  contra a bíblia: Manifestações nascem de medo coletivo
+  (`sistema-de-poderes.md`) — a ausência de medo no Vau **não** é
+  Manifestação registrada nem nega que seja uma de tipo novo; não
+  decidir. O mecanismo "sala cheia" não foi usado (inversão
+  deliberada: a sala *esvazia*), para não sugerir resíduo de lugar.
+  Detalhes da quietude do Vau registrados em `sistema-de-poderes.md` e
+  `glossario-tematico.md`.
 
 ### Nota — "Falar Primeiro" (direção 5, Cap. 6) permanece fora deste arco
 A direção mais arriscada já registrada acima (Íris quebrar a própria
@@ -1008,3 +1045,31 @@ mais comum desse tipo de arco: gastar o destino declarado como se fosse
 a resposta, quando na verdade ele é só a porta.
 
 - **Status:** não avaliada
+
+
+## Perguntas plantadas nos Capítulos 8–10 (2026-09-29) — não resolver cedo
+- **O que faz uma vila inteira subir o rio sem medo?** O vaqueiro:
+  "Foram em paz. Como quem volta pra casa." / "Era hora." Não explicar.
+- **Quem caiou as estacas da estrada de cima, todas de uma vez, pela
+  mesma mão?** Anunciado pela terceira presença (Cap. 9) antes de Íris
+  ver. Não confirmar se foi gente do Vau, o homem da Junta ou outra
+  coisa.
+- **O homem da Junta:** subiu a estrada, desceu dias depois correndo,
+  falando sozinho; acampou no Cotovelo e se amarrava a uma árvore à
+  noite; tenta impedir barcas de subir. Continua vivo e sem nome. Tem
+  chapéu de feltro e caderno (ver `personagens.md`).
+- **O que a quietude do Vau faz com as técnicas** (ver
+  `sistema-de-poderes.md`): Sala de Espera quieta e virada rio acima,
+  Bento sem lampejos, Alice terminando tarefas. Nunca apresentar como
+  cura.
+- **Desde quando Bento tem os lampejos?** Ele diz "a vida inteira" e
+  "sempre foi assim" (Cap. 7), mas batizou aos 19. Ainda não decidido.
+- **Próxima fase:** o contrato é "subir, olhar e descer". Íris é a única
+  acordada e inteira no Vau. Descer, acordar os outros, seguir as
+  estacas — decisão para o Cap. 11. "Falar Primeiro" (direção 5) segue
+  reservada e fica mais carregada agora que a terceira presença se
+  calou diante das estacas.
+- **Frases da terceira presença:** Cap. 8 — nenhuma; Cap. 9 — *"Lá em
+  cima, alguém pintou todas de uma vez."* (dita perto, mais perto que
+  nunca); Cap. 10 — nenhuma (silêncio diante do que a frase anunciou).
+  O padrão "uma por capítulo, no fim" foi quebrado de propósito.

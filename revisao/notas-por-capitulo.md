@@ -300,3 +300,44 @@ técnica "só fez uma coisa a vida inteira" e "sempre foi assim", mas só a
 nomeou aos 19 — decidir desde quando ele tem os lampejos antes que
 algum capítulo precise disso. Plano do Cap. 8 ajustado: o medo de Nestor
 precisa ser diferente do já mostrado no Cap. 6.
+
+---
+
+## Capítulos 8, 9 e 10 (2026-09-29) — primeira revisão
+
+**Resumo:** arco de chegada escrito de uma vez, seguindo o plano dos
+Caps. 7–10 e as notas da revisão conjunta dos Caps. 5–7. Cap. 8 é ação
+(jangada em chamas, toras, encalhe deliberado); Cap. 9 é limiar
+(acampamento com a corda, docas arrumadas, teoria das estacas); Cap. 10
+é a chegada, que reformula o mistério sem resolver (vila que subiu "em
+paz", estacas recém-caiadas, a quietude que cala as técnicas).
+
+**Checagens feitas:**
+- Nenhum termo clínico nomeado; nenhuma frase traduz poder em tema.
+- Linhas vermelhas: Íris decide sozinha nas três cenas de pressão
+  (recusa a garrucha; grita "Junta"; quebra o puxão da quietude com dor
+  e contagem). Bento avisa nos três capítulos, inclusive quando o aviso
+  é a ausência de lampejo. Alice nunca inventa a ordem do que fez. A
+  mulher da perna preta age por conta própria (pano, Cap. 8).
+- Lampejo de Bento no Cap. 8 fica como aviso comum com um eco da
+  ambiguidade, sem virar memória.
+- Terceira presença: nenhuma fala no Cap. 8, uma no meio do Cap. 9,
+  silêncio no Cap. 10. Nenhum dos três fecha com ela.
+- Romance: acúmulo sem declaração (Alice dorme no ombro; "Não adianta.
+  Você ia perceber." no lugar de uma frase mais confessional).
+- Tiques da revisão conjunta evitados ("um tempo", "raro", "no mesmo
+  tom de sempre", negrito).
+
+**Pontos de atenção para o autor decidir:**
+1. Cap. 10 retoma de propósito, quase palavra por palavra, a âncora do
+   Cap. 5 ("era dela, sem voz nenhuma dentro, e foi nisso que ela se
+   agarrou. Contou. Um. Dois. Três."). É eco deliberado no clímax — mas
+   se incomodar, variar.
+2. A pedra na bota é o gesto mais delicado do arco: registrada no
+   glossário como ancoragem por desconforto, nunca ferimento. Vigiar
+   isso em capítulos futuros.
+3. A decisão sobre o Vau (partida em paz, quietude) é a maior decisão de
+   universo tomada até aqui; ver `ideias-em-aberto.md` e
+   `sistema-de-poderes.md`. Vale uma leitura do autor antes do Cap. 11.
+4. Cap. 10 é o mais longo do livro (~2.900 palavras); a seção IV
+   (Nestor, Alice, Bento) pode perder uns parágrafos se o ritmo pesar.

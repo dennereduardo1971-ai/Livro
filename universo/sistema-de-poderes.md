@@ -170,6 +170,39 @@ se a origem da técnica está ligada a uma Manifestação que ele de fato
 viu. Preferir verbos neutros entre aviso e eco (ex.: "sentir", "ver") ao
 comentar o lampejo por fora do ponto de vista dele.
 
+## A quietude do Vau (a partir do Cap. 10) — em aberto
+
+No Vau Queimado as três técnicas se comportam de um jeito que nenhuma
+regra acima prevê. Registrado como **observação**, não como mecânica:
+nunca explicar a causa, nunca confirmar ligação com Manifestação, com a
+anomalia de Bento ou com a Folga.
+
+- **Sala de Espera:** as presenças não somem — ficam quietas, "de pedir
+  silêncio", e voltadas pro lado de cima do rio. A Rápida esquece pra
+  que serve contar; a Mansa para de cantarolar sem que Íris perceba
+  quando; o Frio fica quieto de um jeito que não é a espera paciente
+  dele; a terceira presença não se vira pra ela. É o oposto do "sala
+  cheia". Paralelo com a quietude da Casa do Cais **só na superfície**:
+  lá é descanso, aqui é puxão.
+- **O puxão é gravidade, não voz:** a quietude oferece a Íris o
+  silêncio que ela pediu a vida inteira, e o corpo dela pende pro sono
+  e pra "arrumar as coisas", do mesmo jeito que pende com o Frio — mas
+  sem voz nenhuma. A linha vermelha dela continua valendo: ninguém
+  decide por ela. Ela quebra o puxão como sempre, com dor própria e
+  contagem (a pedra na bota — ver `glossario-tematico.md`).
+- **Antes de Cair o Copo:** nenhum lampejo desde a chegada, nem falso
+  alarme. Para Bento, isso não é alívio: "se eu não tô vendo nada, eu
+  não sei se é porque não tem nada pra ver". Ele continua avisando — o
+  aviso agora é a ausência. Linha vermelha preservada.
+- **Enxame:** Alice termina tarefas do começo ao fim, uma depois da
+  outra, pela primeira vez na vida; "foi fácil, e foi quieto". Ela fica
+  com medo, não aliviada.
+- **Regra de escrita:** isto **não é cura** e nunca pode ser lido como
+  cura (ver "Existe cura ou só manejo?" acima). O horror é a calma que
+  se parece com melhora. Nenhuma técnica "desliga" fora do Vau; o efeito
+  é de lugar/proximidade, e se desfaz ou não — decidir quando a barca
+  sair de lá.
+
 ## Ideias em aberto (não canônicas)
 > O agente de ideias escreve aqui. O agente de lógica do universo só move
 > para o catálogo acima depois de validar consistência.

@@ -323,6 +323,47 @@
 - **Linha vermelha:** não vira a barca em situação que ele julga
   arriscada demais pra manobra, mesmo sob pressão — mas nunca abandona a
   tripulação nem os passageiros pra se salvar sozinho.
+- **Cap. 8–10:** encalha a própria barca de propósito para salvar a
+  gente a bordo; o medo novo dele é pela *Boa Hora* ("Aguenta, velha").
+  Carrega desde o Cotovelo a corda do homem da Junta. No Vau, para de
+  dizer ditados, decide ficar e dorme de dia — sinal da quietude do
+  lugar, não de mudança de caráter.
 - **Voz recorrente:** fala em ditados curtos e práticos de quem já viu
   todo tipo de rio ("rio calado é rio pensando"). Confere as próprias
   decisões em voz alta, mais pra si mesmo do que pra plateia.
+
+
+## O homem da Junta (sem nome)
+- **Papel na história:** agente que Vitorino mandou ao Vau Queimado nove
+  dias antes do Cap. 3. Reaparece no Cap. 8 como ameaça física (jangada
+  em chamas, paredão de toras) na Curva do Cotovelo.
+- **Poder e eixo psicológico:** nenhum poder confirmado. Funciona como
+  espelho distorcido de Bento: o aviso que ninguém ouve virando ação
+  unilateral.
+- **Descrição:** chapéu de feltro, caderno (segundo o vaqueiro do Vau);
+  caneco de estanho com a marca da Junta. Acampamento de um, cobertor
+  dobrado em quatro — ordem mesmo em colapso.
+- **O que se sabe:** subiu a estrada de cima a partir do Vau e desceu
+  dias depois correndo, falando sozinho, sem parar. No Cotovelo, se
+  amarrava pelo tornozelo a uma árvore à noite; a corda esticava sempre
+  pro lado de cima. Parou um segundo quando Íris gritou "Junta"; cortou
+  a corda das toras mesmo assim; depois apagou a própria fogueira ao ver
+  a barca viva.
+- **Linha vermelha:** não é vilão — nunca tenta matar alguém em
+  particular; quer impedir que qualquer um suba. Nunca revelar em fala
+  o que ele viu lá em cima.
+- **Nome:** Íris não sabe; não inventar até precisar.
+
+## O velho vaqueiro do Vau
+- **Papel na história:** único morador que ficou no Vau Queimado
+  (Cap. 10). Passa cinco vacas pelo vau todo dia.
+- **Poder e eixo psicológico:** nenhum.
+- **Descrição:** velho, seco, chapéu de palha desbotado, vara comprida.
+  Manca do pé direito porque mantém uma pedra pontuda do vau dentro da
+  bota — tira pra entrar na água e põe de volta. Nunca explica.
+- **Voz:** fala pouco, constata. Conheceu "a época de antes" moço e
+  sabe reconhecer medo — e diz que a partida da vila não foi medo.
+- **Contradições:** ficou "porque tinha gado pra passar" — e a mulher
+  dele foi. Não diz se tentou impedir.
+- **Linha vermelha:** nunca sobe a estrada; nunca diz que ficou por
+  coragem.
