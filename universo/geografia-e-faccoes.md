@@ -99,6 +99,21 @@
   A última barca desceu com dez pessoas a mais do que declarou e nenhuma
   disse de onde vinha. Almanaque não marcou nada no mapa. Este é o
   primeiro fio da trama principal.
+- **Estado na chegada (Cap. 10):** nada queimado (o nome é antigo, de um
+  incêndio que ninguém lembra direito). Cerca de 33 casas de pedra e
+  madeira nas duas margens (19 de um lado, 14 do outro), trapiche
+  comprido, armazém com breu e estopa. Tudo fechado e arrumado como pra
+  viagem longa. A vila subiu a pé, numa manhã, cerca de cinco semanas
+  antes da chegada, pela **estrada de cima** (margem direita, saindo do
+  vau, beirando o rio na direção da Cabeceira). Único morador: o velho
+  vaqueiro.
+- **As estacas da estrada de cima:** estacas brancas iguais às do canal
+  das Águas Paradas, fincadas dos dois lados da estrada a cada vinte
+  passos, recém-caiadas, todas pela mesma mão, subindo até onde a vista
+  alcança. Não marcam canal: marcam caminho.
+- **Regra própria (a partir do Cap. 10) — a quietude do Vau:** ver
+  `sistema-de-poderes.md`. Não é resíduo no sentido do Poço (não há
+  presenças a mais — há silêncio). Não confirmar causa.
 
 ### Sete Palhas (planalto de grãos)
 - **Descrição física:** planalto de sete aldeias de plantio, sem nomes
@@ -135,6 +150,15 @@
 - **Em aberto:** um dos defensores grita algo sobre por que ninguém pode
   subir, sem explicar — liga-se diretamente ao fio "por que o povo do Vau
   Queimado subiu o rio" (ver `linha-do-tempo.md`, Cap. 5). Não resolver.
+
+### A Curva do Cotovelo (entre o Desfiladeiro e o Vau Queimado)
+- **Descrição física:** o rio dobra quase em ângulo reto entre duas
+  pedras altas; canal fundo e estreito do lado de fora, banco de areia
+  raso do lado de dentro. No alto da pedra de dentro, um pau-ferro torto
+  e o acampamento do homem da Junta (Cap. 8–9). Um braço seco
+  desemboca ali — onde ele represou o paredão de toras.
+- **Distância:** um dia de barca a meio vapor até o Vau.
+- **Regras próprias:** nenhuma. Não é sítio de resíduo.
 
 ### Porto de lenha (saída das Águas Paradas)
 - Trapiche de tábuas, barracão sem parede, pilhas de lenha cortada e uma

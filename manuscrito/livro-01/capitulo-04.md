@@ -11,12 +11,12 @@ cinco, e que ele tinha avisado.
 Era uma barca de casco chato e caldeira pequena, do tipo que subia rio
 com paciência e descia com pressa, carregando o que Boca Grande mandava
 pra cima e o que a terra mandava pra baixo. No convés havia sacaria,
-duas cabras, quatorze passageiros, e uma cobertura de lona sob a qual
+duas cabras, catorze passageiros, e uma cobertura de lona sob a qual
 todo mundo se enfiava quando o sol resolvia o assunto por conta própria.
 Íris achou um canto perto da amurada de bombordo, encostou a mochila na
 madeira e sentou com as costas apoiadas nela, e ali ficou.
 
-Quatorze passageiros era muita gente.
+Catorze passageiros era muita gente.
 
 Ela tinha regras pra isso. Não eram regras que alguém tivesse ensinado, e
 ela nunca tinha explicado nenhuma delas em voz alta pra ninguém vivo;
@@ -24,7 +24,7 @@ tinham se formado sozinhas, ao longo dos anos, do mesmo jeito que se
 forma um caminho no mato quando muita gente passa no mesmo lugar.
 
 A primeira regra era a mais antiga e a única que ela nunca quebrava:
-não durante a comida. Tinha feito esse acordo aos quatorze anos, numa
+não durante a comida. Tinha feito esse acordo aos catorze anos, numa
 época em que comer tinha virado uma coisa difícil porque havia sempre
 alguém opinando, e desde então o prato era dela. As presenças respeitavam
 isso — ou pelo menos a Mansa e a Rápida respeitavam, o que era o mesmo
